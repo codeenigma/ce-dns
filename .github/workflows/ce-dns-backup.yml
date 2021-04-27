@@ -1,0 +1,38 @@
+name: Backup our DNS to zone files
+
+# Run this workflow at 4:30 every day
+on:
+  push:
+  schedule:
+    - cron: '30 4 * * *'
+
+jobs:
+  backup:
+    strategy:
+      matrix:
+        domains: [codeenigma.net, codeenigma.com, codeenigma.fr, codeenigma.uk, codeenigma.co.uk]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install dependencies
+        run: |
+          cd ~
+          wget https://github.com/barnybug/cli53/releases/download/0.8.18/cli53-linux-amd64
+          sudo mv cli53-linux-amd64 /usr/local/bin/cli53
+          sudo chmod +x /usr/local/bin/cli53
+          mkdir ~/.aws
+          touch ~/.aws/credentials
+          cat >> ~/.aws/credentials <<EOL
+          [default]
+          aws_access_key_id = ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws_secret_access_key = ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          EOL
+      - name: Export zone files
+        run: |
+          cd ~
+          cli53 export --full ${{ matrix.domains }} > ${{ matrix.domains }}.txt
+      - name: Publish DNS zone files as a release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: ~/**.txt
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
