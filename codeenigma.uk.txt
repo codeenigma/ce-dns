@@ -1,0 +1,14 @@
+$ORIGIN codeenigma.uk.
+codeenigma.uk.	900	IN	SOA	ns-1503.awsdns-59.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.uk.	300	IN	A	18.130.42.81
+codeenigma.uk.	300	IN	MX	10 aspmx.l.google.com.
+codeenigma.uk.	300	IN	MX	20 alt1.aspmx.l.google.com.
+codeenigma.uk.	300	IN	MX	20 alt2.aspmx.l.google.com.
+codeenigma.uk.	300	IN	MX	50 alt3.aspmx.l.google.com.
+codeenigma.uk.	300	IN	MX	50 alt4.aspmx.l.google.com.
+codeenigma.uk.	172800	IN	NS	ns-1503.awsdns-59.org.
+codeenigma.uk.	172800	IN	NS	ns-347.awsdns-43.com.
+codeenigma.uk.	172800	IN	NS	ns-2019.awsdns-60.co.uk.
+codeenigma.uk.	172800	IN	NS	ns-722.awsdns-26.net.
+codeenigma.uk.	300	IN	TXT	"google-site-verification=9HW3spTFJOADdVW2tfJue3iviCZ9uOj6EfocidunLIA"
+www.codeenigma.uk.	300	IN	CNAME	codeenigma.uk.
