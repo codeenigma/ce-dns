@@ -17,8 +17,6 @@ jobs:
         uses: actions/checkout@v2
       - name: Install dependencies
         run: |
-          git config --global user.email "sysadm@codeenigma.com"
-          git config --global user.name "Code Enigma CI"
           wget https://github.com/barnybug/cli53/releases/download/0.8.18/cli53-linux-amd64
           sudo mv cli53-linux-amd64 /usr/local/bin/cli53
           sudo chmod +x /usr/local/bin/cli53
@@ -29,7 +27,7 @@ jobs:
           aws_access_key_id = ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws_secret_access_key = ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           EOL
-      - name: Export zone files
+      - name: Export zone file
         run: |
           cli53 export --full ${{ matrix.domains }} > ${{ matrix.domains }}.txt
           git add .
@@ -40,3 +38,5 @@ jobs:
           push-branch: main
           commit-message: '$Latest backup of {{ matrix.domains }}.'
           rebase: 'true'
+          name: 'Code Enigma CI'
+          email: 'sysadm@codeenigma.com'
