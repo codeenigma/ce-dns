@@ -32,7 +32,6 @@ jobs:
           EOL
       - name: Export zone files
         run: |
-          cd ~
           cli53 export --full ${{ matrix.domains }} > ${{ matrix.domains }}.txt
           git add .
       - name: Push changes
