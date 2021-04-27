@@ -2,7 +2,6 @@ name: Backup our DNS to zone files
 
 # Run this workflow at 4:30 every day
 on:
-  push:
   schedule:
     - cron: '30 4 * * *'
 
