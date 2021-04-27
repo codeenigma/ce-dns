@@ -17,9 +17,8 @@ jobs:
         uses: actions/checkout@v2
       - name: Install dependencies
         run: |
-          pwd
-          ls -la
-          git status
+          git config --global user.email "sysadm@codeenigma.com"
+          git config --global user.name "Code Enigma CI"
           wget https://github.com/barnybug/cli53/releases/download/0.8.18/cli53-linux-amd64
           sudo mv cli53-linux-amd64 /usr/local/bin/cli53
           sudo chmod +x /usr/local/bin/cli53
