@@ -31,6 +31,7 @@ jobs:
         run: |
           cd ~
           cli53 export --full ${{ matrix.domains }} > ${{ matrix.domains }}.txt
+          git add .
       - name: Push changes
         uses: github-actions-x/commit@v2.8
         with:
