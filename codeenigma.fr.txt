@@ -1,0 +1,17 @@
+$ORIGIN codeenigma.fr.
+codeenigma.fr.	900	IN	SOA	ns-488.awsdns-61.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.fr.	300	IN	A	18.130.42.81
+codeenigma.fr.	300	IN	MX	10 aspmx.l.google.com.
+codeenigma.fr.	300	IN	MX	20 alt1.aspmx.l.google.com.
+codeenigma.fr.	300	IN	MX	20 alt2.aspmx.l.google.com.
+codeenigma.fr.	300	IN	MX	30 aspmx2.googlemail.com.
+codeenigma.fr.	300	IN	MX	30 aspmx3.googlemail.com.
+codeenigma.fr.	300	IN	MX	30 aspmx4.googlemail.com.
+codeenigma.fr.	300	IN	MX	30 aspmx5.googlemail.com.
+codeenigma.fr.	172800	IN	NS	ns-488.awsdns-61.com.
+codeenigma.fr.	172800	IN	NS	ns-1013.awsdns-62.net.
+codeenigma.fr.	172800	IN	NS	ns-2006.awsdns-58.co.uk.
+codeenigma.fr.	172800	IN	NS	ns-1058.awsdns-04.org.
+codeenigma.fr.	300	IN	TXT	"v=spf1 a mx include:_spf.google.com include:_spf.freeagent.com include:servers.mcsv.net ~all"
+codeenigma.fr.	300	IN	TXT	"google-site-verification=eSHnaIGCDI6CZhkzg70pVSGGAKCAI0NOZvZhHgofxCg"
+www.codeenigma.fr.	300	IN	CNAME	codeenigma.fr.
