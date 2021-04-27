@@ -1,0 +1,18 @@
+$ORIGIN codeenigma.co.uk.
+codeenigma.co.uk.	900	IN	SOA	ns-1695.awsdns-19.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.co.uk.	3600	IN	A	18.130.42.81
+codeenigma.co.uk.	3600	IN	MX	10 aspmx.l.google.com.
+codeenigma.co.uk.	3600	IN	MX	20 alt1.aspmx.l.google.com.
+codeenigma.co.uk.	3600	IN	MX	20 alt2.aspmx.l.google.com.
+codeenigma.co.uk.	3600	IN	MX	30 aspmx2.googlemail.com.
+codeenigma.co.uk.	3600	IN	MX	30 aspmx3.googlemail.com.
+codeenigma.co.uk.	3600	IN	MX	30 aspmx4.googlemail.com.
+codeenigma.co.uk.	3600	IN	MX	30 aspmx5.googlemail.com.
+codeenigma.co.uk.	300	IN	NS	ns-1695.awsdns-19.co.uk.
+codeenigma.co.uk.	300	IN	NS	ns-333.awsdns-41.com.
+codeenigma.co.uk.	300	IN	NS	ns-1347.awsdns-40.org.
+codeenigma.co.uk.	300	IN	NS	ns-570.awsdns-07.net.
+*.user-dashboard-dev.codeenigma.co.uk.	3600	IN	A	18.134.109.45
+new.codeenigma.co.uk.	3600	IN	CNAME	ce-www-dev-codeenigma-net-699003124.eu-west-2.elb.amazonaws.com.
+tcz44ifffnkr.codeenigma.co.uk.	3600	IN	CNAME	gv-TXWNGFCPA6R7ZF.dv.googlehosted.com.
+www.codeenigma.co.uk.	3600	IN	CNAME	codeenigma.co.uk.
