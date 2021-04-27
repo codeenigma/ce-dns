@@ -31,12 +31,14 @@ jobs:
         run: |
           cli53 export --full ${{ matrix.domains }} > ${{ matrix.domains }}.txt
           git add .
+          # Random 1-30 second sleep so commits don't trip over each other
+          sleep $[ ( $RANDOM % 30 )  + 1 ]s
       - name: Push changes
         uses: github-actions-x/commit@v2.8
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           push-branch: main
-          commit-message: '$Latest backup of {{ matrix.domains }}.'
+          commit-message: 'Latest backup of ${{ matrix.domains }}.'
           rebase: 'true'
           name: 'Code Enigma CI'
           email: 'sysadm@codeenigma.com'
