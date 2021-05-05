@@ -291,6 +291,8 @@ croydonintranet-stage.codeenigma.net.	3600	IN	A	20.191.48.231
 ctbto-master.codeenigma.net.	300	IN	CNAME	dev5.codeenigma.net.
 ctbto-preprod.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
 ctbto-stage.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
+cumbria-dev.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
+cumbria-stage.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
 cwh-app2.codeenigma.net.	3600	IN	A	35.176.175.165
 cwh-app2.int.codeenigma.net.	3600	IN	A	10.3.4.79
 cwh-master.codeenigma.net.	300	IN	CNAME	rbkc-stage5.codeenigma.net.
