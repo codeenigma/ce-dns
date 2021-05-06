@@ -650,6 +650,7 @@ nycc-utility2.codeenigma.net.	3600	IN	A	52.210.106.54
 nycc-utility2.int.codeenigma.net.	3600	IN	A	10.3.4.78
 oneyou-master.codeenigma.net.	300	IN	CNAME	rbkc-stage7.codeenigma.net.
 oneyou-stage.codeenigma.net.	300	IN	CNAME	rbkc-stage7.codeenigma.net.
+opg154707.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	opg154707-aps-asg-prod-2071314756.eu-west-1.elb.amazonaws.com.
 opg154782.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	opg154782-aps-asg-prod-1310517220.eu-west-1.elb.amazonaws.com.
 ossec.codeenigma.net.	3600	IN	A	52.56.177.224
 permaculture-stage.codeenigma.net.	300	IN	CNAME	stage4.codeenigma.net.
