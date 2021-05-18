@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -553,6 +553,7 @@ mde154581.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mde154581-aps-asg-prod-1198
 mde154623.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mde154623-aps-asg-prod-512241535.eu-west-1.elb.amazonaws.com.
 mde154717.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mde154717-aps-asg-prod-1349863506.eu-west-1.elb.amazonaws.com.
 mde154840.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mde154840-aps-asg-prod-215486569.eu-west-1.elb.amazonaws.com.
+mde155057.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mde155057-aps-asg-prod-1338325271.eu-west-1.elb.amazonaws.com.
 mencap-allmove-staging.codeenigma.net.	300	IN	CNAME	mencap-dev1.codeenigma.net.
 mencap-app1.codeenigma.net.	3600	IN	A	52.56.72.163
 mencap-app2.codeenigma.net.	3600	IN	A	3.9.202.83
