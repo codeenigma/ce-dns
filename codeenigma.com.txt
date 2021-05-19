@@ -169,8 +169,8 @@ utility1.codeenigma.com.	300	IN	A	35.176.238.60
 utility1.int.codeenigma.com.	300	IN	A	10.3.4.91
 utility2.codeenigma.com.	300	IN	A	173.255.206.98
 veep-stage.codeenigma.com.	300	IN	CNAME	stage4.codeenigma.net.
-veep.dev1.codeenigma.com.	300	IN	CNAME	dev4.codeenigma.net.
-veep.dev3.codeenigma.com.	300	IN	CNAME	dev4.codeenigma.net.
+veep.dev1.codeenigma.com.	300	IN	CNAME	stage4.codeenigma.net.
+veep.dev3.codeenigma.com.	300	IN	CNAME	stage4.codeenigma.net.
 veep.stage1.codeenigma.com.	300	IN	CNAME	stage4.codeenigma.net.
 veep.stage3.codeenigma.com.	300	IN	CNAME	stage4.codeenigma.net.
 veep.vp-app1.codeenigma.com.	300	IN	CNAME	vp-app2.codeenigma.net.
