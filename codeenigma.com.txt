@@ -64,8 +64,8 @@ blog.codeenigma.com.	300	IN	A	52.6.46.142
 cantoshsbc.codeenigma.com.	300	IN	A	46.137.118.250
 cch-master.codeenigma.com.	300	IN	CNAME	dev3.codeenigma.com.
 cch-stage.codeenigma.com.	300	IN	CNAME	stage2.codeenigma.com.
-ce-www-dev-fr.codeenigma.com.	300	IN	CNAME	cewww-dev-codeenigma-net-699003124.eu-west-2.elb.amazonaws.com.
 cewww-dev-en.codeenigma.com.	300	IN	CNAME	ce-www-dev-codeenigma-net-699003124.eu-west-2.elb.amazonaws.com.
+cewww-dev-fr.codeenigma.com.	300	IN	CNAME	ce-www-dev-codeenigma-net-699003124.eu-west-2.elb.amazonaws.com.
 chat.codeenigma.com.	300	IN	A	35.176.193.97
 chsoc-app1.codeenigma.com.	300	IN	A	34.240.220.109
 chsoc-stage1.codeenigma.com.	300	IN	A	34.240.136.246
