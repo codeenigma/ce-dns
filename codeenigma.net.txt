@@ -79,6 +79,7 @@ codeenigma.net.	300	IN	TXT	"p6m2ntcb2nbzzj8sdp2s2sy325vc7s0j"
 *.jdi-app1.codeenigma.net.	300	IN	CNAME	jdi-app1.codeenigma.net.
 *.lbc-dev1.codeenigma.net.	300	IN	CNAME	lbc-dev1.codeenigma.net.
 *.lbc-stage1.codeenigma.net.	300	IN	CNAME	lbc-stage1.codeenigma.net.
+*.lbhf-deploy1.codeenigma.net.	3600	IN	CNAME	lbhf-deploy1.codeenigma.net.
 *.ldap4-buster.codeenigma.net.	300	IN	CNAME	ldap4-buster.codeenigma.net.
 *.mantaray-dev1.codeenigma.net.	300	IN	CNAME	mantaray-dev1.codeenigma.net.
 *.mantaray-utility1.codeenigma.net.	300	IN	CNAME	mantaray-utility1.codeenigma.net.
@@ -150,7 +151,9 @@ _0eb165511eb12b3a135158e54c23dab6.user-dashboard.codeenigma.net.	300	IN	CNAME	_e
 _4eae2bac661840ddffdd3dec274c8989.strokeassociation-asg-stage.codeenigma.net.	300	IN	CNAME	_0f4898246b6168bc7fa558046304bf8e.vtqfhvjlcp.acm-validations.aws.
 _70c995df6f3cee5f1695a5581047b900.encrypted.aps-asg-prod.codeenigma.net.	300	IN	CNAME	_49c6fb73326050b72471f5675fd67a0d.zjfbrrwmzc.acm-validations.aws.
 _85a72e3750b8d59fb9fd07fd217c1d4c.strokeassociation-asg-prod.codeenigma.net.	300	IN	CNAME	_14406627c655c30ae7fc9871fff4d8dd.vtqfhvjlcp.acm-validations.aws.
+_988cfae9ee7ceb1a0f4907735191ed3b.lbhf-uat.codeenigma.net.	300	IN	CNAME	_be492b3dbd8d9aaf8c04d58fc9e93bd8.jddtvkljgg.acm-validations.aws.
 _98cd0205de9134957e6799c89f56c8c0.mystrokeguide-asg-prod.codeenigma.net.	300	IN	CNAME	_1d461c71ef73746c3795b5657767b10d.vtqfhvjlcp.acm-validations.aws.
+_9e7682f566a34c230ef9be18dca7572c.lbhf-sandbox.codeenigma.net.	300	IN	CNAME	_ad77e9c10ce478fb6a5436c07e918c76.jddtvkljgg.acm-validations.aws.
 _a1d377092299c53769bf8f8bbf6e9d1c.strokeassociation-asg-dev.codeenigma.net.	300	IN	CNAME	_7335f8cf725330b87e23ecd9abea49ab.vtqfhvjlcp.acm-validations.aws.
 _acme-challenge.rbkc-stage5.codeenigma.net.	3600	IN	TXT	"sVY41gl2gKYbNwPVUq8b5b0i4dSHR2yPvhAZI1c6cDI"
 _amazonses.asg10.dummy-asg-prod.codeenigma.net.	300	IN	TXT	"19Gmpoyi2LT0/wZ4I720rXAFDY/WTHz6yvPPRA7+/q4="
@@ -158,6 +161,9 @@ _amazonses.dummy-deploy1.codeenigma.net.	300	IN	TXT	"0K78wLghjE1C+tVvpynqZGFUrAr
 _b40aae46adc0e9ebdb38e760d7680018.unencrypted.aps-asg-prod.codeenigma.net.	300	IN	CNAME	_abce2ed20dde23a492ae3772844aa302.zjfbrrwmzc.acm-validations.aws.
 _b6e711dd1d7fc11b9813559015590cd4.mystrokeguide-asg-dev.codeenigma.net.	300	IN	CNAME	_d3fbe83a17fd974c2c95000abfccab7d.vtqfhvjlcp.acm-validations.aws.
 _bcf19fd1efc6755444f24ca70692f2f0.mystrokeguide-asg-stage.codeenigma.net.	300	IN	CNAME	_de2b8970de2792a7232ab3ad2d89a106.vtqfhvjlcp.acm-validations.aws.
+_d8b8e3dfa9cddbc217bcef164aa2bdec.lbhf-master.codeenigma.net.	300	IN	CNAME	_6f95b540eb9de0ae91a67e8ad0dc7e66.jddtvkljgg.acm-validations.aws.
+_dc0c4c99a72af782aa8803293fc0e910.lbhf-stage.codeenigma.net.	300	IN	CNAME	_9639863f430897d84bd48de288f45215.jddtvkljgg.acm-validations.aws.
+_f15871a4ca7d3a7159cf9c76efc10c85.lbhf-hotfixes.codeenigma.net.	300	IN	CNAME	_790301cfee01607a241559834fe50d0d.jddtvkljgg.acm-validations.aws.
 _fc0fd2aa31aa558dbb6e1b6f354af846.asg10.dummy-asg-prod.codeenigma.net.	300	IN	CNAME	_83e06d54ab1455b124eb7293f531dccd.wggjkglgrm.acm-validations.aws.
 _oldspf.codeenigma.net.	3600	IN	TXT	"v=spf1 a mx include:_spf.google.com ip4:162.13.63.68 ip4:162.13.63.85 ip6:2a01:7e00::f03c:91ff:feae:9e64 ip4:162.13.63.81 ip4:162.13.184.142 ip4:134.213.116.65 ip4:52.59.146.156 ip4:18.130.42.81 ip4:3.122.69.133 ip4:35.177.127.44 ip4:34.194.236.106 ~all"
 _oldspf.codeenigma.net.	3600	IN	TXT	"google-site-verification=Qggv4EERXNbvYzuHiXZZa2Xy1IQRHppBbkjvvi55O08"
@@ -523,6 +529,7 @@ lbc-stage1.int.codeenigma.net.	3600	IN	A	10.3.4.184
 lbc-uat-wp-fe.int.codeenigma.net.	3600	IN	A	10.3.4.201
 lbc-uat-www-fe.int.codeenigma.net.	3600	IN	A	10.3.4.197
 lbhf-contentstage.codeenigma.net.	300	IN	CNAME	rbkc-stage6.codeenigma.net.
+lbhf-deploy1.codeenigma.net.	3600	IN	A	52.56.82.99
 lbhf-hotfixes.codeenigma.net.	300	IN	CNAME	rbkc-stage6.codeenigma.net.
 lbhf-master.codeenigma.net.	300	IN	CNAME	rbkc-stage6.codeenigma.net.
 lbhf-sandbox.codeenigma.net.	300	IN	CNAME	rbkc-stage6.codeenigma.net.
@@ -797,9 +804,10 @@ stem-alb.codeenigma.net.	300	IN	CNAME	alb-stem-1143501849.eu-west-1.elb.amazonaw
 stem-dev-int.codeenigma.net.	300	IN	CNAME	myscience-stage-lb1.codeenigma.net.
 stem-dev.codeenigma.net.	300	IN	CNAME	alb-stem-dev-2115377758.eu-west-1.elb.amazonaws.com.
 stem-integration.codeenigma.net.	300	IN	CNAME	alb-stem-preprod-1758657295.eu-west-1.elb.amazonaws.com.
-stem-preprod.codeenigma.net.	300	IN	CNAME	myscience-stage-lb1.codeenigma.net.
+stem-preprod-int.codeenigma.net.	300	IN	CNAME	myscience-stage-lb1.codeenigma.net.
+stem-preprod.codeenigma.net.	300	IN	CNAME	alb-stem-preprod-1758657295.eu-west-1.elb.amazonaws.com.
 stem-stage-int.codeenigma.net.	300	IN	CNAME	myscience-stage-lb1.codeenigma.net.
-stem-stage.codeenigma.net.	300	IN	CNAME	myscience-stage-lb1.codeenigma.net.
+stem-stage.codeenigma.net.	300	IN	CNAME	alb-stem-dev-2115377758.eu-west-1.elb.amazonaws.com.
 stjohns-app1.codeenigma.net.	3600	IN	A	52.49.242.189
 stjohns-app1.int.codeenigma.net.	3600	IN	A	10.3.4.140
 stjohns-dev1.codeenigma.net.	3600	IN	A	52.18.211.203
