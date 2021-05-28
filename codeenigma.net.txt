@@ -530,6 +530,7 @@ lbc-uat-wp-fe.int.codeenigma.net.	3600	IN	A	10.3.4.201
 lbc-uat-www-fe.int.codeenigma.net.	3600	IN	A	10.3.4.197
 lbhf-contentstage.codeenigma.net.	300	IN	CNAME	rbkc-stage6.codeenigma.net.
 lbhf-deploy1.codeenigma.net.	3600	IN	A	52.56.82.99
+lbhf-dev.codeenigma.net.	3600	IN	CNAME	lbhf-asg-dev-codeenigma-net-1596636235.eu-west-2.elb.amazonaws.com.
 lbhf-hotfixes.codeenigma.net.	300	IN	CNAME	rbkc-stage6.codeenigma.net.
 lbhf-master.codeenigma.net.	300	IN	CNAME	rbkc-stage6.codeenigma.net.
 lbhf-sandbox.codeenigma.net.	300	IN	CNAME	rbkc-stage6.codeenigma.net.
