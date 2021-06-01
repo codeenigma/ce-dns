@@ -532,9 +532,10 @@ lbhf-contentstage.codeenigma.net.	300	IN	CNAME	rbkc-stage6.codeenigma.net.
 lbhf-deploy1.codeenigma.net.	3600	IN	A	52.56.82.99
 lbhf-dev.codeenigma.net.	3600	IN	CNAME	lbhf-asg-dev-codeenigma-net-1596636235.eu-west-2.elb.amazonaws.com.
 lbhf-hotfixes.codeenigma.net.	300	IN	CNAME	rbkc-stage6.codeenigma.net.
-lbhf-master.codeenigma.net.	300	IN	CNAME	rbkc-stage6.codeenigma.net.
+lbhf-master.codeenigma.net.	300	IN	CNAME	lbhf-asg-dev-codeenigma-net-1596636235.eu-west-2.elb.amazonaws.com.
+lbhf-prod.codeenigma.net.	3600	IN	CNAME	lbhf-asg-prod-codeenigma-net-1373015933.eu-west-2.elb.amazonaws.com.
 lbhf-sandbox.codeenigma.net.	300	IN	CNAME	rbkc-stage6.codeenigma.net.
-lbhf-stage.codeenigma.net.	300	IN	CNAME	rbkc-stage6.codeenigma.net.
+lbhf-stage.codeenigma.net.	300	IN	CNAME	lbhf-asg-dev-codeenigma-net-1596636235.eu-west-2.elb.amazonaws.com.
 lbhf-uat-templates.codeenigma.net.	300	IN	CNAME	rbkc-stage6.codeenigma.net.
 lbhf-uat.codeenigma.net.	300	IN	CNAME	rbkc-stage6.codeenigma.net.
 ldap.codeenigma.net.	3600	IN	A	35.176.106.229
