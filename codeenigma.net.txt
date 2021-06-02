@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -528,16 +528,13 @@ lbc-stage1.codeenigma.net.	3600	IN	A	40.127.240.170
 lbc-stage1.int.codeenigma.net.	3600	IN	A	10.3.4.184
 lbc-uat-wp-fe.int.codeenigma.net.	3600	IN	A	10.3.4.201
 lbc-uat-www-fe.int.codeenigma.net.	3600	IN	A	10.3.4.197
-lbhf-contentstage.codeenigma.net.	300	IN	CNAME	rbkc-stage6.codeenigma.net.
 lbhf-deploy1.codeenigma.net.	3600	IN	A	52.56.82.99
 lbhf-dev.codeenigma.net.	3600	IN	CNAME	lbhf-asg-dev-codeenigma-net-1596636235.eu-west-2.elb.amazonaws.com.
-lbhf-hotfixes.codeenigma.net.	300	IN	CNAME	rbkc-stage6.codeenigma.net.
 lbhf-master.codeenigma.net.	300	IN	CNAME	lbhf-asg-dev-codeenigma-net-1596636235.eu-west-2.elb.amazonaws.com.
 lbhf-prod.codeenigma.net.	3600	IN	CNAME	lbhf-asg-prod-codeenigma-net-1373015933.eu-west-2.elb.amazonaws.com.
 lbhf-sandbox.codeenigma.net.	300	IN	CNAME	rbkc-stage6.codeenigma.net.
 lbhf-stage.codeenigma.net.	300	IN	CNAME	lbhf-asg-dev-codeenigma-net-1596636235.eu-west-2.elb.amazonaws.com.
-lbhf-uat-templates.codeenigma.net.	300	IN	CNAME	rbkc-stage6.codeenigma.net.
-lbhf-uat.codeenigma.net.	300	IN	CNAME	rbkc-stage6.codeenigma.net.
+lbhf-uat.codeenigma.net.	300	IN	CNAME	lbhf-asg-dev-codeenigma-net-1596636235.eu-west-2.elb.amazonaws.com.
 ldap.codeenigma.net.	3600	IN	A	35.176.106.229
 ldap.int.codeenigma.net.	3600	IN	A	10.3.4.3
 ldap2.int.codeenigma.net.	3600	IN	A	10.3.4.4
