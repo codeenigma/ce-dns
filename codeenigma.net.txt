@@ -533,7 +533,7 @@ lbc-uat-www-fe.int.codeenigma.net.	3600	IN	A	10.3.4.197
 lbhf-deploy1.codeenigma.net.	3600	IN	A	52.56.82.99
 lbhf-dev.codeenigma.net.	3600	IN	CNAME	lbhf-asg-dev-codeenigma-net-1596636235.eu-west-2.elb.amazonaws.com.
 lbhf-master.codeenigma.net.	3600	IN	CNAME	d1x5aeht0858w6.cloudfront.net.
-lbhf-prod.codeenigma.net.	3600	IN	CNAME	lbhf-asg-prod-codeenigma-net-1373015933.eu-west-2.elb.amazonaws.com.
+lbhf-prod.codeenigma.net.	3600	IN	CNAME	demqdzcow9g1d.cloudfront.net.
 lbhf-sandbox.codeenigma.net.	300	IN	CNAME	rbkc-stage6.codeenigma.net.
 lbhf-stage.codeenigma.net.	3600	IN	CNAME	d1feirvxkrqt9q.cloudfront.net.
 lbhf-uat.codeenigma.net.	3600	IN	CNAME	d10qluv20r408a.cloudfront.net.
@@ -660,6 +660,7 @@ nycc-utility2.codeenigma.net.	3600	IN	A	52.210.106.54
 nycc-utility2.int.codeenigma.net.	3600	IN	A	10.3.4.78
 oneyou-master.codeenigma.net.	300	IN	CNAME	rbkc-stage7.codeenigma.net.
 oneyou-stage.codeenigma.net.	300	IN	CNAME	rbkc-stage7.codeenigma.net.
+opg153897.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	opg153897-aps-asg-prod-1030376599.eu-west-1.elb.amazonaws.com.
 opg154707.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	opg154707-aps-asg-prod-2071314756.eu-west-1.elb.amazonaws.com.
 opg154782.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	opg154782-aps-asg-prod-1310517220.eu-west-1.elb.amazonaws.com.
 ossec.codeenigma.net.	3600	IN	A	52.56.177.224
