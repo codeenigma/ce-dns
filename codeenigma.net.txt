@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -207,6 +207,7 @@ aps-jenkins1.codeenigma.net.	3600	IN	A	54.76.243.125
 aps-jenkins1.int.codeenigma.net.	3600	IN	A	10.3.4.82
 aps154751.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	aps154751-aps-asg-prod-647207085.eu-west-1.elb.amazonaws.com.
 apscore.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	apscore-aps-asgenc-prod-1442470249.eu-west-1.elb.amazonaws.com.
+apsvenue.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	apsvenue-aps-asgenc-prod-1211511707.eu-west-1.elb.amazonaws.com.
 apsvirtual.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	apsvirtual-aps-asg-prod-1038135757.eu-west-1.elb.amazonaws.com.
 asg10.dummy-asg-prod.codeenigma.net.	3600	IN	CNAME	asg10-dummy-asg-prod-2050541158.eu-west-1.elb.amazonaws.com.
 asg10.dummy-asgenc-prod.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-prod-codeenigma-net-1873904520.eu-west-1.elb.amazonaws.com.
@@ -338,7 +339,7 @@ docs.codeenigma.net.	3600	IN	A	162.13.184.142
 dummy-asg-dev.codeenigma.net.	3600	IN	CNAME	d27jwjqq3qth7i.cloudfront.net.
 dummy-asg101-prod.codeenigma.net.	3600	IN	CNAME	dummy-asg101-prod-codeenigma-net-1668751766.eu-west-1.elb.amazonaws.com.
 dummy-deploy1.codeenigma.net.	3600	IN	A	54.220.7.154
-dummy-deploy2.codeenigma.net.	3600	IN	A	54.194.48.40
+dummy-deploy2.codeenigma.net.	3600	IN	A	63.32.11.26
 ecmwf-prototype.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
 electricimp-app1.codeenigma.net.	3600	IN	A	34.233.198.35
 electricimp-app1.int.codeenigma.net.	3600	IN	A	10.3.4.119
