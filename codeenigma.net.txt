@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -54,6 +54,7 @@ codeenigma.net.	300	IN	TXT	"p6m2ntcb2nbzzj8sdp2s2sy325vc7s0j"
 *.dfe-app1.codeenigma.net.	300	IN	CNAME	dfe-app1.codeenigma.net.
 *.dummy-deploy1.codeenigma.net.	3600	IN	CNAME	dummy-deploy1.codeenigma.net.
 *.dummy-deploy2.codeenigma.net.	3600	IN	CNAME	dummy-deploy2.codeenigma.net.
+*.dummy-infra1.codeenigma.net.	3600	IN	CNAME	dummy-infra1.codeenigma.net.
 *.electricimp-stage1.codeenigma.net.	300	IN	CNAME	electricimp-stage1.codeenigma.net.
 *.enigma6.codeenigma.net.	300	IN	CNAME	enigma6.codeenigma.net.
 *.esot-app1.codeenigma.net.	300	IN	CNAME	esot-app2.codeenigma.net.
@@ -340,6 +341,7 @@ dummy-asg-dev.codeenigma.net.	3600	IN	CNAME	d27jwjqq3qth7i.cloudfront.net.
 dummy-asg101-prod.codeenigma.net.	3600	IN	CNAME	dummy-asg101-prod-codeenigma-net-1668751766.eu-west-1.elb.amazonaws.com.
 dummy-deploy1.codeenigma.net.	3600	IN	A	54.220.7.154
 dummy-deploy2.codeenigma.net.	3600	IN	A	63.32.11.26
+dummy-infra1.codeenigma.net.	3600	IN	A	54.72.154.149
 ecmwf-prototype.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
 electricimp-app1.codeenigma.net.	3600	IN	A	34.233.198.35
 electricimp-app1.int.codeenigma.net.	3600	IN	A	10.3.4.119
@@ -773,6 +775,7 @@ redmine3a.codeenigma.net.	3600	IN	A	52.59.146.156
 redmine3a.int.codeenigma.net.	3600	IN	A	10.3.4.92
 registration-ade-150826.codeenigma.net.	300	IN	CNAME	aps-app1.codeenigma.net.
 rics.codeenigma.net.	300	IN	CNAME	redactive-app3.codeenigma.net.
+roc-153626-prod.codeenigma.net.	300	IN	CNAME	alb-aps-611926477.eu-west-1.elb.amazonaws.com.
 roc-153626-stage.codeenigma.net.	3600	IN	A	3.250.116.109
 roc154859.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	roc154859-aps-asgenc-prod-1028807531.eu-west-1.elb.amazonaws.com.
 rtwc-develop-mencap.codeenigma.net.	300	IN	CNAME	mencap-dev1.codeenigma.net.
