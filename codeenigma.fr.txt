@@ -15,4 +15,6 @@ codeenigma.fr.	172800	IN	NS	ns-1058.awsdns-04.org.
 codeenigma.fr.	300	IN	TXT	"v=spf1 a mx include:_spf.google.com include:_spf.freeagent.com include:servers.mcsv.net ~all"
 codeenigma.fr.	300	IN	TXT	"google-site-verification=eSHnaIGCDI6CZhkzg70pVSGGAKCAI0NOZvZhHgofxCg"
 _3a13dd88cc76d3ae516e1feb912d4b3d.codeenigma.fr.	300	IN	CNAME	_3b90c237b264096fa48f0727188fdd68.xrchbtpdjs.acm-validations.aws.
+_634d643cad7572f4f217ac93583cd5a6.codeenigma.fr.	300	IN	CNAME	_e2a1652f02fb043ddf23badeac789a34.vjldqjsdcd.acm-validations.aws.
+_de72987839ae31edbe72469540769540.www.codeenigma.fr.	300	IN	CNAME	_5876975d6a1ca36949b56d0c02d2c87e.vjldqjsdcd.acm-validations.aws.
 www.codeenigma.fr.	300	IN	CNAME	codeenigma.fr.
