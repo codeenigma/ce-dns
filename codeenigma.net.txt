@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -796,6 +796,7 @@ smartsolutions-pentest.codeenigma.net.	300	IN	CNAME	nycc-app3.codeenigma.net.
 solr2.codeenigma.net.	3600	IN	A	52.56.184.10
 solr2.int.codeenigma.net.	3600	IN	A	10.3.4.98
 spr153692.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	spr153692-aps-asg-prod-1604376454.eu-west-1.elb.amazonaws.com.
+spr155050.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	spr155050-aps-asgenc-prod-1559678294.eu-west-1.elb.amazonaws.com.
 sshtest.codeenigma.net.	3600	IN	A	178.79.138.16
 stage1.codeenigma.net.	3600	IN	A	35.176.119.64
 stage1.int.codeenigma.net.	3600	IN	A	10.3.4.89
