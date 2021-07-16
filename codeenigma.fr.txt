@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.fr.
 codeenigma.fr.	900	IN	SOA	ns-488.awsdns-61.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
-codeenigma.fr.	300	IN	A	18.130.42.81
+codeenigma.fr.	86400	AWS	ALIAS	A ce-www-prod-codeenigma-net-669926968.eu-west-2.elb.amazonaws.com. ZHURV8PSTC4K8 false
 codeenigma.fr.	300	IN	MX	10 aspmx.l.google.com.
 codeenigma.fr.	300	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.fr.	300	IN	MX	20 alt2.aspmx.l.google.com.
