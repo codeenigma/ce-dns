@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -377,6 +377,10 @@ esot-app2.int.codeenigma.net.	3600	IN	A	10.3.4.83
 esot-master.codeenigma.net.	300	IN	CNAME	esot-app2.codeenigma.net.
 examples_d7-master.codeenigma.net.	300	IN	CNAME	dev4.codeenigma.net.
 fatcontroller.codeenigma.net.	300	IN	CNAME	controller.codeenigma.net.
+fawberttest-lb1.codeenigma.net.	60	IN	A	13.53.45.194
+fawberttest-web1.codeenigma.net.	60	IN	A	13.48.6.216
+fawberttest-web2.codeenigma.net.	60	IN	A	13.51.251.100
+fawberttest.codeenigma.net.	60	IN	A	13.53.45.194
 fci-app1.codeenigma.net.	3600	IN	A	35.176.247.226
 fci-app2.codeenigma.net.	3600	IN	A	35.176.247.226
 fci-app2.int.codeenigma.net.	3600	IN	A	10.3.4.75
