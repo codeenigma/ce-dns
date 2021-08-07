@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -42,6 +42,7 @@ codeenigma.net.	300	IN	TXT	"p6m2ntcb2nbzzj8sdp2s2sy325vc7s0j"
 *.copernicus-app2.codeenigma.net.	300	IN	CNAME	copernicus-app2.codeenigma.net.
 *.copernicus-dev1.codeenigma.net.	300	IN	CNAME	copernicus-dev2.codeenigma.net.
 *.copernicus-dev2.codeenigma.net.	300	IN	CNAME	copernicus-dev2.codeenigma.net.
+*.cumbria-deploy1.codeenigma.net.	3600	IN	CNAME	cumbria-deploy1.codeenigma.net.
 *.cwh-app1.codeenigma.net.	300	IN	CNAME	cwh-app1.codeenigma.net.
 *.dev-cluster.codeenigma.net.	300	IN	CNAME	dev-cluster.codeenigma.net.
 *.dev.codeenigma.net.	300	IN	CNAME	build.codeenigma.net.
@@ -304,7 +305,9 @@ croydonintranet-stage.codeenigma.net.	3600	IN	A	20.191.48.231
 ctbto-master.codeenigma.net.	300	IN	CNAME	dev5.codeenigma.net.
 ctbto-preprod.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
 ctbto-stage.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
+cumbria-deploy1.codeenigma.net.	3600	IN	A	18.170.123.118
 cumbria-dev.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
+cumbria-prod.codeenigma.net.	3600	IN	CNAME	cumbria-asg-prod-codeenigma-net-692882469.eu-west-2.elb.amazonaws.com.
 cumbria-stage.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
 cwh-app2.codeenigma.net.	3600	IN	A	35.176.175.165
 cwh-app2.int.codeenigma.net.	3600	IN	A	10.3.4.79
