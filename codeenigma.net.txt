@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -150,6 +150,7 @@ codeenigma.net.	300	IN	TXT	"p6m2ntcb2nbzzj8sdp2s2sy325vc7s0j"
 _001c642e7757abee71e2323b4322064a.dashboard.codeenigma.net.	300	IN	CNAME	_d100c12ea488564a53d589ca416d1175.nfyddsqlcy.acm-validations.aws.
 _03af1350c6027f05362b4f1a6f2ee607.asg10.dummy-asgenc-prod.codeenigma.net.	300	IN	CNAME	_a2006ad6874132c8db0ed7728bad576e.zjfbrrwmzc.acm-validations.aws.
 _0eb165511eb12b3a135158e54c23dab6.user-dashboard.codeenigma.net.	300	IN	CNAME	_eab4258152dc68035b4fe8acc450ffaf.nfyddsqlcy.acm-validations.aws.
+_12f366f374ce5c3d97a00f5d5c90bc10.cumbria-prod.codeenigma.net.	300	IN	CNAME	_ba8427bad1071be975de92a5e1db0b1e.cvfdyspdbk.acm-validations.aws.
 _4eae2bac661840ddffdd3dec274c8989.strokeassociation-asg-stage.codeenigma.net.	300	IN	CNAME	_0f4898246b6168bc7fa558046304bf8e.vtqfhvjlcp.acm-validations.aws.
 _70c995df6f3cee5f1695a5581047b900.encrypted.aps-asg-prod.codeenigma.net.	300	IN	CNAME	_49c6fb73326050b72471f5675fd67a0d.zjfbrrwmzc.acm-validations.aws.
 _85a72e3750b8d59fb9fd07fd217c1d4c.strokeassociation-asg-prod.codeenigma.net.	300	IN	CNAME	_14406627c655c30ae7fc9871fff4d8dd.vtqfhvjlcp.acm-validations.aws.
@@ -307,7 +308,7 @@ ctbto-preprod.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
 ctbto-stage.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
 cumbria-deploy1.codeenigma.net.	3600	IN	A	18.170.123.118
 cumbria-dev.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
-cumbria-prod.codeenigma.net.	3600	IN	CNAME	cumbria-asg-prod-codeenigma-net-692882469.eu-west-2.elb.amazonaws.com.
+cumbria-prod.codeenigma.net.	300	IN	CNAME	d2hbflm84fk36a.cloudfront.net.
 cumbria-stage.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
 cwh-app2.codeenigma.net.	3600	IN	A	35.176.175.165
 cwh-app2.int.codeenigma.net.	3600	IN	A	10.3.4.79
