@@ -308,7 +308,7 @@ ctbto-preprod.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
 ctbto-stage.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
 cumbria-deploy1.codeenigma.net.	3600	IN	A	18.170.123.118
 cumbria-dev.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
-cumbria-prod.codeenigma.net.	300	IN	CNAME	d2hbflm84fk36a.cloudfront.net.
+cumbria-prod.codeenigma.net.	3600	IN	CNAME	cumbria-asg-prod-codeenigma-net-692882469.eu-west-2.elb.amazonaws.com.
 cumbria-stage.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
 cwh-app2.codeenigma.net.	3600	IN	A	35.176.175.165
 cwh-app2.int.codeenigma.net.	3600	IN	A	10.3.4.79
