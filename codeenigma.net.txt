@@ -615,7 +615,7 @@ microserve-mailhog.codeenigma.net.	300	IN	CNAME	microserve-dev1.codeenigma.net.
 monitor1.codeenigma.net.	3600	IN	A	52.56.36.187
 monitor1.int.codeenigma.net.	3600	IN	A	10.3.4.6
 monitor2.int.codeenigma.net.	3600	IN	A	10.3.4.7
-monitor3-buster.codeenigma.net.	60	IN	A	10.3.4.232
+monitor3-buster.codeenigma.net.	60	IN	A	18.134.244.164
 monitor3.codeenigma.net.	3600	IN	A	52.56.36.187
 monitor3.int.codeenigma.net.	3600	IN	A	10.3.4.6
 myparks-master.codeenigma.net.	300	IN	CNAME	rbkc-stage5.codeenigma.net.
