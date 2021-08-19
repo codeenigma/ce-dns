@@ -697,6 +697,7 @@ publicfinanceint-prod.codeenigma.net.	300	IN	CNAME	redactive-app3.codeenigma.net
 publicfinanceint-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 puppet.codeenigma.net.	60	IN	A	18.194.56.27
 puppet.int.codeenigma.net.	3600	IN	A	10.3.4.1
+puppet2-buster.codeenigma.net.	60	IN	A	34.240.248.206
 puppet2.codeenigma.net.	3600	IN	A	34.250.90.36
 puppet3.codeenigma.net.	60	IN	A	18.194.56.27
 puppet3.int.codeenigma.net.	3600	IN	A	10.3.4.1
@@ -811,6 +812,7 @@ smartsolutions-pentest.codeenigma.net.	300	IN	CNAME	nycc-app3.codeenigma.net.
 solr2.codeenigma.net.	3600	IN	A	52.56.184.10
 solr2.int.codeenigma.net.	3600	IN	A	10.3.4.98
 spr153692.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	spr153692-aps-asg-prod-1604376454.eu-west-1.elb.amazonaws.com.
+spr154990.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	spr154990-aps-asgenc-prod-1536047254.eu-west-1.elb.amazonaws.com.
 spr155050.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	spr155050-aps-asgenc-prod-1559678294.eu-west-1.elb.amazonaws.com.
 sshtest.codeenigma.net.	3600	IN	A	178.79.138.16
 stage1.codeenigma.net.	3600	IN	A	35.176.119.64
