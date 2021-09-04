@@ -840,6 +840,7 @@ stem-preprod-int.codeenigma.net.	300	IN	CNAME	myscience-stage-lb1.codeenigma.net
 stem-preprod.codeenigma.net.	300	IN	CNAME	alb-stem-preprod-1758657295.eu-west-1.elb.amazonaws.com.
 stem-stage-int.codeenigma.net.	300	IN	CNAME	myscience-stage-lb1.codeenigma.net.
 stem-stage.codeenigma.net.	300	IN	CNAME	alb-stem-dev-2115377758.eu-west-1.elb.amazonaws.com.
+stem-symfony4-dev.codeenigma.net.	300	IN	CNAME	alb-stem-dev-2115377758.eu-west-1.elb.amazonaws.com.
 stjohns-app1.codeenigma.net.	3600	IN	A	52.49.242.189
 stjohns-app1.int.codeenigma.net.	3600	IN	A	10.3.4.140
 stjohns-dev1.codeenigma.net.	3600	IN	A	52.18.211.203
