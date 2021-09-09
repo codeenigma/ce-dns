@@ -980,3 +980,4 @@ yubi.codeenigma.net.	3600	IN	A	35.176.229.17
 yubi.int.codeenigma.net.	3600	IN	A	10.3.4.8
 yubi2.codeenigma.net.	3600	IN	A	35.176.229.17
 yubi2.int.codeenigma.net.	3600	IN	A	10.3.4.8
+zoe155074.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	zoe155074-aps-asgenc-prod-254016503.eu-west-1.elb.amazonaws.com.
