@@ -814,6 +814,7 @@ smartsolutions-pentest.codeenigma.net.	300	IN	CNAME	nycc-app3.codeenigma.net.
 solr2.codeenigma.net.	3600	IN	A	52.56.184.10
 solr2.int.codeenigma.net.	3600	IN	A	10.3.4.98
 spr153692.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	spr153692-aps-asg-prod-1604376454.eu-west-1.elb.amazonaws.com.
+spr154442.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	spr154442-aps-asgenc-prod-1341752960.eu-west-1.elb.amazonaws.com.
 spr154990.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	spr154990-aps-asgenc-prod-1536047254.eu-west-1.elb.amazonaws.com.
 spr155050.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	spr155050-aps-asgenc-prod-1559678294.eu-west-1.elb.amazonaws.com.
 sshtest.codeenigma.net.	3600	IN	A	178.79.138.16
