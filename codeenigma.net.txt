@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -168,6 +168,7 @@ _b6e711dd1d7fc11b9813559015590cd4.mystrokeguide-asg-dev.codeenigma.net.	300	IN	C
 _bcf19fd1efc6755444f24ca70692f2f0.mystrokeguide-asg-stage.codeenigma.net.	300	IN	CNAME	_de2b8970de2792a7232ab3ad2d89a106.vtqfhvjlcp.acm-validations.aws.
 _d8b8e3dfa9cddbc217bcef164aa2bdec.lbhf-master.codeenigma.net.	300	IN	CNAME	_6f95b540eb9de0ae91a67e8ad0dc7e66.jddtvkljgg.acm-validations.aws.
 _dc0c4c99a72af782aa8803293fc0e910.lbhf-stage.codeenigma.net.	300	IN	CNAME	_9639863f430897d84bd48de288f45215.jddtvkljgg.acm-validations.aws.
+_e6523026610799a605d2ecae6f0380ea.hc21154675.aps-asgenc-prod.codeenigma.net.	300	IN	CNAME	_e6213fbe5307cef9a04adb5e6b15d1e1.dxhlbxbsbv.acm-validations.aws.
 _e911d57bb19d8e5404e5ccde913d92e4.dummy-asg-dev.codeenigma.net.	300	IN	CNAME	_3fcc74070181dbcba474a44d0ff6c134.xrchbtpdjs.acm-validations.aws.
 _f15871a4ca7d3a7159cf9c76efc10c85.lbhf-hotfixes.codeenigma.net.	300	IN	CNAME	_790301cfee01607a241559834fe50d0d.jddtvkljgg.acm-validations.aws.
 _fc0fd2aa31aa558dbb6e1b6f354af846.asg10.dummy-asg-prod.codeenigma.net.	300	IN	CNAME	_83e06d54ab1455b124eb7293f531dccd.wggjkglgrm.acm-validations.aws.
