@@ -14,7 +14,7 @@ codeenigma.com.	172800	IN	NS	ns-465.awsdns-58.com.
 codeenigma.com.	172800	IN	NS	ns-1362.awsdns-42.org.
 codeenigma.com.	300	IN	TXT	"google-site-verification=ajFzu6MbygPKcZ1zZ8cwe1WMplsFHHFFxmfJdb3YmnA"
 codeenigma.com.	300	IN	TXT	"freeagent-domain-verification=KR5lQCOmmlv7C0-2ap0f"
-codeenigma.com.	300	IN	TXT	"v=spf1 a mx include:_spf.google.com include:spf.mandrillapp.com include:servers.mcsv.net ip4:18.130.42.81 ip4:3.122.69.133 ip4:35.177.127.44 ~all"
+codeenigma.com.	300	IN	TXT	"v=spf1 a mx include:_spf.google.com include:spf.mandrillapp.com include:servers.mcsv.net ip4:18.130.42.81 ip4:3.122.69.133 ip4:35.177.127.44 ip4:35.176.193.97 ~all"
 codeenigma.com.	300	IN	TXT	"google-site-verification=gvPJRjuMn1tEnIJ4EKRviMzqk6iXom-_sSenqQMbmYk"
 *.airmic-app1.codeenigma.com.	300	IN	CNAME	airmic-app1.codeenigma.com.
 *.airmic-stage1.codeenigma.com.	300	IN	CNAME	airmic-stage1.codeenigma.com.
