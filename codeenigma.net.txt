@@ -77,7 +77,7 @@ codeenigma.net.	300	IN	TXT	"p6m2ntcb2nbzzj8sdp2s2sy325vc7s0j"
 *.hlt-dev2.codeenigma.net.	300	IN	CNAME	hlt-dev2.codeenigma.net.
 *.iaea-utilities.codeenigma.net.	300	IN	CNAME	iaea-utilities.codeenigma.net.
 *.infra.codeenigma.net.	300	IN	CNAME	puppet4.codeenigma.net.
-*.infra1.codeenigma.net.	300	IN	CNAME	infra1.codeenigma.net.
+*.infra1.codeenigma.net.	3600	IN	CNAME	infra1.codeenigma.net.
 *.jdi-app1.codeenigma.net.	300	IN	CNAME	jdi-app1.codeenigma.net.
 *.lbc-dev1.codeenigma.net.	300	IN	CNAME	lbc-dev1.codeenigma.net.
 *.lbc-stage1.codeenigma.net.	300	IN	CNAME	lbc-stage1.codeenigma.net.
