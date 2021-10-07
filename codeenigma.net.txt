@@ -102,6 +102,7 @@ codeenigma.net.	300	IN	TXT	"p6m2ntcb2nbzzj8sdp2s2sy325vc7s0j"
 *.nycc-dev1.codeenigma.net.	300	IN	CNAME	nycc-dev2.codeenigma.net.
 *.nycc-dev2.codeenigma.net.	300	IN	CNAME	nycc-dev2.codeenigma.net.
 *.nycc-utility2-buster2.codeenigma.net.	300	IN	CNAME	nycc-utility2-buster2.codeenigma.net.
+*.ossec.codeenigma.net.	3600	IN	CNAME	ossec.codeenigma.net.
 *.rbkc-app1.codeenigma.net.	300	IN	CNAME	rbkc-app1.codeenigma.net.
 *.rbkc-app2.codeenigma.net.	300	IN	CNAME	rbkc-app2.codeenigma.net.
 *.rbkc-app3.codeenigma.net.	300	IN	CNAME	rbkc-app3.codeenigma.net.
@@ -252,6 +253,7 @@ biomedical-scientist-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigm
 bookworks-dev.codeenigma.net.	300	IN	CNAME	dev4.codeenigma.net.
 bookworks-stage.codeenigma.net.	300	IN	CNAME	stage4.codeenigma.net.
 bookworks.codeenigma.net.	3600	IN	A	134.213.30.81
+btk155269.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	btk155269-aps-asgenc-prod2-926796764.eu-west-1.elb.amazonaws.com.
 build.codeenigma.net.	3600	IN	A	35.177.30.142
 build.int.codeenigma.net.	3600	IN	A	10.3.4.16
 build2.codeenigma.net.	3600	IN	A	35.177.30.142
