@@ -362,7 +362,9 @@ dummy-deploy1.codeenigma.net.	3600	IN	A	54.220.7.154
 dummy-deploy2.codeenigma.net.	3600	IN	A	63.32.11.26
 dummy-infra1.codeenigma.net.	3600	IN	A	54.72.154.149
 ecmwf-deploy1.codeenigma.net.	3600	IN	A	35.177.33.234
+ecmwf-dev.codeenigma.net.	3600	IN	CNAME	d13l344v7v0zu5.cloudfront.net.
 ecmwf-prototype.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
+ecmwf-stage.codeenigma.net.	3600	IN	CNAME	dn5d0fdcvjdcx.cloudfront.net.
 electricimp-app1.codeenigma.net.	3600	IN	A	34.233.198.35
 electricimp-app1.int.codeenigma.net.	3600	IN	A	10.3.4.119
 electricimp-stage1.codeenigma.net.	3600	IN	A	34.227.216.32
