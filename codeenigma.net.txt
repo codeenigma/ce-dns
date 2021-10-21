@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -493,6 +493,7 @@ hc21154618.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	hc21154618-aps-asg-prod-91
 hc21154675.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	hc21154675-aps-asgenc-prod-914244587.eu-west-1.elb.amazonaws.com.
 hc21154876.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	hc21154876-aps-asgenc-prod-154861670.eu-west-1.elb.amazonaws.com.
 hc21154876.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	hc21154876-aps-asgenc-prod2-1068654048.eu-west-1.elb.amazonaws.com.
+hc21154876b.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	hc21154876b-aps-asgenc-prod2-1588998644.eu-west-1.elb.amazonaws.com.
 hel154549.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	hel154549-aps-asg-prod-1670487876.eu-west-1.elb.amazonaws.com.
 hel154649.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	hel154649-aps-asg-prod-665485253.eu-west-1.elb.amazonaws.com.
 hlt-app1.codeenigma.net.	3600	IN	A	34.252.75.139
