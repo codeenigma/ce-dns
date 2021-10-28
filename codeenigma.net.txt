@@ -636,6 +636,7 @@ microserve-dev1.codeenigma.net.	3600	IN	A	88.99.95.8
 microserve-dev2.codeenigma.net.	3600	IN	A	188.40.139.183
 microserve-jenkins.codeenigma.net.	300	IN	CNAME	microserve-dev1.codeenigma.net.
 microserve-mailhog.codeenigma.net.	300	IN	CNAME	microserve-dev1.codeenigma.net.
+migrantsorganise.codeenigma.net.	300	IN	A	52.16.103.221
 monitor1.codeenigma.net.	3600	IN	A	52.56.36.187
 monitor1.int.codeenigma.net.	3600	IN	A	10.3.4.6
 monitor2.int.codeenigma.net.	3600	IN	A	10.3.4.7
