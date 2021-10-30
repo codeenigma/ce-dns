@@ -83,6 +83,7 @@ codeenigma.net.	300	IN	TXT	"p6m2ntcb2nbzzj8sdp2s2sy325vc7s0j"
 *.lbc-dev1.codeenigma.net.	300	IN	CNAME	lbc-dev1.codeenigma.net.
 *.lbc-stage1.codeenigma.net.	300	IN	CNAME	lbc-stage1.codeenigma.net.
 *.lbhf-deploy1.codeenigma.net.	3600	IN	CNAME	lbhf-deploy1.codeenigma.net.
+*.ldap1.codeenigma.net.	3600	IN	CNAME	ldap1.codeenigma.net.
 *.ldap4-buster.codeenigma.net.	300	IN	CNAME	ldap4-buster.codeenigma.net.
 *.mantaray-dev1.codeenigma.net.	300	IN	CNAME	mantaray-dev1.codeenigma.net.
 *.mantaray-utility1.codeenigma.net.	300	IN	CNAME	mantaray-utility1.codeenigma.net.
@@ -579,6 +580,7 @@ lbhfd9-master.codeenigma.net.	300	IN	CNAME	lbhf-asg-dev-codeenigma-net-159663623
 lbhfd9-stage.codeenigma.net.	300	IN	CNAME	lbhf-asg-dev-codeenigma-net-1596636235.eu-west-2.elb.amazonaws.com.
 ldap.codeenigma.net.	3600	IN	A	35.176.106.229
 ldap.int.codeenigma.net.	3600	IN	A	10.3.4.3
+ldap1.codeenigma.net.	3600	IN	A	3.11.235.9
 ldap2.int.codeenigma.net.	3600	IN	A	10.3.4.4
 ldap3.int.codeenigma.net.	3600	IN	A	10.3.4.5
 ldap4-buster.codeenigma.net.	3600	IN	A	10.3.4.212
