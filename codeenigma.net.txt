@@ -57,6 +57,7 @@ codeenigma.net.	300	IN	TXT	"p6m2ntcb2nbzzj8sdp2s2sy325vc7s0j"
 *.dummy-deploy2.codeenigma.net.	3600	IN	CNAME	dummy-deploy2.codeenigma.net.
 *.dummy-infra1.codeenigma.net.	3600	IN	CNAME	dummy-infra1.codeenigma.net.
 *.ecmwf-deploy1.codeenigma.net.	3600	IN	CNAME	ecmwf-deploy1.codeenigma.net.
+*.ecmwf-solr1.codeenigma.net.	3600	IN	CNAME	ecmwf-solr1.codeenigma.net.
 *.electricimp-stage1.codeenigma.net.	300	IN	CNAME	electricimp-stage1.codeenigma.net.
 *.enigma6.codeenigma.net.	300	IN	CNAME	enigma6.codeenigma.net.
 *.esot-app1.codeenigma.net.	300	IN	CNAME	esot-app2.codeenigma.net.
@@ -365,6 +366,7 @@ dummy-infra1.codeenigma.net.	3600	IN	A	54.72.154.149
 ecmwf-deploy1.codeenigma.net.	3600	IN	A	35.177.33.234
 ecmwf-dev.codeenigma.net.	3600	IN	CNAME	d13l344v7v0zu5.cloudfront.net.
 ecmwf-prototype.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
+ecmwf-solr1.codeenigma.net.	3600	IN	A	18.170.240.243
 ecmwf-stage.codeenigma.net.	3600	IN	CNAME	dn5d0fdcvjdcx.cloudfront.net.
 electricimp-app1.codeenigma.net.	3600	IN	A	34.233.198.35
 electricimp-app1.int.codeenigma.net.	3600	IN	A	10.3.4.119
