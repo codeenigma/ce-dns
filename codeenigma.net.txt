@@ -547,6 +547,7 @@ jenkins2.codeenigma.net.	3600	IN	A	52.56.121.203
 jenkins2.int.codeenigma.net.	3600	IN	A	10.3.4.15
 johnthorogood-prod.codeenigma.net.	300	IN	CNAME	enigma3.codeenigma.net.
 ka-153745.prod.aps-dev1.codeenigma.net.	300	IN	CNAME	alb-aps-611926477.eu-west-1.elb.amazonaws.com.
+kn154965.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	kn154965-aps-asgenc-prod2-1491279849.eu-west-1.elb.amazonaws.com.
 ksm.codeenigma.net.	3600	IN	A	10.3.4.94
 ksm2.codeenigma.net.	3600	IN	A	10.3.4.94
 ksm2.int.codeenigma.net.	3600	IN	A	10.3.4.94
