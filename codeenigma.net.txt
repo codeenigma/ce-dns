@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -511,8 +511,20 @@ hlt-prototype.codeenigma.net.	300	IN	CNAME	stage4.codeenigma.net.
 how-master.codeenigma.net.	300	IN	CNAME	rbkc-stage5.codeenigma.net.
 how-prod.codeenigma.net.	300	IN	CNAME	cwh-app2.codeenigma.net.
 how-stage.codeenigma.net.	300	IN	CNAME	rbkc-stage5.codeenigma.net.
+iaea-25c1.codeenigma.net.	300	IN	A	34.243.161.6
+iaea-2f34.codeenigma.net.	300	IN	A	34.243.161.6
+iaea-42a5.codeenigma.net.	300	IN	A	34.243.161.6
+iaea-4cd3.codeenigma.net.	300	IN	A	34.243.161.6
+iaea-51ab.codeenigma.net.	300	IN	A	34.243.161.6
+iaea-5b66.codeenigma.net.	300	IN	A	34.243.161.6
+iaea-7132.codeenigma.net.	300	IN	A	34.243.161.6
+iaea-754c.codeenigma.net.	300	IN	A	34.243.161.6
+iaea-8cae.codeenigma.net.	300	IN	A	34.243.161.6
+iaea-c84e.codeenigma.net.	300	IN	A	34.243.161.6
+iaea-d8d4.codeenigma.net.	300	IN	A	34.243.161.6
 iaea-dev.codeenigma.net.	300	IN	CNAME	iaea-dev-d9-elb-874061371.eu-west-1.elb.amazonaws.com.
 iaea-develop.codeenigma.net.	300	IN	CNAME	iaea-dev-elb-167055625.eu-west-1.elb.amazonaws.com.
+iaea-f01b.codeenigma.net.	300	IN	A	34.243.161.6
 iaea-qa.codeenigma.net.	300	IN	CNAME	iaea-dev-elb-167055625.eu-west-1.elb.amazonaws.com.
 iaea-staging.codeenigma.net.	300	IN	CNAME	iaea-dev-elb-167055625.eu-west-1.elb.amazonaws.com.
 iaea-utilities.codeenigma.net.	3600	IN	A	52.211.100.79
