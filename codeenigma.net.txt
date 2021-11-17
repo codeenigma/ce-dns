@@ -15,6 +15,7 @@ codeenigma.net.	300	IN	NS	ns-615.awsdns-12.net.
 codeenigma.net.	300	IN	TXT	"v=spf1 a mx include:_spf.google.com include:_spf2.codeenigma.net include:_spf3.codeenigma.net include:_spf4.codeenigma.net ~all"
 codeenigma.net.	300	IN	TXT	"google-site-verification=Qggv4EERXNbvYzuHiXZZa2Xy1IQRHppBbkjvvi55O08"
 codeenigma.net.	300	IN	TXT	"p6m2ntcb2nbzzj8sdp2s2sy325vc7s0j"
+codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.2fa-dev.codeenigma.net.	300	IN	CNAME	2fa-dev.codeenigma.net.
 *.2fa.codeenigma.net.	300	IN	CNAME	2fa.
 *.afra-app1.codeenigma.net.	300	IN	CNAME	afra-app1.codeenigma.net.
