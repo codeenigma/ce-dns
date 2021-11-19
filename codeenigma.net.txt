@@ -17,6 +17,7 @@ codeenigma.net.	300	IN	TXT	"google-site-verification=Qggv4EERXNbvYzuHiXZZa2Xy1IQ
 codeenigma.net.	300	IN	TXT	"p6m2ntcb2nbzzj8sdp2s2sy325vc7s0j"
 codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.2fa-dev.codeenigma.net.	300	IN	CNAME	2fa-dev.codeenigma.net.
+*.2fa-dev2.codeenigma.net.	3600	IN	CNAME	2fa-dev2.codeenigma.net.
 *.2fa.codeenigma.net.	300	IN	CNAME	2fa.
 *.afra-app1.codeenigma.net.	300	IN	CNAME	afra-app1.codeenigma.net.
 *.airmic-app1.codeenigma.net.	300	IN	CNAME	airmic-app1.codeenigma.net.
@@ -32,7 +33,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.bcc-app3.codeenigma.net.	300	IN	CNAME	bcc-app3.codeenigma.net.
 *.bcc-stage1.codeenigma.net.	300	IN	CNAME	bcc-stage1.codeenigma.net.
 *.bcc-stage2.codeenigma.net.	300	IN	CNAME	bcc-stage2.codeenigma.net.
-*.ce-deploy1.codeenigma.net.	300	IN	CNAME	ce-deploy1.codeenigma.net.
+*.ce-deploy1.codeenigma.net.	3600	IN	CNAME	ce-deploy1.codeenigma.net.
 *.ce-utility-dev1.codeenigma.net.	300	IN	CNAME	ce-utility-dev1.codeenigma.net.
 *.ce-utility1.codeenigma.net.	300	IN	CNAME	ce-utility1.codeenigma.net.
 *.chsoc-app1.codeenigma.net.	300	IN	CNAME	chsoc-app2.codeenigma.net.
@@ -151,6 +152,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.wurst.codeenigma.net.	300	IN	CNAME	wurst.codeenigma.net.
 2fa-dev.codeenigma.net.	3600	IN	A	3.9.247.218
 2fa-dev.int.codeenigma.net.	3600	IN	A	10.3.4.178
+2fa-dev2.codeenigma.net.	3600	IN	A	18.133.209.171
 2fa.codeenigma.net.	3600	IN	A	35.176.69.138
 7h766g5woweab3igbb5fyuk5acrdfbbs._domainkey.asg10.dummy-asg-prod.codeenigma.net.	300	IN	CNAME	7h766g5woweab3igbb5fyuk5acrdfbbs.dkim.amazonses.com.
 _001c642e7757abee71e2323b4322064a.dashboard.codeenigma.net.	300	IN	CNAME	_d100c12ea488564a53d589ca416d1175.nfyddsqlcy.acm-validations.aws.
