@@ -152,7 +152,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.wurst.codeenigma.net.	300	IN	CNAME	wurst.codeenigma.net.
 2fa-dev.codeenigma.net.	3600	IN	A	3.9.247.218
 2fa-dev.int.codeenigma.net.	3600	IN	A	10.3.4.178
-2fa-dev2.codeenigma.net.	3600	IN	A	18.133.209.171
+2fa-dev2.codeenigma.net.	3600	IN	A	18.171.24.251
 2fa.codeenigma.net.	3600	IN	A	35.176.69.138
 7h766g5woweab3igbb5fyuk5acrdfbbs._domainkey.asg10.dummy-asg-prod.codeenigma.net.	300	IN	CNAME	7h766g5woweab3igbb5fyuk5acrdfbbs.dkim.amazonses.com.
 _001c642e7757abee71e2323b4322064a.dashboard.codeenigma.net.	300	IN	CNAME	_d100c12ea488564a53d589ca416d1175.nfyddsqlcy.acm-validations.aws.
