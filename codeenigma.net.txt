@@ -93,6 +93,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.mencap-app1.codeenigma.net.	300	IN	CNAME	mencap-app1.codeenigma.net.
 *.mencap-dev1.codeenigma.net.	300	IN	CNAME	mencap-dev1.codeenigma.net.
 *.mencap-discourse.codeenigma.net.	300	IN	CNAME	mencap-discourse.codeenigma.net.
+*.mfa-dev1.codeenigma.net.	3600	IN	CNAME	mfa-dev1.codeenigma.net.
 *.microserve-dev1.codeenigma.net.	300	IN	CNAME	microserve-dev1.codeenigma.net.
 *.monitor3-buster.codeenigma.net.	60	IN	CNAME	monitor3-buster.codeenigma.net.
 *.myscience-app1.codeenigma.net.	300	IN	CNAME	myscience-app1.codeenigma.net.
@@ -652,6 +653,7 @@ mer154512.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mer154512-aps-asg-prod-7554
 mer154596.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mer154596-aps-asg-prod-1678041667.eu-west-1.elb.amazonaws.com.
 mer155334.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	mer155334-aps-asgenc-prod-744163099.eu-west-1.elb.amazonaws.com.
 metabase.codeenigma.net.	300	IN	CNAME	metabase-alb-2102566008.us-east-1.elb.amazonaws.com.
+mfa-dev1.codeenigma.net.	3600	IN	A	3.11.113.31
 microserve-dev1.codeenigma.net.	3600	IN	A	88.99.95.8
 microserve-dev2.codeenigma.net.	3600	IN	A	188.40.139.183
 microserve-jenkins.codeenigma.net.	300	IN	CNAME	microserve-dev1.codeenigma.net.
