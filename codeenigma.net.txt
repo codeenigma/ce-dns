@@ -866,6 +866,7 @@ spr153692.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	spr153692-aps-asg-prod-1604
 spr154442.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	spr154442-aps-asgenc-prod-1341752960.eu-west-1.elb.amazonaws.com.
 spr154990.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	spr154990-aps-asgenc-prod-1536047254.eu-west-1.elb.amazonaws.com.
 spr155050.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	spr155050-aps-asgenc-prod-1559678294.eu-west-1.elb.amazonaws.com.
+spr155544.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	spr155544-aps-asgenc-prod2-331634070.eu-west-1.elb.amazonaws.com.
 sshtest.codeenigma.net.	3600	IN	A	178.79.138.16
 stage1.codeenigma.net.	3600	IN	A	35.176.119.64
 stage1.int.codeenigma.net.	3600	IN	A	10.3.4.89
