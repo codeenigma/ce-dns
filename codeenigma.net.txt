@@ -61,6 +61,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.dummy-monitor1.codeenigma.net.	3600	IN	CNAME	dummy-monitor1.codeenigma.net.
 *.dummy-test1.codeenigma.net.	3600	IN	CNAME	dummy-test1.codeenigma.net.
 *.dummy-test2.codeenigma.net.	3600	IN	CNAME	dummy-test2.codeenigma.net.
+*.dummy-vpn.codeenigma.net.	3600	IN	CNAME	dummy-vpn.codeenigma.net.
 *.ecmwf-deploy1.codeenigma.net.	3600	IN	CNAME	ecmwf-deploy1.codeenigma.net.
 *.ecmwf-solr1.codeenigma.net.	3600	IN	CNAME	ecmwf-solr1.codeenigma.net.
 *.electricimp-stage1.codeenigma.net.	300	IN	CNAME	electricimp-stage1.codeenigma.net.
@@ -373,6 +374,7 @@ dummy-infra1.codeenigma.net.	3600	IN	A	54.72.154.149
 dummy-monitor1.codeenigma.net.	3600	IN	A	52.212.96.139
 dummy-test1.codeenigma.net.	3600	IN	A	108.128.223.23
 dummy-test2.codeenigma.net.	3600	IN	A	54.217.99.250
+dummy-vpn.codeenigma.net.	3600	IN	A	52.17.108.4
 ecmwf-deploy1.codeenigma.net.	3600	IN	A	35.177.33.234
 ecmwf-dev.codeenigma.net.	3600	IN	CNAME	d13l344v7v0zu5.cloudfront.net.
 ecmwf-prototype.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
@@ -658,6 +660,7 @@ mer154434aps.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mer154434aps-aps-asg-pro
 mer154512.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mer154512-aps-asg-prod-755402885.eu-west-1.elb.amazonaws.com.
 mer154596.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mer154596-aps-asg-prod-1678041667.eu-west-1.elb.amazonaws.com.
 mer155334.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	mer155334-aps-asgenc-prod-744163099.eu-west-1.elb.amazonaws.com.
+mer155528.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer155528-aps-asgenc-prod2-230242057.eu-west-1.elb.amazonaws.com.
 metabase.codeenigma.net.	300	IN	CNAME	metabase-alb-2102566008.us-east-1.elb.amazonaws.com.
 mfa-dev1.codeenigma.net.	3600	IN	A	3.11.113.31
 microserve-dev1.codeenigma.net.	3600	IN	A	88.99.95.8
