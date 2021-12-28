@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -58,6 +58,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.dummy-deploy1.codeenigma.net.	3600	IN	CNAME	dummy-deploy1.codeenigma.net.
 *.dummy-deploy2.codeenigma.net.	3600	IN	CNAME	dummy-deploy2.codeenigma.net.
 *.dummy-infra1.codeenigma.net.	3600	IN	CNAME	dummy-infra1.codeenigma.net.
+*.dummy-ldap.codeenigma.net.	3600	IN	CNAME	dummy-ldap.codeenigma.net.
 *.dummy-monitor1.codeenigma.net.	3600	IN	CNAME	dummy-monitor1.codeenigma.net.
 *.dummy-test1.codeenigma.net.	3600	IN	CNAME	dummy-test1.codeenigma.net.
 *.dummy-test2.codeenigma.net.	3600	IN	CNAME	dummy-test2.codeenigma.net.
@@ -374,6 +375,7 @@ dummy-asg101-prod.codeenigma.net.	3600	IN	CNAME	dummy-asg101-prod-codeenigma-net
 dummy-deploy1.codeenigma.net.	3600	IN	A	54.220.7.154
 dummy-deploy2.codeenigma.net.	3600	IN	A	63.32.11.26
 dummy-infra1.codeenigma.net.	3600	IN	A	54.72.154.149
+dummy-ldap.codeenigma.net.	3600	IN	A	54.155.93.113
 dummy-monitor1.codeenigma.net.	3600	IN	A	52.212.96.139
 dummy-test1.codeenigma.net.	3600	IN	A	108.128.223.23
 dummy-test2.codeenigma.net.	3600	IN	A	54.217.99.250
