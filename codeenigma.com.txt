@@ -76,7 +76,7 @@ jenkins.codeenigma.com.	300	IN	A	52.56.121.203
 k1._domainkey.codeenigma.com.	300	IN	CNAME	dkim.mcsv.net.
 ksm.codeenigma.com.	300	IN	A	10.3.4.94
 ksm.int.codeenigma.com.	300	IN	A	10.3.4.94
-ldap-test.codeenigma.com.	300	IN	A	176.58.96.251
+ldap-test.codeenigma.com.	300	IN	CNAME	dummy-ldap.codeenigma.net.
 ldap.codeenigma.com.	300	IN	A	35.176.106.229
 ldap.int.codeenigma.com.	300	IN	A	10.3.4.3
 ldap2.codeenigma.com.	300	IN	A	95.138.171.131
