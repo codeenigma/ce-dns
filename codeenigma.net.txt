@@ -150,6 +150,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.utility4.codeenigma.net.	300	IN	CNAME	utility4.codeenigma.net.
 *.vp-app1.codeenigma.net.	300	IN	CNAME	vp-app2.codeenigma.net.
 *.vp-app2.codeenigma.net.	300	IN	CNAME	vp-app2.codeenigma.net.
+*.vpn-guest.codeenigma.net.	3600	IN	CNAME	vpn-guest.codeenigma.net.
 *.westco-app1.codeenigma.net.	300	IN	CNAME	westco-app1.codeenigma.net.
 *.wt-app1.codeenigma.net.	300	IN	CNAME	wt-app1.codeenigma.net.
 *.wt-app2.codeenigma.net.	300	IN	CNAME	wt-app2.codeenigma.net.
@@ -239,7 +240,7 @@ apsvenue.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	apsvenue-aps-asgenc-prod-
 apsvirtual.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	apsvirtual-aps-asg-prod-1038135757.eu-west-1.elb.amazonaws.com.
 apswebcast.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	apswebcast-aps-asgenc-prod-1336050010.eu-west-1.elb.amazonaws.com.
 asg10.dummy-asg-prod.codeenigma.net.	3600	IN	CNAME	asg10-dummy-asg-prod-2050541158.eu-west-1.elb.amazonaws.com.
-asg10.dummy-asgenc-prod.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-prod-codeenigma-net-1873904520.eu-west-1.elb.amazonaws.com.
+asg10.dummy-asgenc-prod.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-prod-codeenigma-net-333930559.eu-west-1.elb.amazonaws.com.
 asg11.dummy-asg-prod.codeenigma.net.	3600	IN	CNAME	asg11-dummy-asg-prod-1851548441.eu-west-1.elb.amazonaws.com.
 ash154269.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	ash154269-aps-asg-prod-132590099.eu-west-1.elb.amazonaws.com.
 aspire-dev.codeenigma.net.	300	IN	CNAME	hlt-dev2.codeenigma.net.
@@ -976,7 +977,7 @@ vp-utility1.codeenigma.net.	300	IN	A	34.194.236.106
 vp-utility1.int.codeenigma.net.	300	IN	A	10.3.4.230
 vpn-dev.codeenigma.net.	3600	IN	A	3.11.126.229
 vpn-dev.int.codeenigma.net.	3600	IN	A	10.3.4.188
-vpn-guest.codeenigma.net.	3600	IN	A	162.13.84.10
+vpn-guest.codeenigma.net.	3600	IN	A	3.8.9.162
 vpn.codeenigma.net.	3600	IN	A	3.11.82.252
 vpn.int.codeenigma.net.	3600	IN	A	10.3.4.189
 wcc-ce-master.codeenigma.net.	300	IN	CNAME	rbkc-stage5.codeenigma.net.
