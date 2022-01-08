@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.com.
-codeenigma.com.	86400	AWS	ALIAS	A ce-www-prod-codeenigma-net-669926968.eu-west-2.elb.amazonaws.com. ZHURV8PSTC4K8 false
 codeenigma.com.	900	IN	SOA	ns-513.awsdns-00.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.com.	86400	AWS	ALIAS	A ce-www-prod-codeenigma-net-669926968.eu-west-2.elb.amazonaws.com. ZHURV8PSTC4K8 false
 codeenigma.com.	300	IN	MX	10 aspmx.l.google.com.
 codeenigma.com.	300	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.com.	300	IN	MX	20 alt2.aspmx.l.google.com.
@@ -43,7 +43,6 @@ ai-stage.codeenigma.com.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 airmic-master.codeenigma.com.	300	IN	CNAME	airmic-stage1.codeenigma.com.
 airmic-stage.codeenigma.com.	300	IN	CNAME	airmic-stage1.codeenigma.com.
 app-vm.codeenigma.com.	300	IN	A	192.168.56.2
-bigpicture-prod.codeenigma.com.	300	IN	CNAME	wt-lb1.codeenigma.com.
 cewww-dev-en.codeenigma.com.	300	IN	CNAME	ce-www-dev-codeenigma-net-699003124.eu-west-2.elb.amazonaws.com.
 cewww-dev-fr.codeenigma.com.	300	IN	CNAME	ce-www-dev-codeenigma-net-699003124.eu-west-2.elb.amazonaws.com.
 chat.codeenigma.com.	300	IN	A	35.176.193.97
@@ -52,8 +51,6 @@ chsoc-stage1.codeenigma.com.	300	IN	A	34.240.136.246
 codeenigma-new-master-prototype.codeenigma.com.	300	IN	CNAME	nonssl.us-eu.fastly.net.
 codeenigma-new-stage.codeenigma.com.	300	IN	CNAME	stage2.codeenigma.com.
 codeenigma._domainkey.codeenigma.com.	300	IN	TXT	"v=DKIM1; k=rsa; t=y; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDgOr1bbC/c+OmBp1Smh/Ozi3TMuyHLKW/c0PHVn3q0KVvrN+rf7BDV1nbanymEkthQj06UCK1t8iWIRsGLVKPat0v7YdXzeE83+rmGZ4f7ieJLlFC/ClsyiUNK45I5fQDarZaM2LWpNBYImUzOUdaVSSUDBcJ5oF/T+0oP0rCUUwIDAQAB"
-collection-prod.codeenigma.com.	300	IN	A	178.79.175.231
-collection-stage.codeenigma.com.	300	IN	CNAME	wt-stage1.codeenigma.com.
 content-dev.codeenigma.com.	300	IN	CNAME	stats-dev.codeenigma.com.
 content.codeenigma.com.	300	IN	CNAME	stats.codeenigma.com.
 d7camp.codeenigma.com.	300	IN	A	174.121.79.142
