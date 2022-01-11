@@ -110,7 +110,6 @@ stage3.int.codeenigma.com.	300	IN	A	10.3.4.88
 stats-dev.codeenigma.com.	3600	IN	A	18.133.38.202
 stats.codeenigma.com.	3600	IN	A	18.133.55.196
 stats.codeenigma.com.	300	IN	TXT	"google-site-verification=gvPJRjuMn1tEnIJ4EKRviMzqk6iXom-_sSenqQMbmYk"
-support.codeenigma.com.	300	IN	A	3.122.69.133
 support.codeenigma.com.	300	IN	MX	10 mail.support.codeenigma.com.
 theplanner-master.codeenigma.com.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 theplanner-stage.codeenigma.com.	300	IN	CNAME	redactive-dev2.codeenigma.net.
