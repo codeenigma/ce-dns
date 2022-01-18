@@ -100,6 +100,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.mencap-discourse.codeenigma.net.	300	IN	CNAME	mencap-discourse.codeenigma.net.
 *.mfa-dev1.codeenigma.net.	3600	IN	CNAME	mfa-dev1.codeenigma.net.
 *.microserve-dev1.codeenigma.net.	300	IN	CNAME	microserve-dev1.codeenigma.net.
+*.monitor1.codeenigma.net.	3600	IN	CNAME	monitor1.codeenigma.net.
 *.monitor3-buster.codeenigma.net.	60	IN	CNAME	monitor3-buster.codeenigma.net.
 *.myscience-app1.codeenigma.net.	300	IN	CNAME	myscience-app1.codeenigma.net.
 *.myscience-dev1.codeenigma.net.	300	IN	CNAME	myscience-dev3.codeenigma.net.
@@ -556,6 +557,7 @@ iccrom-stage.codeenigma.net.	3600	IN	A	35.176.119.64
 igc.codeenigma.net.	3600	IN	A	52.212.173.137
 ind154309.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	ind154309-aps-asg-prod-259210375.eu-west-1.elb.amazonaws.com.
 infra1.codeenigma.net.	3600	IN	A	3.8.109.207
+int155568.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	int155568-aps-asgenc-prod2-1917861349.eu-west-1.elb.amazonaws.com.
 irc.codeenigma.net.	300	IN	CNAME	jenkins.codeenigma.net.
 jamie-dev1.codeenigma.net.	3600	IN	A	3.126.219.154
 jaz154692.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	jaz154692-aps-asg-prod-977487386.eu-west-1.elb.amazonaws.com.
@@ -677,7 +679,7 @@ microserve-dev2.codeenigma.net.	3600	IN	A	188.40.139.183
 microserve-jenkins.codeenigma.net.	300	IN	CNAME	microserve-dev1.codeenigma.net.
 microserve-mailhog.codeenigma.net.	300	IN	CNAME	microserve-dev1.codeenigma.net.
 migrantsorganise.codeenigma.net.	300	IN	A	52.16.103.221
-monitor1.codeenigma.net.	3600	IN	A	52.56.36.187
+monitor1.codeenigma.net.	3600	IN	A	18.130.51.187
 monitor1.int.codeenigma.net.	3600	IN	A	10.3.4.6
 monitor2.int.codeenigma.net.	3600	IN	A	10.3.4.7
 monitor3-buster.codeenigma.net.	60	IN	A	18.134.244.164
