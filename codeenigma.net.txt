@@ -56,7 +56,6 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.dev5.codeenigma.net.	300	IN	CNAME	dev5.codeenigma.net.
 *.dfe-app1.codeenigma.net.	300	IN	CNAME	dfe-app1.codeenigma.net.
 *.dummy-deploy1.codeenigma.net.	3600	IN	CNAME	dummy-deploy1.codeenigma.net.
-*.dummy-deploy2.codeenigma.net.	3600	IN	CNAME	dummy-deploy2.codeenigma.net.
 *.dummy-infra1.codeenigma.net.	3600	IN	CNAME	dummy-infra1.codeenigma.net.
 *.dummy-ldap.codeenigma.net.	3600	IN	CNAME	dummy-ldap.codeenigma.net.
 *.dummy-monitor1.codeenigma.net.	3600	IN	CNAME	dummy-monitor1.codeenigma.net.
@@ -163,9 +162,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 2fa-dev.int.codeenigma.net.	3600	IN	A	10.3.4.178
 2fa-dev2.codeenigma.net.	3600	IN	A	18.171.24.251
 2fa.codeenigma.net.	3600	IN	A	35.176.69.138
-7h766g5woweab3igbb5fyuk5acrdfbbs._domainkey.asg10.dummy-asg-prod.codeenigma.net.	300	IN	CNAME	7h766g5woweab3igbb5fyuk5acrdfbbs.dkim.amazonses.com.
 _001c642e7757abee71e2323b4322064a.dashboard.codeenigma.net.	300	IN	CNAME	_d100c12ea488564a53d589ca416d1175.nfyddsqlcy.acm-validations.aws.
-_03af1350c6027f05362b4f1a6f2ee607.asg10.dummy-asgenc-prod.codeenigma.net.	300	IN	CNAME	_a2006ad6874132c8db0ed7728bad576e.zjfbrrwmzc.acm-validations.aws.
 _0eb165511eb12b3a135158e54c23dab6.user-dashboard.codeenigma.net.	300	IN	CNAME	_eab4258152dc68035b4fe8acc450ffaf.nfyddsqlcy.acm-validations.aws.
 _122ccd0f182fdfadbbb9479bd600aae2.lbhfd9-stage.codeenigma.net.	300	IN	CNAME	_03473092b092b3c58f581f18f1024e57.fsdcfjjflr.acm-validations.aws.
 _12f366f374ce5c3d97a00f5d5c90bc10.cumbria-prod.codeenigma.net.	300	IN	CNAME	_ba8427bad1071be975de92a5e1db0b1e.cvfdyspdbk.acm-validations.aws.
@@ -173,8 +170,8 @@ _2d5eaf988f5bdde6df05fed69289b5a7.ecmwf-dev.codeenigma.net.	300	IN	CNAME	_8c0871
 _44fd08c9551f3bd953d132692b466886.ecmwf-prod.codeenigma.net.	300	IN	CNAME	_24ddde003436ef0829e0fc3513fa768a.bnpptgxfyj.acm-validations.aws.
 _47fff7a90c5439f1dbe9e8245c8ec377.ecmwf-master.codeenigma.net.	300	IN	CNAME	_4bcc9f4c691146696fec7142d39da31a.bnpptgxfyj.acm-validations.aws.
 _4eae2bac661840ddffdd3dec274c8989.strokeassociation-asg-stage.codeenigma.net.	300	IN	CNAME	_0f4898246b6168bc7fa558046304bf8e.vtqfhvjlcp.acm-validations.aws.
-_5a8db51c7fa3848936174afd2ada7c93.asg10.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	_47348a98a2fb50c32b143222bead14a5.cnsgthfrdk.acm-validations.aws.
 _70c995df6f3cee5f1695a5581047b900.encrypted.aps-asg-prod.codeenigma.net.	300	IN	CNAME	_49c6fb73326050b72471f5675fd67a0d.zjfbrrwmzc.acm-validations.aws.
+_8007ea75b9f5ac67173d1915c20384ec.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	_b5a12879f4695c48eb7852dbeabc85b4.pczglchxlc.acm-validations.aws.
 _85a72e3750b8d59fb9fd07fd217c1d4c.strokeassociation-asg-prod.codeenigma.net.	300	IN	CNAME	_14406627c655c30ae7fc9871fff4d8dd.vtqfhvjlcp.acm-validations.aws.
 _988cfae9ee7ceb1a0f4907735191ed3b.lbhf-uat.codeenigma.net.	300	IN	CNAME	_be492b3dbd8d9aaf8c04d58fc9e93bd8.jddtvkljgg.acm-validations.aws.
 _98cd0205de9134957e6799c89f56c8c0.mystrokeguide-asg-prod.codeenigma.net.	300	IN	CNAME	_1d461c71ef73746c3795b5657767b10d.vtqfhvjlcp.acm-validations.aws.
@@ -183,7 +180,6 @@ _a1d377092299c53769bf8f8bbf6e9d1c.strokeassociation-asg-dev.codeenigma.net.	300	
 _a355e9c6842026c25c768d4c48ae5df0.ldap1.codeenigma.net.	300	IN	CNAME	_b548b49366552a1c3b7dd67bca3f48e3.gjjrqxwdmz.acm-validations.aws.
 _acme-challenge.rbkc-stage5.codeenigma.net.	3600	IN	TXT	"sVY41gl2gKYbNwPVUq8b5b0i4dSHR2yPvhAZI1c6cDI"
 _ae894c8a25b6c68c2e946d4aee795c51.lbhf-prod.codeenigma.net.	300	IN	CNAME	_41e8a472092db88e1a918e9ffef13623.xrchbtpdjs.acm-validations.aws.
-_amazonses.asg10.dummy-asg-prod.codeenigma.net.	300	IN	TXT	"19Gmpoyi2LT0/wZ4I720rXAFDY/WTHz6yvPPRA7+/q4="
 _amazonses.dummy-deploy1.codeenigma.net.	300	IN	TXT	"0K78wLghjE1C+tVvpynqZGFUrAr69uJByqtf2A6vAK0="
 _b40aae46adc0e9ebdb38e760d7680018.unencrypted.aps-asg-prod.codeenigma.net.	300	IN	CNAME	_abce2ed20dde23a492ae3772844aa302.zjfbrrwmzc.acm-validations.aws.
 _b6e711dd1d7fc11b9813559015590cd4.mystrokeguide-asg-dev.codeenigma.net.	300	IN	CNAME	_d3fbe83a17fd974c2c95000abfccab7d.vtqfhvjlcp.acm-validations.aws.
@@ -193,10 +189,8 @@ _d869d73abb7d036c77cb30f576da1a86.lbhfd9-master.codeenigma.net.	300	IN	CNAME	_d0
 _d8b8e3dfa9cddbc217bcef164aa2bdec.lbhf-master.codeenigma.net.	300	IN	CNAME	_6f95b540eb9de0ae91a67e8ad0dc7e66.jddtvkljgg.acm-validations.aws.
 _dc0c4c99a72af782aa8803293fc0e910.lbhf-stage.codeenigma.net.	300	IN	CNAME	_9639863f430897d84bd48de288f45215.jddtvkljgg.acm-validations.aws.
 _e6523026610799a605d2ecae6f0380ea.hc21154675.aps-asgenc-prod.codeenigma.net.	300	IN	CNAME	_e6213fbe5307cef9a04adb5e6b15d1e1.dxhlbxbsbv.acm-validations.aws.
-_e911d57bb19d8e5404e5ccde913d92e4.dummy-asg-dev.codeenigma.net.	300	IN	CNAME	_3fcc74070181dbcba474a44d0ff6c134.xrchbtpdjs.acm-validations.aws.
 _f15871a4ca7d3a7159cf9c76efc10c85.lbhf-hotfixes.codeenigma.net.	300	IN	CNAME	_790301cfee01607a241559834fe50d0d.jddtvkljgg.acm-validations.aws.
 _f4283202dcc802f352e572be4e99980c.vpn-dummy.codeenigma.net.	3600	IN	CNAME	_097d10477268b0b96bcf1aeed56a37e3.gjjrqxwdmz.acm-validations.aws.
-_fc0fd2aa31aa558dbb6e1b6f354af846.asg10.dummy-asg-prod.codeenigma.net.	300	IN	CNAME	_83e06d54ab1455b124eb7293f531dccd.wggjkglgrm.acm-validations.aws.
 _oldspf.codeenigma.net.	3600	IN	TXT	"v=spf1 a mx include:_spf.google.com ip4:162.13.63.68 ip4:162.13.63.85 ip6:2a01:7e00::f03c:91ff:feae:9e64 ip4:162.13.63.81 ip4:162.13.184.142 ip4:134.213.116.65 ip4:52.59.146.156 ip4:18.130.42.81 ip4:3.122.69.133 ip4:35.177.127.44 ip4:34.194.236.106 ~all"
 _oldspf.codeenigma.net.	3600	IN	TXT	"google-site-verification=Qggv4EERXNbvYzuHiXZZa2Xy1IQRHppBbkjvvi55O08"
 _oldspf.codeenigma.net.	3600	IN	TXT	"p6m2ntcb2nbzzj8sdp2s2sy325vc7s0j"
@@ -242,10 +236,6 @@ apsexpress.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	apsexpress-aps-asgenc-p
 apsvenue.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	apsvenue-aps-asgenc-prod-1211511707.eu-west-1.elb.amazonaws.com.
 apsvirtual.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	apsvirtual-aps-asg-prod-1038135757.eu-west-1.elb.amazonaws.com.
 apswebcast.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	apswebcast-aps-asgenc-prod-1336050010.eu-west-1.elb.amazonaws.com.
-asg10.dummy-asg-prod.codeenigma.net.	3600	IN	CNAME	asg10-dummy-asg-prod-2050541158.eu-west-1.elb.amazonaws.com.
-asg10.dummy-asgenc-dev.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1250625352.eu-west-1.elb.amazonaws.com.
-asg10.dummy-asgenc-prod.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-prod-codeenigma-net-333930559.eu-west-1.elb.amazonaws.com.
-asg11.dummy-asg-prod.codeenigma.net.	3600	IN	CNAME	asg11-dummy-asg-prod-1851548441.eu-west-1.elb.amazonaws.com.
 ash154269.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	ash154269-aps-asg-prod-132590099.eu-west-1.elb.amazonaws.com.
 aspire-dev.codeenigma.net.	300	IN	CNAME	hlt-dev2.codeenigma.net.
 aspire-prod.codeenigma.net.	300	IN	CNAME	hlt-app1.codeenigma.net.
@@ -346,7 +336,6 @@ cwh-app2.int.codeenigma.net.	3600	IN	A	10.3.4.79
 cwh-master.codeenigma.net.	300	IN	CNAME	rbkc-stage5.codeenigma.net.
 cwh-stage.codeenigma.net.	300	IN	CNAME	rbkc-stage5.codeenigma.net.
 cwh.codeenigma.net.	300	IN	CNAME	cwh-app2.codeenigma.net.
-cwrrwll2ohy2yddgkcglqglwupz3qt56._domainkey.asg10.dummy-asg-prod.codeenigma.net.	300	IN	CNAME	cwrrwll2ohy2yddgkcglqglwupz3qt56.dkim.amazonses.com.
 d8822afb0a16c9d097e8c8ca3b6c0590.codeenigma.net.	300	IN	CNAME	_66924c9675df3f105ba68cce29c8d194.acm-validations.aws.
 dashboard-dev.codeenigma.net.	300	IN	CNAME	ce-www-dev-codeenigma-net-699003124.eu-west-2.elb.amazonaws.com.
 dashboard-legacy-dev.codeenigma.net.	300	IN	CNAME	utility3.int.codeenigma.net.
@@ -374,11 +363,8 @@ docapi-master.codeenigma.net.	300	IN	CNAME	electricimp-stage1.codeenigma.net.
 docapi-prod.codeenigma.net.	300	IN	CNAME	electricimp-app1.codeenigma.net.
 docapi-stage.codeenigma.net.	300	IN	CNAME	electricimp-stage1.codeenigma.net.
 docs.codeenigma.net.	3600	IN	A	162.13.184.142
-dummy-asg-dev.codeenigma.net.	3600	IN	CNAME	d27jwjqq3qth7i.cloudfront.net.
-dummy-asg-dev2.codeenigma.net.	3600	IN	CNAME	dummy-asg-dev2-codeenigma-net-1930629724.eu-west-1.elb.amazonaws.com.
-dummy-asg101-prod.codeenigma.net.	3600	IN	CNAME	dummy-asg101-prod-codeenigma-net-1668751766.eu-west-1.elb.amazonaws.com.
+dummy-asgenc-dev.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1250625352.eu-west-1.elb.amazonaws.com.
 dummy-deploy1.codeenigma.net.	3600	IN	A	54.220.7.154
-dummy-deploy2.codeenigma.net.	3600	IN	A	63.32.11.26
 dummy-infra1.codeenigma.net.	3600	IN	A	54.72.154.149
 dummy-ldap.codeenigma.net.	3600	IN	A	54.155.93.113
 dummy-monitor1.codeenigma.net.	3600	IN	A	52.212.96.139
@@ -926,7 +912,6 @@ strokeassociation-solr1.codeenigma.net.	3600	IN	A	3.8.75.154
 support.codeenigma.net.	3600	IN	MX	10 mail.support.codeenigma.com.
 swift-app1.codeenigma.net.	3600	IN	A	136.243.23.2
 swift-jenkins.codeenigma.net.	300	IN	CNAME	swift-app1.codeenigma.net.
-t7qoc2tzolksiddykqnra267hcl2tejc._domainkey.asg10.dummy-asg-prod.codeenigma.net.	300	IN	CNAME	t7qoc2tzolksiddykqnra267hcl2tejc.dkim.amazonses.com.
 theplanner-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 theplanner-prod.codeenigma.net.	300	IN	CNAME	redactive-app3.codeenigma.net.
 theplanner-stage-new-auth.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
