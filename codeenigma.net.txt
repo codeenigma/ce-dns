@@ -73,7 +73,6 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.fci-app3.codeenigma.net.	300	IN	CNAME	fci-app3.codeenigma.net.
 *.fci-dev1.codeenigma.net.	300	IN	CNAME	fci-dev1.codeenigma.net.
 *.fci-dev2.codeenigma.net.	300	IN	CNAME	fci-dev2.codeenigma.net.
-*.focusrite-utility1.codeenigma.net.	300	IN	CNAME	focusrite-utility1.codeenigma.net.
 *.govwales-dev1.codeenigma.net.	300	IN	CNAME	govwales-dev1.codeenigma.net.
 *.govwales-dev2.codeenigma.net.	300	IN	CNAME	govwales-dev2.codeenigma.net.
 *.govwales-ldn-dev2.codeenigma.net.	300	IN	CNAME	govwales-ldn-dev2.codeenigma.net.
@@ -426,8 +425,6 @@ fk154320.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	fk154320-aps-asg-prod-168083
 fk154321.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	fk154321-aps-asg-prod-740258052.eu-west-1.elb.amazonaws.com.
 fmworld-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 fmworld-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
-focusrite-utility1.codeenigma.net.	3600	IN	A	52.213.102.73
-focusrite-utility1.int.codeenigma.net.	3600	IN	A	10.3.4.125
 freseniuskabi-covid19.codeenigma.net.	300	IN	CNAME	aps-prod-elb-909187264.eu-west-1.elb.amazonaws.com.
 gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz._domainkey.dummy-deploy1.codeenigma.net.	300	IN	CNAME	gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz.dkim.amazonses.com.
 git.codeenigma.net.	3600	IN	A	35.176.193.97
