@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -73,6 +73,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.fci-app3.codeenigma.net.	300	IN	CNAME	fci-app3.codeenigma.net.
 *.fci-dev1.codeenigma.net.	300	IN	CNAME	fci-dev1.codeenigma.net.
 *.fci-dev2.codeenigma.net.	300	IN	CNAME	fci-dev2.codeenigma.net.
+*.govwales-deploy1.codeenigma.net.	3600	IN	CNAME	govwales-deploy1.codeenigma.net.
 *.govwales-dev1.codeenigma.net.	300	IN	CNAME	govwales-dev1.codeenigma.net.
 *.govwales-dev2.codeenigma.net.	300	IN	CNAME	govwales-dev2.codeenigma.net.
 *.govwales-ldn-dev2.codeenigma.net.	300	IN	CNAME	govwales-ldn-dev2.codeenigma.net.
@@ -452,6 +453,7 @@ govwales-cssiw-dev.codeenigma.net.	300	IN	CNAME	govwales-dev1.codeenigma.net.
 govwales-cssiw-fb.codeenigma.net.	300	IN	CNAME	govwales-dev1.codeenigma.net.
 govwales-cssiw-stage-cy.codeenigma.net.	300	IN	CNAME	govwales-dev1.codeenigma.net.
 govwales-cssiw-stage.codeenigma.net.	300	IN	CNAME	govwales-dev1.codeenigma.net.
+govwales-deploy1.codeenigma.net.	3600	IN	A	3.11.223.96
 govwales-dev1.codeenigma.net.	3600	IN	A	54.77.97.190
 govwales-dev2.codeenigma.net.	3600	IN	A	54.77.97.190
 govwales-dev2.int.codeenigma.net.	3600	IN	A	10.3.4.29
