@@ -74,6 +74,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.fci-deploy1.codeenigma.net.	3600	IN	CNAME	fci-deploy1.codeenigma.net.
 *.fci-dev1.codeenigma.net.	300	IN	CNAME	fci-dev1.codeenigma.net.
 *.fci-dev2.codeenigma.net.	300	IN	CNAME	fci-dev2.codeenigma.net.
+*.govwales-app7.codeenigma.net.	3600	IN	CNAME	govwales-app7.codeenigma.net.
 *.govwales-deploy1.codeenigma.net.	3600	IN	CNAME	govwales-deploy1.codeenigma.net.
 *.govwales-dev1.codeenigma.net.	300	IN	CNAME	govwales-dev1.codeenigma.net.
 *.govwales-dev2.codeenigma.net.	300	IN	CNAME	govwales-dev2.codeenigma.net.
@@ -446,6 +447,7 @@ govwales-app5.codeenigma.net.	3600	IN	A	18.200.211.20
 govwales-app5.int.codeenigma.net.	3600	IN	A	10.3.4.176
 govwales-app6.codeenigma.net.	3600	IN	A	63.32.16.31
 govwales-app6.int.codeenigma.net.	3600	IN	A	10.3.4.204
+govwales-app7.codeenigma.net.	3600	IN	A	18.134.183.188
 govwales-bak1.codeenigma.net.	3600	IN	A	10.3.4.144
 govwales-consultations-dev.codeenigma.net.	300	IN	CNAME	govwales-dev1.codeenigma.net.
 govwales-consultations-stage.codeenigma.net.	300	IN	CNAME	govwales-dev1.codeenigma.net.
@@ -622,6 +624,7 @@ mantaray-utility1.codeenigma.net.	3600	IN	A	99.80.189.91
 mantaray-utility1.int.codeenigma.net.	3600	IN	A	10.3.4.166
 mc.codeenigma.net.	300	IN	CNAME	jamie-dev1.codeenigma.net.
 mcn154482.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mcn154482-aps-asg-prod-2085781376.eu-west-1.elb.amazonaws.com.
+mde154581.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mde154581-aps-asg-prod-1288529114.eu-west-1.elb.amazonaws.com.
 mde154623.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mde154623-aps-asg-prod-512241535.eu-west-1.elb.amazonaws.com.
 mde154717.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mde154717-aps-asg-prod-1349863506.eu-west-1.elb.amazonaws.com.
 mde154840.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mde154840-aps-asg-prod-215486569.eu-west-1.elb.amazonaws.com.
