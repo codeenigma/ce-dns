@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -61,6 +61,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.dummy-monitor1.codeenigma.net.	3600	IN	CNAME	dummy-monitor1.codeenigma.net.
 *.dummy-test1.codeenigma.net.	3600	IN	CNAME	dummy-test1.codeenigma.net.
 *.dummy-test2.codeenigma.net.	3600	IN	CNAME	dummy-test2.codeenigma.net.
+*.dummy-test3.codeenigma.net.	3600	IN	CNAME	dummy-test3.codeenigma.net.
 *.dummy-vpn.codeenigma.net.	3600	IN	CNAME	dummy-vpn.codeenigma.net.
 *.ecmwf-deploy1.codeenigma.net.	3600	IN	CNAME	ecmwf-deploy1.codeenigma.net.
 *.ecmwf-solr1.codeenigma.net.	3600	IN	CNAME	ecmwf-solr1.codeenigma.net.
@@ -74,6 +75,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.fci-deploy1.codeenigma.net.	3600	IN	CNAME	fci-deploy1.codeenigma.net.
 *.fci-dev1.codeenigma.net.	300	IN	CNAME	fci-dev1.codeenigma.net.
 *.fci-dev2.codeenigma.net.	300	IN	CNAME	fci-dev2.codeenigma.net.
+*.fci-dev3.codeenigma.net.	3600	IN	CNAME	fci-dev3.codeenigma.net.
 *.govwales-app7.codeenigma.net.	3600	IN	CNAME	govwales-app7.codeenigma.net.
 *.govwales-deploy1.codeenigma.net.	3600	IN	CNAME	govwales-deploy1.codeenigma.net.
 *.govwales-dev1.codeenigma.net.	300	IN	CNAME	govwales-dev1.codeenigma.net.
@@ -373,6 +375,7 @@ dummy-ldap.codeenigma.net.	3600	IN	A	54.155.93.113
 dummy-monitor1.codeenigma.net.	3600	IN	A	52.212.96.139
 dummy-test1.codeenigma.net.	3600	IN	A	108.128.223.23
 dummy-test2.codeenigma.net.	3600	IN	A	54.217.99.250
+dummy-test3.codeenigma.net.	3600	IN	A	34.253.245.134
 dummy-vpn.codeenigma.net.	3600	IN	A	52.17.108.4
 ecmwf-deploy1.codeenigma.net.	3600	IN	A	35.177.33.234
 ecmwf-dev.codeenigma.net.	3600	IN	CNAME	d13l344v7v0zu5.cloudfront.net.
@@ -424,6 +427,7 @@ fci-deploy1.codeenigma.net.	3600	IN	A	18.135.55.189
 fci-dev1.codeenigma.net.	3600	IN	A	35.176.178.103
 fci-dev2.codeenigma.net.	3600	IN	A	35.176.178.103
 fci-dev2.int.codeenigma.net.	3600	IN	A	10.3.4.76
+fci-dev3.codeenigma.net.	3600	IN	A	18.133.114.94
 fk154320.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	fk154320-aps-asg-prod-1680833410.eu-west-1.elb.amazonaws.com.
 fk154321.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	fk154321-aps-asg-prod-740258052.eu-west-1.elb.amazonaws.com.
 fmworld-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
