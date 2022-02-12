@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -83,6 +83,8 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.govwales-dev3.codeenigma.net.	3600	IN	CNAME	govwales-dev3.codeenigma.net.
 *.govwales-ldn-dev2.codeenigma.net.	300	IN	CNAME	govwales-ldn-dev2.codeenigma.net.
 *.govwales-ldn-openvpn.codeenigma.net.	300	IN	CNAME	govwales-ldn-openvpn.codeenigma.net.
+*.govwales-solr5.codeenigma.net.	3600	IN	CNAME	govwales-solr5.codeenigma.net.
+*.govwales-solr6.codeenigma.net.	3600	IN	CNAME	govwales-solr6.codeenigma.net.
 *.govwales.app1.codeenigma.net.	300	IN	CNAME	govwales-app1.codeenigma.net.
 *.govwales.app2.codeenigma.net.	300	IN	CNAME	govwales-app2.codeenigma.net.
 *.hlt-app1.codeenigma.net.	300	IN	CNAME	hlt-app1.codeenigma.net.
@@ -502,6 +504,8 @@ govwales-solr3.codeenigma.net.	3600	IN	A	34.240.114.183
 govwales-solr3.int.codeenigma.net.	3600	IN	A	10.3.4.31
 govwales-solr4.codeenigma.net.	3600	IN	A	34.251.110.159
 govwales-solr4.int.codeenigma.net.	3600	IN	A	10.3.4.32
+govwales-solr5.codeenigma.net.	3600	IN	A	18.133.85.86
+govwales-solr6.codeenigma.net.	3600	IN	A	35.176.66.213
 govwales-utility1.codeenigma.net.	3600	IN	A	52.213.245.183
 govwales-utility2.codeenigma.net.	3600	IN	A	52.213.245.183
 govwales-utility2.int.codeenigma.net.	3600	IN	A	10.3.4.30
