@@ -84,6 +84,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.govwales-dev3.codeenigma.net.	3600	IN	CNAME	govwales-dev3.codeenigma.net.
 *.govwales-ldn-dev2.codeenigma.net.	300	IN	CNAME	govwales-ldn-dev2.codeenigma.net.
 *.govwales-ldn-openvpn.codeenigma.net.	300	IN	CNAME	govwales-ldn-openvpn.codeenigma.net.
+*.govwales-openvpn2.codeenigma.net.	3600	IN	CNAME	govwales-openvpn2.codeenigma.net.
 *.govwales-solr5.codeenigma.net.	3600	IN	CNAME	govwales-solr5.codeenigma.net.
 *.govwales-solr6.codeenigma.net.	3600	IN	CNAME	govwales-solr6.codeenigma.net.
 *.govwales.app1.codeenigma.net.	300	IN	CNAME	govwales-app1.codeenigma.net.
@@ -500,6 +501,7 @@ govwales-ldn-utility2.int.codeenigma.net.	300	IN	A	10.3.4.224
 govwales-munin.codeenigma.net.	300	IN	CNAME	monitor1.codeenigma.net.
 govwales-openvpn.codeenigma.net.	3600	IN	A	52.214.235.148
 govwales-openvpn.int.codeenigma.net.	3600	IN	A	10.3.4.187
+govwales-openvpn2.codeenigma.net.	3600	IN	A	35.177.58.25
 govwales-solr1.codeenigma.net.	3600	IN	A	34.240.114.183
 govwales-solr2.codeenigma.net.	3600	IN	A	34.251.110.159
 govwales-solr3.codeenigma.net.	3600	IN	A	34.240.114.183
