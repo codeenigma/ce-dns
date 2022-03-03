@@ -248,7 +248,6 @@ apsvenue.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	apsvenue-aps-asgenc-prod-
 apsvirtual.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	apsvirtual-aps-asg-prod-1038135757.eu-west-1.elb.amazonaws.com.
 apswebcast.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	apswebcast-aps-asgenc-prod-1336050010.eu-west-1.elb.amazonaws.com.
 asg10.dummy-asgenc-prod.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-prod-codeenigma-net-333930559.eu-west-1.elb.amazonaws.com.
-ash154269.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	ash154269-aps-asg-prod-132590099.eu-west-1.elb.amazonaws.com.
 aspire-dev.codeenigma.net.	300	IN	CNAME	hlt-dev2.codeenigma.net.
 aspire-prod.codeenigma.net.	300	IN	CNAME	hlt-app1.codeenigma.net.
 aspire-stage.codeenigma.net.	300	IN	CNAME	hlt-dev2.codeenigma.net.
@@ -519,10 +518,7 @@ govwales-utility2.codeenigma.net.	3600	IN	A	52.213.245.183
 govwales-utility2.int.codeenigma.net.	3600	IN	A	10.3.4.30
 gph-dev.codeenigma.net.	300	IN	CNAME	rbkc-stage5.codeenigma.net.
 hc21154259.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	hc21154259-aps-asg-prod-2104446151.eu-west-1.elb.amazonaws.com.
-hc21154264.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	hc21154264-aps-asg-prod-466820165.eu-west-1.elb.amazonaws.com.
 hc21154618.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	hc21154618-aps-asg-prod-911171569.eu-west-1.elb.amazonaws.com.
-hc21154876.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	hc21154876-aps-asgenc-prod-154861670.eu-west-1.elb.amazonaws.com.
-hc21154876.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	hc21154876-aps-asgenc-prod2-1068654048.eu-west-1.elb.amazonaws.com.
 hc21154876b.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	hc21154876b-aps-asgenc-prod2-1588998644.eu-west-1.elb.amazonaws.com.
 hel154649.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	hel154649-aps-asg-prod-665485253.eu-west-1.elb.amazonaws.com.
 hlt-app1.codeenigma.net.	3600	IN	A	34.252.75.139
@@ -1051,4 +1047,3 @@ yubi.codeenigma.net.	3600	IN	A	35.176.229.17
 yubi.int.codeenigma.net.	3600	IN	A	10.3.4.8
 yubi2.codeenigma.net.	3600	IN	A	35.176.229.17
 yubi2.int.codeenigma.net.	3600	IN	A	10.3.4.8
-zoe155074.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	zoe155074-aps-asgenc-prod-254016503.eu-west-1.elb.amazonaws.com.
