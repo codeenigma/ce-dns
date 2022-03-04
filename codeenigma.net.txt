@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -380,6 +380,7 @@ dummy-ksm.codeenigma.net.	3600	IN	A	54.216.74.50
 dummy-ldap.codeenigma.net.	3600	IN	A	54.155.93.113
 dummy-mfa1.codeenigma.net.	3600	IN	A	34.255.76.13
 dummy-monitor1.codeenigma.net.	3600	IN	A	52.212.96.139
+dummy-paris-dev.codeenigma.net.	3600	IN	CNAME	dummy-paris-dev-codeenigma-net-891020885.eu-west-3.elb.amazonaws.com.
 dummy-test1.codeenigma.net.	3600	IN	A	108.128.223.23
 dummy-test2.codeenigma.net.	3600	IN	A	54.217.99.250
 dummy-test3.codeenigma.net.	3600	IN	A	34.253.245.134
@@ -636,11 +637,9 @@ mantaray-solr1.int.codeenigma.net.	3600	IN	A	10.3.4.191
 mantaray-utility1.codeenigma.net.	3600	IN	A	99.80.189.91
 mantaray-utility1.int.codeenigma.net.	3600	IN	A	10.3.4.166
 mc.codeenigma.net.	300	IN	CNAME	jamie-dev1.codeenigma.net.
-mcn154482.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mcn154482-aps-asg-prod-2085781376.eu-west-1.elb.amazonaws.com.
 mde154581.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mde154581-aps-asg-prod-1288529114.eu-west-1.elb.amazonaws.com.
 mde154623.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mde154623-aps-asg-prod-512241535.eu-west-1.elb.amazonaws.com.
 mde154717.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mde154717-aps-asg-prod-1349863506.eu-west-1.elb.amazonaws.com.
-mde154840.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mde154840-aps-asg-prod-215486569.eu-west-1.elb.amazonaws.com.
 mde155057.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mde155057-aps-asg-prod-1338325271.eu-west-1.elb.amazonaws.com.
 mde155080.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	mde155080-aps-asgenc-prod-298361944.eu-west-1.elb.amazonaws.com.
 mde155240.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	mde155240-aps-asgenc-prod-37677911.eu-west-1.elb.amazonaws.com.
