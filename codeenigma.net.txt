@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -231,7 +231,6 @@ backbone.codeenigma.net.	300	IN	CNAME	puppet3.codeenigma.net.
 bastion1.codeenigma.net.	3600	IN	A	159.100.242.248
 bastion2.codeenigma.net.	3600	IN	A	159.100.242.248
 biomedical-scientist-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
-biomedical-scientist-prod.codeenigma.net.	300	IN	CNAME	redactive-app2.codeenigma.net.
 biomedical-scientist-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 btk155269.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	btk155269-aps-asgenc-prod2-926796764.eu-west-1.elb.amazonaws.com.
 build.codeenigma.net.	3600	IN	A	35.177.30.142
@@ -329,7 +328,6 @@ enigma00a.int.codeenigma.net.	3600	IN	A	10.3.4.9
 enigma3.codeenigma.net.	3600	IN	A	18.130.42.81
 enigma3.int.codeenigma.net.	3600	IN	A	10.3.4.158
 envmentalist-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
-envmentalist-prod.codeenigma.net.	300	IN	CNAME	redactive-app2.codeenigma.net.
 envmentalist-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 epiqo-app18.int.codeenigma.net.	3600	IN	A	10.3.4.126
 epiqo-app21.int.codeenigma.net.	3600	IN	A	10.3.4.150
@@ -353,8 +351,6 @@ fci-dev2.int.codeenigma.net.	3600	IN	A	10.3.4.76
 fci-dev3.codeenigma.net.	3600	IN	A	18.133.114.94
 fk154320.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	fk154320-aps-asg-prod-1680833410.eu-west-1.elb.amazonaws.com.
 fk154321.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	fk154321-aps-asg-prod-740258052.eu-west-1.elb.amazonaws.com.
-fmworld-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
-fmworld-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 freseniuskabi-covid19.codeenigma.net.	300	IN	CNAME	aps-prod-elb-909187264.eu-west-1.elb.amazonaws.com.
 gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz._domainkey.dummy-deploy1.codeenigma.net.	300	IN	CNAME	gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz.dkim.amazonses.com.
 git.codeenigma.net.	3600	IN	A	35.176.193.97
@@ -664,11 +660,6 @@ puppet4.codeenigma.net.	3600	IN	A	3.121.43.157
 puppet4.int.codeenigma.net.	3600	IN	A	10.3.4.164
 q5umqgeguwllhiffqorperxcdx2igsvh._domainkey.dummy-deploy1.codeenigma.net.	300	IN	CNAME	q5umqgeguwllhiffqorperxcdx2igsvh.dkim.amazonses.com.
 qicentral.codeenigma.net.	300	IN	CNAME	rcpch-dev2.codeenigma.net.
-rcm-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
-rcm-prod.codeenigma.net.	300	IN	CNAME	redactive-app3.codeenigma.net.
-rcm-redesign.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
-rcm-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
-rcmarchive.codeenigma.net.	3600	IN	A	35.176.174.93
 rcog-app1.codeenigma.net.	3600	IN	A	99.81.128.78
 rcog-app1.int.codeenigma.net.	3600	IN	A	10.3.4.170
 rcog-dev1.codeenigma.net.	3600	IN	A	52.212.106.60
@@ -690,7 +681,6 @@ rcpch-website.master.rcpch-dev1.codeenigma.net.	300	IN	CNAME	rcpch-dev2.codeenig
 rcpch-wp1.codeenigma.net.	3600	IN	A	52.208.151.85
 rcpch-wp2.codeenigma.net.	3600	IN	A	34.253.63.42
 recruiter-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
-recruiter-prod.codeenigma.net.	300	IN	CNAME	redactive-app3.codeenigma.net.
 recruiter-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 recruiter-stage2.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 redactive-app1.codeenigma.net.	3600	IN	A	35.176.100.141
@@ -715,7 +705,6 @@ redmine1.codeenigma.net.	3600	IN	A	3.122.69.133
 redmine1.int.codeenigma.net.	3600	IN	A	10.3.4.161
 redmine3a.int.codeenigma.net.	3600	IN	A	10.3.4.92
 registration-ade-150826.codeenigma.net.	300	IN	CNAME	aps-app1.codeenigma.net.
-rics.codeenigma.net.	300	IN	CNAME	redactive-app3.codeenigma.net.
 roc-153626-prod.codeenigma.net.	300	IN	CNAME	alb-aps-611926477.eu-west-1.elb.amazonaws.com.
 roc-153626-stage.codeenigma.net.	3600	IN	A	3.250.116.109
 roc154859.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	roc154859-aps-asgenc-prod-1028807531.eu-west-1.elb.amazonaws.com.
@@ -725,9 +714,6 @@ s4s-prod.codeenigma.net.	300	IN	CNAME	hlt-app1.codeenigma.net.
 san154268.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	san154268-aps-asg-prod-443441354.eu-west-1.elb.amazonaws.com.
 san154614.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	san154614-aps-asg-prod-532780247.eu-west-1.elb.amazonaws.com.
 serverwatch.codeenigma.net.	300	IN	CNAME	reports.statuscake.com.
-sm-master-test.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
-sm-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
-sm-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 solr2.codeenigma.net.	3600	IN	A	52.56.184.10
 solr2.int.codeenigma.net.	3600	IN	A	10.3.4.98
 spr153692.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	spr153692-aps-asg-prod-1604376454.eu-west-1.elb.amazonaws.com.
@@ -773,7 +759,6 @@ strokeassociation-deploy1.codeenigma.net.	3600	IN	A	18.130.111.191
 strokeassociation-solr1.codeenigma.net.	3600	IN	A	3.8.75.154
 support.codeenigma.net.	3600	IN	MX	10 mail.support.codeenigma.com.
 theplanner-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
-theplanner-prod.codeenigma.net.	300	IN	CNAME	redactive-app3.codeenigma.net.
 theplanner-stage-new-auth.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 theplanner-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 theplanner-staged_new_authentication.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
