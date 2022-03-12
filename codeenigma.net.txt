@@ -617,6 +617,7 @@ ndp-utility1.codeenigma.net.	3600	IN	A	34.246.245.227
 nextcloud-dev.codeenigma.net.	300	IN	CNAME	dev5.codeenigma.net.
 nextcloud.codeenigma.net.	300	IN	A	35.177.127.44
 nextcloud.codeenigma.net.	300	IN	TXT	"v=spf1 a mx ip4:35.177.127.44 ~all"
+nhl155876.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	nhl155876-aps-asgenc-prod2-367927499.eu-west-1.elb.amazonaws.com.
 northyorks.codeenigma.net.	300	IN	CNAME	nycc-app3.codeenigma.net.
 ns1.codeenigma.net.	3600	IN	A	95.138.172.96
 ns2.codeenigma.net.	3600	IN	A	173.255.206.98
