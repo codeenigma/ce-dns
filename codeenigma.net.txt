@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -522,6 +522,7 @@ ldap3.int.codeenigma.net.	3600	IN	A	10.3.4.5
 ldap4-buster.codeenigma.net.	3600	IN	A	10.3.4.212
 ldap4.codeenigma.net.	3600	IN	A	35.176.106.229
 ldap4.int.codeenigma.net.	3600	IN	A	10.3.4.3
+localgovdrupal.codeenigma.net.	3600	IN	CNAME	lgd-prod-codeenigma-net-233561286.eu-west-2.elb.amazonaws.com.
 log-01.codeenigma.net.	3600	IN	A	35.176.218.41
 log2.codeenigma.net.	3600	IN	A	35.176.218.41
 login-dev.codeenigma.net.	300	IN	CNAME	utility3.int.codeenigma.net.
