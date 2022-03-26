@@ -574,6 +574,7 @@ mer154434aps.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mer154434aps-aps-asg-pro
 mer154512.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mer154512-aps-asg-prod-755402885.eu-west-1.elb.amazonaws.com.
 mer155334.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	mer155334-aps-asgenc-prod-744163099.eu-west-1.elb.amazonaws.com.
 mer155528.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer155528-aps-asgenc-prod2-230242057.eu-west-1.elb.amazonaws.com.
+mer155695.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer155695-aps-asgenc-prod2-794758538.eu-west-1.elb.amazonaws.com.
 mer155863.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer155863-aps-asgenc-prod2-288037221.eu-west-1.elb.amazonaws.com.
 metabase.codeenigma.net.	300	IN	CNAME	metabase-alb-2102566008.us-east-1.elb.amazonaws.com.
 mfa-dev1.codeenigma.net.	3600	IN	A	3.11.113.31
@@ -722,7 +723,6 @@ rtwc-stage-mencap.codeenigma.net.	300	IN	CNAME	mencap-dev1.codeenigma.net.
 s4s-prod.codeenigma.net.	300	IN	CNAME	hlt-app1.codeenigma.net.
 san154268.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	san154268-aps-asg-prod-443441354.eu-west-1.elb.amazonaws.com.
 san154614.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	san154614-aps-asg-prod-532780247.eu-west-1.elb.amazonaws.com.
-serverwatch.codeenigma.net.	300	IN	CNAME	reports.statuscake.com.
 solr2.codeenigma.net.	3600	IN	A	52.56.184.10
 solr2.int.codeenigma.net.	3600	IN	A	10.3.4.98
 spr153692.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	spr153692-aps-asg-prod-1604376454.eu-west-1.elb.amazonaws.com.
@@ -742,7 +742,7 @@ stage5.int.codeenigma.net.	3600	IN	A	10.3.4.89
 stage6.int.codeenigma.net.	3600	IN	A	10.3.4.90
 stats-dev.codeenigma.net.	3600	IN	CNAME	stats-dev.codeenigma.com.
 stats.codeenigma.net.	3600	IN	CNAME	stats.codeenigma.com.
-status.codeenigma.net.	300	IN	CNAME	reports.statuscake.com.
+status.codeenigma.net.	300	IN	CNAME	uptimessl.statuscake.com.
 stem-alb.codeenigma.net.	300	IN	CNAME	alb-stem-1143501849.eu-west-1.elb.amazonaws.com.
 stem-dev-int.codeenigma.net.	300	IN	CNAME	myscience-stage-lb1.codeenigma.net.
 stem-dev.codeenigma.net.	300	IN	CNAME	alb-stem-dev-2115377758.eu-west-1.elb.amazonaws.com.
