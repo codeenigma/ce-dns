@@ -318,6 +318,7 @@ ecmwf-deploy1.codeenigma.net.	3600	IN	A	35.177.33.234
 ecmwf-dev.codeenigma.net.	3600	IN	CNAME	d13l344v7v0zu5.cloudfront.net.
 ecmwf-prod.codeenigma.net.	3600	IN	CNAME	ecmwf-asg-prod-codeenigma-net-89639510.eu-west-2.elb.amazonaws.com.
 ecmwf-prototype.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
+ecmwf-solr.codeenigma.net.	3600	IN	CNAME	ecmwf-asg-solr-codeenigma-net-1182716278.eu-west-2.elb.amazonaws.com.
 ecmwf-solr1.codeenigma.net.	3600	IN	A	18.170.240.243
 ecmwf-stage.codeenigma.net.	3600	IN	CNAME	dn5d0fdcvjdcx.cloudfront.net.
 electricimp-app1.codeenigma.net.	3600	IN	A	34.233.198.35
