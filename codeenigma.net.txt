@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -144,6 +144,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.westco-app1.codeenigma.net.	300	IN	CNAME	westco-app1.codeenigma.net.
 *.wt-app1.codeenigma.net.	300	IN	CNAME	wt-app1.codeenigma.net.
 *.wt-app2.codeenigma.net.	300	IN	CNAME	wt-app2.codeenigma.net.
+*.wt-infra1.codeenigma.net.	300	IN	CNAME	wt-infra1.codeenigma.net.
 *.wt-stage1.codeenigma.net.	300	IN	CNAME	wt-stage1.codeenigma.net.
 *.wt-stage2.codeenigma.net.	300	IN	CNAME	wt-stage2.codeenigma.net.
 *.wt-stage3.codeenigma.net.	300	IN	CNAME	wt-stage3.codeenigma.net.
@@ -544,7 +545,6 @@ mde154581.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mde154581-aps-asg-prod-1288
 mde154623.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mde154623-aps-asg-prod-512241535.eu-west-1.elb.amazonaws.com.
 mde154717.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mde154717-aps-asg-prod-1349863506.eu-west-1.elb.amazonaws.com.
 mde155057.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mde155057-aps-asg-prod-1338325271.eu-west-1.elb.amazonaws.com.
-mde155080.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	mde155080-aps-asgenc-prod-298361944.eu-west-1.elb.amazonaws.com.
 mde155240.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	mde155240-aps-asgenc-prod-37677911.eu-west-1.elb.amazonaws.com.
 med155500.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	med155500-aps-asgenc-prod2-637012125.eu-west-1.elb.amazonaws.com.
 mencap-allmove-staging.codeenigma.net.	300	IN	CNAME	mencap-dev1.codeenigma.net.
@@ -840,6 +840,7 @@ wt-corporated8-master.codeenigma.net.	300	IN	CNAME	wt-stage2.codeenigma.net.
 wt-dataviz-master.codeenigma.net.	300	IN	CNAME	wt-stage2.codeenigma.net.
 wt-explorify-preprod.codeenigma.net.	300	IN	CNAME	wt-stage3.codeenigma.net.
 wt-explorify-stage.codeenigma.net.	300	IN	CNAME	wt-stage3.codeenigma.net.
+wt-infra1.codeenigma.net.	300	IN	A	52.51.199.43
 wt-intranet-master.codeenigma.net.	300	IN	CNAME	wt-stage2.codeenigma.net.
 wt-jenkins2.codeenigma.net.	3600	IN	A	52.210.200.211
 wt-jenkins2.int.codeenigma.net.	3600	IN	A	10.3.4.24
