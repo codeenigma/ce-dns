@@ -469,6 +469,7 @@ iaea-utilities2.codeenigma.net.	3600	IN	A	52.211.100.79
 iaea-utilities2.int.codeenigma.net.	3600	IN	A	10.3.4.39
 infra1.codeenigma.net.	3600	IN	A	3.8.109.207
 int155568.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	int155568-aps-asgenc-prod2-1917861349.eu-west-1.elb.amazonaws.com.
+int156013.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	int156013-aps-asgenc-prod2-1622504964.eu-west-1.elb.amazonaws.com.
 jaz154204.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	jaz154204-aps-asgenc-prod2-1964199097.eu-west-1.elb.amazonaws.com.
 jdi-app2.codeenigma.net.	3600	IN	A	10.3.4.10
 jdi-app2.int.codeenigma.net.	3600	IN	A	10.3.4.10
