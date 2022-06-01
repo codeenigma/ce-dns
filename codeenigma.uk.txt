@@ -11,4 +11,7 @@ codeenigma.uk.	172800	IN	NS	ns-347.awsdns-43.com.
 codeenigma.uk.	172800	IN	NS	ns-2019.awsdns-60.co.uk.
 codeenigma.uk.	172800	IN	NS	ns-722.awsdns-26.net.
 codeenigma.uk.	300	IN	TXT	"google-site-verification=9HW3spTFJOADdVW2tfJue3iviCZ9uOj6EfocidunLIA"
+bqfmz53ht7u4de7frq4jnzhvq7v5bbma._domainkey.codeenigma.uk.	300	IN	CNAME	bqfmz53ht7u4de7frq4jnzhvq7v5bbma.dkim.amazonses.com.
+iraiw6lgjduehuebfmh7mqj2vlxrtzwe._domainkey.codeenigma.uk.	300	IN	CNAME	iraiw6lgjduehuebfmh7mqj2vlxrtzwe.dkim.amazonses.com.
+sw6azmb32e2wc5rl3tntfof2mdpfbwhr._domainkey.codeenigma.uk.	300	IN	CNAME	sw6azmb32e2wc5rl3tntfof2mdpfbwhr.dkim.amazonses.com.
 www.codeenigma.uk.	300	IN	CNAME	codeenigma.uk.
