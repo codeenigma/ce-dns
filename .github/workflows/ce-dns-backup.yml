@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v2
       - name: Install dependencies
         run: |
-          apt-get dist-upgrade -y
+          sudo apt-get dist-upgrade -y
           git config --global --add safe.directory '*'
           wget https://github.com/barnybug/cli53/releases/download/0.8.18/cli53-linux-amd64
           sudo mv cli53-linux-amd64 /usr/local/bin/cli53
