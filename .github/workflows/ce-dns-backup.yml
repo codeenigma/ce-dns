@@ -38,7 +38,7 @@ jobs:
           # Random 1-30 second sleep so commits don't trip over each other
           sleep $[ ( $RANDOM % 30 )  + 1 ]s
       - name: Push changes
-        uses: github-actions-x/commit@v6
+        uses: actions-x/commit@v6
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           push-branch: main
