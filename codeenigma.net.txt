@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -228,13 +228,6 @@ aps-jenkins.codeenigma.net.	3600	IN	A	54.76.243.125
 aps-jenkins.int.codeenigma.net.	3600	IN	A	10.3.4.82
 aps-jenkins1.codeenigma.net.	3600	IN	A	54.76.243.125
 aps-jenkins1.int.codeenigma.net.	3600	IN	A	10.3.4.82
-aps154751.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	aps154751-aps-asg-prod-647207085.eu-west-1.elb.amazonaws.com.
-apsauxiliary.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	apsauxiliary-aps-asgenc-prod-697439878.eu-west-1.elb.amazonaws.com.
-apscore.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	apscore-aps-asgenc-prod-1442470249.eu-west-1.elb.amazonaws.com.
-apsexpress.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	apsexpress-aps-asgenc-prod-1254895767.eu-west-1.elb.amazonaws.com.
-apsvenue.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	apsvenue-aps-asgenc-prod-1211511707.eu-west-1.elb.amazonaws.com.
-apsvirtual.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	apsvirtual-aps-asg-prod-1038135757.eu-west-1.elb.amazonaws.com.
-apswebcast.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	apswebcast-aps-asgenc-prod-1336050010.eu-west-1.elb.amazonaws.com.
 asg10.dummy-asgenc-prod.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-prod-codeenigma-net-333930559.eu-west-1.elb.amazonaws.com.
 asgtest.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1250625352.eu-west-1.elb.amazonaws.com.
 ash155507.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	ash155507-aps-asgenc-prod2-476531719.eu-west-1.elb.amazonaws.com.
@@ -247,7 +240,6 @@ bastion1.codeenigma.net.	3600	IN	A	159.100.242.248
 bastion2.codeenigma.net.	3600	IN	A	159.100.242.248
 biomedical-scientist-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 biomedical-scientist-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
-btk155269.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	btk155269-aps-asgenc-prod2-926796764.eu-west-1.elb.amazonaws.com.
 build.codeenigma.net.	3600	IN	A	35.177.30.142
 build.int.codeenigma.net.	3600	IN	A	10.3.4.16
 build2.codeenigma.net.	3600	IN	A	35.177.30.142
@@ -269,8 +261,6 @@ chsoc-stage1.codeenigma.net.	3600	IN	A	34.240.136.246
 chsoc-stage1.int.codeenigma.net.	3600	IN	A	10.3.4.108
 chsoc-stage2.codeenigma.net.	3600	IN	A	34.240.136.246
 chsoc-stage2.int.codeenigma.net.	3600	IN	A	10.3.4.108
-chv154408.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	chv154408-aps-asg-prod-2013594826.eu-west-1.elb.amazonaws.com.
-cir154355.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	cir154355-aps-asg-prod-443804249.eu-west-1.elb.amazonaws.com.
 cl3.codeenigma.net.	3600	IN	A	35.177.127.44
 cl3.int.codeenigma.net.	3600	IN	A	10.3.4.127
 codeenigma-new-stage.codeenigma.net.	300	IN	CNAME	stage4.codeenigma.net.
@@ -338,7 +328,6 @@ electricimp-app1.codeenigma.net.	3600	IN	A	34.233.198.35
 electricimp-app1.int.codeenigma.net.	3600	IN	A	10.3.4.119
 electricimp-stage1.codeenigma.net.	3600	IN	A	34.227.216.32
 electricimp-stage1.int.codeenigma.net.	3600	IN	A	10.3.4.118
-encrypted.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	encrypted-aps-asg-prod-1732313294.eu-west-1.elb.amazonaws.com.
 energy-focus-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 energy-focus-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 enigma00.codeenigma.net.	3600	IN	A	35.178.0.226
@@ -369,9 +358,6 @@ fci-dev1.codeenigma.net.	3600	IN	A	35.176.178.103
 fci-dev2.codeenigma.net.	3600	IN	A	35.176.178.103
 fci-dev2.int.codeenigma.net.	3600	IN	A	10.3.4.76
 fci-dev3.codeenigma.net.	3600	IN	A	18.133.114.94
-fk154320.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	fk154320-aps-asg-prod-1680833410.eu-west-1.elb.amazonaws.com.
-fk154321.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	fk154321-aps-asg-prod-740258052.eu-west-1.elb.amazonaws.com.
-freseniuskabi-covid19.codeenigma.net.	300	IN	CNAME	aps-prod-elb-909187264.eu-west-1.elb.amazonaws.com.
 gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz._domainkey.dummy-deploy1.codeenigma.net.	300	IN	CNAME	gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz.dkim.amazonses.com.
 git.codeenigma.net.	3600	IN	A	35.176.193.97
 git.int.codeenigma.net.	3600	IN	A	10.3.4.99
@@ -448,11 +434,7 @@ govwales-solr6.codeenigma.net.	3600	IN	A	35.176.66.213
 govwales-utility1.codeenigma.net.	3600	IN	A	52.213.245.183
 govwales-utility2.codeenigma.net.	3600	IN	A	52.213.245.183
 govwales-utility2.int.codeenigma.net.	3600	IN	A	10.3.4.30
-hc21154259.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	hc21154259-aps-asg-prod-2104446151.eu-west-1.elb.amazonaws.com.
-hc21154618.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	hc21154618-aps-asg-prod-911171569.eu-west-1.elb.amazonaws.com.
 hc21154876.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	hc21154876-aps-asgenc-prod2-1639154738.eu-west-1.elb.amazonaws.com.
-hc21154876b.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	hc21154876b-aps-asgenc-prod2-1588998644.eu-west-1.elb.amazonaws.com.
-hel154649.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	hel154649-aps-asg-prod-665485253.eu-west-1.elb.amazonaws.com.
 hlt-app1.codeenigma.net.	3600	IN	A	34.252.75.139
 hlt-app1.int.codeenigma.net.	3600	IN	A	10.3.4.142
 hlt-db1.codeenigma.net.	3600	IN	A	52.212.112.5
@@ -482,7 +464,6 @@ iaea-utilities.codeenigma.net.	3600	IN	A	52.211.100.79
 iaea-utilities2.codeenigma.net.	3600	IN	A	52.211.100.79
 iaea-utilities2.int.codeenigma.net.	3600	IN	A	10.3.4.39
 infra1.codeenigma.net.	3600	IN	A	3.8.109.207
-int155568.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	int155568-aps-asgenc-prod2-1917861349.eu-west-1.elb.amazonaws.com.
 int156013.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	int156013-aps-asgenc-prod2-1622504964.eu-west-1.elb.amazonaws.com.
 jaz154204.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	jaz154204-aps-asgenc-prod2-1964199097.eu-west-1.elb.amazonaws.com.
 jdi-app2.codeenigma.net.	3600	IN	A	10.3.4.10
@@ -503,8 +484,6 @@ jenkins.int.codeenigma.net.	3600	IN	A	10.3.4.15
 jenkins2.codeenigma.net.	3600	IN	A	52.56.121.203
 jenkins2.int.codeenigma.net.	3600	IN	A	10.3.4.15
 johnthorogood-prod.codeenigma.net.	300	IN	CNAME	enigma3.codeenigma.net.
-ka-153745.prod.aps-dev1.codeenigma.net.	300	IN	CNAME	alb-aps-611926477.eu-west-1.elb.amazonaws.com.
-kn154965.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	kn154965-aps-asgenc-prod2-1491279849.eu-west-1.elb.amazonaws.com.
 ksm.codeenigma.net.	3600	IN	A	10.3.4.94
 ksm2.codeenigma.net.	3600	IN	A	10.3.4.94
 ksm2.int.codeenigma.net.	3600	IN	A	10.3.4.94
@@ -558,10 +537,6 @@ mantaray-solr1.codeenigma.net.	3600	IN	A	52.49.18.56
 mantaray-solr1.int.codeenigma.net.	3600	IN	A	10.3.4.191
 mantaray-utility1.codeenigma.net.	3600	IN	A	99.80.189.91
 mantaray-utility1.int.codeenigma.net.	3600	IN	A	10.3.4.166
-mde154581.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mde154581-aps-asg-prod-1288529114.eu-west-1.elb.amazonaws.com.
-mde154623.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mde154623-aps-asg-prod-512241535.eu-west-1.elb.amazonaws.com.
-mde154717.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mde154717-aps-asg-prod-1349863506.eu-west-1.elb.amazonaws.com.
-mde155240.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	mde155240-aps-asgenc-prod-37677911.eu-west-1.elb.amazonaws.com.
 med155500.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	med155500-aps-asgenc-prod2-637012125.eu-west-1.elb.amazonaws.com.
 mencap-allmove-staging.codeenigma.net.	300	IN	CNAME	mencap-dev1.codeenigma.net.
 mencap-app1.codeenigma.net.	3600	IN	A	52.56.72.163
@@ -584,11 +559,6 @@ mencap-upgradestaging-trust.codeenigma.net.	300	IN	CNAME	mencap-dev1.codeenigma.
 mencap-upgradestaging-wales.codeenigma.net.	300	IN	CNAME	mencap-dev1.codeenigma.net.
 mencap-upgradestaging-yournetwork.codeenigma.net.	300	IN	CNAME	mencap-dev1.codeenigma.net.
 mencap-upgradestaging.codeenigma.net.	300	IN	CNAME	mencap-dev1.codeenigma.net.
-mer153975.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mer153975-aps-asg-prod-806918267.eu-west-1.elb.amazonaws.com.
-mer154434.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mer154434-aps-asg-prod-1502227217.eu-west-1.elb.amazonaws.com.
-mer154434aps.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mer154434aps-aps-asg-prod-575412443.eu-west-1.elb.amazonaws.com.
-mer154512.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mer154512-aps-asg-prod-755402885.eu-west-1.elb.amazonaws.com.
-mer155528.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer155528-aps-asgenc-prod2-230242057.eu-west-1.elb.amazonaws.com.
 mer155695.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer155695-aps-asgenc-prod2-794758538.eu-west-1.elb.amazonaws.com.
 mer155735.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer155735-aps-asgenc-prod2-1847737170.eu-west-1.elb.amazonaws.com.
 mer155863.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer155863-aps-asgenc-prod2-288037221.eu-west-1.elb.amazonaws.com.
@@ -665,11 +635,6 @@ nycc-utility1.int.codeenigma.net.	3600	IN	A	10.3.4.78
 nycc-utility2-buster2.codeenigma.net.	3600	IN	A	10.3.4.211
 nycc-utility2.codeenigma.net.	3600	IN	A	52.210.106.54
 nycc-utility2.int.codeenigma.net.	3600	IN	A	10.3.4.78
-opg153897.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	opg153897-aps-asg-prod-1030376599.eu-west-1.elb.amazonaws.com.
-opg154707.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	opg154707-aps-asg-prod-2071314756.eu-west-1.elb.amazonaws.com.
-opg154782.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	opg154782-aps-asg-prod-1310517220.eu-west-1.elb.amazonaws.com.
-opg154794.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	opg154794-aps-asgenc-prod-1175699401.eu-west-1.elb.amazonaws.com.
-opg155146.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	opg155146-aps-asgenc-prod-1092232993.eu-west-1.elb.amazonaws.com.
 ossec.codeenigma.net.	3600	IN	A	52.56.177.224
 ouiwrauaszdna6ywxwyfavkesqu4iyjg._domainkey.codeenigma.net.	300	IN	CNAME	ouiwrauaszdna6ywxwyfavkesqu4iyjg.dkim.amazonses.com.
 prometheus.codeenigma.net.	3600	IN	A	18.132.180.183
@@ -733,22 +698,14 @@ redmine.codeenigma.net.	3600	IN	CNAME	redmine1.codeenigma.net.
 redmine1.codeenigma.net.	3600	IN	A	3.122.69.133
 redmine1.int.codeenigma.net.	3600	IN	A	10.3.4.161
 redmine3a.int.codeenigma.net.	3600	IN	A	10.3.4.92
-registration-ade-150826.codeenigma.net.	300	IN	CNAME	aps-app1.codeenigma.net.
-roc-153626-prod.codeenigma.net.	300	IN	CNAME	alb-aps-611926477.eu-west-1.elb.amazonaws.com.
 roc-153626-stage.codeenigma.net.	3600	IN	A	3.250.116.109
-roc154859.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	roc154859-aps-asgenc-prod-1028807531.eu-west-1.elb.amazonaws.com.
 roc156058.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	roc156058-aps-asgenc-prod2-1869977634.eu-west-1.elb.amazonaws.com.
 rtwc-develop-mencap.codeenigma.net.	300	IN	CNAME	mencap-dev1.codeenigma.net.
 rtwc-stage-mencap.codeenigma.net.	300	IN	CNAME	mencap-dev1.codeenigma.net.
 s4s-prod.codeenigma.net.	300	IN	CNAME	hlt-app1.codeenigma.net.
-san154268.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	san154268-aps-asg-prod-443441354.eu-west-1.elb.amazonaws.com.
-san154614.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	san154614-aps-asg-prod-532780247.eu-west-1.elb.amazonaws.com.
 solr2.codeenigma.net.	3600	IN	A	52.56.184.10
 solr2.int.codeenigma.net.	3600	IN	A	10.3.4.98
 spiderman.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1250625352.eu-west-1.elb.amazonaws.com.
-spr154990.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	spr154990-aps-asgenc-prod-1536047254.eu-west-1.elb.amazonaws.com.
-spr155050.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	spr155050-aps-asgenc-prod-1559678294.eu-west-1.elb.amazonaws.com.
-spr155544.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	spr155544-aps-asgenc-prod2-331634070.eu-west-1.elb.amazonaws.com.
 stage1.codeenigma.net.	3600	IN	A	35.176.119.64
 stage1.int.codeenigma.net.	3600	IN	A	10.3.4.89
 stage2.codeenigma.net.	3600	IN	A	35.176.116.147
