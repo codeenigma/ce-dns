@@ -237,7 +237,6 @@ apswebcast.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	apswebcast-aps-asgenc-p
 asg10.dummy-asgenc-prod.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-prod-codeenigma-net-333930559.eu-west-1.elb.amazonaws.com.
 asgtest.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1250625352.eu-west-1.elb.amazonaws.com.
 ash155507.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	ash155507-aps-asgenc-prod2-476531719.eu-west-1.elb.amazonaws.com.
-ash155883.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	ash155883-aps-asgenc-prod2-1258261490.eu-west-1.elb.amazonaws.com.
 aspire-dev.codeenigma.net.	300	IN	CNAME	hlt-dev2.codeenigma.net.
 aspire-prod.codeenigma.net.	300	IN	CNAME	hlt-app1.codeenigma.net.
 aspire-stage.codeenigma.net.	300	IN	CNAME	hlt-dev2.codeenigma.net.
@@ -714,7 +713,6 @@ redmine1.int.codeenigma.net.	3600	IN	A	10.3.4.161
 redmine3a.int.codeenigma.net.	3600	IN	A	10.3.4.92
 roc-153626-stage.codeenigma.net.	3600	IN	A	3.250.116.109
 roc154859.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	roc154859-aps-asgenc-prod-1028807531.eu-west-1.elb.amazonaws.com.
-roc156058.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	roc156058-aps-asgenc-prod2-1869977634.eu-west-1.elb.amazonaws.com.
 rtwc-develop-mencap.codeenigma.net.	300	IN	CNAME	mencap-dev1.codeenigma.net.
 rtwc-stage-mencap.codeenigma.net.	300	IN	CNAME	mencap-dev1.codeenigma.net.
 s4s-prod.codeenigma.net.	300	IN	CNAME	hlt-app1.codeenigma.net.
@@ -767,6 +765,7 @@ support.codeenigma.net.	3600	IN	MX	10 mail.support.codeenigma.com.
 surefoot-deploy1.codeenigma.net.	3600	IN	A	18.132.54.192
 surefoot-dev1.codeenigma.net.	3600	IN	A	13.40.249.26
 surefootportal-dev.codeenigma.net.	3600	IN	CNAME	surefoot-dev1.codeenigma.net.
+surefootportal-prod.codeenigma.net.	3600	IN	CNAME	surefoot-asg-prod-codeenigma-net-1739664506.eu-west-2.elb.amazonaws.com.
 surefootportal-stage.codeenigma.net.	3600	IN	CNAME	surefoot-dev1.codeenigma.net.
 theplanner-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 theplanner-stage-new-auth.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
