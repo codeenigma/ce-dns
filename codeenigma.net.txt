@@ -267,6 +267,7 @@ chsoc-stage1.codeenigma.net.	3600	IN	A	34.240.136.246
 chsoc-stage1.int.codeenigma.net.	3600	IN	A	10.3.4.108
 chsoc-stage2.codeenigma.net.	3600	IN	A	34.240.136.246
 chsoc-stage2.int.codeenigma.net.	3600	IN	A	10.3.4.108
+chv154408.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	chv154408-aps-asg-prod-2013594826.eu-west-1.elb.amazonaws.com.
 cl3.codeenigma.net.	3600	IN	A	35.177.127.44
 cl3.int.codeenigma.net.	3600	IN	A	10.3.4.127
 codeenigma-new-stage.codeenigma.net.	300	IN	CNAME	stage4.codeenigma.net.
@@ -364,6 +365,7 @@ fci-dev1.codeenigma.net.	3600	IN	A	35.176.178.103
 fci-dev2.codeenigma.net.	3600	IN	A	35.176.178.103
 fci-dev2.int.codeenigma.net.	3600	IN	A	10.3.4.76
 fci-dev3.codeenigma.net.	3600	IN	A	18.133.114.94
+fk154320.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	fk154320-aps-asg-prod-1680833410.eu-west-1.elb.amazonaws.com.
 gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz._domainkey.dummy-deploy1.codeenigma.net.	300	IN	CNAME	gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz.dkim.amazonses.com.
 git.codeenigma.net.	3600	IN	A	35.176.193.97
 git.int.codeenigma.net.	3600	IN	A	10.3.4.99
