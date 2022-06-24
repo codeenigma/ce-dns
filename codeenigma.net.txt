@@ -164,6 +164,7 @@ _122ccd0f182fdfadbbb9479bd600aae2.lbhfd9-stage.codeenigma.net.	300	IN	CNAME	_034
 _12f366f374ce5c3d97a00f5d5c90bc10.cumbria-prod.codeenigma.net.	300	IN	CNAME	_ba8427bad1071be975de92a5e1db0b1e.cvfdyspdbk.acm-validations.aws.
 _2d5eaf988f5bdde6df05fed69289b5a7.ecmwf-dev.codeenigma.net.	300	IN	CNAME	_8c08713d4c7d9c04b695513bf18831e1.bnpptgxfyj.acm-validations.aws.
 _33b3e59209d64c05ec4a4922430c3c56.cumbria-dev.codeenigma.net.	3600	IN	CNAME	_c139799f99a2be21f4b64bd0216243fc.yssrbzrnkq.acm-validations.aws.
+_35f25ca2dee06834e2625ce8ced8a626.trustnet-asg-dev.codeenigma.net.	300	IN	CNAME	_ee9ed3ba539707f7510e9eddc7db6886.hqkbcmchgw.acm-validations.aws.
 _44fd08c9551f3bd953d132692b466886.ecmwf-prod.codeenigma.net.	300	IN	CNAME	_24ddde003436ef0829e0fc3513fa768a.bnpptgxfyj.acm-validations.aws.
 _47fff7a90c5439f1dbe9e8245c8ec377.ecmwf-master.codeenigma.net.	300	IN	CNAME	_4bcc9f4c691146696fec7142d39da31a.bnpptgxfyj.acm-validations.aws.
 _4eae2bac661840ddffdd3dec274c8989.strokeassociation-asg-stage.codeenigma.net.	300	IN	CNAME	_0f4898246b6168bc7fa558046304bf8e.vtqfhvjlcp.acm-validations.aws.
