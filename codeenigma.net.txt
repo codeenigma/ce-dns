@@ -118,6 +118,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.nycc-app3.codeenigma.net.	300	IN	CNAME	nycc-app3.codeenigma.net.
 *.nycc-dev1.codeenigma.net.	300	IN	CNAME	nycc-dev2.codeenigma.net.
 *.nycc-dev2.codeenigma.net.	300	IN	CNAME	nycc-dev2.codeenigma.net.
+*.nycc-dev3.codeenigma.net.	3600	IN	CNAME	nycc-dev3.codeenigma.net.
 *.nycc-utility2-buster2.codeenigma.net.	300	IN	CNAME	nycc-utility2-buster2.codeenigma.net.
 *.ossec.codeenigma.net.	3600	IN	CNAME	ossec.codeenigma.net.
 *.rcog-app1.codeenigma.net.	300	IN	CNAME	rcog-app1.codeenigma.net.
@@ -644,6 +645,7 @@ nycc-dev1.codeenigma.net.	3600	IN	A	34.251.108.217
 nycc-dev1.int.codeenigma.net.	3600	IN	A	10.3.4.77
 nycc-dev2.codeenigma.net.	3600	IN	A	34.251.108.217
 nycc-dev2.int.codeenigma.net.	3600	IN	A	10.3.4.77
+nycc-dev3.codeenigma.net.	3600	IN	A	54.194.197.202
 nycc-pentest.codeenigma.net.	300	IN	CNAME	nycc-app3.codeenigma.net.
 nycc-utility1.codeenigma.net.	3600	IN	A	52.210.106.54
 nycc-utility1.int.codeenigma.net.	3600	IN	A	10.3.4.78
