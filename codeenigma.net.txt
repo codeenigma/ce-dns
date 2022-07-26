@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -160,6 +160,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 2fa-dev.int.codeenigma.net.	3600	IN	A	10.3.4.178
 2fa-dev2.codeenigma.net.	3600	IN	A	18.171.24.251
 2fa.codeenigma.net.	3600	IN	A	35.176.69.138
+2fzver5snjc6xq2ncrve32qt2jkpg2iu._domainkey.codeenigma.net.	1800	IN	CNAME	2fzver5snjc6xq2ncrve32qt2jkpg2iu.dkim.amazonses.com.
 _001c642e7757abee71e2323b4322064a.dashboard.codeenigma.net.	300	IN	CNAME	_d100c12ea488564a53d589ca416d1175.nfyddsqlcy.acm-validations.aws.
 _0eb165511eb12b3a135158e54c23dab6.user-dashboard.codeenigma.net.	300	IN	CNAME	_eab4258152dc68035b4fe8acc450ffaf.nfyddsqlcy.acm-validations.aws.
 _122ccd0f182fdfadbbb9479bd600aae2.lbhfd9-stage.codeenigma.net.	300	IN	CNAME	_03473092b092b3c58f581f18f1024e57.fsdcfjjflr.acm-validations.aws.
@@ -591,6 +592,7 @@ monitor2.int.codeenigma.net.	3600	IN	A	10.3.4.7
 monitor3-buster.codeenigma.net.	60	IN	A	18.134.244.164
 monitor3.codeenigma.net.	3600	IN	A	52.56.36.187
 monitor3.int.codeenigma.net.	3600	IN	A	10.3.4.6
+mxrqxlcxgx5f7odh5kngvbtupstebi3r._domainkey.codeenigma.net.	1800	IN	CNAME	mxrqxlcxgx5f7odh5kngvbtupstebi3r.dkim.amazonses.com.
 myscience-app3.codeenigma.net.	3600	IN	A	52.209.72.165
 myscience-app3.int.codeenigma.net.	3600	IN	A	10.3.4.71
 myscience-app4.codeenigma.net.	3600	IN	A	52.31.175.166
@@ -674,6 +676,7 @@ puppet4.codeenigma.net.	3600	IN	A	3.121.43.157
 puppet4.int.codeenigma.net.	3600	IN	A	10.3.4.164
 q5umqgeguwllhiffqorperxcdx2igsvh._domainkey.dummy-deploy1.codeenigma.net.	300	IN	CNAME	q5umqgeguwllhiffqorperxcdx2igsvh.dkim.amazonses.com.
 qicentral.codeenigma.net.	300	IN	CNAME	rcpch-dev2.codeenigma.net.
+r6driaew676oybws36emjfcqytdjzi57._domainkey.codeenigma.net.	1800	IN	CNAME	r6driaew676oybws36emjfcqytdjzi57.dkim.amazonses.com.
 rcog-app1.codeenigma.net.	3600	IN	A	99.81.128.78
 rcog-app1.int.codeenigma.net.	3600	IN	A	10.3.4.170
 rcog-dev1.codeenigma.net.	3600	IN	A	52.212.106.60
@@ -722,6 +725,7 @@ roc-153626-stage.codeenigma.net.	3600	IN	A	3.250.116.109
 roc154859.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	roc154859-aps-asgenc-prod-1028807531.eu-west-1.elb.amazonaws.com.
 rtwc-develop-mencap.codeenigma.net.	300	IN	CNAME	mencap-dev1.codeenigma.net.
 rtwc-stage-mencap.codeenigma.net.	300	IN	CNAME	mencap-dev1.codeenigma.net.
+rvsuryloura3bofalocwc6xmijktemut._domainkey.codeenigma.net.	1800	IN	CNAME	rvsuryloura3bofalocwc6xmijktemut.dkim.amazonses.com.
 s4s-prod.codeenigma.net.	300	IN	CNAME	hlt-app1.codeenigma.net.
 san154268.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	san154268-aps-asg-prod-443441354.eu-west-1.elb.amazonaws.com.
 solr2.codeenigma.net.	3600	IN	A	52.56.184.10
@@ -831,6 +835,7 @@ vpn-dev.int.codeenigma.net.	3600	IN	A	10.3.4.188
 vpn-guest.codeenigma.net.	3600	IN	A	3.8.9.162
 vpn.codeenigma.net.	3600	IN	A	3.11.82.252
 vpn.int.codeenigma.net.	3600	IN	A	10.3.4.189
+vqcayf5q4fcrn5hj44br4cpiasyuzra5._domainkey.codeenigma.net.	1800	IN	CNAME	vqcayf5q4fcrn5hj44br4cpiasyuzra5.dkim.amazonses.com.
 westco-app1.codeenigma.net.	3600	IN	A	52.16.103.221
 westco-app1.int.codeenigma.net.	3600	IN	A	10.3.4.154
 wt-app3.codeenigma.net.	3600	IN	A	34.253.176.65
@@ -874,6 +879,7 @@ www-stage-fr.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
 www.airmic-stage.codeenigma.net.	300	IN	CNAME	airmic-stage1.codeenigma.net.
 www.codeenigma.net.	300	IN	CNAME	codeenigma.net.
 www.joh.codeenigma.net.	3600	IN	A	131.111.130.253
+wzji2bwoa3ib4sjzw74aigd5ylonash6._domainkey.codeenigma.net.	1800	IN	CNAME	wzji2bwoa3ib4sjzw74aigd5ylonash6.dkim.amazonses.com.
 xwwlbkzdipsj5pkg2uyu65v7k75sdk24._domainkey.codeenigma.net.	300	IN	CNAME	xwwlbkzdipsj5pkg2uyu65v7k75sdk24.dkim.amazonses.com.
 yubi.codeenigma.net.	3600	IN	A	35.176.229.17
 yubi.int.codeenigma.net.	3600	IN	A	10.3.4.8
