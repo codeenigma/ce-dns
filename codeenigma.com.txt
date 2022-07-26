@@ -30,6 +30,7 @@ codeenigma.com.	300	IN	TXT	"2rwxgmwklmqx7htzlnjy6gvh1mrqqy99"
 *.utility1.codeenigma.com.	300	IN	CNAME	utility3.codeenigma.net.
 *.vp-app1.codeenigma.com.	300	IN	CNAME	vp-app2.codeenigma.net.
 1248a0497a643e6e7ff604ea16c99223.codeenigma.com.	300	IN	CNAME	verify.bing.com.
+23yitvoko6z7c4knu7nqzo4kpynp25om._domainkey.codeenigma.com.	1800	IN	CNAME	23yitvoko6z7c4knu7nqzo4kpynp25om.dkim.amazonses.com.
 47sq2ksqywsf64gyqvv6b4kmcpylrw6b._domainkey.codeenigma.com.	300	IN	CNAME	47sq2ksqywsf64gyqvv6b4kmcpylrw6b.dkim.amazonses.com.
 9aed400981ccc4d4e841b87c138e2180.blog.codeenigma.com.	300	IN	CNAME	7dd2eb0c37372d2c1bdf027054c72f2e.0d214190669511c6a2f7c570a3d9d59d.comodoca.com.
 _6b38e5a0a63b8f62cc5f9e11eecb66fc.cewww-dev-en.codeenigma.com.	300	IN	CNAME	_459c770d3b4237c0000cc1876b6daec3.wggjkglgrm.acm-validations.aws.
@@ -68,6 +69,7 @@ iaea-proxy-test.codeenigma.com.	300	IN	A	162.13.70.223
 iaea-utilities.codeenigma.com.	300	IN	A	52.211.100.79
 iaea-utilities.codeenigma.com.	300	IN	TXT	"v=spf1 a mx ip4:52.211.100.79 ~all"
 iefjkc5ixpqvqt7tym6anu26shxbeva6._domainkey.codeenigma.com.	300	IN	CNAME	iefjkc5ixpqvqt7tym6anu26shxbeva6.dkim.amazonses.com.
+jdm4t5guyyyqybkytoll7fdjq4ainhcd._domainkey.codeenigma.com.	1800	IN	CNAME	jdm4t5guyyyqybkytoll7fdjq4ainhcd.dkim.amazonses.com.
 jenkins.codeenigma.com.	300	IN	A	52.56.121.203
 k1._domainkey.codeenigma.com.	300	IN	CNAME	dkim.mcsv.net.
 ksm.codeenigma.com.	300	IN	A	10.3.4.94
@@ -117,6 +119,7 @@ vp.monitor1.codeenigma.com.	300	IN	CNAME	monitor1.codeenigma.com.
 vpn-guest.codeenigma.com.	300	IN	A	162.13.84.10
 vpn.codeenigma.com.	300	IN	CNAME	monitor1.codeenigma.com.
 webalizer.codeenigma.com.	300	IN	A	10.3.4.6
+wog5o7oxbxmotacp2omknzj3ervy2s7j._domainkey.codeenigma.com.	1800	IN	CNAME	wog5o7oxbxmotacp2omknzj3ervy2s7j.dkim.amazonses.com.
 www.airmic-stage.codeenigma.com.	300	IN	CNAME	airmic-stage1.codeenigma.com.
 www.codeenigma.com.	300	IN	CNAME	codeenigma.com.
 yubi.codeenigma.com.	300	IN	A	35.176.229.17
