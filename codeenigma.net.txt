@@ -728,6 +728,7 @@ rtwc-stage-mencap.codeenigma.net.	300	IN	CNAME	mencap-dev1.codeenigma.net.
 rvsuryloura3bofalocwc6xmijktemut._domainkey.codeenigma.net.	1800	IN	CNAME	rvsuryloura3bofalocwc6xmijktemut.dkim.amazonses.com.
 s4s-prod.codeenigma.net.	300	IN	CNAME	hlt-app1.codeenigma.net.
 san154268.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	san154268-aps-asg-prod-443441354.eu-west-1.elb.amazonaws.com.
+selby-master.codeenigma.net.	3600	IN	CNAME	nycc-dev3.codeenigma.net.
 solr2.codeenigma.net.	3600	IN	A	52.56.184.10
 solr2.int.codeenigma.net.	3600	IN	A	10.3.4.98
 spiderman.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1250625352.eu-west-1.elb.amazonaws.com.
