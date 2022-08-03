@@ -31,6 +31,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.bcc-app1.codeenigma.net.	300	IN	CNAME	bcc-app1.codeenigma.net.
 *.bcc-app2.codeenigma.net.	300	IN	CNAME	bcc-app2.codeenigma.net.
 *.bcc-stage1.codeenigma.net.	300	IN	CNAME	bcc-stage1.codeenigma.net.
+*.canterbury-deploy1.codeenigma.net.	3600	IN	CNAME	canterbury-deploy1.codeenigma.net.
 *.ce-deploy1.codeenigma.net.	3600	IN	CNAME	ce-deploy1.codeenigma.net.
 *.ce-utility-dev1.codeenigma.net.	300	IN	CNAME	ce-utility-dev1.codeenigma.net.
 *.ce-utility1.codeenigma.net.	300	IN	CNAME	ce-utility1.codeenigma.net.
@@ -254,6 +255,7 @@ build.codeenigma.net.	3600	IN	A	35.177.30.142
 build.int.codeenigma.net.	3600	IN	A	10.3.4.16
 build2.codeenigma.net.	3600	IN	A	35.177.30.142
 build2.int.codeenigma.net.	3600	IN	A	10.3.4.16
+canterbury-deploy1.codeenigma.net.	3600	IN	A	3.11.115.215
 ce-deploy1.codeenigma.net.	3600	IN	A	3.10.183.111
 ce-utility-dev1.codeenigma.net.	3600	IN	A	52.9.143.67
 ce-utility1.codeenigma.net.	3600	IN	A	3.11.181.162
@@ -446,6 +448,7 @@ govwales-solr6.codeenigma.net.	3600	IN	A	35.176.66.213
 govwales-utility1.codeenigma.net.	3600	IN	A	52.213.245.183
 govwales-utility2.codeenigma.net.	3600	IN	A	52.213.245.183
 govwales-utility2.int.codeenigma.net.	3600	IN	A	10.3.4.30
+hc21154675.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	hc21154675-aps-asgenc-prod-1473335186.eu-west-1.elb.amazonaws.com.
 hc21154876.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	hc21154876-aps-asgenc-prod2-1639154738.eu-west-1.elb.amazonaws.com.
 hlt-app1.codeenigma.net.	3600	IN	A	34.252.75.139
 hlt-app1.int.codeenigma.net.	3600	IN	A	10.3.4.142
