@@ -31,6 +31,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.bcc-app1.codeenigma.net.	300	IN	CNAME	bcc-app1.codeenigma.net.
 *.bcc-app2.codeenigma.net.	300	IN	CNAME	bcc-app2.codeenigma.net.
 *.bcc-stage1.codeenigma.net.	300	IN	CNAME	bcc-stage1.codeenigma.net.
+*.canterbury-app1.codeenigma.net.	3600	IN	CNAME	canterbury-app1.codeenigma.net.
 *.canterbury-deploy1.codeenigma.net.	3600	IN	CNAME	canterbury-deploy1.codeenigma.net.
 *.ce-deploy1.codeenigma.net.	3600	IN	CNAME	ce-deploy1.codeenigma.net.
 *.ce-utility-dev1.codeenigma.net.	300	IN	CNAME	ce-utility-dev1.codeenigma.net.
@@ -242,6 +243,7 @@ apswebcast.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	apswebcast-aps-asgenc-p
 asg10.dummy-asgenc-prod.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-prod-codeenigma-net-333930559.eu-west-1.elb.amazonaws.com.
 asgtest.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1250625352.eu-west-1.elb.amazonaws.com.
 ash155507.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	ash155507-aps-asgenc-prod2-476531719.eu-west-1.elb.amazonaws.com.
+ash156292.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	ash156292-aps-asgenc-prod2-1908030601.eu-west-1.elb.amazonaws.com.
 aspire-dev.codeenigma.net.	300	IN	CNAME	hlt-dev2.codeenigma.net.
 aspire-prod.codeenigma.net.	300	IN	CNAME	hlt-app1.codeenigma.net.
 aspire-stage.codeenigma.net.	300	IN	CNAME	hlt-dev2.codeenigma.net.
@@ -255,7 +257,9 @@ build.codeenigma.net.	3600	IN	A	35.177.30.142
 build.int.codeenigma.net.	3600	IN	A	10.3.4.16
 build2.codeenigma.net.	3600	IN	A	35.177.30.142
 build2.int.codeenigma.net.	3600	IN	A	10.3.4.16
+canterbury-app1.codeenigma.net.	3600	IN	A	13.41.156.5
 canterbury-deploy1.codeenigma.net.	3600	IN	A	3.11.115.215
+canterbury-prod.codeenigma.net.	3600	IN	CNAME	canterbury-app1.codeenigma.net.
 ce-deploy1.codeenigma.net.	3600	IN	A	3.10.183.111
 ce-utility-dev1.codeenigma.net.	3600	IN	A	52.9.143.67
 ce-utility1.codeenigma.net.	3600	IN	A	3.11.181.162
