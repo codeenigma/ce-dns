@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -33,6 +33,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.bcc-stage1.codeenigma.net.	300	IN	CNAME	bcc-stage1.codeenigma.net.
 *.canterbury-app1.codeenigma.net.	3600	IN	CNAME	canterbury-app1.codeenigma.net.
 *.canterbury-deploy1.codeenigma.net.	3600	IN	CNAME	canterbury-deploy1.codeenigma.net.
+*.canterbury-dev1.codeenigma.net.	3600	IN	CNAME	canterbury-dev1.codeenigma.net.
 *.ce-deploy1.codeenigma.net.	3600	IN	CNAME	ce-deploy1.codeenigma.net.
 *.ce-utility-dev1.codeenigma.net.	300	IN	CNAME	ce-utility-dev1.codeenigma.net.
 *.ce-utility1.codeenigma.net.	300	IN	CNAME	ce-utility1.codeenigma.net.
@@ -259,7 +260,10 @@ build2.codeenigma.net.	3600	IN	A	35.177.30.142
 build2.int.codeenigma.net.	3600	IN	A	10.3.4.16
 canterbury-app1.codeenigma.net.	3600	IN	A	13.41.156.5
 canterbury-deploy1.codeenigma.net.	3600	IN	A	3.11.115.215
+canterbury-dev.codeenigma.net.	3600	IN	CNAME	canterbury-dev1.codeenigma.net.
+canterbury-dev1.codeenigma.net.	3600	IN	A	35.177.214.9
 canterbury-prod.codeenigma.net.	3600	IN	CNAME	canterbury-app1.codeenigma.net.
+canterbury-stage.codeenigma.net.	3600	IN	CNAME	canterbury-dev1.codeenigma.net.
 ce-deploy1.codeenigma.net.	3600	IN	A	3.10.183.111
 ce-utility-dev1.codeenigma.net.	3600	IN	A	52.9.143.67
 ce-utility1.codeenigma.net.	3600	IN	A	3.11.181.162
