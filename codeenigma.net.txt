@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -148,6 +148,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.surefoot-dev1.codeenigma.net.	3600	IN	CNAME	surefoot-dev1.codeenigma.net.
 *.trustnet-deploy1.codeenigma.net.	300	IN	CNAME	trustnet-deploy1.codeenigma.net.
 *.trustnet-dev.codeenigma.net.	300	IN	CNAME	trustnet-dev.codeenigma.net.
+*.trustnet-prod.codeenigma.net.	300	IN	CNAME	trustnet-prod.codeenigma.net.
 *.utility4.codeenigma.net.	300	IN	CNAME	utility4.codeenigma.net.
 *.vp-app1.codeenigma.net.	300	IN	CNAME	vp-app2.codeenigma.net.
 *.vp-app2.codeenigma.net.	300	IN	CNAME	vp-app2.codeenigma.net.
@@ -191,6 +192,7 @@ _b40aae46adc0e9ebdb38e760d7680018.unencrypted.aps-asg-prod.codeenigma.net.	300	I
 _b69cc83cbea6c17e4c4b68fec702626d.dummy-cluster2.codeenigma.net.	3600	IN	CNAME	_1217d69c0ccb5fd89bc0ef4f9fb7f8f3.yyqgzzsvtj.acm-validations.aws.
 _b6e711dd1d7fc11b9813559015590cd4.mystrokeguide-asg-dev.codeenigma.net.	300	IN	CNAME	_d3fbe83a17fd974c2c95000abfccab7d.vtqfhvjlcp.acm-validations.aws.
 _bcf19fd1efc6755444f24ca70692f2f0.mystrokeguide-asg-stage.codeenigma.net.	300	IN	CNAME	_de2b8970de2792a7232ab3ad2d89a106.vtqfhvjlcp.acm-validations.aws.
+_c1de809a58fd85b5fcf311874057a908.trustnet-prod.codeenigma.net.	300	IN	CNAME	_b0b8a91147f1c263e440e27751bb0bc5.xgxxrgwpcb.acm-validations.aws.
 _cb4cc883dab66fbbec846a826f8d5c8e.dummy-cluster.codeenigma.net.	3600	IN	CNAME	_d52659bd0c482181a651b1fb708732b2.yyqgzzsvtj.acm-validations.aws.
 _d13d3c326e84a8308c063daef0390eb7.ecmwf-stage.codeenigma.net.	300	IN	CNAME	_95f7bcc74a70ada4081ecc1b90949fc0.bnpptgxfyj.acm-validations.aws.
 _d869d73abb7d036c77cb30f576da1a86.lbhfd9-master.codeenigma.net.	300	IN	CNAME	_d0403e9978924d843e42f76a48e3251b.fsdcfjjflr.acm-validations.aws.
@@ -813,6 +815,7 @@ trustnet-lb1.codeenigma.net.	3600	IN	A	172.31.48.16
 trustnet-lb1.int.codeenigma.net.	3600	IN	A	10.3.4.171
 trustnet-lb2.codeenigma.net.	3600	IN	A	172.31.48.176
 trustnet-lb2.int.codeenigma.net.	3600	IN	A	10.3.4.172
+trustnet-prod.codeenigma.net.	3600	IN	CNAME	trustnet-prod-codeenigma-net-1159757410.eu-west-1.elb.amazonaws.com.
 trustnet-solr3.codeenigma.net.	3600	IN	A	172.31.48.13
 trustnet-solr3.int.codeenigma.net.	3600	IN	A	10.3.4.132
 trustnet-solr4.codeenigma.net.	3600	IN	A	172.31.48.79
