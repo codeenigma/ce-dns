@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -140,6 +140,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.stage3.codeenigma.net.	300	IN	CNAME	stage4.codeenigma.net.
 *.stage4.codeenigma.net.	300	IN	CNAME	stage4.codeenigma.net.
 *.stage5.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
+*.stem-deploy1.codeenigma.net.	3600	IN	CNAME	stem-deploy1.codeenigma.net.
 *.stjohns-app1.codeenigma.net.	300	IN	CNAME	stjohns-app1.codeenigma.net.
 *.stjohns-dev1.codeenigma.net.	300	IN	CNAME	stjohns-dev1.codeenigma.net.
 *.strokeassociation-deploy1.codeenigma.net.	3600	IN	CNAME	strokeassociation-deploy1.codeenigma.net.
@@ -765,6 +766,7 @@ stats-dev.codeenigma.net.	3600	IN	CNAME	stats-dev.codeenigma.com.
 stats.codeenigma.net.	3600	IN	CNAME	stats.codeenigma.com.
 status.codeenigma.net.	300	IN	CNAME	uptimessl.statuscake.com.
 stem-alb.codeenigma.net.	300	IN	CNAME	alb-stem-1143501849.eu-west-1.elb.amazonaws.com.
+stem-deploy1.codeenigma.net.	3600	IN	A	13.41.171.207
 stem-dev-int.codeenigma.net.	300	IN	CNAME	myscience-stage-lb1.codeenigma.net.
 stem-dev.codeenigma.net.	300	IN	CNAME	alb-stem-dev-2115377758.eu-west-1.elb.amazonaws.com.
 stem-elibrary-dev.codeenigma.net.	300	IN	CNAME	alb-stem-dev-2115377758.eu-west-1.elb.amazonaws.com.
