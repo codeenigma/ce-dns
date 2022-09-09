@@ -141,6 +141,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.stage4.codeenigma.net.	300	IN	CNAME	stage4.codeenigma.net.
 *.stage5.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
 *.stem-deploy1.codeenigma.net.	3600	IN	CNAME	stem-deploy1.codeenigma.net.
+*.stem-drupal-dev1.codeenigma.net.	3600	IN	CNAME	stem-drupal-dev1.codeenigma.net.
 *.stjohns-app1.codeenigma.net.	300	IN	CNAME	stjohns-app1.codeenigma.net.
 *.stjohns-dev1.codeenigma.net.	300	IN	CNAME	stjohns-dev1.codeenigma.net.
 *.strokeassociation-deploy1.codeenigma.net.	3600	IN	CNAME	strokeassociation-deploy1.codeenigma.net.
@@ -671,7 +672,6 @@ nycc-utility2-buster2.codeenigma.net.	3600	IN	A	10.3.4.211
 nycc-utility2.codeenigma.net.	3600	IN	A	52.210.106.54
 nycc-utility2.int.codeenigma.net.	3600	IN	A	10.3.4.78
 opg154794.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	opg154794-aps-asgenc-prod2-1841094116.eu-west-1.elb.amazonaws.com.
-opg155146.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	opg155146-aps-asgenc-prod-1092232993.eu-west-1.elb.amazonaws.com.
 opg156320.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	opg156320-aps-asgenc-prod2-875364668.eu-west-1.elb.amazonaws.com.
 ossec.codeenigma.net.	3600	IN	A	52.56.177.224
 ouiwrauaszdna6ywxwyfavkesqu4iyjg._domainkey.codeenigma.net.	300	IN	CNAME	ouiwrauaszdna6ywxwyfavkesqu4iyjg.dkim.amazonses.com.
@@ -769,6 +769,7 @@ stem-alb.codeenigma.net.	300	IN	CNAME	alb-stem-1143501849.eu-west-1.elb.amazonaw
 stem-deploy1.codeenigma.net.	3600	IN	A	13.41.171.207
 stem-dev-int.codeenigma.net.	300	IN	CNAME	myscience-stage-lb1.codeenigma.net.
 stem-dev.codeenigma.net.	300	IN	CNAME	alb-stem-dev-2115377758.eu-west-1.elb.amazonaws.com.
+stem-drupal-dev1.codeenigma.net.	3600	IN	A	18.168.216.47
 stem-elibrary-dev.codeenigma.net.	300	IN	CNAME	alb-stem-dev-2115377758.eu-west-1.elb.amazonaws.com.
 stem-int.codeenigma.net.	300	IN	A	34.251.83.23
 stem-integration.codeenigma.net.	300	IN	CNAME	alb-stem-preprod-1758657295.eu-west-1.elb.amazonaws.com.
