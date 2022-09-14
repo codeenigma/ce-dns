@@ -13,6 +13,8 @@ codeenigma.co.uk.	300	IN	NS	ns-333.awsdns-41.com.
 codeenigma.co.uk.	300	IN	NS	ns-1347.awsdns-40.org.
 codeenigma.co.uk.	300	IN	NS	ns-570.awsdns-07.net.
 *.user-dashboard-dev.codeenigma.co.uk.	3600	IN	A	18.134.109.45
+_53d5980cf1d8615bf82cc6c2314d359d.www.codeenigma.co.uk.	300	IN	CNAME	_781572f53e9348e49ed531e2ae01906b.tdzrjlznxp.acm-validations.aws.
+_b2c0968518b1ca7569bc30c7c70100aa.codeenigma.co.uk.	300	IN	CNAME	_f49b7369bd778c19ee203c6251a09880.tdzrjlznxp.acm-validations.aws.
 new.codeenigma.co.uk.	3600	IN	CNAME	ce-www-dev-codeenigma-net-699003124.eu-west-2.elb.amazonaws.com.
 tcz44ifffnkr.codeenigma.co.uk.	3600	IN	CNAME	gv-TXWNGFCPA6R7ZF.dv.googlehosted.com.
 www.codeenigma.co.uk.	3600	IN	CNAME	codeenigma.co.uk.
