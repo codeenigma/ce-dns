@@ -677,6 +677,7 @@ nycc-utility2-buster2.codeenigma.net.	3600	IN	A	10.3.4.211
 nycc-utility2.codeenigma.net.	3600	IN	A	52.210.106.54
 nycc-utility2.int.codeenigma.net.	3600	IN	A	10.3.4.78
 opg154794.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	opg154794-aps-asgenc-prod2-1841094116.eu-west-1.elb.amazonaws.com.
+opg155146.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	opg155146-aps-asgenc-prod-1766614156.eu-west-1.elb.amazonaws.com.
 opg156320.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	opg156320-aps-asgenc-prod2-875364668.eu-west-1.elb.amazonaws.com.
 ossec.codeenigma.net.	3600	IN	A	52.56.177.224
 ouiwrauaszdna6ywxwyfavkesqu4iyjg._domainkey.codeenigma.net.	300	IN	CNAME	ouiwrauaszdna6ywxwyfavkesqu4iyjg.dkim.amazonses.com.
