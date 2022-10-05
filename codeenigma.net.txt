@@ -144,6 +144,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.stem-dev-internal-lb.codeenigma.net.	3600	IN	CNAME	stem-dev-internal-lb.codeenigma.net.
 *.stem-drupal-dev1.codeenigma.net.	3600	IN	CNAME	stem-drupal-dev1.codeenigma.net.
 *.stem-drupal-preprod1.codeenigma.net.	3600	IN	CNAME	stem-drupal-preprod1.codeenigma.net.
+*.stem-prod-internal-lb.codeenigma.net.	3600	IN	CNAME	stem-prod-internal-lb.codeenigma.net.
 *.stem-symfony-dev1.codeenigma.net.	3600	IN	CNAME	stem-symfony-dev1.codeenigma.net.
 *.stem-symfony-preprod1.codeenigma.net.	3600	IN	CNAME	stem-symfony-preprod1.codeenigma.net.
 *.stjohns-app1.codeenigma.net.	300	IN	CNAME	stjohns-app1.codeenigma.net.
@@ -780,6 +781,7 @@ stem-alb.codeenigma.net.	300	IN	CNAME	alb-stem-1143501849.eu-west-1.elb.amazonaw
 stem-deploy1.codeenigma.net.	3600	IN	A	13.41.171.207
 stem-dev-int.codeenigma.net.	300	IN	CNAME	myscience-stage-lb1.codeenigma.net.
 stem-dev-internal-lb.codeenigma.net.	3600	IN	A	3.11.237.186
+stem-dev-internal-lb.codeenigma.net.	300	IN	AAAA	2a05:d01c:121:d805:610d:c392:9ac6:771a
 stem-dev.codeenigma.net.	300	IN	CNAME	alb-stem-dev-2115377758.eu-west-1.elb.amazonaws.com.
 stem-drupal-dev1.codeenigma.net.	3600	IN	A	18.168.216.47
 stem-drupal-preprod1.codeenigma.net.	3600	IN	A	18.168.22.220
@@ -789,6 +791,7 @@ stem-integration.codeenigma.net.	300	IN	CNAME	alb-stem-preprod-1758657295.eu-wes
 stem-preprod-int.codeenigma.net.	300	IN	CNAME	myscience-stage-lb1.codeenigma.net.
 stem-preprod-legacy.codeenigma.net.	300	IN	CNAME	stem-preprod.codeenigma.net.
 stem-preprod.codeenigma.net.	300	IN	CNAME	alb-stem-preprod-1758657295.eu-west-1.elb.amazonaws.com.
+stem-prod-internal-lb.codeenigma.net.	3600	IN	A	18.169.216.110
 stem-stage-int.codeenigma.net.	300	IN	CNAME	myscience-stage-lb1.codeenigma.net.
 stem-stage.codeenigma.net.	300	IN	CNAME	alb-stem-dev-2115377758.eu-west-1.elb.amazonaws.com.
 stem-symfony-dev1.codeenigma.net.	3600	IN	A	18.132.102.238
