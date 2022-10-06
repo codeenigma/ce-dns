@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -145,6 +145,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.stem-drupal-dev1.codeenigma.net.	3600	IN	CNAME	stem-drupal-dev1.codeenigma.net.
 *.stem-drupal-preprod1.codeenigma.net.	3600	IN	CNAME	stem-drupal-preprod1.codeenigma.net.
 *.stem-prod-internal-lb.codeenigma.net.	3600	IN	CNAME	stem-prod-internal-lb.codeenigma.net.
+*.stem-reporting1.codeenigma.net.	3600	IN	CNAME	stem-reporting1.codeenigma.net.
 *.stem-symfony-dev1.codeenigma.net.	3600	IN	CNAME	stem-symfony-dev1.codeenigma.net.
 *.stem-symfony-preprod1.codeenigma.net.	3600	IN	CNAME	stem-symfony-preprod1.codeenigma.net.
 *.stjohns-app1.codeenigma.net.	300	IN	CNAME	stjohns-app1.codeenigma.net.
@@ -792,6 +793,7 @@ stem-preprod-int.codeenigma.net.	300	IN	CNAME	myscience-stage-lb1.codeenigma.net
 stem-preprod-legacy.codeenigma.net.	300	IN	CNAME	stem-preprod.codeenigma.net.
 stem-preprod.codeenigma.net.	300	IN	CNAME	alb-stem-preprod-1758657295.eu-west-1.elb.amazonaws.com.
 stem-prod-internal-lb.codeenigma.net.	3600	IN	A	18.169.216.110
+stem-reporting1.codeenigma.net.	3600	IN	A	13.41.235.237
 stem-stage-int.codeenigma.net.	300	IN	CNAME	myscience-stage-lb1.codeenigma.net.
 stem-stage.codeenigma.net.	300	IN	CNAME	alb-stem-dev-2115377758.eu-west-1.elb.amazonaws.com.
 stem-symfony-dev1.codeenigma.net.	3600	IN	A	18.132.102.238
