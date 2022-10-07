@@ -254,6 +254,7 @@ apsauxiliary.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	apsauxiliary-aps-asge
 apscore.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	apscore-aps-asgenc-prod-1442470249.eu-west-1.elb.amazonaws.com.
 apsexpress.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	apsexpress-aps-asgenc-prod-1254895767.eu-west-1.elb.amazonaws.com.
 apsvenue.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	apsvenue-aps-asgenc-prod-1211511707.eu-west-1.elb.amazonaws.com.
+apsvirtual.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	apsvirtual-aps-asg-prod-1038135757.eu-west-1.elb.amazonaws.com.
 apswebcast.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	apswebcast-aps-asgenc-prod-1336050010.eu-west-1.elb.amazonaws.com.
 asg10.dummy-asgenc-prod.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-prod-codeenigma-net-333930559.eu-west-1.elb.amazonaws.com.
 asgtest.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1250625352.eu-west-1.elb.amazonaws.com.
@@ -394,6 +395,7 @@ fci-dev2.codeenigma.net.	3600	IN	A	35.176.178.103
 fci-dev2.int.codeenigma.net.	3600	IN	A	10.3.4.76
 fci-dev3.codeenigma.net.	3600	IN	A	18.133.114.94
 fk154320.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	fk154320-aps-asg-prod-1680833410.eu-west-1.elb.amazonaws.com.
+fk154321.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	fk154321-aps-asg-prod-740258052.eu-west-1.elb.amazonaws.com.
 gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz._domainkey.dummy-deploy1.codeenigma.net.	300	IN	CNAME	gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz.dkim.amazonses.com.
 git.codeenigma.net.	3600	IN	A	35.176.193.97
 git.int.codeenigma.net.	3600	IN	A	10.3.4.99
@@ -470,6 +472,7 @@ govwales-solr6.codeenigma.net.	3600	IN	A	35.176.66.213
 govwales-utility1.codeenigma.net.	3600	IN	A	52.213.245.183
 govwales-utility2.codeenigma.net.	3600	IN	A	52.213.245.183
 govwales-utility2.int.codeenigma.net.	3600	IN	A	10.3.4.30
+hc21154618.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	hc21154618-aps-asg-prod-911171569.eu-west-1.elb.amazonaws.com.
 hc21154675.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	hc21154675-aps-asgenc-prod-1473335186.eu-west-1.elb.amazonaws.com.
 hc21154876.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	hc21154876-aps-asgenc-prod2-1639154738.eu-west-1.elb.amazonaws.com.
 hlt-app1.codeenigma.net.	3600	IN	A	34.252.75.139
