@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -902,6 +902,7 @@ wt-corporated8-master.codeenigma.net.	300	IN	CNAME	wt-stage2.codeenigma.net.
 wt-dataviz-master.codeenigma.net.	300	IN	CNAME	wt-stage2.codeenigma.net.
 wt-explorify-preprod.codeenigma.net.	300	IN	CNAME	wt-stage3.codeenigma.net.
 wt-explorify-stage.codeenigma.net.	300	IN	CNAME	wt-stage3.codeenigma.net.
+wt-gitlab.codeenigma.net.	300	IN	CNAME	wt-infra1.codeenigma.net.
 wt-infra1.codeenigma.net.	300	IN	A	52.51.199.43
 wt-intranet-master.codeenigma.net.	300	IN	CNAME	wt-stage2.codeenigma.net.
 wt-jenkins2.codeenigma.net.	3600	IN	A	52.210.200.211
