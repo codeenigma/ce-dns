@@ -154,6 +154,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.strokeassociation-solr1.codeenigma.net.	3600	IN	CNAME	strokeassociation-solr1.codeenigma.net.
 *.surefoot-deploy1.codeenigma.net.	3600	IN	CNAME	surefoot-deploy1.codeenigma.net.
 *.surefoot-dev1.codeenigma.net.	3600	IN	CNAME	surefoot-dev1.codeenigma.net.
+*.trustnet-d9-dev.codeenigma.net.	300	IN	CNAME	trustnet-d9-dev-codeenigma-net-2129013788.eu-west-1.elb.amazonaws.com.
 *.trustnet-deploy1.codeenigma.net.	300	IN	CNAME	trustnet-deploy1.codeenigma.net.
 *.trustnet-dev.codeenigma.net.	300	IN	CNAME	trustnet-dev.codeenigma.net.
 *.trustnet-prod.codeenigma.net.	300	IN	CNAME	trustnet-prod.codeenigma.net.
@@ -841,6 +842,7 @@ trustnet-app5.codeenigma.net.	3600	IN	A	172.31.48.12
 trustnet-app5.int.codeenigma.net.	3600	IN	A	10.3.4.113
 trustnet-app6.codeenigma.net.	3600	IN	A	172.31.48.72
 trustnet-app6.int.codeenigma.net.	3600	IN	A	10.3.4.114
+trustnet-d9-dev.codeenigma.net.	3600	IN	CNAME	trustnet-d9-dev-codeenigma-net-2129013788.eu-west-1.elb.amazonaws.com.
 trustnet-deploy1.codeenigma.net.	300	IN	A	52.215.45.177
 trustnet-dev.codeenigma.net.	3600	IN	CNAME	trustnet-dev-codeenigma-net-863343610.eu-west-1.elb.amazonaws.com.
 trustnet-jenkins2.codeenigma.net.	3600	IN	A	34.248.122.200
