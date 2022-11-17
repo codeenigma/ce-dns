@@ -154,6 +154,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.strokeassociation-solr1.codeenigma.net.	3600	IN	CNAME	strokeassociation-solr1.codeenigma.net.
 *.surefoot-deploy1.codeenigma.net.	3600	IN	CNAME	surefoot-deploy1.codeenigma.net.
 *.surefoot-dev1.codeenigma.net.	3600	IN	CNAME	surefoot-dev1.codeenigma.net.
+*.trustnet-d7-dev.codeenigma.net.	300	IN	CNAME	trustnet-d7-dev.codeenigma.net.
 *.trustnet-d9-dev.codeenigma.net.	300	IN	CNAME	trustnet-d9-dev-codeenigma-net-2129013788.eu-west-1.elb.amazonaws.com.
 *.trustnet-deploy1.codeenigma.net.	300	IN	CNAME	trustnet-deploy1.codeenigma.net.
 *.trustnet-dev.codeenigma.net.	300	IN	CNAME	trustnet-dev.codeenigma.net.
@@ -178,6 +179,7 @@ _001c642e7757abee71e2323b4322064a.dashboard.codeenigma.net.	300	IN	CNAME	_d100c1
 _0eb165511eb12b3a135158e54c23dab6.user-dashboard.codeenigma.net.	300	IN	CNAME	_eab4258152dc68035b4fe8acc450ffaf.nfyddsqlcy.acm-validations.aws.
 _122ccd0f182fdfadbbb9479bd600aae2.lbhfd9-stage.codeenigma.net.	300	IN	CNAME	_03473092b092b3c58f581f18f1024e57.fsdcfjjflr.acm-validations.aws.
 _12f366f374ce5c3d97a00f5d5c90bc10.cumbria-prod.codeenigma.net.	300	IN	CNAME	_ba8427bad1071be975de92a5e1db0b1e.cvfdyspdbk.acm-validations.aws.
+_27ff49797cf1b285539d310b2c3b18d1.trustnet-d7-dev.codeenigma.net.	3600	IN	CNAME	_e57d49a8117ea19ea27b78a77e02ca16.zrvsvrxrgs.acm-validations.aws.
 _2d5eaf988f5bdde6df05fed69289b5a7.ecmwf-dev.codeenigma.net.	300	IN	CNAME	_8c08713d4c7d9c04b695513bf18831e1.bnpptgxfyj.acm-validations.aws.
 _33b3e59209d64c05ec4a4922430c3c56.cumbria-dev.codeenigma.net.	3600	IN	CNAME	_c139799f99a2be21f4b64bd0216243fc.yssrbzrnkq.acm-validations.aws.
 _41f09c588ba3d3696e5182941b2acab0.www.luc155929.aps-asgenc-prod2.codeenigma.net.	300	IN	CNAME	_fafbdfee81f1075eac658758b22abf31.tdzrjlznxp.acm-validations.aws.
