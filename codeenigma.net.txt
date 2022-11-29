@@ -834,6 +834,7 @@ surefoot-dev1.codeenigma.net.	3600	IN	A	13.40.249.26
 surefootportal-dev.codeenigma.net.	3600	IN	CNAME	surefoot-dev1.codeenigma.net.
 surefootportal-prod.codeenigma.net.	3600	IN	CNAME	surefoot-asg-prod-codeenigma-net-1739664506.eu-west-2.elb.amazonaws.com.
 surefootportal-stage.codeenigma.net.	3600	IN	CNAME	surefoot-dev1.codeenigma.net.
+tak156538.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	tak156538-aps-asgenc-prod2-1396692948.eu-west-1.elb.amazonaws.com.
 theplanner-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 theplanner-stage-new-auth.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 theplanner-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
