@@ -317,8 +317,8 @@ controller.codeenigma.net.	3600	IN	A	35.179.18.103
 corporate-prod.codeenigma.net.	300	IN	CNAME	hlt-app1.codeenigma.net.
 cricknet-dev.codeenigma.net.	3600	IN	CNAME	fci-dev3.codeenigma.net.
 cricknet-develop.codeenigma.net.	300	IN	CNAME	fci-dev1.codeenigma.net.
-cricknet-staging.codeenigma.net.	300	IN	CNAME	fci-dev1.codeenigma.net.
-cricknet-test.codeenigma.net.	300	IN	CNAME	fci-dev1.codeenigma.net.
+cricknet-staging.codeenigma.net.	300	IN	CNAME	fci-dev3.codeenigma.net.
+cricknet-test.codeenigma.net.	300	IN	CNAME	fci-dev3.codeenigma.net.
 croydon-bastion.codeenigma.net.	3600	IN	A	52.215.248.184
 croydon-bastion.int.codeenigma.net.	3600	IN	A	10.3.4.190
 croydonintranet-prod.codeenigma.net.	3600	IN	A	51.104.154.157
