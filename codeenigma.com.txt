@@ -96,6 +96,7 @@ puppet.int.codeenigma.com.	300	IN	A	10.3.4.1
 puppet2.codeenigma.com.	300	IN	A	34.250.90.36
 redactive-app1.codeenigma.com.	300	IN	A	35.176.100.141
 redactive-dev1.codeenigma.com.	300	IN	A	35.176.251.89
+redmine.codeenigma.com.	300	IN	TXT	"v=spf1 ip4:3.122.69.133 ~all"
 social.codeenigma.com.	3600	IN	A	35.156.173.59
 stage2.int.codeenigma.com.	300	IN	A	10.3.4.88
 stage3.int.codeenigma.com.	300	IN	A	10.3.4.88
