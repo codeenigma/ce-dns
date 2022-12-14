@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -134,9 +134,6 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.redactive-dev1.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 *.redactive-dev2.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 *.stage1.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
-*.stage2.codeenigma.net.	300	IN	CNAME	stage4.codeenigma.net.
-*.stage3.codeenigma.net.	300	IN	CNAME	stage4.codeenigma.net.
-*.stage4.codeenigma.net.	300	IN	CNAME	stage4.codeenigma.net.
 *.stage5.codeenigma.net.	300	IN	CNAME	stage5.codeenigma.net.
 *.stem-deploy1.codeenigma.net.	3600	IN	CNAME	stem-deploy1.codeenigma.net.
 *.stem-dev-internal-lb.codeenigma.net.	3600	IN	CNAME	stem-dev-internal-lb.codeenigma.net.
@@ -286,7 +283,7 @@ canterbury-app1.codeenigma.net.	3600	IN	A	13.41.156.5
 canterbury-deploy1.codeenigma.net.	3600	IN	A	3.11.115.215
 canterbury-dev.codeenigma.net.	3600	IN	CNAME	d2grvjp63v8s38.cloudfront.net.
 canterbury-dev1.codeenigma.net.	3600	IN	A	35.177.214.9
-canterbury-prod.codeenigma.net.	3600	IN	CNAME	d3gqso1oxdkef1.cloudfront.net.
+canterbury-prod.codeenigma.net.	3600	IN	CNAME	d2d00e8qjvjenb.cloudfront.net.
 canterbury-stage.codeenigma.net.	3600	IN	CNAME	d2pdyklxxtemsd.cloudfront.net.
 ce-deploy1.codeenigma.net.	3600	IN	A	3.10.183.111
 ce-utility-dev1.codeenigma.net.	3600	IN	A	52.9.143.67
@@ -308,7 +305,6 @@ chsoc-stage2.int.codeenigma.net.	3600	IN	A	10.3.4.108
 chv154408.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	chv154408-aps-asg-prod-2013594826.eu-west-1.elb.amazonaws.com.
 cl3.codeenigma.net.	3600	IN	A	35.177.127.44
 cl3.int.codeenigma.net.	3600	IN	A	10.3.4.127
-codeenigma-new-stage.codeenigma.net.	300	IN	CNAME	stage4.codeenigma.net.
 community-practitioner-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 community-practitioner-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 conference-dev.codeenigma.net.	300	IN	CNAME	airmic-stage2.codeenigma.net.
@@ -489,7 +485,6 @@ hlt-dev-login.codeenigma.net.	300	IN	CNAME	hlt-dev2.codeenigma.net.
 hlt-dev1.codeenigma.net.	3600	IN	A	34.250.4.133
 hlt-dev2.codeenigma.net.	3600	IN	A	34.250.4.133
 hlt-dev2.int.codeenigma.net.	3600	IN	A	10.3.4.80
-hlt-prototype.codeenigma.net.	300	IN	CNAME	stage4.codeenigma.net.
 iaea-25c1.codeenigma.net.	300	IN	A	34.243.161.6
 iaea-2f34.codeenigma.net.	300	IN	A	34.243.161.6
 iaea-42a5.codeenigma.net.	300	IN	A	34.243.161.6
@@ -762,8 +757,6 @@ stage2.codeenigma.net.	3600	IN	A	35.176.116.147
 stage2.int.codeenigma.net.	3600	IN	A	10.3.4.88
 stage3.codeenigma.net.	3600	IN	A	35.176.116.147
 stage3.int.codeenigma.net.	3600	IN	A	10.3.4.88
-stage4.codeenigma.net.	3600	IN	A	35.176.116.147
-stage4.int.codeenigma.net.	3600	IN	A	10.3.4.88
 stage5.codeenigma.net.	3600	IN	A	35.176.119.64
 stage5.int.codeenigma.net.	3600	IN	A	10.3.4.89
 stage6.int.codeenigma.net.	3600	IN	A	10.3.4.90
@@ -797,7 +790,6 @@ stjohns-app1.int.codeenigma.net.	3600	IN	A	10.3.4.140
 stjohns-dev1.codeenigma.net.	3600	IN	A	52.18.211.203
 stjohns-dev1.int.codeenigma.net.	3600	IN	A	10.3.4.141
 stjohns-prod.codeenigma.net.	300	IN	CNAME	stjohns-app1.codeenigma.net.
-stjohns-stage.codeenigma.net.	300	IN	CNAME	stage4.codeenigma.net.
 stjohnsd8-dev.codeenigma.net.	300	IN	CNAME	stjohns-dev1.codeenigma.net.
 stjohnsd8.stage.stage1.codeenigma.net.	300	IN	CNAME	stjohns-dev1.codeenigma.net.
 strokeassociation-asg-dev.codeenigma.net.	3600	IN	CNAME	stroke-asg-dev-codeenigma-net-939729380.eu-west-2.elb.amazonaws.com.
@@ -859,11 +851,8 @@ utility3.codeenigma.net.	3600	IN	A	35.176.238.60
 utility3.int.codeenigma.net.	3600	IN	A	10.3.4.91
 utility4.codeenigma.net.	3600	IN	A	18.196.171.173
 utility4.int.codeenigma.net.	3600	IN	A	10.3.4.192
-veep-stage.codeenigma.net.	300	IN	CNAME	stage4.codeenigma.net.
 veep.dev1.codeenigma.net.	300	IN	CNAME	dev4.codeenigma.net.
 veep.dev3.codeenigma.net.	300	IN	CNAME	dev4.codeenigma.net.
-veep.stage1.codeenigma.net.	300	IN	CNAME	stage4.codeenigma.net.
-veep.stage3.codeenigma.net.	300	IN	CNAME	stage4.codeenigma.net.
 vp-app1.codeenigma.net.	3600	IN	A	34.228.202.51
 vp-app1.int.codeenigma.net.	3600	IN	A	10.3.4.106
 vp-app2.codeenigma.net.	3600	IN	A	34.228.202.51
