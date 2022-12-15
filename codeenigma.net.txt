@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -106,7 +106,6 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.mencap-dev1.codeenigma.net.	300	IN	CNAME	mencap-dev1.codeenigma.net.
 *.mencap-discourse.codeenigma.net.	300	IN	CNAME	mencap-discourse.codeenigma.net.
 *.mfa-dev1.codeenigma.net.	3600	IN	CNAME	mfa-dev1.codeenigma.net.
-*.microserve-dev1.codeenigma.net.	300	IN	CNAME	microserve-dev1.codeenigma.net.
 *.monitor1.codeenigma.net.	3600	IN	CNAME	monitor1.codeenigma.net.
 *.myscience-app1.codeenigma.net.	300	IN	CNAME	myscience-app1.codeenigma.net.
 *.myscience-dev1.codeenigma.net.	300	IN	CNAME	myscience-dev3.codeenigma.net.
@@ -264,7 +263,6 @@ apswebcast.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	apswebcast-aps-asgenc-p
 asg10.dummy-asgenc-prod.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-prod-codeenigma-net-333930559.eu-west-1.elb.amazonaws.com.
 asgtest.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1250625352.eu-west-1.elb.amazonaws.com.
 ash155507.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	ash155507-aps-asgenc-prod2-476531719.eu-west-1.elb.amazonaws.com.
-ash156292.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	ash156292-aps-asgenc-prod2-1908030601.eu-west-1.elb.amazonaws.com.
 ash156573.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	ash156573-aps-asgenc-prod2-2112377798.eu-west-1.elb.amazonaws.com.
 aspire-dev.codeenigma.net.	300	IN	CNAME	hlt-dev2.codeenigma.net.
 aspire-prod.codeenigma.net.	300	IN	CNAME	hlt-app1.codeenigma.net.
@@ -595,10 +593,7 @@ mer156004.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer156004-aps-asgenc-pr
 mer156535.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer156535-aps-asgenc-prod2-1763305835.eu-west-1.elb.amazonaws.com.
 metabase.codeenigma.net.	300	IN	CNAME	metabase-alb-2102566008.us-east-1.elb.amazonaws.com.
 mfa-dev1.codeenigma.net.	3600	IN	A	3.11.113.31
-microserve-dev1.codeenigma.net.	3600	IN	A	88.99.95.8
 microserve-dev2.codeenigma.net.	3600	IN	A	188.40.139.183
-microserve-jenkins.codeenigma.net.	300	IN	CNAME	microserve-dev1.codeenigma.net.
-microserve-mailhog.codeenigma.net.	300	IN	CNAME	microserve-dev1.codeenigma.net.
 monitor1.codeenigma.net.	3600	IN	A	18.130.51.187
 monitor1.int.codeenigma.net.	3600	IN	A	10.3.4.6
 monitor2.int.codeenigma.net.	3600	IN	A	10.3.4.7
