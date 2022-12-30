@@ -526,7 +526,7 @@ jenkins2.codeenigma.net.	3600	IN	A	52.56.121.203
 jenkins2.int.codeenigma.net.	3600	IN	A	10.3.4.15
 johnthorogood-prod.codeenigma.net.	300	IN	CNAME	enigma3.codeenigma.net.
 kn154965.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	kn154965-aps-asgenc-prod2-1491279849.eu-west-1.elb.amazonaws.com.
-ksm.codeenigma.net.	3600	IN	A	10.3.4.94
+ksm.codeenigma.net.	3600	IN	A	3.11.35.212
 ksm2.codeenigma.net.	3600	IN	A	10.3.4.94
 ksm2.int.codeenigma.net.	3600	IN	A	10.3.4.94
 lbhf-deploy1.codeenigma.net.	3600	IN	A	52.56.82.99
@@ -907,7 +907,7 @@ www.codeenigma.net.	300	IN	CNAME	codeenigma.net.
 www.joh.codeenigma.net.	3600	IN	A	131.111.130.253
 wzji2bwoa3ib4sjzw74aigd5ylonash6._domainkey.codeenigma.net.	1800	IN	CNAME	wzji2bwoa3ib4sjzw74aigd5ylonash6.dkim.amazonses.com.
 xwwlbkzdipsj5pkg2uyu65v7k75sdk24._domainkey.codeenigma.net.	300	IN	CNAME	xwwlbkzdipsj5pkg2uyu65v7k75sdk24.dkim.amazonses.com.
-yubi.codeenigma.net.	3600	IN	A	35.176.229.17
+yubi.codeenigma.net.	3600	IN	A	3.9.243.170
 yubi.int.codeenigma.net.	3600	IN	A	10.3.4.8
 yubi2.codeenigma.net.	3600	IN	A	35.176.229.17
 yubi2.int.codeenigma.net.	3600	IN	A	10.3.4.8
