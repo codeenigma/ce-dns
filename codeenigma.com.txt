@@ -69,7 +69,6 @@ iefjkc5ixpqvqt7tym6anu26shxbeva6._domainkey.codeenigma.com.	300	IN	CNAME	iefjkc5
 jdm4t5guyyyqybkytoll7fdjq4ainhcd._domainkey.codeenigma.com.	1800	IN	CNAME	jdm4t5guyyyqybkytoll7fdjq4ainhcd.dkim.amazonses.com.
 jenkins.codeenigma.com.	300	IN	A	52.56.121.203
 k1._domainkey.codeenigma.com.	300	IN	CNAME	dkim.mcsv.net.
-ksm.codeenigma.com.	300	IN	A	10.3.4.94
 ksm.int.codeenigma.com.	300	IN	A	10.3.4.94
 ldap-test.codeenigma.com.	300	IN	CNAME	dummy-ldap.codeenigma.net.
 ldap.codeenigma.com.	300	IN	A	35.176.106.229
