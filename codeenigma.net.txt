@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -265,6 +265,7 @@ ce-utility1.codeenigma.net.	3600	IN	A	3.11.181.162
 ce-vm.codeenigma.net.	300	IN	CNAME	enigma3.codeenigma.net.
 ce-www-dev.codeenigma.net.	3600	IN	CNAME	ce-www-dev-codeenigma-net-699003124.eu-west-2.elb.amazonaws.com.
 ce-www-prod.codeenigma.net.	3600	IN	CNAME	ce-www-prod-codeenigma-net-669926968.eu-west-2.elb.amazonaws.com.
+chat.git.codeenigma.net.	3600	IN	CNAME	git.codeenigma.net.
 check1.codeenigma.net.	3600	IN	A	46.101.48.134
 check2.codeenigma.net.	3600	IN	A	213.138.111.187
 check3.codeenigma.net.	3600	IN	A	104.155.4.187
