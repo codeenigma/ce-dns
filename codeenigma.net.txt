@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -532,6 +532,7 @@ monitor2.int.codeenigma.net.	3600	IN	A	10.3.4.7
 monitor3-buster.codeenigma.net.	60	IN	A	18.134.244.164
 monitor3.codeenigma.net.	3600	IN	A	52.56.36.187
 monitor3.int.codeenigma.net.	3600	IN	A	10.3.4.6
+multicast.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	multicast-aps-asgenc-prod-99970966.eu-west-1.elb.amazonaws.com.
 mxrqxlcxgx5f7odh5kngvbtupstebi3r._domainkey.codeenigma.net.	1800	IN	CNAME	mxrqxlcxgx5f7odh5kngvbtupstebi3r.dkim.amazonses.com.
 myscience-app3.codeenigma.net.	3600	IN	A	52.209.72.165
 myscience-app3.int.codeenigma.net.	3600	IN	A	10.3.4.71
@@ -775,6 +776,7 @@ vpn-guest.codeenigma.net.	3600	IN	A	3.8.9.162
 vpn.codeenigma.net.	3600	IN	A	3.11.82.252
 vpn.int.codeenigma.net.	3600	IN	A	10.3.4.189
 vqcayf5q4fcrn5hj44br4cpiasyuzra5._domainkey.codeenigma.net.	1800	IN	CNAME	vqcayf5q4fcrn5hj44br4cpiasyuzra5.dkim.amazonses.com.
+webcast.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	webcast-aps-asgenc-prod-237141661.eu-west-1.elb.amazonaws.com.
 westco-app1.codeenigma.net.	3600	IN	A	52.16.103.221
 westco-app1.int.codeenigma.net.	3600	IN	A	10.3.4.154
 wt-app3.codeenigma.net.	3600	IN	A	34.253.176.65
