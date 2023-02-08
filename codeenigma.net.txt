@@ -46,6 +46,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.dfe-app1.codeenigma.net.	300	IN	CNAME	dfe-app1.codeenigma.net.
 *.dummy-deploy1.codeenigma.net.	3600	IN	CNAME	dummy-deploy1.codeenigma.net.
 *.dummy-infra1.codeenigma.net.	3600	IN	CNAME	dummy-infra1.codeenigma.net.
+*.dummy-ips.codeenigma.net.	3600	IN	CNAME	dummy-ips.codeenigma.net.
 *.dummy-ksm.codeenigma.net.	3600	IN	CNAME	dummy-ksm.codeenigma.net.
 *.dummy-ldap.codeenigma.net.	3600	IN	CNAME	dummy-ldap.codeenigma.net.
 *.dummy-mfa1.codeenigma.net.	3600	IN	CNAME	dummy-mfa1.codeenigma.net.
@@ -325,6 +326,7 @@ dummy-cluster.codeenigma.net.	3600	IN	CNAME	d26nvypu1ymewj.cloudfront.net.
 dummy-cluster2.codeenigma.net.	3600	IN	CNAME	d26nvypu1ymewj.cloudfront.net.
 dummy-deploy1.codeenigma.net.	3600	IN	A	54.220.7.154
 dummy-infra1.codeenigma.net.	3600	IN	A	54.72.154.149
+dummy-ips.codeenigma.net.	3600	IN	A	63.33.244.255
 dummy-ksm.codeenigma.net.	3600	IN	A	54.216.74.50
 dummy-ldap.codeenigma.net.	3600	IN	A	54.155.93.113
 dummy-mfa1.codeenigma.net.	3600	IN	A	34.255.76.13
