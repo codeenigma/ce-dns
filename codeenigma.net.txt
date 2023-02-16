@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -601,7 +601,6 @@ nycc-utility1.int.codeenigma.net.	3600	IN	A	10.3.4.78
 nycc-utility2-buster2.codeenigma.net.	3600	IN	A	10.3.4.211
 nycc-utility2.codeenigma.net.	3600	IN	A	52.210.106.54
 nycc-utility2.int.codeenigma.net.	3600	IN	A	10.3.4.78
-opg154707.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	opg154707-aps-asg-prod-2071314756.eu-west-1.elb.amazonaws.com.
 opg154794.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	opg154794-aps-asgenc-prod2-1841094116.eu-west-1.elb.amazonaws.com.
 opg156320.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	opg156320-aps-asgenc-prod2-875364668.eu-west-1.elb.amazonaws.com.
 optscale.codeenigma.net.	300	IN	A	3.75.13.234
@@ -679,7 +678,6 @@ selby-prod.codeenigma.net.	3600	IN	CNAME	nycc-dev3.codeenigma.net.
 solr2.codeenigma.net.	3600	IN	A	52.56.184.10
 solr2.int.codeenigma.net.	3600	IN	A	10.3.4.98
 spiderman.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1250625352.eu-west-1.elb.amazonaws.com.
-spr154990.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	spr154990-aps-asgenc-prod-1536047254.eu-west-1.elb.amazonaws.com.
 spr155544.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	spr155544-aps-asgenc-prod2-331634070.eu-west-1.elb.amazonaws.com.
 stage1.codeenigma.net.	3600	IN	A	35.176.119.64
 stage2.codeenigma.net.	3600	IN	A	35.176.116.147
