@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.com.
-codeenigma.com.	900	IN	SOA	ns-513.awsdns-00.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.com.	86400	AWS	ALIAS	A ce-www-prod-codeenigma-net-669926968.eu-west-2.elb.amazonaws.com. ZHURV8PSTC4K8 false
+codeenigma.com.	900	IN	SOA	ns-513.awsdns-00.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.com.	300	IN	MX	10 aspmx.l.google.com.
 codeenigma.com.	300	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.com.	300	IN	MX	20 alt2.aspmx.l.google.com.
@@ -93,7 +93,6 @@ support.codeenigma.com.	300	IN	MX	10 mail.support.codeenigma.com.
 utility1.codeenigma.com.	300	IN	A	35.176.238.60
 utility1.int.codeenigma.com.	300	IN	A	10.3.4.91
 utility2.codeenigma.com.	300	IN	A	173.255.206.98
-vpn-guest.codeenigma.com.	300	IN	A	162.13.84.10
 vpn.codeenigma.com.	300	IN	CNAME	monitor1.codeenigma.com.
 webalizer.codeenigma.com.	300	IN	A	10.3.4.6
 wog5o7oxbxmotacp2omknzj3ervy2s7j._domainkey.codeenigma.com.	1800	IN	CNAME	wog5o7oxbxmotacp2omknzj3ervy2s7j.dkim.amazonses.com.
