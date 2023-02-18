@@ -132,6 +132,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.stjohns-dev1.codeenigma.net.	300	IN	CNAME	stjohns-dev1.codeenigma.net.
 *.strokeassociation-deploy1.codeenigma.net.	3600	IN	CNAME	strokeassociation-deploy1.codeenigma.net.
 *.strokeassociation-dev1.codeenigma.net.	3600	IN	CNAME	strokeassociation-dev1.codeenigma.net.
+*.strokeassociation-dev2.codeenigma.net.	3600	IN	CNAME	strokeassociation-dev2.codeenigma.net.
 *.strokeassociation-solr1.codeenigma.net.	3600	IN	CNAME	strokeassociation-solr1.codeenigma.net.
 *.surefoot-deploy1.codeenigma.net.	3600	IN	CNAME	surefoot-deploy1.codeenigma.net.
 *.surefoot-dev1.codeenigma.net.	3600	IN	CNAME	surefoot-dev1.codeenigma.net.
@@ -574,9 +575,9 @@ myscience-stage-lb1.codeenigma.net.	3600	IN	AAAA	2a05:d018:856:c203:7b6d:4232:9a
 myscience-stage-lb1.int.codeenigma.net.	3600	IN	A	10.3.4.112
 myscience-utility1.codeenigma.net.	3600	IN	A	52.18.18.208
 myscience-utility1.int.codeenigma.net.	3600	IN	A	10.3.4.137
-mystrokeguide-asg-dev.codeenigma.net.	300	IN	CNAME	stroke-asg-dev-codeenigma-net-939729380.eu-west-2.elb.amazonaws.com.
+mystrokeguide-asg-dev.codeenigma.net.	300	IN	CNAME	strokeassociation-dev1.codeenigma.net.
 mystrokeguide-asg-prod.codeenigma.net.	300	IN	CNAME	stroke-asg-prod-codeenigma-net-123591735.eu-west-2.elb.amazonaws.com.
-mystrokeguide-asg-stage.codeenigma.net.	300	IN	CNAME	stroke-asg-stage-codeenigma-net-1402874669.eu-west-2.elb.amazonaws.com.
+mystrokeguide-asg-stage.codeenigma.net.	300	IN	CNAME	strokeassociation-dev1.codeenigma.net.
 n5zexext3gjzmupescfiyegf6m66ttkz._domainkey.codeenigma.net.	300	IN	CNAME	n5zexext3gjzmupescfiyegf6m66ttkz.dkim.amazonses.com.
 ndp-utility1.codeenigma.net.	3600	IN	A	34.246.245.227
 nextcloud-dev.codeenigma.net.	300	IN	CNAME	dev5.codeenigma.net.
@@ -722,6 +723,7 @@ strokeassociation-asg-prod.codeenigma.net.	300	IN	CNAME	d3kq9eojk57h58.cloudfron
 strokeassociation-asg-stage.codeenigma.net.	300	IN	CNAME	d1pnp5qyej5d19.cloudfront.net.
 strokeassociation-deploy1.codeenigma.net.	3600	IN	A	18.130.111.191
 strokeassociation-dev1.codeenigma.net.	3600	IN	A	35.178.13.123
+strokeassociation-dev2.codeenigma.net.	3600	IN	A	18.133.67.45
 strokeassociation-solr1.codeenigma.net.	3600	IN	A	3.8.75.154
 support.codeenigma.net.	3600	IN	MX	10 mail.support.codeenigma.com.
 surefoot-deploy1.codeenigma.net.	3600	IN	A	18.132.54.192
