@@ -131,6 +131,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.stjohns-app1.codeenigma.net.	300	IN	CNAME	stjohns-app1.codeenigma.net.
 *.stjohns-dev1.codeenigma.net.	300	IN	CNAME	stjohns-dev1.codeenigma.net.
 *.strokeassociation-app1.codeenigma.net.	3600	IN	CNAME	strokeassociation-app1.codeenigma.net.
+*.strokeassociation-app2.codeenigma.net.	3600	IN	CNAME	strokeassociation-app2.codeenigma.net.
 *.strokeassociation-deploy1.codeenigma.net.	3600	IN	CNAME	strokeassociation-deploy1.codeenigma.net.
 *.strokeassociation-dev1.codeenigma.net.	3600	IN	CNAME	strokeassociation-dev1.codeenigma.net.
 *.strokeassociation-dev2.codeenigma.net.	3600	IN	CNAME	strokeassociation-dev2.codeenigma.net.
@@ -722,8 +723,9 @@ stjohns-prod.codeenigma.net.	300	IN	CNAME	stjohns-app1.codeenigma.net.
 stjohnsd8-dev.codeenigma.net.	300	IN	CNAME	stjohns-dev1.codeenigma.net.
 stjohnsd8.stage.stage1.codeenigma.net.	300	IN	CNAME	stjohns-dev1.codeenigma.net.
 strokeassociation-app1.codeenigma.net.	3600	IN	A	52.56.126.62
+strokeassociation-app2.codeenigma.net.	3600	IN	A	13.42.145.28
 strokeassociation-asg-dev.codeenigma.net.	3600	IN	CNAME	d1lgamd1ug8c8q.cloudfront.net.
-strokeassociation-asg-prod.codeenigma.net.	300	IN	CNAME	d3kq9eojk57h58.cloudfront.net.
+strokeassociation-asg-prod.codeenigma.net.	3600	IN	CNAME	d3kq9eojk57h58.cloudfront.net.
 strokeassociation-asg-stage.codeenigma.net.	3600	IN	CNAME	d1pnp5qyej5d19.cloudfront.net.
 strokeassociation-deploy1.codeenigma.net.	3600	IN	A	18.130.111.191
 strokeassociation-dev1.codeenigma.net.	3600	IN	A	35.178.13.123
