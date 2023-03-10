@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -352,6 +352,7 @@ enigma3.codeenigma.net.	3600	IN	A	18.130.42.81
 enigma3.int.codeenigma.net.	3600	IN	A	10.3.4.158
 envmentalist-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 envmentalist-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
+ep4zigl6yqnzwgra7dfsqwqihsufbve7._domainkey.gitlab.govwales-deploy1.codeenigma.net.	300	IN	CNAME	ep4zigl6yqnzwgra7dfsqwqihsufbve7.dkim.amazonses.com.
 epiqo-app18.int.codeenigma.net.	3600	IN	A	10.3.4.126
 epiqo-app21.int.codeenigma.net.	3600	IN	A	10.3.4.150
 epiqo-app28.int.codeenigma.net.	3600	IN	A	10.3.4.177
@@ -369,6 +370,7 @@ fci-dev2.int.codeenigma.net.	3600	IN	A	10.3.4.76
 fci-dev3.codeenigma.net.	3600	IN	A	18.133.114.94
 fk154320.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	fk154320-aps-asg-prod-1680833410.eu-west-1.elb.amazonaws.com.
 fk154321.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	fk154321-aps-asg-prod-740258052.eu-west-1.elb.amazonaws.com.
+fz2mbzdapznbhkzjazeeirliafrbc6e4._domainkey.gitlab.govwales-deploy1.codeenigma.net.	300	IN	CNAME	fz2mbzdapznbhkzjazeeirliafrbc6e4.dkim.amazonses.com.
 gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz._domainkey.dummy-deploy1.codeenigma.net.	300	IN	CNAME	gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz.dkim.amazonses.com.
 git.codeenigma.net.	3600	IN	A	18.133.151.56
 git.int.codeenigma.net.	3600	IN	A	10.3.4.99
@@ -521,6 +523,8 @@ log2.codeenigma.net.	3600	IN	A	35.176.218.41
 login-dev.codeenigma.net.	300	IN	CNAME	utility3.int.codeenigma.net.
 login.codeenigma.net.	300	IN	CNAME	enigma3.codeenigma.net.
 luc155929.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	luc155929-aps-asgenc-prod2-1361984190.eu-west-1.elb.amazonaws.com.
+mailfrom.gitlab.govwales-deploy1.codeenigma.net.	300	IN	MX	10 feedback-smtp.eu-west-2.amazonses.com.
+mailfrom.gitlab.govwales-deploy1.codeenigma.net.	300	IN	TXT	"v=spf1 include:amazonses.com ~all"
 med155500.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	med155500-aps-asgenc-prod2-637012125.eu-west-1.elb.amazonaws.com.
 mer153975.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mer153975-aps-asg-prod-806918267.eu-west-1.elb.amazonaws.com.
 mer154434.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mer154434-aps-asg-prod-1502227217.eu-west-1.elb.amazonaws.com.
@@ -835,4 +839,5 @@ www.codeenigma.net.	300	IN	CNAME	codeenigma.net.
 www.joh.codeenigma.net.	3600	IN	A	131.111.130.253
 wzji2bwoa3ib4sjzw74aigd5ylonash6._domainkey.codeenigma.net.	1800	IN	CNAME	wzji2bwoa3ib4sjzw74aigd5ylonash6.dkim.amazonses.com.
 xwwlbkzdipsj5pkg2uyu65v7k75sdk24._domainkey.codeenigma.net.	300	IN	CNAME	xwwlbkzdipsj5pkg2uyu65v7k75sdk24.dkim.amazonses.com.
+yq53lobnagdqhjgvd4sqz5m6i6u4bkgf._domainkey.gitlab.govwales-deploy1.codeenigma.net.	300	IN	CNAME	yq53lobnagdqhjgvd4sqz5m6i6u4bkgf.dkim.amazonses.com.
 yubi.codeenigma.net.	3600	IN	A	35.176.229.17
