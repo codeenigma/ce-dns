@@ -694,10 +694,10 @@ solr2.codeenigma.net.	3600	IN	A	52.56.184.10
 solr2.int.codeenigma.net.	3600	IN	A	10.3.4.98
 southhams-app1.codeenigma.net.	3600	IN	A	35.177.193.68
 southhams-deploy1.codeenigma.net.	3600	IN	A	13.42.197.152
-southhams-dev.codeenigma.net.	3600	IN	CNAME	d13bn2zar4ec6k.cloudfront.net.
+southhams-dev.codeenigma.net.	3600	IN	CNAME	southhams-dev1.codeenigma.net.
 southhams-dev1.codeenigma.net.	3600	IN	A	13.42.100.46
 southhams-prod.codeenigma.net.	3600	IN	CNAME	dwegjbcfy14i7.cloudfront.net.
-southhams-stage.codeenigma.net.	3600	IN	CNAME	d23v0avitqictl.cloudfront.net.
+southhams-stage.codeenigma.net.	3600	IN	CNAME	southhams-dev1.codeenigma.net.
 spiderman.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1250625352.eu-west-1.elb.amazonaws.com.
 spr156857.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	spr156857-aps-asgenc-prod2-1496375304.eu-west-1.elb.amazonaws.com.
 stage1.codeenigma.net.	3600	IN	A	35.176.119.64
@@ -814,8 +814,8 @@ vqcayf5q4fcrn5hj44br4cpiasyuzra5._domainkey.codeenigma.net.	1800	IN	CNAME	vqcayf
 webcast.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	webcast-aps-asgenc-prod-237141661.eu-west-1.elb.amazonaws.com.
 westco-app1.codeenigma.net.	3600	IN	A	52.16.103.221
 westco-app1.int.codeenigma.net.	3600	IN	A	10.3.4.154
-westdevon-dev.codeenigma.net.	3600	IN	CNAME	d13bn2zar4ec6k.cloudfront.net.
-westdevon-stage.codeenigma.net.	300	IN	CNAME	d23v0avitqictl.cloudfront.net.
+westdevon-dev.codeenigma.net.	3600	IN	CNAME	southhams-dev1.codeenigma.net.
+westdevon-stage.codeenigma.net.	3600	IN	CNAME	southhams-dev1.codeenigma.net.
 wt-app3.codeenigma.net.	3600	IN	A	34.253.176.65
 wt-app3.int.codeenigma.net.	3600	IN	A	10.3.4.20
 wt-app4.codeenigma.net.	3600	IN	A	52.50.148.56
