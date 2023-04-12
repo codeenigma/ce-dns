@@ -303,7 +303,6 @@ chsoc-stage1.codeenigma.net.	3600	IN	A	34.240.136.246
 chsoc-stage1.int.codeenigma.net.	3600	IN	A	10.3.4.108
 chsoc-stage2.codeenigma.net.	3600	IN	A	34.240.136.246
 chsoc-stage2.int.codeenigma.net.	3600	IN	A	10.3.4.108
-chv154408.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	chv154408-aps-asg-prod-2013594826.eu-west-1.elb.amazonaws.com.
 cl3.codeenigma.net.	3600	IN	A	35.177.127.44
 cl3.int.codeenigma.net.	3600	IN	A	10.3.4.127
 community-practitioner-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
@@ -549,7 +548,6 @@ mer155695.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer155695-aps-asgenc-pr
 mer155735.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer155735-aps-asgenc-prod2-1847737170.eu-west-1.elb.amazonaws.com.
 mer155863.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer155863-aps-asgenc-prod2-288037221.eu-west-1.elb.amazonaws.com.
 mer156004.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer156004-aps-asgenc-prod2-124837109.eu-west-1.elb.amazonaws.com.
-mer156388.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer156388-aps-asgenc-prod2-464674235.eu-west-1.elb.amazonaws.com.
 mer156535.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer156535-aps-asgenc-prod2-1763305835.eu-west-1.elb.amazonaws.com.
 metabase.codeenigma.net.	300	IN	CNAME	metabase-alb-2102566008.us-east-1.elb.amazonaws.com.
 mfa-dev1.codeenigma.net.	3600	IN	A	3.11.113.31
@@ -602,7 +600,6 @@ ndp-utility1.codeenigma.net.	3600	IN	A	34.246.245.227
 nextcloud-dev.codeenigma.net.	300	IN	CNAME	dev5.codeenigma.net.
 nextcloud.codeenigma.net.	300	IN	A	35.177.127.44
 nextcloud.codeenigma.net.	300	IN	TXT	"v=spf1 a mx ip4:35.177.127.44 ~all"
-nhl155876.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	nhl155876-aps-asgenc-prod2-367927499.eu-west-1.elb.amazonaws.com.
 northyorks.codeenigma.net.	300	IN	CNAME	nycc-app3.codeenigma.net.
 northyorkshirecouncil.preprod.nycc-app3.codeenigma.net.	3600	IN	CNAME	d5gl780v8qadl.cloudfront.net.
 ns6gp2t6m6iftxq674twoql57shxyzm6._domainkey.dummy-deploy1.codeenigma.net.	300	IN	CNAME	ns6gp2t6m6iftxq674twoql57shxyzm6.dkim.amazonses.com.
@@ -806,10 +803,10 @@ trustnet-stage.codeenigma.net.	3600	IN	CNAME	trustnet-d9-dev-codeenigma-net-2129
 unencrypted.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	unencrypted-aps-asg-prod-1049954262.eu-west-1.elb.amazonaws.com.
 upd-app1.codeenigma.net.	3600	IN	A	18.168.113.148
 upd-deploy1.codeenigma.net.	3600	IN	A	18.132.253.177
-upd-dev.codeenigma.net.	3600	IN	CNAME	d12mxpi8ioea0t.cloudfront.net.
+upd-dev.codeenigma.net.	3600	IN	CNAME	upd-dev1.codeenigma.net.
 upd-dev1.codeenigma.net.	3600	IN	A	35.176.12.44
 upd-prod.codeenigma.net.	3600	IN	CNAME	d3d478rgthv9bm.cloudfront.net.
-upd-stage.codeenigma.net.	3600	IN	CNAME	d1lyhk7ue47cn7.cloudfront.net.
+upd-stage.codeenigma.net.	3600	IN	CNAME	upd-dev1.codeenigma.net.
 user-dashboard.codeenigma.net.	300	IN	CNAME	ce-www-prod-codeenigma-net-669926968.eu-west-2.elb.amazonaws.com.
 utility1.codeenigma.net.	3600	IN	A	35.176.238.60
 utility1.int.codeenigma.net.	3600	IN	A	10.3.4.91
