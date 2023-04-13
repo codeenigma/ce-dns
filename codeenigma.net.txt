@@ -805,7 +805,7 @@ upd-app1.codeenigma.net.	3600	IN	A	18.168.113.148
 upd-deploy1.codeenigma.net.	3600	IN	A	18.132.253.177
 upd-dev.codeenigma.net.	3600	IN	CNAME	upd-dev1.codeenigma.net.
 upd-dev1.codeenigma.net.	3600	IN	A	35.176.12.44
-upd-prod.codeenigma.net.	3600	IN	CNAME	d3d478rgthv9bm.cloudfront.net.
+upd-prod.codeenigma.net.	3600	IN	CNAME	upd-app1.codeenigma.net.
 upd-stage.codeenigma.net.	3600	IN	CNAME	upd-dev1.codeenigma.net.
 user-dashboard.codeenigma.net.	300	IN	CNAME	ce-www-prod-codeenigma-net-669926968.eu-west-2.elb.amazonaws.com.
 utility1.codeenigma.net.	3600	IN	A	35.176.238.60
