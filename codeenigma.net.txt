@@ -687,7 +687,7 @@ solr2.codeenigma.net.	3600	IN	A	52.56.184.10
 solr2.int.codeenigma.net.	3600	IN	A	10.3.4.98
 southhams-app1.codeenigma.net.	3600	IN	A	35.177.193.68
 southhams-deploy1.codeenigma.net.	3600	IN	A	13.42.197.152
-southhams-dev.codeenigma.net.	3600	IN	CNAME	southhams-dev1.codeenigma.net.
+southhams-dev.codeenigma.net.	3600	IN	CNAME	d13bn2zar4ec6k.cloudfront.net.
 southhams-dev1.codeenigma.net.	3600	IN	A	13.42.100.46
 southhams-prod.codeenigma.net.	3600	IN	CNAME	dwegjbcfy14i7.cloudfront.net.
 southhams-stage.codeenigma.net.	3600	IN	CNAME	southhams-dev1.codeenigma.net.
