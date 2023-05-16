@@ -685,6 +685,7 @@ redmine1.int.codeenigma.net.	3600	IN	A	10.3.4.161
 redmine3a.int.codeenigma.net.	3600	IN	A	10.3.4.92
 roc-153626-stage.codeenigma.net.	3600	IN	A	3.250.116.109
 roc154859.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	roc154859-aps-asgenc-prod-1028807531.eu-west-1.elb.amazonaws.com.
+roc156875.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	roc156875-aps-asgenc-prod-2090600120.eu-west-1.elb.amazonaws.com.
 rvsuryloura3bofalocwc6xmijktemut._domainkey.codeenigma.net.	1800	IN	CNAME	rvsuryloura3bofalocwc6xmijktemut.dkim.amazonses.com.
 s4s-prod.codeenigma.net.	300	IN	CNAME	hlt-app1.codeenigma.net.
 selby-master.codeenigma.net.	3600	IN	CNAME	nycc-dev3.codeenigma.net.
