@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -100,6 +100,9 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.myscience-dev5.codeenigma.net.	300	IN	CNAME	myscience-dev5.codeenigma.net.
 *.myscience-dev6.codeenigma.net.	300	IN	CNAME	myscience-dev6.codeenigma.net.
 *.myscience-reporting1.codeenigma.net.	300	IN	CNAME	myscience-reporting1.codeenigma.net.
+*.northdevon-app1.codeenigma.net.	3600	IN	CNAME	northdevon-app1.codeenigma.net.
+*.northdevon-deploy1.codeenigma.net.	3600	IN	CNAME	northdevon-deploy1.codeenigma.net.
+*.northdevon-dev1.codeenigma.net.	3600	IN	CNAME	northdevon-dev1.codeenigma.net.
 *.nycc-app1.codeenigma.net.	300	IN	CNAME	nycc-app3.codeenigma.net.
 *.nycc-app3.codeenigma.net.	300	IN	CNAME	nycc-app3.codeenigma.net.
 *.nycc-dev1.codeenigma.net.	300	IN	CNAME	nycc-dev2.codeenigma.net.
@@ -222,6 +225,7 @@ _e3dd5c15263f70422963dd833ffdb497.dashboard-stage.codeenigma.net.	300	IN	CNAME	_
 _e89422b11f8024f29c63a46d8b5d1c0c.southhams-dev.codeenigma.net.	3600	IN	CNAME	_dc1c692b9381f5089a48f40c283e2803.btsqtkxpyp.acm-validations.aws.
 _ec9b683b75c29e72c87a1162f4bcf2a4.dashboard-dev.codeenigma.net.	300	IN	CNAME	_037752693ed37c541609180851475ff4.xyscsmcmgv.acm-validations.aws.
 _f0c6e6bc02fbc9b999bfe0db6a3b2a6a.canterbury-dev.codeenigma.net.	3600	IN	CNAME	_10f6dd1601f0af19764853f50a15ce74.pmgvbzmzyk.acm-validations.aws.
+_f0cb4593e0f45c0a5837c0caca3f929e.northdevon-prod.codeenigma.net.	3600	IN	CNAME	_bf4ea4946f494ae37926f7cce2b211c7.fcgjwsnkyp.acm-validations.aws.
 _f15871a4ca7d3a7159cf9c76efc10c85.lbhf-hotfixes.codeenigma.net.	300	IN	CNAME	_790301cfee01607a241559834fe50d0d.jddtvkljgg.acm-validations.aws.
 _f4283202dcc802f352e572be4e99980c.vpn-dummy.codeenigma.net.	3600	IN	CNAME	_097d10477268b0b96bcf1aeed56a37e3.gjjrqxwdmz.acm-validations.aws.
 _f5d78673da248ca058c5046df7bcc423.canterbury-dev1.codeenigma.net.	3600	IN	CNAME	_cedb0a6a5b8d6a470c9f6f6f8effc9f8.pmgvbzmzyk.acm-validations.aws.
@@ -459,6 +463,7 @@ govwales-solr6.codeenigma.net.	3600	IN	A	35.176.66.213
 govwales-utility1.codeenigma.net.	3600	IN	A	52.213.245.183
 govwales-utility2.codeenigma.net.	3600	IN	A	52.213.245.183
 govwales-utility2.int.codeenigma.net.	3600	IN	A	10.3.4.30
+gw-search-cy.feature-gw8883-global-search.codeenigma.net.	300	IN	CNAME	govwales-dev3.codeenigma.net.
 gw-search.feature-gw8883-global-search.codeenigma.net.	300	IN	CNAME	govwales-dev3.codeenigma.net.
 hlt-app1.codeenigma.net.	3600	IN	A	34.252.75.139
 hlt-app1.int.codeenigma.net.	3600	IN	A	10.3.4.142
@@ -546,6 +551,7 @@ mer155735.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer155735-aps-asgenc-pr
 mer155863.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer155863-aps-asgenc-prod2-288037221.eu-west-1.elb.amazonaws.com.
 mer156004.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer156004-aps-asgenc-prod2-124837109.eu-west-1.elb.amazonaws.com.
 mer156535.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer156535-aps-asgenc-prod2-1763305835.eu-west-1.elb.amazonaws.com.
+mer156994.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	mer156994-aps-asgenc-prod-506403576.eu-west-1.elb.amazonaws.com.
 metabase.codeenigma.net.	300	IN	CNAME	metabase-alb-2102566008.us-east-1.elb.amazonaws.com.
 mfa-dev1.codeenigma.net.	3600	IN	A	3.11.113.31
 mfa1.codeenigma.net.	300	IN	A	3.9.54.199
@@ -597,7 +603,12 @@ ndp-utility1.codeenigma.net.	3600	IN	A	34.246.245.227
 nextcloud-dev.codeenigma.net.	300	IN	CNAME	dev5.codeenigma.net.
 nextcloud.codeenigma.net.	300	IN	A	35.177.127.44
 nextcloud.codeenigma.net.	300	IN	TXT	"v=spf1 a mx ip4:35.177.127.44 ~all"
-northdevon-dev.codeenigma.net.	3600	IN	CNAME	d2cwjdfcwg8cs6.cloudfront.net.
+northdevon-app1.codeenigma.net.	3600	IN	A	18.134.102.223
+northdevon-deploy1.codeenigma.net.	3600	IN	A	18.168.185.57
+northdevon-dev.codeenigma.net.	3600	IN	CNAME	northdevon-dev1.codeenigma.net.
+northdevon-dev1.codeenigma.net.	3600	IN	A	13.42.83.129
+northdevon-prod.codeenigma.net.	3600	IN	CNAME	d31gwqrx9ocqme.cloudfront.net.
+northdevon-stage.codeenigma.net.	3600	IN	CNAME	northdevon-dev1.codeenigma.net.
 northyorks.codeenigma.net.	300	IN	CNAME	nycc-app3.codeenigma.net.
 northyorkshirecouncil.preprod.nycc-app3.codeenigma.net.	3600	IN	CNAME	d5gl780v8qadl.cloudfront.net.
 ns6gp2t6m6iftxq674twoql57shxyzm6._domainkey.dummy-deploy1.codeenigma.net.	300	IN	CNAME	ns6gp2t6m6iftxq674twoql57shxyzm6.dkim.amazonses.com.
