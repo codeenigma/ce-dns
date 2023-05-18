@@ -463,7 +463,7 @@ govwales-solr6.codeenigma.net.	3600	IN	A	35.176.66.213
 govwales-utility1.codeenigma.net.	3600	IN	A	52.213.245.183
 govwales-utility2.codeenigma.net.	3600	IN	A	52.213.245.183
 govwales-utility2.int.codeenigma.net.	3600	IN	A	10.3.4.30
-gw-search-cy.feature-gw8883-global-search.codeenigma.net.	300	IN	CNAME	govwales-dev3.codeenigma.net.
+gw-search.cy.feature-gw8883-global-search.codeenigma.net.	300	IN	CNAME	govwales-dev3.codeenigma.net.
 gw-search.feature-gw8883-global-search.codeenigma.net.	300	IN	CNAME	govwales-dev3.codeenigma.net.
 hlt-app1.codeenigma.net.	3600	IN	A	34.252.75.139
 hlt-app1.int.codeenigma.net.	3600	IN	A	10.3.4.142
@@ -749,6 +749,7 @@ stjohns-dev1.int.codeenigma.net.	3600	IN	A	10.3.4.141
 stjohns-prod.codeenigma.net.	300	IN	CNAME	stjohns-app1.codeenigma.net.
 stjohnsd8-dev.codeenigma.net.	300	IN	CNAME	stjohns-dev1.codeenigma.net.
 stjohnsd8.stage.stage1.codeenigma.net.	300	IN	CNAME	stjohns-dev1.codeenigma.net.
+stroke-org-develop.codeenigma.net.	3600	IN	CNAME	strokeassociation-dev1.codeenigma.net.
 strokeassociation-app1.codeenigma.net.	3600	IN	A	52.56.126.62
 strokeassociation-app2.codeenigma.net.	3600	IN	A	13.42.145.28
 strokeassociation-asg-dev.codeenigma.net.	3600	IN	CNAME	d1lgamd1ug8c8q.cloudfront.net.
