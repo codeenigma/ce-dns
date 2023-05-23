@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -750,6 +750,7 @@ stjohns-prod.codeenigma.net.	300	IN	CNAME	stjohns-app1.codeenigma.net.
 stjohnsd8-dev.codeenigma.net.	300	IN	CNAME	stjohns-dev1.codeenigma.net.
 stjohnsd8.stage.stage1.codeenigma.net.	300	IN	CNAME	stjohns-dev1.codeenigma.net.
 stroke-org-develop.codeenigma.net.	3600	IN	CNAME	strokeassociation-dev1.codeenigma.net.
+stroke-org-stage.codeenigma.net.	3600	IN	CNAME	strokeassociation-dev1.codeenigma.net.
 strokeassociation-app1.codeenigma.net.	3600	IN	A	52.56.126.62
 strokeassociation-app2.codeenigma.net.	3600	IN	A	13.42.145.28
 strokeassociation-asg-dev.codeenigma.net.	3600	IN	CNAME	d1lgamd1ug8c8q.cloudfront.net.
