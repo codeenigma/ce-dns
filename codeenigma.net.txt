@@ -518,6 +518,7 @@ jenkins.codeenigma.net.	3600	IN	A	52.56.121.203
 jenkins.int.codeenigma.net.	3600	IN	A	10.3.4.15
 jenkins2.codeenigma.net.	3600	IN	A	52.56.121.203
 jenkins2.int.codeenigma.net.	3600	IN	A	10.3.4.15
+jjm153804.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	jjm153804-aps-asgenc-prod2-1057986828.eu-west-1.elb.amazonaws.com.
 johnthorogood-prod.codeenigma.net.	300	IN	CNAME	enigma3.codeenigma.net.
 kn154965.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	kn154965-aps-asgenc-prod2-1491279849.eu-west-1.elb.amazonaws.com.
 ksm.codeenigma.net.	3600	IN	A	3.11.35.212
@@ -547,7 +548,10 @@ mailfrom.gitlab.govwales-deploy1.codeenigma.net.	300	IN	MX	10 feedback-smtp.eu-w
 mailfrom.gitlab.govwales-deploy1.codeenigma.net.	300	IN	TXT	"v=spf1 include:amazonses.com ~all"
 med155500.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	med155500-aps-asgenc-prod2-637012125.eu-west-1.elb.amazonaws.com.
 mer153975.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mer153975-aps-asg-prod-806918267.eu-west-1.elb.amazonaws.com.
+mer153975.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer153975-aps-asgenc-prod2-726457317.eu-west-1.elb.amazonaws.com.
+mer154026.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer154026-aps-asgenc-prod2-501290505.eu-west-1.elb.amazonaws.com.
 mer154434.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mer154434-aps-asg-prod-1502227217.eu-west-1.elb.amazonaws.com.
+mer154434.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer154434-aps-asgenc-prod2-1407428519.eu-west-1.elb.amazonaws.com.
 mer155528.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer155528-aps-asgenc-prod2-230242057.eu-west-1.elb.amazonaws.com.
 mer155695.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer155695-aps-asgenc-prod2-794758538.eu-west-1.elb.amazonaws.com.
 mer155735.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer155735-aps-asgenc-prod2-1847737170.eu-west-1.elb.amazonaws.com.
@@ -555,6 +559,7 @@ mer155863.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer155863-aps-asgenc-pr
 mer156004.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer156004-aps-asgenc-prod2-124837109.eu-west-1.elb.amazonaws.com.
 mer156535.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer156535-aps-asgenc-prod2-1763305835.eu-west-1.elb.amazonaws.com.
 mer156994.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	mer156994-aps-asgenc-prod-506403576.eu-west-1.elb.amazonaws.com.
+mer157027.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer157027-aps-asgenc-prod2-1887112034.eu-west-1.elb.amazonaws.com.
 metabase.codeenigma.net.	300	IN	CNAME	metabase-alb-2102566008.us-east-1.elb.amazonaws.com.
 mfa-dev1.codeenigma.net.	3600	IN	A	3.11.113.31
 mfa1.codeenigma.net.	300	IN	A	3.9.54.199
@@ -753,6 +758,7 @@ stjohns-prod.codeenigma.net.	300	IN	CNAME	stjohns-app1.codeenigma.net.
 stjohnsd8-dev.codeenigma.net.	300	IN	CNAME	stjohns-dev1.codeenigma.net.
 stjohnsd8.stage.stage1.codeenigma.net.	300	IN	CNAME	stjohns-dev1.codeenigma.net.
 stroke-org-develop.codeenigma.net.	3600	IN	CNAME	strokeassociation-dev1.codeenigma.net.
+stroke-org-prod.codeenigma.net.	3600	IN	CNAME	strokeassociation-app1.codeenigma.net.
 stroke-org-stage.codeenigma.net.	3600	IN	CNAME	strokeassociation-dev1.codeenigma.net.
 strokeassociation-app1.codeenigma.net.	3600	IN	A	52.56.126.62
 strokeassociation-app2.codeenigma.net.	3600	IN	A	13.42.145.28
