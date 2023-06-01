@@ -638,7 +638,6 @@ nycc-utility2.int.codeenigma.net.	3600	IN	A	10.3.4.78
 optscale.codeenigma.net.	300	IN	A	3.75.13.234
 ossec.codeenigma.net.	3600	IN	A	52.56.177.224
 ouiwrauaszdna6ywxwyfavkesqu4iyjg._domainkey.codeenigma.net.	300	IN	CNAME	ouiwrauaszdna6ywxwyfavkesqu4iyjg.dkim.amazonses.com.
-oxp156356.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	oxp156356-aps-asgenc-prod2-1579438625.eu-west-1.elb.amazonaws.com.
 prometheus.codeenigma.net.	3600	IN	A	18.132.180.183
 publicfinance-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 publicfinance-prod.codeenigma.net.	300	IN	CNAME	redactive-app3.codeenigma.net.
