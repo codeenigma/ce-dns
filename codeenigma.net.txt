@@ -172,6 +172,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 2fa.codeenigma.net.	3600	IN	A	35.176.69.138
 2fzver5snjc6xq2ncrve32qt2jkpg2iu._domainkey.codeenigma.net.	1800	IN	CNAME	2fzver5snjc6xq2ncrve32qt2jkpg2iu.dkim.amazonses.com.
 _001c642e7757abee71e2323b4322064a.dashboard.codeenigma.net.	300	IN	CNAME	_d100c12ea488564a53d589ca416d1175.nfyddsqlcy.acm-validations.aws.
+_0a87a9e80f94a78f38d2e095300f6408.westdevon-prod.codeenigma.net.	3600	IN	CNAME	_4accbf9ff14f43bc7056ad218a864e0e.kmjqhnbgnp.acm-validations.aws.
 _0daefafbe5e341d97d331d4281b912e3.swdevon-dev.codeenigma.net.	300	IN	CNAME	_3e4ede9b795824190925aebc8419f6d6.sggfvksfyf.acm-validations.aws.
 _0eb165511eb12b3a135158e54c23dab6.user-dashboard.codeenigma.net.	300	IN	CNAME	_eab4258152dc68035b4fe8acc450ffaf.nfyddsqlcy.acm-validations.aws.
 _1183ef9e96022fce828ff9980ea178c6.upd-stage.codeenigma.net.	3600	IN	CNAME	_7a98c81cd2722b30a7eb15a34079ae7c.tftwdmzmwn.acm-validations.aws.
@@ -718,7 +719,7 @@ southhams-app1.codeenigma.net.	3600	IN	A	35.177.193.68
 southhams-deploy1.codeenigma.net.	3600	IN	A	13.42.197.152
 southhams-dev.codeenigma.net.	3600	IN	CNAME	d13bn2zar4ec6k.cloudfront.net.
 southhams-dev1.codeenigma.net.	3600	IN	A	13.42.100.46
-southhams-prod.codeenigma.net.	3600	IN	CNAME	dwegjbcfy14i7.cloudfront.net.
+southhams-prod.codeenigma.net.	3600	IN	CNAME	southhams-app1.codeenigma.net.
 southhams-stage.codeenigma.net.	3600	IN	CNAME	d23v0avitqictl.cloudfront.net.
 spiderman.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1250625352.eu-west-1.elb.amazonaws.com.
 spr156857.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	spr156857-aps-asgenc-prod2-1496375304.eu-west-1.elb.amazonaws.com.
