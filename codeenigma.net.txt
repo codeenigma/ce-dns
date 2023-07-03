@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -22,8 +22,6 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.airmic-app1.codeenigma.net.	300	IN	CNAME	airmic-app1.codeenigma.net.
 *.airmic-app2-buster2.codeenigma.net.	300	IN	CNAME	airmic-app2-buster2.codeenigma.net.
 *.airmic-stage1.codeenigma.net.	300	IN	CNAME	airmic-stage1.codeenigma.net.
-*.aps-app1.codeenigma.net.	300	IN	CNAME	aps-app2.codeenigma.net.
-*.aps-app2.codeenigma.net.	300	IN	CNAME	aps-app2.codeenigma.net.
 *.aps-deploy1.codeenigma.net.	3600	IN	CNAME	aps-deploy1.codeenigma.net.
 *.aps-dev1.codeenigma.net.	300	IN	CNAME	aps-dev1.codeenigma.net.
 *.aps-dev2.codeenigma.net.	3600	IN	CNAME	aps-dev2.codeenigma.net.
@@ -257,11 +255,7 @@ airmic-stage2.int.codeenigma.net.	3600	IN	A	10.3.4.69
 airmic-utility2.codeenigma.net.	300	IN	A	18.135.123.166
 airmic-utility2.int.codeenigma.net.	300	IN	A	10.3.4.225
 app-vm.codeenigma.net.	3600	IN	A	192.168.56.2
-aps-03.codeenigma.net.	300	IN	CNAME	aps-app2.codeenigma.net.
-aps-app1.codeenigma.net.	3600	IN	A	34.252.250.168
 aps-app1.int.codeenigma.net.	3600	IN	A	10.3.4.81
-aps-app2.codeenigma.net.	3600	IN	A	34.252.250.168
-aps-app2.int.codeenigma.net.	3600	IN	A	10.3.4.81
 aps-deploy1.codeenigma.net.	3600	IN	A	54.171.8.4
 aps-dev1.codeenigma.net.	3600	IN	A	63.34.34.72
 aps-dev1.int.codeenigma.net.	3600	IN	A	10.3.4.205
