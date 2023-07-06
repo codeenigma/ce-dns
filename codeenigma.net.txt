@@ -803,7 +803,7 @@ trustnet-lb1.codeenigma.net.	3600	IN	A	172.31.48.16
 trustnet-lb1.int.codeenigma.net.	3600	IN	A	10.3.4.171
 trustnet-lb2.codeenigma.net.	3600	IN	A	172.31.48.176
 trustnet-lb2.int.codeenigma.net.	3600	IN	A	10.3.4.172
-trustnet-prod.codeenigma.net.	3600	IN	CNAME	trustnet-d7-prod-codeenigma-net-786516136.eu-west-1.elb.amazonaws.com.
+trustnet-prod.codeenigma.net.	3600	IN	CNAME	trustnet-d9-dev-codeenigma-net-2129013788.eu-west-1.elb.amazonaws.com.
 trustnet-solr3.codeenigma.net.	3600	IN	A	172.31.48.13
 trustnet-solr3.int.codeenigma.net.	3600	IN	A	10.3.4.132
 trustnet-solr4.codeenigma.net.	3600	IN	A	172.31.48.79
