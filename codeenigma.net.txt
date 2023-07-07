@@ -795,6 +795,7 @@ trustnet-d7-master.codeenigma.net.	300	IN	CNAME	trustnet-d7-dev-codeenigma-net-1
 trustnet-d7-prod.codeenigma.net.	300	IN	CNAME	trustnet-d7-prod-codeenigma-net-786516136.eu-west-1.elb.amazonaws.com.
 trustnet-d7-stage.codeenigma.net.	300	IN	CNAME	trustnet-d7-dev-codeenigma-net-1028782994.eu-west-1.elb.amazonaws.com.
 trustnet-d9-dev.codeenigma.net.	3600	IN	CNAME	trustnet-d9-dev-codeenigma-net-2129013788.eu-west-1.elb.amazonaws.com.
+trustnet-d9-prod.codeenigma.net.	300	IN	CNAME	trustnet-d9-prod-codeenigma-net-1617174091.eu-west-1.elb.amazonaws.com.
 trustnet-deploy1.codeenigma.net.	300	IN	A	52.215.45.177
 trustnet-dev.codeenigma.net.	3600	IN	CNAME	trustnet-d9-dev-codeenigma-net-2129013788.eu-west-1.elb.amazonaws.com.
 trustnet-jenkins2.codeenigma.net.	3600	IN	A	34.248.122.200
@@ -803,7 +804,7 @@ trustnet-lb1.codeenigma.net.	3600	IN	A	172.31.48.16
 trustnet-lb1.int.codeenigma.net.	3600	IN	A	10.3.4.171
 trustnet-lb2.codeenigma.net.	3600	IN	A	172.31.48.176
 trustnet-lb2.int.codeenigma.net.	3600	IN	A	10.3.4.172
-trustnet-prod.codeenigma.net.	3600	IN	CNAME	trustnet-d9-dev-codeenigma-net-2129013788.eu-west-1.elb.amazonaws.com.
+trustnet-prod.codeenigma.net.	300	IN	CNAME	trustnet-d9-prod-codeenigma-net-1617174091.eu-west-1.elb.amazonaws.com.
 trustnet-solr3.codeenigma.net.	3600	IN	A	172.31.48.13
 trustnet-solr3.int.codeenigma.net.	3600	IN	A	10.3.4.132
 trustnet-solr4.codeenigma.net.	3600	IN	A	172.31.48.79
