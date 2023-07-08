@@ -560,7 +560,7 @@ mer156994.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer156994-aps-asgenc-pr
 mer157027.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer157027-aps-asgenc-prod2-1887112034.eu-west-1.elb.amazonaws.com.
 metabase.codeenigma.net.	300	IN	CNAME	metabase-alb-2102566008.us-east-1.elb.amazonaws.com.
 mfa-dev1.codeenigma.net.	3600	IN	A	3.11.113.31
-mfa1.codeenigma.net.	300	IN	A	3.9.54.199
+mfa1.codeenigma.net.	3600	IN	A	35.176.69.138
 microserve-dev2.codeenigma.net.	3600	IN	A	188.40.139.183
 monitor1.codeenigma.net.	3600	IN	A	18.130.51.187
 monitor1.int.codeenigma.net.	3600	IN	A	10.3.4.6
