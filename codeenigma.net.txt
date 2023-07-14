@@ -562,6 +562,7 @@ metabase.codeenigma.net.	300	IN	CNAME	metabase-alb-2102566008.us-east-1.elb.amaz
 mfa-dev1.codeenigma.net.	3600	IN	A	3.11.113.31
 mfa1.codeenigma.net.	3600	IN	A	35.176.69.138
 microserve-dev2.codeenigma.net.	3600	IN	A	188.40.139.183
+microsites-stage.codeenigma.net.	300	IN	A	18.168.74.212
 monitor1.codeenigma.net.	3600	IN	A	18.130.51.187
 monitor1.int.codeenigma.net.	3600	IN	A	10.3.4.6
 monitor2.int.codeenigma.net.	3600	IN	A	10.3.4.7
