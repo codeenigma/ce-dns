@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -781,7 +781,6 @@ theplanner-stage-new-auth.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma
 theplanner-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 theplanner-staged_new_authentication.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 tiny-autoscale.codeenigma.net.	300	IN	CNAME	tiny-autoscale-r32497-elb-1769761718.eu-west-3.elb.amazonaws.com.
-tmm156449.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	tmm156449-aps-asgenc-prod2-1147592624.eu-west-1.elb.amazonaws.com.
 tou156359.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	tou156359-aps-asgenc-prod-1744284420.eu-west-1.elb.amazonaws.com.
 trustnet-app3.codeenigma.net.	3600	IN	A	172.31.48.11
 trustnet-app3.int.codeenigma.net.	3600	IN	A	10.3.4.128
