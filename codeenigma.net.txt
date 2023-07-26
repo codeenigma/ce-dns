@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -55,7 +55,9 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.dummy-vpn.codeenigma.net.	3600	IN	CNAME	dummy-vpn.codeenigma.net.
 *.dummy-yubi.codeenigma.net.	3600	IN	CNAME	dummy-yubi.codeenigma.net.
 *.electricimp-stage1.codeenigma.net.	300	IN	CNAME	electricimp-stage1.codeenigma.net.
+*.explorify-app1.codeenigma.net.	3600	IN	CNAME	explorify-app1.codeenigma.net.
 *.explorify-deploy1.codeenigma.net.	3600	IN	CNAME	explorify-deploy1.codeenigma.net.
+*.explorify-dev1.codeenigma.net.	3600	IN	CNAME	explorify-dev1.codeenigma.net.
 *.fci-app1.codeenigma.net.	300	IN	CNAME	fci-app1.codeenigma.net.
 *.fci-app2.codeenigma.net.	300	IN	CNAME	fci-app2.codeenigma.net.
 *.fci-app3.codeenigma.net.	300	IN	CNAME	fci-app3.codeenigma.net.
@@ -377,7 +379,9 @@ epiqo-app21.int.codeenigma.net.	3600	IN	A	10.3.4.150
 epiqo-app28.int.codeenigma.net.	3600	IN	A	10.3.4.177
 epiqo-munin.codeenigma.net.	300	IN	CNAME	monitor1.codeenigma.net.
 epiqo-solr1.int.codeenigma.net.	3600	IN	A	10.3.4.151
+explorify-app1.codeenigma.net.	3600	IN	A	18.133.41.209
 explorify-deploy1.codeenigma.net.	3600	IN	A	35.176.15.249
+explorify-dev1.codeenigma.net.	3600	IN	A	3.9.85.42
 fci-app1.codeenigma.net.	3600	IN	A	35.176.247.226
 fci-app2.codeenigma.net.	3600	IN	A	35.176.247.226
 fci-app2.int.codeenigma.net.	3600	IN	A	10.3.4.75
