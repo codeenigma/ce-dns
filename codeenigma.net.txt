@@ -342,7 +342,7 @@ docapi-master.codeenigma.net.	300	IN	CNAME	electricimp-stage1.codeenigma.net.
 docapi-prod.codeenigma.net.	300	IN	CNAME	electricimp-app1.codeenigma.net.
 docapi-stage.codeenigma.net.	300	IN	CNAME	electricimp-stage1.codeenigma.net.
 drstrange.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1250625352.eu-west-1.elb.amazonaws.com.
-dummy-asgenc-dev.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1250625352.eu-west-1.elb.amazonaws.com.
+dummy-asgenc-dev.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1084576473.eu-west-1.elb.amazonaws.com.
 dummy-cluster.codeenigma.net.	3600	IN	CNAME	d26nvypu1ymewj.cloudfront.net.
 dummy-cluster2.codeenigma.net.	3600	IN	CNAME	d26nvypu1ymewj.cloudfront.net.
 dummy-deploy1.codeenigma.net.	3600	IN	A	54.220.7.154
@@ -543,7 +543,7 @@ ldap1.codeenigma.net.	3600	IN	A	3.11.235.9
 ldap4-buster.codeenigma.net.	3600	IN	A	10.3.4.212
 ldap4.codeenigma.net.	3600	IN	A	35.176.106.229
 ldap4.int.codeenigma.net.	3600	IN	A	10.3.4.3
-localgovdrupal-dev.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1250625352.eu-west-1.elb.amazonaws.com.
+localgovdrupal-dev.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1084576473.eu-west-1.elb.amazonaws.com.
 localgovdrupal.codeenigma.net.	3600	IN	CNAME	lgd-prod-codeenigma-net-233561286.eu-west-2.elb.amazonaws.com.
 log-01.codeenigma.net.	3600	IN	A	35.176.218.41
 log2.codeenigma.net.	3600	IN	A	35.176.218.41
