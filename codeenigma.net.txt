@@ -55,6 +55,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.dummy-vpn.codeenigma.net.	3600	IN	CNAME	dummy-vpn.codeenigma.net.
 *.dummy-yubi.codeenigma.net.	3600	IN	CNAME	dummy-yubi.codeenigma.net.
 *.eastsuffolk-deploy1.codeenigma.net.	3600	IN	CNAME	eastsuffolk-deploy1.codeenigma.net.
+*.eastsuffolk-dev1.codeenigma.net.	3600	IN	CNAME	eastsuffolk-dev1.codeenigma.net.
 *.electricimp-stage1.codeenigma.net.	300	IN	CNAME	electricimp-stage1.codeenigma.net.
 *.explorify-app1.codeenigma.net.	3600	IN	CNAME	explorify-app1.codeenigma.net.
 *.explorify-deploy1.codeenigma.net.	3600	IN	CNAME	explorify-deploy1.codeenigma.net.
@@ -268,7 +269,6 @@ aps-jenkins.codeenigma.net.	3600	IN	A	54.76.243.125
 aps-jenkins.int.codeenigma.net.	3600	IN	A	10.3.4.82
 aps-jenkins1.codeenigma.net.	3600	IN	A	54.76.243.125
 aps-jenkins1.int.codeenigma.net.	3600	IN	A	10.3.4.82
-apsauxiliary.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	apsauxiliary-aps-asgenc-prod-697439878.eu-west-1.elb.amazonaws.com.
 apsvenue.aps-asgenc-prod.codeenigma.net.	3600	IN	CNAME	apsvenue-aps-asgenc-prod-1211511707.eu-west-1.elb.amazonaws.com.
 asg10.dummy-asgenc-prod.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-prod-codeenigma-net-333930559.eu-west-1.elb.amazonaws.com.
 asgtest.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1250625352.eu-west-1.elb.amazonaws.com.
@@ -359,6 +359,7 @@ dummy-test3.codeenigma.net.	3600	IN	A	34.253.245.134
 dummy-vpn.codeenigma.net.	3600	IN	A	52.17.108.4
 dummy-yubi.codeenigma.net.	3600	IN	A	54.194.114.178
 eastsuffolk-deploy1.codeenigma.net.	3600	IN	A	13.43.38.255
+eastsuffolk-dev1.codeenigma.net.	3600	IN	A	3.9.87.183
 ele157061m.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	ele157061m-aps-asgenc-prod2-1290771204.eu-west-1.elb.amazonaws.com.
 electricimp-app1.codeenigma.net.	3600	IN	A	34.233.198.35
 electricimp-app1.int.codeenigma.net.	3600	IN	A	10.3.4.119
