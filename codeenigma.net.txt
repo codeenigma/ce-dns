@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -359,7 +359,9 @@ dummy-test3.codeenigma.net.	3600	IN	A	34.253.245.134
 dummy-vpn.codeenigma.net.	3600	IN	A	52.17.108.4
 dummy-yubi.codeenigma.net.	3600	IN	A	54.194.114.178
 eastsuffolk-deploy1.codeenigma.net.	3600	IN	A	13.43.38.255
+eastsuffolk-dev.codeenigma.net.	3600	IN	CNAME	eastsuffolk-dev1.codeenigma.net.
 eastsuffolk-dev1.codeenigma.net.	3600	IN	A	3.9.87.183
+eastsuffolk-stage.codeenigma.net.	3600	IN	CNAME	eastsuffolk-dev1.codeenigma.net.
 ele157061m.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	ele157061m-aps-asgenc-prod2-1290771204.eu-west-1.elb.amazonaws.com.
 electricimp-app1.codeenigma.net.	3600	IN	A	34.233.198.35
 electricimp-app1.int.codeenigma.net.	3600	IN	A	10.3.4.119
