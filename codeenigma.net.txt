@@ -553,7 +553,6 @@ login-dev.codeenigma.net.	300	IN	CNAME	utility3.int.codeenigma.net.
 login.codeenigma.net.	300	IN	CNAME	enigma3.codeenigma.net.
 mailfrom.gitlab.govwales-deploy1.codeenigma.net.	300	IN	MX	10 feedback-smtp.eu-west-2.amazonses.com.
 mailfrom.gitlab.govwales-deploy1.codeenigma.net.	300	IN	TXT	"v=spf1 include:amazonses.com ~all"
-med155500.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	med155500-aps-asgenc-prod2-637012125.eu-west-1.elb.amazonaws.com.
 mer153975.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mer153975-aps-asg-prod-806918267.eu-west-1.elb.amazonaws.com.
 mer153975.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer153975-aps-asgenc-prod2-726457317.eu-west-1.elb.amazonaws.com.
 mer154026.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer154026-aps-asgenc-prod2-501290505.eu-west-1.elb.amazonaws.com.
