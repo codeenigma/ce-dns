@@ -558,7 +558,6 @@ mer153975.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer153975-aps-asgenc-pr
 mer154026.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer154026-aps-asgenc-prod2-501290505.eu-west-1.elb.amazonaws.com.
 mer154434.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mer154434-aps-asg-prod-1502227217.eu-west-1.elb.amazonaws.com.
 mer154434.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer154434-aps-asgenc-prod2-1407428519.eu-west-1.elb.amazonaws.com.
-mer155528.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer155528-aps-asgenc-prod2-230242057.eu-west-1.elb.amazonaws.com.
 mer155695.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer155695-aps-asgenc-prod2-794758538.eu-west-1.elb.amazonaws.com.
 mer155863.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer155863-aps-asgenc-prod2-288037221.eu-west-1.elb.amazonaws.com.
 mer156004.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer156004-aps-asgenc-prod2-124837109.eu-west-1.elb.amazonaws.com.
@@ -624,7 +623,6 @@ northdevon-stage.codeenigma.net.	3600	IN	CNAME	northdevon-dev1.codeenigma.net.
 northyorks.codeenigma.net.	300	IN	CNAME	nycc-app3.codeenigma.net.
 northyorkshirecouncil.preprod.nycc-app3.codeenigma.net.	3600	IN	CNAME	d5gl780v8qadl.cloudfront.net.
 ns6gp2t6m6iftxq674twoql57shxyzm6._domainkey.dummy-deploy1.codeenigma.net.	300	IN	CNAME	ns6gp2t6m6iftxq674twoql57shxyzm6.dkim.amazonses.com.
-nspm156854m.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	nspm156854m-aps-asgenc-prod2-1276848316.eu-west-1.elb.amazonaws.com.
 nycc-app1.codeenigma.net.	3600	IN	A	52.211.28.234
 nycc-app1.int.codeenigma.net.	3600	IN	A	10.3.4.55
 nycc-app2.codeenigma.net.	3600	IN	A	52.211.28.234
