@@ -362,7 +362,6 @@ eastsuffolk-deploy1.codeenigma.net.	3600	IN	A	13.43.38.255
 eastsuffolk-dev.codeenigma.net.	3600	IN	CNAME	eastsuffolk-dev1.codeenigma.net.
 eastsuffolk-dev1.codeenigma.net.	3600	IN	A	3.9.87.183
 eastsuffolk-stage.codeenigma.net.	3600	IN	CNAME	eastsuffolk-dev1.codeenigma.net.
-ele157061m.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	ele157061m-aps-asgenc-prod2-1290771204.eu-west-1.elb.amazonaws.com.
 electricimp-app1.codeenigma.net.	3600	IN	A	34.233.198.35
 electricimp-app1.int.codeenigma.net.	3600	IN	A	10.3.4.119
 electricimp-stage1.codeenigma.net.	3600	IN	A	34.227.216.32
@@ -562,7 +561,6 @@ mer155695.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer155695-aps-asgenc-pr
 mer155863.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer155863-aps-asgenc-prod2-288037221.eu-west-1.elb.amazonaws.com.
 mer156004.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer156004-aps-asgenc-prod2-124837109.eu-west-1.elb.amazonaws.com.
 mer156535.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer156535-aps-asgenc-prod2-1763305835.eu-west-1.elb.amazonaws.com.
-mer157027.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer157027-aps-asgenc-prod2-1887112034.eu-west-1.elb.amazonaws.com.
 metabase.codeenigma.net.	300	IN	CNAME	metabase-alb-2102566008.us-east-1.elb.amazonaws.com.
 mfa-dev1.codeenigma.net.	3600	IN	A	3.11.113.31
 mfa1.codeenigma.net.	3600	IN	A	35.176.69.138
@@ -720,7 +718,6 @@ southhams-dev1.codeenigma.net.	3600	IN	A	13.42.100.46
 southhams-prod.codeenigma.net.	3600	IN	CNAME	southhams-app1.codeenigma.net.
 southhams-stage.codeenigma.net.	3600	IN	CNAME	d23v0avitqictl.cloudfront.net.
 spiderman.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1250625352.eu-west-1.elb.amazonaws.com.
-spr156857.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	spr156857-aps-asgenc-prod2-1496375304.eu-west-1.elb.amazonaws.com.
 stage1.codeenigma.net.	3600	IN	A	35.176.119.64
 stage2.codeenigma.net.	3600	IN	A	35.176.116.147
 stage3.codeenigma.net.	3600	IN	A	35.176.116.147
