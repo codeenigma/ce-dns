@@ -19,9 +19,7 @@ codeenigma.com.	300	IN	TXT	"google-site-verification=gvPJRjuMn1tEnIJ4EKRviMzqk6i
 codeenigma.com.	300	IN	TXT	"2rwxgmwklmqx7htzlnjy6gvh1mrqqy99"
 *.airmic-app1.codeenigma.com.	300	IN	CNAME	airmic-app1.codeenigma.com.
 *.airmic-stage1.codeenigma.com.	300	IN	CNAME	airmic-stage1.codeenigma.com.
-*.app-vm.codeenigma.com.	300	IN	CNAME	app-vm.codeenigma.com.
 *.chsoc-stage1.codeenigma.com.	300	IN	CNAME	chsoc-stage2.codeenigma.net.
-*.dev.codeenigma.com.	300	IN	CNAME	dev.codeenigma.com.
 *.redactive-app3.codeenigma.com.	300	IN	CNAME	redactive-app3.codeenigma.net.
 *.redactive-dev1.codeenigma.com.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 *.utility1.codeenigma.com.	300	IN	CNAME	utility3.codeenigma.net.
@@ -37,7 +35,6 @@ _dbc701b6043bda42067761b2dad44796.cewww-dev-fr.codeenigma.com.	300	IN	CNAME	_9d6
 _dmarc.codeenigma.com.	300	IN	TXT	"v=DMARC1; p=none; rua=mailto:support@codeenigma.com;"
 airmic-master.codeenigma.com.	300	IN	CNAME	airmic-stage1.codeenigma.com.
 airmic-stage.codeenigma.com.	300	IN	CNAME	airmic-stage1.codeenigma.com.
-app-vm.codeenigma.com.	300	IN	A	192.168.56.2
 cewww-dev-en.codeenigma.com.	3600	IN	CNAME	ce-www-dev-codeenigma-net-699003124.eu-west-2.elb.amazonaws.com.
 cewww-dev-fr.codeenigma.com.	3600	IN	CNAME	ce-www-dev-codeenigma-net-699003124.eu-west-2.elb.amazonaws.com.
 chat.codeenigma.com.	3600	IN	CNAME	git.codeenigma.com.
@@ -48,7 +45,6 @@ codeenigma-new-stage.codeenigma.com.	300	IN	CNAME	stage2.codeenigma.com.
 codeenigma._domainkey.codeenigma.com.	300	IN	TXT	"v=DKIM1; k=rsa; t=y; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDgOr1bbC/c+OmBp1Smh/Ozi3TMuyHLKW/c0PHVn3q0KVvrN+rf7BDV1nbanymEkthQj06UCK1t8iWIRsGLVKPat0v7YdXzeE83+rmGZ4f7ieJLlFC/ClsyiUNK45I5fQDarZaM2LWpNBYImUzOUdaVSSUDBcJ5oF/T+0oP0rCUUwIDAQAB"
 content-dev.codeenigma.com.	300	IN	CNAME	stats-dev.codeenigma.com.
 content.codeenigma.com.	300	IN	CNAME	stats.codeenigma.com.
-db-vm.codeenigma.com.	300	IN	A	192.168.56.3
 dev.codeenigma.com.	300	IN	A	192.168.56.2
 dnscheck.codeenigma.com.	300	IN	A	8.8.8.8
 enigma00.codeenigma.com.	300	IN	A	35.178.0.226
