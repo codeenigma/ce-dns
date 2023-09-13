@@ -188,6 +188,7 @@ _33b3e59209d64c05ec4a4922430c3c56.cumbria-dev.codeenigma.net.	3600	IN	CNAME	_c13
 _4ae4020895845b9acf4689e2b3d3656c.westdevon-stage.codeenigma.net.	300	IN	CNAME	_6246c386e60380d3948fd3a5e3e620f1.sggfvksfyf.acm-validations.aws.
 _4eae2bac661840ddffdd3dec274c8989.strokeassociation-asg-stage.codeenigma.net.	300	IN	CNAME	_0f4898246b6168bc7fa558046304bf8e.vtqfhvjlcp.acm-validations.aws.
 _5dc690f79567bc7611d36f19767b1c3b.northyorkshirecouncil.preprod.nycc-app3.codeenigma.net.	3600	IN	CNAME	_874f0dec00f3e7934a9fda8a2d3164f3.ghcgkbmxjw.acm-validations.aws.
+_5e52d7b1e1e1cd9da485b09ec04e516e.microsites-stage.codeenigma.net.	3600	IN	CNAME	_e1e4fe7a3349e9d30fedeca03c0807d7.nxzthgqctm.acm-validations.aws.
 _66d69bbfbe31f0550856b012f0688e11.westdevon-dev.codeenigma.net.	300	IN	CNAME	_a684b9ee87e328cc074fae5cfc298b09.sggfvksfyf.acm-validations.aws.
 _6f77bbc8bbc8ae8913b75f0dc27ab5d2.southhams-dev.codeenigma.net.	3600	IN	CNAME	_9d80ed071a6f5e1f412d86f2a04b36f1.wmqxbylrnj.acm-validations.aws.
 _70c995df6f3cee5f1695a5581047b900.encrypted.aps-asg-prod.codeenigma.net.	300	IN	CNAME	_49c6fb73326050b72471f5675fd67a0d.zjfbrrwmzc.acm-validations.aws.
@@ -531,7 +532,7 @@ lbhf-prod.codeenigma.net.	3600	IN	CNAME	lbhf-asg-prod-codeenigma-net-1373015933.
 lbhf-stage.codeenigma.net.	3600	IN	CNAME	d1feirvxkrqt9q.cloudfront.net.
 lbhf-uat.codeenigma.net.	3600	IN	CNAME	d10qluv20r408a.cloudfront.net.
 lbhfd9-master.codeenigma.net.	300	IN	CNAME	lbhf-dev2.codeenigma.net.
-lbhfd9-prod.codeenigma.net.	3600	IN	CNAME	d2hnbfrhozwc6j.cloudfront.net.
+lbhfd9-prod.codeenigma.net.	3600	IN	CNAME	lbhf-asg-prod-d9-codeenigma-net-2040881855.eu-west-2.elb.amazonaws.com.
 lbhfd9-stage.codeenigma.net.	300	IN	CNAME	lbhf-dev2.codeenigma.net.
 ldap.codeenigma.net.	3600	IN	A	35.176.106.229
 ldap.int.codeenigma.net.	3600	IN	A	10.3.4.3
@@ -559,7 +560,6 @@ metabase.codeenigma.net.	300	IN	CNAME	metabase-alb-2102566008.us-east-1.elb.amaz
 mfa-dev1.codeenigma.net.	3600	IN	A	3.11.113.31
 mfa1.codeenigma.net.	3600	IN	A	35.176.69.138
 microserve-dev2.codeenigma.net.	3600	IN	A	188.40.139.183
-microsites-stage.codeenigma.net.	300	IN	A	18.168.74.212
 monitor1.codeenigma.net.	3600	IN	A	18.130.51.187
 monitor1.int.codeenigma.net.	3600	IN	A	10.3.4.6
 monitor2.int.codeenigma.net.	3600	IN	A	10.3.4.7
