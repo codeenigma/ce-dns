@@ -395,6 +395,7 @@ fci-dev1.codeenigma.net.	3600	IN	A	35.176.178.103
 fci-dev2.codeenigma.net.	3600	IN	A	35.176.178.103
 fci-dev2.int.codeenigma.net.	3600	IN	A	10.3.4.76
 fci-dev3.codeenigma.net.	3600	IN	A	18.133.114.94
+fosteringsharedservices-stage.codeenigma.net.	300	IN	CNAME	lbhf-dev2.codeenigma.net.
 fz2mbzdapznbhkzjazeeirliafrbc6e4._domainkey.gitlab.govwales-deploy1.codeenigma.net.	300	IN	CNAME	fz2mbzdapznbhkzjazeeirliafrbc6e4.dkim.amazonses.com.
 gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz._domainkey.dummy-deploy1.codeenigma.net.	300	IN	CNAME	gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz.dkim.amazonses.com.
 git.codeenigma.net.	3600	IN	A	18.133.151.56
@@ -560,6 +561,7 @@ metabase.codeenigma.net.	300	IN	CNAME	metabase-alb-2102566008.us-east-1.elb.amaz
 mfa-dev1.codeenigma.net.	3600	IN	A	3.11.113.31
 mfa1.codeenigma.net.	3600	IN	A	35.176.69.138
 microserve-dev2.codeenigma.net.	3600	IN	A	188.40.139.183
+microsites-stage.codeenigma.net.	3600	IN	CNAME	d209q6ey3sbzdb.cloudfront.net.
 monitor1.codeenigma.net.	3600	IN	A	18.130.51.187
 monitor1.int.codeenigma.net.	3600	IN	A	10.3.4.6
 monitor2.int.codeenigma.net.	3600	IN	A	10.3.4.7
