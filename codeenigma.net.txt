@@ -19,6 +19,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.2fa-dev.codeenigma.net.	300	IN	CNAME	2fa-dev.codeenigma.net.
 *.2fa-dev2.codeenigma.net.	3600	IN	CNAME	2fa-dev2.codeenigma.net.
 *.2fa.codeenigma.net.	3600	IN	CNAME	2fa.codeenigma.net.
+*.afraweb-app1.codeenigma.net.	3600	IN	CNAME	afraweb-app1.codeenigma.net.
 *.afraweb-deploy1.codeenigma.net.	3600	IN	CNAME	afraweb-deploy1.codeenigma.net.
 *.airmic-app1.codeenigma.net.	300	IN	CNAME	airmic-app1.codeenigma.net.
 *.airmic-app2-buster2.codeenigma.net.	300	IN	CNAME	airmic-app2-buster2.codeenigma.net.
@@ -247,7 +248,11 @@ _oldspf.codeenigma.net.	3600	IN	TXT	"p6m2ntcb2nbzzj8sdp2s2sy325vc7s0j"
 _spf2.codeenigma.net.	300	IN	TXT	"v=spf1 ip4:162.13.63.68 ip4:162.13.63.85 ip6:2a01:7e00::f03c:91ff:feae:9e64 ip4:162.13.63.81 ip4:162.13.184.142 ip4:134.213.116.65 ip4:52.59.146.156 ip4:18.130.42.81 ip4:3.122.69.133 ip4:35.177.127.44 ip4:34.194.236.106 ip4:18.135.123.166 ~all"
 _spf3.codeenigma.net.	300	IN	TXT	"v=spf1 ip4:54.76.243.125 ip4:52.215.248.184 ip4:52.211.100.79 ip4:99.80.189.91 ip4:88.99.95.8 ip4:52.210.106.54 ip4:34.247.112.244 ip4:3.9.207.19 ip4:34.246.245.227 ip4:52.18.18.208 ip4:18.130.111.191 ip4:54.77.138.110 ip4:52.210.200.211 ~all"
 _spf4.codeenigma.net.	300	IN	TXT	"v=spf1 ip4:52.213.245.183 ip4:35.176.228.153 ~all"
+afraweb-app1.codeenigma.net.	3600	IN	A	3.11.32.246
 afraweb-deploy1.codeenigma.net.	3600	IN	A	35.176.215.102
+afraweb-dev.codeenigma.net.	3600	IN	CNAME	afraweb-app1.codeenigma.net.
+afraweb-prod.codeenigma.net.	3600	IN	CNAME	afraweb-app1.codeenigma.net.
+afraweb-stage.codeenigma.net.	3600	IN	CNAME	afraweb-app1.codeenigma.net.
 ai-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 ai-redesign.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 ai-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
@@ -557,7 +562,6 @@ mer153975.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer153975-aps-asgenc-pr
 mer154026.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer154026-aps-asgenc-prod2-501290505.eu-west-1.elb.amazonaws.com.
 mer154434.aps-asg-prod.codeenigma.net.	3600	IN	CNAME	mer154434-aps-asg-prod-1502227217.eu-west-1.elb.amazonaws.com.
 mer154434.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer154434-aps-asgenc-prod2-1407428519.eu-west-1.elb.amazonaws.com.
-mer155695.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer155695-aps-asgenc-prod2-794758538.eu-west-1.elb.amazonaws.com.
 mer155863.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer155863-aps-asgenc-prod2-288037221.eu-west-1.elb.amazonaws.com.
 mer156004.aps-asgenc-prod2.codeenigma.net.	3600	IN	CNAME	mer156004-aps-asgenc-prod2-124837109.eu-west-1.elb.amazonaws.com.
 metabase.codeenigma.net.	300	IN	CNAME	metabase-alb-2102566008.us-east-1.elb.amazonaws.com.
