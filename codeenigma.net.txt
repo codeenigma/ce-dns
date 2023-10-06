@@ -89,6 +89,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.infra.codeenigma.net.	300	IN	CNAME	puppet4.codeenigma.net.
 *.infra1.codeenigma.net.	3600	IN	CNAME	infra1.codeenigma.net.
 *.jdi-app1.codeenigma.net.	300	IN	CNAME	jdi-app1.codeenigma.net.
+*.ksm.codeenigma.net.	3600	IN	CNAME	ksm.codeenigma.net.
 *.lbhf-deploy1.codeenigma.net.	3600	IN	CNAME	lbhf-deploy1.codeenigma.net.
 *.lbhf-dev2.codeenigma.net.	3600	IN	CNAME	lbhf-dev2.codeenigma.net.
 *.ldap1.codeenigma.net.	3600	IN	CNAME	ldap1.codeenigma.net.
@@ -372,6 +373,7 @@ explorify-deploy1.codeenigma.net.	3600	IN	A	35.176.15.249
 explorify-dev.codeenigma.net.	3600	IN	CNAME	explorify-dev1.codeenigma.net.
 explorify-dev1.codeenigma.net.	3600	IN	A	3.9.85.42
 explorify-prod.codeenigma.net.	3600	IN	CNAME	explorify-app1.codeenigma.net.
+explorify-stage.codeenigma.net.	3600	IN	CNAME	explorify-dev1.codeenigma.net.
 fci-app1.codeenigma.net.	3600	IN	A	35.176.247.226
 fci-app2.codeenigma.net.	3600	IN	A	35.176.247.226
 fci-app2.int.codeenigma.net.	3600	IN	A	10.3.4.75
@@ -385,7 +387,7 @@ fci-dev3.codeenigma.net.	3600	IN	A	18.133.114.94
 fosteringsharedservices-stage.codeenigma.net.	3600	IN	CNAME	d2qu1vhwtpt5b5.cloudfront.net.
 fz2mbzdapznbhkzjazeeirliafrbc6e4._domainkey.gitlab.govwales-deploy1.codeenigma.net.	300	IN	CNAME	fz2mbzdapznbhkzjazeeirliafrbc6e4.dkim.amazonses.com.
 gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz._domainkey.dummy-deploy1.codeenigma.net.	300	IN	CNAME	gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz.dkim.amazonses.com.
-git.codeenigma.net.	3600	IN	A	18.133.151.56
+git.codeenigma.net.	3600	IN	A	35.176.193.97
 git.int.codeenigma.net.	3600	IN	A	10.3.4.99
 git2.codeenigma.net.	3600	IN	A	35.176.193.97
 git2.int.codeenigma.net.	3600	IN	A	10.3.4.99
@@ -586,10 +588,10 @@ nextcloud.codeenigma.net.	300	IN	A	35.177.127.44
 nextcloud.codeenigma.net.	300	IN	TXT	"v=spf1 a mx ip4:35.177.127.44 ~all"
 northdevon-app1.codeenigma.net.	3600	IN	A	18.134.102.223
 northdevon-deploy1.codeenigma.net.	3600	IN	A	18.168.185.57
-northdevon-dev.codeenigma.net.	3600	IN	CNAME	northdevon-dev1.codeenigma.net.
+northdevon-dev.codeenigma.net.	3600	IN	CNAME	d2cwjdfcwg8cs6.cloudfront.net.
 northdevon-dev1.codeenigma.net.	3600	IN	A	13.42.83.129
 northdevon-prod.codeenigma.net.	3600	IN	CNAME	northdevon-app1.codeenigma.net.
-northdevon-stage.codeenigma.net.	3600	IN	CNAME	northdevon-dev1.codeenigma.net.
+northdevon-stage.codeenigma.net.	3600	IN	CNAME	d3oivdsrf6gvfu.cloudfront.net.
 northyorks.codeenigma.net.	300	IN	CNAME	nycc-app3.codeenigma.net.
 northyorkshirecouncil.preprod.nycc-app3.codeenigma.net.	3600	IN	CNAME	d5gl780v8qadl.cloudfront.net.
 ns6gp2t6m6iftxq674twoql57shxyzm6._domainkey.dummy-deploy1.codeenigma.net.	300	IN	CNAME	ns6gp2t6m6iftxq674twoql57shxyzm6.dkim.amazonses.com.
@@ -790,10 +792,10 @@ trustnet-stage-lb2.int.codeenigma.net.	3600	IN	A	10.3.4.180
 trustnet-stage.codeenigma.net.	3600	IN	CNAME	trustnet-d9-dev-codeenigma-net-2129013788.eu-west-1.elb.amazonaws.com.
 upd-app1.codeenigma.net.	3600	IN	A	18.168.113.148
 upd-deploy1.codeenigma.net.	3600	IN	A	18.132.253.177
-upd-dev.codeenigma.net.	3600	IN	CNAME	upd-dev1.codeenigma.net.
+upd-dev.codeenigma.net.	3600	IN	CNAME	d12mxpi8ioea0t.cloudfront.net.
 upd-dev1.codeenigma.net.	3600	IN	A	35.176.12.44
 upd-prod.codeenigma.net.	3600	IN	CNAME	upd-app1.codeenigma.net.
-upd-stage.codeenigma.net.	3600	IN	CNAME	upd-dev1.codeenigma.net.
+upd-stage.codeenigma.net.	3600	IN	CNAME	d1lyhk7ue47cn7.cloudfront.net.
 user-dashboard.codeenigma.net.	300	IN	CNAME	ce-www-prod-codeenigma-net-669926968.eu-west-2.elb.amazonaws.com.
 utility1.codeenigma.net.	3600	IN	A	35.176.238.60
 utility1.int.codeenigma.net.	3600	IN	A	10.3.4.91
@@ -853,6 +855,8 @@ www-stage-en.codeenigma.net.	3600	IN	CNAME	ce-www-dev-codeenigma-net-699003124.e
 www-stage-fr.codeenigma.net.	3600	IN	CNAME	ce-www-dev-codeenigma-net-699003124.eu-west-2.elb.amazonaws.com.
 www.airmic-stage.codeenigma.net.	300	IN	CNAME	airmic-stage1.codeenigma.net.
 www.codeenigma.net.	300	IN	CNAME	codeenigma.net.
+www.explorify-dev.codeenigma.net.	3600	IN	CNAME	explorify-dev1.codeenigma.net.
+www.explorify-stage.codeenigma.net.	3600	IN	CNAME	explorify-dev1.codeenigma.net.
 www.joh.codeenigma.net.	3600	IN	A	131.111.130.253
 wzji2bwoa3ib4sjzw74aigd5ylonash6._domainkey.codeenigma.net.	1800	IN	CNAME	wzji2bwoa3ib4sjzw74aigd5ylonash6.dkim.amazonses.com.
 xwwlbkzdipsj5pkg2uyu65v7k75sdk24._domainkey.codeenigma.net.	300	IN	CNAME	xwwlbkzdipsj5pkg2uyu65v7k75sdk24.dkim.amazonses.com.
