@@ -208,6 +208,7 @@ _a355e9c6842026c25c768d4c48ae5df0.ldap1.codeenigma.net.	300	IN	CNAME	_b548b49366
 _a41737c515d32f5d88d8ba5642de6871.trustnet-stage.codeenigma.net.	3600	IN	CNAME	_c05a92f5d564ee6c2216a5f7f7899bee.gqvycbwfkq.acm-validations.aws.
 _ae894c8a25b6c68c2e946d4aee795c51.lbhf-prod.codeenigma.net.	300	IN	CNAME	_41e8a472092db88e1a918e9ffef13623.xrchbtpdjs.acm-validations.aws.
 _amazonses.dummy-deploy1.codeenigma.net.	300	IN	TXT	"0K78wLghjE1C+tVvpynqZGFUrAr69uJByqtf2A6vAK0="
+_b0c2fa6610143daaf8017ab8099487b5.greenwichvpntest.codeenigma.net.	300	IN	CNAME	_e93accb1907313f32186b450917d8d1e.jdyyptrhmw.acm-validations.aws.
 _b69cc83cbea6c17e4c4b68fec702626d.dummy-cluster2.codeenigma.net.	3600	IN	CNAME	_1217d69c0ccb5fd89bc0ef4f9fb7f8f3.yyqgzzsvtj.acm-validations.aws.
 _b6e711dd1d7fc11b9813559015590cd4.mystrokeguide-asg-dev.codeenigma.net.	3600	IN	CNAME	_d3fbe83a17fd974c2c95000abfccab7d.vtqfhvjlcp.acm-validations.aws.
 _b720a2aade4070ff79576f74bccb1467.swdevon-stage.codeenigma.net.	300	IN	CNAME	_06c809a68955c2c61a325c77655b089e.sggfvksfyf.acm-validations.aws.
@@ -835,9 +836,9 @@ wt-intranet-master.codeenigma.net.	300	IN	CNAME	wt-stage2.codeenigma.net.
 wt-jenkins2.codeenigma.net.	3600	IN	A	52.210.200.211
 wt-jenkins2.int.codeenigma.net.	3600	IN	A	10.3.4.24
 wt-lb.codeenigma.net.	3600	IN	A	34.248.51.63
-wt-lb3.codeenigma.net.	3600	IN	A	10.3.4.18
+wt-lb3.codeenigma.net.	3600	IN	A	3.254.83.100
 wt-lb3.int.codeenigma.net.	3600	IN	A	10.3.4.18
-wt-lb4.codeenigma.net.	3600	IN	A	10.3.4.19
+wt-lb4.codeenigma.net.	3600	IN	A	34.254.113.234
 wt-lb4.int.codeenigma.net.	3600	IN	A	10.3.4.19
 wt-mosaic-master.codeenigma.net.	300	IN	CNAME	wt-stage2.codeenigma.net.
 wt-mosaic-reposition.codeenigma.net.	300	IN	CNAME	wt-stage2.codeenigma.net.
