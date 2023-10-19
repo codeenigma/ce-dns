@@ -86,6 +86,7 @@ stats-dev.codeenigma.com.	3600	IN	A	18.133.38.202
 stats.codeenigma.com.	3600	IN	A	18.133.55.196
 stats.codeenigma.com.	300	IN	TXT	"google-site-verification=gvPJRjuMn1tEnIJ4EKRviMzqk6iXom-_sSenqQMbmYk"
 support.codeenigma.com.	300	IN	MX	10 mail.support.codeenigma.com.
+toots.codeenigma.com.	300	IN	CNAME	social.codeenigma.com.
 utility1.codeenigma.com.	300	IN	A	35.176.238.60
 utility1.int.codeenigma.com.	300	IN	A	10.3.4.91
 utility2.codeenigma.com.	300	IN	A	173.255.206.98
