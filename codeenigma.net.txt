@@ -35,6 +35,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.ce-utility1.codeenigma.net.	300	IN	CNAME	ce-utility1.codeenigma.net.
 *.chsoc-app1.codeenigma.net.	300	IN	CNAME	chsoc-app2.codeenigma.net.
 *.chsoc-stage1.codeenigma.net.	300	IN	CNAME	chsoc-stage2.codeenigma.net.
+*.codeenigma.net.	300	IN	A	3.8.109.207
 *.controller-dev.codeenigma.net.	300	IN	CNAME	controller-dev.codeenigma.net.
 *.controller.codeenigma.net.	300	IN	CNAME	controller.codeenigma.net.
 *.cumbria-deploy1.codeenigma.net.	3600	IN	CNAME	cumbria-deploy1.codeenigma.net.
