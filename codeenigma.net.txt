@@ -90,6 +90,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.infra.codeenigma.net.	300	IN	CNAME	puppet4.codeenigma.net.
 *.infra1.codeenigma.net.	3600	IN	CNAME	infra1.codeenigma.net.
 *.jdi-app1.codeenigma.net.	300	IN	CNAME	jdi-app1.codeenigma.net.
+*.jdi-deploy1.codeenigma.net.	3600	IN	CNAME	jdi-deploy1.codeenigma.net.
 *.ksm.codeenigma.net.	3600	IN	CNAME	ksm.codeenigma.net.
 *.lbhf-deploy1.codeenigma.net.	3600	IN	CNAME	lbhf-deploy1.codeenigma.net.
 *.lbhf-dev2.codeenigma.net.	3600	IN	CNAME	lbhf-dev2.codeenigma.net.
@@ -500,6 +501,7 @@ jdi-app3.codeenigma.net.	3600	IN	A	10.3.4.11
 jdi-app3.int.codeenigma.net.	3600	IN	A	10.3.4.11
 jdi-app4.codeenigma.net.	300	IN	A	10.3.4.226
 jdi-app4.int.codeenigma.net.	300	IN	A	10.3.4.226
+jdi-deploy1.codeenigma.net.	3600	IN	A	34.250.3.109
 jdi-dev1.codeenigma.net.	3600	IN	A	52.18.150.68
 jdi-dev1.int.codeenigma.net.	3600	IN	A	10.3.4.57
 jdi-jenkins.codeenigma.net.	3600	IN	A	52.18.150.68
