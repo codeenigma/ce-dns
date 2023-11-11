@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -90,7 +90,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.iaea-utilities.codeenigma.net.	300	IN	CNAME	iaea-utilities.codeenigma.net.
 *.infra.codeenigma.net.	300	IN	CNAME	puppet4.codeenigma.net.
 *.infra1.codeenigma.net.	3600	IN	CNAME	infra1.codeenigma.net.
-*.jdi-app1.codeenigma.net.	300	IN	CNAME	jdi-app1.codeenigma.net.
+*.jdi-app1.codeenigma.net.	3600	IN	CNAME	jdi-app1.codeenigma.net.
 *.jdi-deploy1.codeenigma.net.	3600	IN	CNAME	jdi-deploy1.codeenigma.net.
 *.ksm.codeenigma.net.	3600	IN	CNAME	ksm.codeenigma.net.
 *.lbhf-deploy1.codeenigma.net.	3600	IN	CNAME	lbhf-deploy1.codeenigma.net.
@@ -497,6 +497,7 @@ iaea-utilities.codeenigma.net.	3600	IN	A	52.211.100.79
 iaea-utilities2.codeenigma.net.	3600	IN	A	52.211.100.79
 iaea-utilities2.int.codeenigma.net.	3600	IN	A	10.3.4.39
 infra1.codeenigma.net.	3600	IN	A	3.8.109.207
+jdi-app1.codeenigma.net.	3600	IN	A	54.77.219.219
 jdi-app2.codeenigma.net.	3600	IN	A	10.3.4.10
 jdi-app2.int.codeenigma.net.	3600	IN	A	10.3.4.10
 jdi-app3.codeenigma.net.	3600	IN	A	10.3.4.11
