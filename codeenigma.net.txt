@@ -184,6 +184,7 @@ _1183ef9e96022fce828ff9980ea178c6.upd-stage.codeenigma.net.	3600	IN	CNAME	_7a98c
 _122ccd0f182fdfadbbb9479bd600aae2.lbhfd9-stage.codeenigma.net.	3600	IN	CNAME	_03473092b092b3c58f581f18f1024e57.fsdcfjjflr.acm-validations.aws.
 _12f366f374ce5c3d97a00f5d5c90bc10.cumbria-prod.codeenigma.net.	300	IN	CNAME	_ba8427bad1071be975de92a5e1db0b1e.cvfdyspdbk.acm-validations.aws.
 _25169fbeb97ebb884b0621b6d5d1f772.southhams-prod.codeenigma.net.	3600	IN	CNAME	_043705608bed01b59ee349579de77b5c.btsqtkxpyp.acm-validations.aws.
+_25a4097de56f9dcd0123ce8b32d4f313.iaea-dev.codeenigma.net.	3600	IN	CNAME	_a93907728d145fc982d35246572575eb.mhbtsbpdnt.acm-validations.aws.
 _27ff49797cf1b285539d310b2c3b18d1.trustnet-d7-dev.codeenigma.net.	3600	IN	CNAME	_e57d49a8117ea19ea27b78a77e02ca16.zrvsvrxrgs.acm-validations.aws.
 _318a05661623e1cc3aede53a56fba58b.northdevon-dev.codeenigma.net.	3600	IN	CNAME	_0261decec9ac05a3c4e078cfe26eb08b.fcgjwsnkyp.acm-validations.aws.
 _33b3e59209d64c05ec4a4922430c3c56.cumbria-dev.codeenigma.net.	3600	IN	CNAME	_c139799f99a2be21f4b64bd0216243fc.yssrbzrnkq.acm-validations.aws.
@@ -488,7 +489,7 @@ iaea-8cae.codeenigma.net.	300	IN	A	34.243.161.6
 iaea-c84e.codeenigma.net.	300	IN	A	34.243.161.6
 iaea-d8d4.codeenigma.net.	300	IN	A	34.243.161.6
 iaea-deploy1.codeenigma.net.	3600	IN	A	54.154.240.73
-iaea-dev.codeenigma.net.	300	IN	CNAME	iaea-dev-d9-elb-874061371.eu-west-1.elb.amazonaws.com.
+iaea-dev.codeenigma.net.	3600	IN	CNAME	iaea-dev-codeenigma-net-571561212.eu-west-1.elb.amazonaws.com.
 iaea-develop.codeenigma.net.	300	IN	CNAME	iaea-dev-elb-167055625.eu-west-1.elb.amazonaws.com.
 iaea-f01b.codeenigma.net.	300	IN	A	34.243.161.6
 iaea-qa.codeenigma.net.	300	IN	CNAME	iaea-dev-elb-167055625.eu-west-1.elb.amazonaws.com.
