@@ -824,6 +824,7 @@ westco-app1.int.codeenigma.net.	3600	IN	A	10.3.4.154
 westdevon-dev.codeenigma.net.	3600	IN	CNAME	d13bn2zar4ec6k.cloudfront.net.
 westdevon-prod.codeenigma.net.	3600	IN	CNAME	southhams-app1.codeenigma.net.
 westdevon-stage.codeenigma.net.	3600	IN	CNAME	d23v0avitqictl.cloudfront.net.
+where-culture-connects.codeenigma.net.	300	IN	CNAME	d1kuullursz12i.cloudfront.net.
 wt-app3.codeenigma.net.	3600	IN	A	34.253.176.65
 wt-app3.int.codeenigma.net.	3600	IN	A	10.3.4.20
 wt-app4.codeenigma.net.	3600	IN	A	52.50.148.56
@@ -868,7 +869,7 @@ www.codeenigma.net.	300	IN	CNAME	codeenigma.net.
 www.explorify-dev.codeenigma.net.	3600	IN	CNAME	explorify-dev1.codeenigma.net.
 www.explorify-stage.codeenigma.net.	3600	IN	CNAME	explorify-dev1.codeenigma.net.
 www.joh.codeenigma.net.	3600	IN	A	131.111.130.253
-www.where-culture-connects.codeenigma.net.	300	IN	CNAME	lbhf-asg-prod-d9-codeenigma-net-2040881855.eu-west-2.elb.amazonaws.com.
+www.where-culture-connects.codeenigma.net.	300	IN	CNAME	d1kuullursz12i.cloudfront.net.
 wzji2bwoa3ib4sjzw74aigd5ylonash6._domainkey.codeenigma.net.	1800	IN	CNAME	wzji2bwoa3ib4sjzw74aigd5ylonash6.dkim.amazonses.com.
 xwwlbkzdipsj5pkg2uyu65v7k75sdk24._domainkey.codeenigma.net.	300	IN	CNAME	xwwlbkzdipsj5pkg2uyu65v7k75sdk24.dkim.amazonses.com.
 yq53lobnagdqhjgvd4sqz5m6i6u4bkgf._domainkey.gitlab.govwales-deploy1.codeenigma.net.	300	IN	CNAME	yq53lobnagdqhjgvd4sqz5m6i6u4bkgf.dkim.amazonses.com.
