@@ -348,7 +348,7 @@ dummy-monitor1.codeenigma.net.	3600	IN	A	52.212.96.139
 dummy-paris-dev.codeenigma.net.	3600	IN	CNAME	dummy-paris-dev-codeenigma-net-891020885.eu-west-3.elb.amazonaws.com.
 dummy-test1.codeenigma.net.	3600	IN	A	108.128.223.23
 dummy-test2.codeenigma.net.	3600	IN	A	54.217.99.250
-dummy-test3.codeenigma.net.	3600	IN	A	34.253.245.134
+dummy-test3.codeenigma.net.	3600	IN	A	54.217.99.250
 dummy-vpn.codeenigma.net.	3600	IN	A	52.17.108.4
 dummy-yubi.codeenigma.net.	3600	IN	A	54.194.114.178
 eastsuffolk-deploy1.codeenigma.net.	3600	IN	A	13.43.38.255
@@ -810,7 +810,7 @@ user-dashboard.codeenigma.net.	300	IN	CNAME	ce-www-prod-codeenigma-net-669926968
 utility1.codeenigma.net.	3600	IN	A	35.176.238.60
 utility1.int.codeenigma.net.	3600	IN	A	10.3.4.91
 utility3.codeenigma.net.	3600	IN	A	35.176.238.60
-utility3.int.codeenigma.net.	3600	IN	A	10.3.4.91
+utility3.int.codeenigma.net.	60	IN	A	35.176.238.60
 utility4.codeenigma.net.	3600	IN	A	18.196.171.173
 utility4.int.codeenigma.net.	3600	IN	A	10.3.4.192
 vpn-dev.codeenigma.net.	3600	IN	A	3.11.126.229
