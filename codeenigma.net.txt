@@ -180,6 +180,7 @@ _001c642e7757abee71e2323b4322064a.dashboard.codeenigma.net.	300	IN	CNAME	_d100c1
 _0a87a9e80f94a78f38d2e095300f6408.westdevon-prod.codeenigma.net.	3600	IN	CNAME	_4accbf9ff14f43bc7056ad218a864e0e.kmjqhnbgnp.acm-validations.aws.
 _0daefafbe5e341d97d331d4281b912e3.swdevon-dev.codeenigma.net.	300	IN	CNAME	_3e4ede9b795824190925aebc8419f6d6.sggfvksfyf.acm-validations.aws.
 _0eb165511eb12b3a135158e54c23dab6.user-dashboard.codeenigma.net.	300	IN	CNAME	_eab4258152dc68035b4fe8acc450ffaf.nfyddsqlcy.acm-validations.aws.
+_0f8bf1f9c6e28d15fd9eb0de6fc1a53e.wherecultureconnects-stage.codeenigma.net.	3600	IN	CNAME	_834f185aa9a7a96bc5876254f256edbf.mhbtsbpdnt.acm-validations.aws.
 _107e782ecf38ba837c1c221ba2e23901.www.where-culture-connects.codeenigma.net.	300	IN	CNAME	_74e967cfb37b8cc8bedd3b2b9f3ea9b0.mhbtsbpdnt.acm-validations.aws.
 _1183ef9e96022fce828ff9980ea178c6.upd-stage.codeenigma.net.	3600	IN	CNAME	_7a98c81cd2722b30a7eb15a34079ae7c.tftwdmzmwn.acm-validations.aws.
 _122ccd0f182fdfadbbb9479bd600aae2.lbhfd9-stage.codeenigma.net.	3600	IN	CNAME	_03473092b092b3c58f581f18f1024e57.fsdcfjjflr.acm-validations.aws.
@@ -828,6 +829,7 @@ westdevon-dev.codeenigma.net.	3600	IN	CNAME	d13bn2zar4ec6k.cloudfront.net.
 westdevon-prod.codeenigma.net.	3600	IN	CNAME	southhams-app1.codeenigma.net.
 westdevon-stage.codeenigma.net.	3600	IN	CNAME	d23v0avitqictl.cloudfront.net.
 where-culture-connects.codeenigma.net.	300	IN	CNAME	d1kuullursz12i.cloudfront.net.
+wherecultureconnects-stage.codeenigma.net.	3600	IN	CNAME	d1x6cu0espermn.cloudfront.net.
 wt-app3.codeenigma.net.	3600	IN	A	34.253.176.65
 wt-app3.int.codeenigma.net.	3600	IN	A	10.3.4.20
 wt-app4.codeenigma.net.	3600	IN	A	52.50.148.56
