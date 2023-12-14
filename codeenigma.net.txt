@@ -831,6 +831,7 @@ upd-stage.codeenigma.net.	3600	IN	CNAME	upd-dev1.codeenigma.net.
 user-dashboard.codeenigma.net.	300	IN	CNAME	ce-www-prod-codeenigma-net-669926968.eu-west-2.elb.amazonaws.com.
 utility1.codeenigma.net.	3600	IN	A	35.176.238.60
 utility1.int.codeenigma.net.	3600	IN	A	10.3.4.91
+utility3-ssl-test.codeenigma.net.	300	IN	A	35.176.238.60
 utility3.codeenigma.net.	3600	IN	A	35.176.238.60
 utility3.int.codeenigma.net.	60	IN	A	35.176.238.60
 utility4.codeenigma.net.	3600	IN	A	18.196.171.173
