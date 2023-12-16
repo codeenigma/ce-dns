@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -511,7 +511,7 @@ iaea-dev.codeenigma.net.	3600	IN	CNAME	iaea-dev-codeenigma-net-571561212.eu-west
 iaea-develop.codeenigma.net.	300	IN	CNAME	iaea-dev-elb-167055625.eu-west-1.elb.amazonaws.com.
 iaea-f01b.codeenigma.net.	300	IN	A	34.243.161.6
 iaea-qa.codeenigma.net.	300	IN	CNAME	iaea-dev-elb-167055625.eu-west-1.elb.amazonaws.com.
-iaea-staging.codeenigma.net.	300	IN	CNAME	iaea-dev-codeenigma-net-571561212.eu-west-1.elb.amazonaws.com.
+iaea-staging.codeenigma.net.	300	IN	CNAME	iaea-dev-elb-167055625.eu-west-1.elb.amazonaws.com.
 iaea-utilities.codeenigma.net.	3600	IN	A	52.211.100.79
 iaea-utilities2.codeenigma.net.	3600	IN	A	52.211.100.79
 iaea-utilities2.int.codeenigma.net.	3600	IN	A	10.3.4.39
@@ -781,6 +781,7 @@ surefootportal-prod.codeenigma.net.	3600	IN	CNAME	surefoot-asg-prod-codeenigma-n
 surefootportal-stage.codeenigma.net.	3600	IN	CNAME	surefoot-dev1.codeenigma.net.
 swdevon-dev.codeenigma.net.	3600	IN	CNAME	d13bn2zar4ec6k.cloudfront.net.
 swdevon-stage.codeenigma.net.	300	IN	CNAME	d23v0avitqictl.cloudfront.net.
+test12.dummy-deploy1.codeenigma.net.	300	IN	A	54.220.7.154
 theplanner-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 theplanner-stage-new-auth.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 theplanner-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
