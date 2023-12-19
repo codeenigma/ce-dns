@@ -196,6 +196,7 @@ _3a5d3f285423014fe0f2f34c3172e9bf.civiccampus-stage.codeenigma.net.	300	IN	CNAME
 _3b64c55a6c445fb1f7adcc7383dadefa.where-culture-connects.codeenigma.net.	300	IN	CNAME	_abe27e6c7a3713fdebb893262a0c65a6.mhbtsbpdnt.acm-validations.aws.
 _417eb071b9ae9adf1db834701ba1eae9.hfsafeguardingadults-stage.codeenigma.net.	300	IN	CNAME	_619902ff94d236bc041a5cff71ebfc10.mhbtsbpdnt.acm-validations.aws.
 _420baf34baf06ef8c118bfae1b1a2786.metabase.codeenigma.net.	60	IN	CNAME	_fa507571bedf9d14f2c11f55abbb326e.mhbtsbpdnt.acm-validations.aws.
+_45d2c5d60a749e8eee686135777bc145.dummy-master.codeenigma.net.	3600	IN	CNAME	_cbb70b746ada943e0c9a3a51d8650067.mhbtsbpdnt.acm-validations.aws.
 _4ae4020895845b9acf4689e2b3d3656c.westdevon-stage.codeenigma.net.	300	IN	CNAME	_6246c386e60380d3948fd3a5e3e620f1.sggfvksfyf.acm-validations.aws.
 _4eae2bac661840ddffdd3dec274c8989.strokeassociation-asg-stage.codeenigma.net.	300	IN	CNAME	_0f4898246b6168bc7fa558046304bf8e.vtqfhvjlcp.acm-validations.aws.
 _5c9d9799e58cc8a71e608658dc1cccb5.lbhf-demo2-stage.codeenigma.net.	300	IN	CNAME	_a66403e6a2d8c2a63377ee343863de4e.mhbtsbpdnt.acm-validations.aws.
@@ -356,6 +357,7 @@ dummy-infra1.codeenigma.net.	3600	IN	A	54.72.154.149
 dummy-ips.codeenigma.net.	3600	IN	A	63.33.244.255
 dummy-ksm.codeenigma.net.	3600	IN	A	54.216.74.50
 dummy-ldap.codeenigma.net.	3600	IN	A	54.155.93.113
+dummy-master.codeenigma.net.	3600	IN	CNAME	d3g379rf4py4tr.cloudfront.net.
 dummy-mfa1.codeenigma.net.	3600	IN	A	34.255.76.13
 dummy-monitor1.codeenigma.net.	3600	IN	A	52.212.96.139
 dummy-paris-dev.codeenigma.net.	3600	IN	CNAME	dummy-paris-dev-codeenigma-net-891020885.eu-west-3.elb.amazonaws.com.
