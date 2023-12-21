@@ -349,6 +349,7 @@ docapi-master.codeenigma.net.	300	IN	CNAME	electricimp-stage1.codeenigma.net.
 docapi-prod.codeenigma.net.	300	IN	CNAME	electricimp-app1.codeenigma.net.
 docapi-stage.codeenigma.net.	300	IN	CNAME	electricimp-stage1.codeenigma.net.
 drstrange.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1250625352.eu-west-1.elb.amazonaws.com.
+drupal-learning.codeenigma.net.	300	IN	A	54.217.99.250
 dummy-asgenc-dev.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1084576473.eu-west-1.elb.amazonaws.com.
 dummy-cluster.codeenigma.net.	3600	IN	CNAME	d26nvypu1ymewj.cloudfront.net.
 dummy-cluster2.codeenigma.net.	3600	IN	CNAME	d26nvypu1ymewj.cloudfront.net.
