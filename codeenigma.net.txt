@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -49,6 +49,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.dummy-ldap.codeenigma.net.	3600	IN	CNAME	dummy-ldap.codeenigma.net.
 *.dummy-mfa1.codeenigma.net.	3600	IN	CNAME	dummy-mfa1.codeenigma.net.
 *.dummy-monitor1.codeenigma.net.	3600	IN	CNAME	dummy-monitor1.codeenigma.net.
+*.dummy-template.codeenigma.net.	3600	IN	CNAME	dummy-template.codeenigma.net.
 *.dummy-test1.codeenigma.net.	3600	IN	CNAME	dummy-test1.codeenigma.net.
 *.dummy-test2.codeenigma.net.	3600	IN	CNAME	dummy-test2.codeenigma.net.
 *.dummy-test3.codeenigma.net.	3600	IN	CNAME	dummy-test3.codeenigma.net.
@@ -362,6 +363,7 @@ dummy-master.codeenigma.net.	3600	IN	CNAME	d3g379rf4py4tr.cloudfront.net.
 dummy-mfa1.codeenigma.net.	3600	IN	A	34.255.76.13
 dummy-monitor1.codeenigma.net.	3600	IN	A	52.212.96.139
 dummy-paris-dev.codeenigma.net.	3600	IN	CNAME	dummy-paris-dev-codeenigma-net-891020885.eu-west-3.elb.amazonaws.com.
+dummy-template.codeenigma.net.	3600	IN	A	108.128.103.112
 dummy-test-asg-lb.codeenigma.net.	300	IN	CNAME	dummy-test-asg-lb-979353160.eu-west-1.elb.amazonaws.com.
 dummy-test1.codeenigma.net.	3600	IN	A	108.128.223.23
 dummy-test2.codeenigma.net.	3600	IN	A	54.217.99.250
