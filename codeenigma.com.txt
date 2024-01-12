@@ -94,5 +94,5 @@ vpn.codeenigma.com.	300	IN	CNAME	monitor1.codeenigma.com.
 webalizer.codeenigma.com.	300	IN	A	10.3.4.6
 wog5o7oxbxmotacp2omknzj3ervy2s7j._domainkey.codeenigma.com.	1800	IN	CNAME	wog5o7oxbxmotacp2omknzj3ervy2s7j.dkim.amazonses.com.
 www.airmic-stage.codeenigma.com.	300	IN	CNAME	airmic-stage1.codeenigma.com.
-www.codeenigma.com.	300	IN	CNAME	ce-www-prod-codeenigma-net-669926968.eu-west-2.elb.amazonaws.com.
+www.codeenigma.com.	3600	IN	CNAME	ce-www-prod-codeenigma-net-669926968.eu-west-2.elb.amazonaws.com.
 yubi.codeenigma.com.	300	IN	A	35.176.229.17
