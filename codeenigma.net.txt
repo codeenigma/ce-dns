@@ -195,7 +195,6 @@ _318a05661623e1cc3aede53a56fba58b.northdevon-dev.codeenigma.net.	3600	IN	CNAME	_
 _33b3e59209d64c05ec4a4922430c3c56.cumbria-dev.codeenigma.net.	3600	IN	CNAME	_c139799f99a2be21f4b64bd0216243fc.yssrbzrnkq.acm-validations.aws.
 _3a5d3f285423014fe0f2f34c3172e9bf.civiccampus-stage.codeenigma.net.	300	IN	CNAME	_7b841ceb1f2c2635711f1a40d5b17eaf.mhbtsbpdnt.acm-validations.aws.
 _3b64c55a6c445fb1f7adcc7383dadefa.where-culture-connects.codeenigma.net.	300	IN	CNAME	_abe27e6c7a3713fdebb893262a0c65a6.mhbtsbpdnt.acm-validations.aws.
-_417eb071b9ae9adf1db834701ba1eae9.hfsafeguardingadults-stage.codeenigma.net.	300	IN	CNAME	_619902ff94d236bc041a5cff71ebfc10.mhbtsbpdnt.acm-validations.aws.
 _420baf34baf06ef8c118bfae1b1a2786.metabase.codeenigma.net.	60	IN	CNAME	_fa507571bedf9d14f2c11f55abbb326e.mhbtsbpdnt.acm-validations.aws.
 _45d2c5d60a749e8eee686135777bc145.dummy-master.codeenigma.net.	3600	IN	CNAME	_cbb70b746ada943e0c9a3a51d8650067.mhbtsbpdnt.acm-validations.aws.
 _4ae4020895845b9acf4689e2b3d3656c.westdevon-stage.codeenigma.net.	300	IN	CNAME	_6246c386e60380d3948fd3a5e3e620f1.sggfvksfyf.acm-validations.aws.
@@ -491,7 +490,7 @@ govwales-utility2.codeenigma.net.	3600	IN	A	52.213.245.183
 govwales-utility2.int.codeenigma.net.	3600	IN	A	10.3.4.30
 gw-search.cy.feature-gw8883-global-search.codeenigma.net.	300	IN	CNAME	govwales-dev3.codeenigma.net.
 gw-search.feature-gw8883-global-search.codeenigma.net.	300	IN	CNAME	govwales-dev3.codeenigma.net.
-hfsafeguardingadults-stage.codeenigma.net.	3600	IN	CNAME	d2z7v9tm2hgaej.cloudfront.net.
+hfsafeguardingadults-stage.codeenigma.net.	3600	IN	CNAME	dxot3ygaz40yp.cloudfront.net.
 hlt-app1.codeenigma.net.	3600	IN	A	34.252.75.139
 hlt-app1.int.codeenigma.net.	3600	IN	A	10.3.4.142
 hlt-db1.codeenigma.net.	3600	IN	A	52.212.112.5
