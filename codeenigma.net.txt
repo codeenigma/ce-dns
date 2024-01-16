@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -128,6 +128,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.redactive-app3.codeenigma.net.	300	IN	CNAME	redactive-app3.codeenigma.net.
 *.redactive-dev1.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 *.redactive-dev2.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
+*.redmine-app1.codeenigma.net.	3600	IN	CNAME	redmine-app1.codeenigma.net.
 *.southhams-app1.codeenigma.net.	3600	IN	CNAME	southhams-app1.codeenigma.net.
 *.southhams-deploy1.codeenigma.net.	3600	IN	CNAME	southhams-deploy1.codeenigma.net.
 *.southhams-dev1.codeenigma.net.	3600	IN	CNAME	southhams-dev1.codeenigma.net.
@@ -706,6 +707,7 @@ redactive-jenkins.codeenigma.net.	3600	IN	A	3.9.207.19
 redactive-jenkins.int.codeenigma.net.	3600	IN	A	10.3.4.60
 redactive-jenkins2.codeenigma.net.	3600	IN	A	3.9.207.19
 redactive-jenkins2.int.codeenigma.net.	3600	IN	A	10.3.4.60
+redmine-app1.codeenigma.net.	3600	IN	A	35.176.118.9
 redmine-dev.codeenigma.net.	300	IN	CNAME	redmine-dev1.codeenigma.net.
 redmine-dev1.codeenigma.net.	3600	IN	A	18.184.96.255
 redmine-dev1.int.codeenigma.net.	3600	IN	A	10.3.4.160
