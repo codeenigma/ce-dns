@@ -152,6 +152,7 @@ _107e782ecf38ba837c1c221ba2e23901.www.where-culture-connects.codeenigma.net.	300
 _1183ef9e96022fce828ff9980ea178c6.upd-stage.codeenigma.net.	3600	IN	CNAME	_7a98c81cd2722b30a7eb15a34079ae7c.tftwdmzmwn.acm-validations.aws.
 _122ccd0f182fdfadbbb9479bd600aae2.lbhfd9-stage.codeenigma.net.	3600	IN	CNAME	_03473092b092b3c58f581f18f1024e57.fsdcfjjflr.acm-validations.aws.
 _12f366f374ce5c3d97a00f5d5c90bc10.cumbria-prod.codeenigma.net.	300	IN	CNAME	_ba8427bad1071be975de92a5e1db0b1e.cvfdyspdbk.acm-validations.aws.
+_135a544d2c4bd13023a2a72e96d80d10.ce-www-prod.codeenigma.net.	300	IN	CNAME	_d6a6756f8506904c4c7e1b38ff20780b.mhbtsbpdnt.acm-validations.aws.
 _25169fbeb97ebb884b0621b6d5d1f772.southhams-prod.codeenigma.net.	3600	IN	CNAME	_043705608bed01b59ee349579de77b5c.btsqtkxpyp.acm-validations.aws.
 _25a4097de56f9dcd0123ce8b32d4f313.iaea-dev.codeenigma.net.	3600	IN	CNAME	_a93907728d145fc982d35246572575eb.mhbtsbpdnt.acm-validations.aws.
 _27ff49797cf1b285539d310b2c3b18d1.trustnet-d7-dev.codeenigma.net.	3600	IN	CNAME	_e57d49a8117ea19ea27b78a77e02ca16.zrvsvrxrgs.acm-validations.aws.
@@ -312,7 +313,7 @@ dummy-infra1.codeenigma.net.	3600	IN	A	54.72.154.149
 dummy-ips.codeenigma.net.	3600	IN	A	63.33.244.255
 dummy-ksm.codeenigma.net.	3600	IN	A	54.216.74.50
 dummy-ldap.codeenigma.net.	3600	IN	A	54.155.93.113
-dummy-master.codeenigma.net.	3600	IN	CNAME	d3g379rf4py4tr.cloudfront.net.
+dummy-master.codeenigma.net.	3600	IN	CNAME	d12lj0d8wvcgub.cloudfront.net.
 dummy-mfa1.codeenigma.net.	3600	IN	A	34.255.76.13
 dummy-monitor1.codeenigma.net.	3600	IN	A	52.212.96.139
 dummy-template.codeenigma.net.	3600	IN	A	108.128.103.112
