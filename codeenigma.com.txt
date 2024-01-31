@@ -27,16 +27,16 @@ codeenigma.com.	300	IN	TXT	"2rwxgmwklmqx7htzlnjy6gvh1mrqqy99"
 23yitvoko6z7c4knu7nqzo4kpynp25om._domainkey.codeenigma.com.	1800	IN	CNAME	23yitvoko6z7c4knu7nqzo4kpynp25om.dkim.amazonses.com.
 47sq2ksqywsf64gyqvv6b4kmcpylrw6b._domainkey.codeenigma.com.	300	IN	CNAME	47sq2ksqywsf64gyqvv6b4kmcpylrw6b.dkim.amazonses.com.
 9aed400981ccc4d4e841b87c138e2180.blog.codeenigma.com.	300	IN	CNAME	7dd2eb0c37372d2c1bdf027054c72f2e.0d214190669511c6a2f7c570a3d9d59d.comodoca.com.
-_6b38e5a0a63b8f62cc5f9e11eecb66fc.cewww-dev-en.codeenigma.com.	300	IN	CNAME	_459c770d3b4237c0000cc1876b6daec3.wggjkglgrm.acm-validations.aws.
+_6b38e5a0a63b8f62cc5f9e11eecb66fc.cewww-dev-en.codeenigma.com.	3600	IN	CNAME	_459c770d3b4237c0000cc1876b6daec3.wggjkglgrm.acm-validations.aws.
 _951f68bbe9bc0838c9802abe9131437c.codeenigma.com.	300	IN	CNAME	_ebd361f6a7532f3648b17f934e567c8d.vjldqjsdcd.acm-validations.aws.
 _amazonses.codeenigma.com.	300	IN	TXT	"08hp29W2K4tWKBaokx7HGMgJ7Ug8C15cKVDV44c7fy4="
 _ba40851472ce7001dec7420328e79efb.www.codeenigma.com.	3600	IN	CNAME	_95363d35767dba213cd3a0f79d8f49d2.vjldqjsdcd.acm-validations.aws.
-_dbc701b6043bda42067761b2dad44796.cewww-dev-fr.codeenigma.com.	300	IN	CNAME	_9d669bba3ab0bb2dc171199e81d229c3.wggjkglgrm.acm-validations.aws.
+_dbc701b6043bda42067761b2dad44796.cewww-dev-fr.codeenigma.com.	3600	IN	CNAME	_9d669bba3ab0bb2dc171199e81d229c3.wggjkglgrm.acm-validations.aws.
 _dmarc.codeenigma.com.	300	IN	TXT	"v=DMARC1; p=none; rua=mailto:support@codeenigma.com;"
 airmic-master.codeenigma.com.	300	IN	CNAME	airmic-stage1.codeenigma.com.
 airmic-stage.codeenigma.com.	300	IN	CNAME	airmic-stage1.codeenigma.com.
-cewww-dev-en.codeenigma.com.	3600	IN	CNAME	ce-www-dev-codeenigma-net-699003124.eu-west-2.elb.amazonaws.com.
-cewww-dev-fr.codeenigma.com.	3600	IN	CNAME	ce-www-dev-codeenigma-net-699003124.eu-west-2.elb.amazonaws.com.
+cewww-dev-en.codeenigma.com.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
+cewww-dev-fr.codeenigma.com.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
 chat.codeenigma.com.	3600	IN	CNAME	git.codeenigma.com.
 chsoc-app1.codeenigma.com.	300	IN	A	34.240.220.109
 chsoc-stage1.codeenigma.com.	300	IN	A	34.240.136.246
