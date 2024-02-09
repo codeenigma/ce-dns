@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -80,6 +80,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.lbhf-dev2.codeenigma.net.	3600	IN	CNAME	lbhf-dev2.codeenigma.net.
 *.ldap1.codeenigma.net.	3600	IN	CNAME	ldap1.codeenigma.net.
 *.mfa-dev1.codeenigma.net.	3600	IN	CNAME	mfa-dev1.codeenigma.net.
+*.monitor1.codeenigma.net.	3600	IN	CNAME	monitor1.codeenigma.net.
 *.myscience-dev1.codeenigma.net.	300	IN	CNAME	myscience-dev3.codeenigma.net.
 *.myscience-dev3.codeenigma.net.	300	IN	CNAME	myscience-dev3.codeenigma.net.
 *.myscience-dev5.codeenigma.net.	300	IN	CNAME	myscience-dev5.codeenigma.net.
@@ -443,7 +444,7 @@ mfa-dev1.codeenigma.net.	3600	IN	A	3.11.113.31
 mfa1.codeenigma.net.	3600	IN	A	35.176.69.138
 microserve-dev2.codeenigma.net.	3600	IN	A	188.40.139.183
 microsites-stage.codeenigma.net.	3600	IN	CNAME	d209q6ey3sbzdb.cloudfront.net.
-monitor1.codeenigma.net.	300	IN	A	18.130.51.187
+monitor1.codeenigma.net.	3600	IN	A	18.130.51.187
 monitor1.int.codeenigma.net.	3600	IN	A	10.3.4.6
 monitor2.int.codeenigma.net.	3600	IN	A	10.3.4.7
 monitor3.codeenigma.net.	3600	IN	A	52.56.36.187
