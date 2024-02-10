@@ -34,6 +34,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.dummy-deploy1.codeenigma.net.	3600	IN	CNAME	dummy-deploy1.codeenigma.net.
 *.dummy-infra1.codeenigma.net.	3600	IN	CNAME	dummy-infra1.codeenigma.net.
 *.dummy-ips.codeenigma.net.	3600	IN	CNAME	dummy-ips.codeenigma.net.
+*.dummy-ips2.codeenigma.net.	3600	IN	CNAME	dummy-ips2.codeenigma.net.
 *.dummy-ksm.codeenigma.net.	3600	IN	CNAME	dummy-ksm.codeenigma.net.
 *.dummy-ldap.codeenigma.net.	3600	IN	CNAME	dummy-ldap.codeenigma.net.
 *.dummy-mfa1.codeenigma.net.	3600	IN	CNAME	dummy-mfa1.codeenigma.net.
@@ -312,6 +313,7 @@ dummy-cluster2.codeenigma.net.	3600	IN	CNAME	d26nvypu1ymewj.cloudfront.net.
 dummy-deploy1.codeenigma.net.	3600	IN	A	54.220.7.154
 dummy-infra1.codeenigma.net.	3600	IN	A	54.72.154.149
 dummy-ips.codeenigma.net.	3600	IN	A	63.33.244.255
+dummy-ips2.codeenigma.net.	3600	IN	A	18.203.107.90
 dummy-ksm.codeenigma.net.	3600	IN	A	54.216.74.50
 dummy-ldap.codeenigma.net.	3600	IN	A	54.155.93.113
 dummy-master.codeenigma.net.	3600	IN	CNAME	d12lj0d8wvcgub.cloudfront.net.
@@ -416,6 +418,8 @@ jenkins2.codeenigma.net.	3600	IN	A	52.56.121.203
 jenkins2.int.codeenigma.net.	3600	IN	A	10.3.4.15
 johnthorogood-prod.codeenigma.net.	300	IN	CNAME	enigma3.codeenigma.net.
 ksm.codeenigma.net.	3600	IN	A	3.11.35.212
+lbci-live-24.croydon.codeenigma.net.	300	IN	A	98.71.9.184
+lbci-stage-24.croydon.codeenigma.net.	300	IN	A	68.219.240.85
 lbhf-demo1-stage.codeenigma.net.	3600	IN	CNAME	d2izzk9owugi6x.cloudfront.net.
 lbhf-demo2-stage.codeenigma.net.	3600	IN	CNAME	d1vlyzl91mdfa5.cloudfront.net.
 lbhf-demo3-stage.codeenigma.net.	3600	IN	CNAME	d25l4rg4nctsvu.cloudfront.net.
