@@ -40,8 +40,8 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.dummy-mfa1.codeenigma.net.	3600	IN	CNAME	dummy-mfa1.codeenigma.net.
 *.dummy-monitor1.codeenigma.net.	3600	IN	CNAME	dummy-monitor1.codeenigma.net.
 *.dummy-template.codeenigma.net.	3600	IN	CNAME	dummy-template.codeenigma.net.
+*.dummy-test.codeenigma.net.	3600	IN	CNAME	dummy-test.codeenigma.net.
 *.dummy-test1.codeenigma.net.	3600	IN	CNAME	dummy-test1.codeenigma.net.
-*.dummy-test2.codeenigma.net.	3600	IN	CNAME	dummy-test2.codeenigma.net.
 *.dummy-vpn.codeenigma.net.	3600	IN	CNAME	dummy-vpn.codeenigma.net.
 *.dummy-yubi.codeenigma.net.	3600	IN	CNAME	dummy-yubi.codeenigma.net.
 *.eastsuffolk-deploy1.codeenigma.net.	3600	IN	CNAME	eastsuffolk-deploy1.codeenigma.net.
@@ -320,8 +320,8 @@ dummy-master.codeenigma.net.	3600	IN	CNAME	d12lj0d8wvcgub.cloudfront.net.
 dummy-mfa1.codeenigma.net.	3600	IN	A	34.255.76.13
 dummy-monitor1.codeenigma.net.	3600	IN	A	52.212.96.139
 dummy-template.codeenigma.net.	3600	IN	A	108.128.103.112
+dummy-test.codeenigma.net.	3600	IN	A	108.128.54.165
 dummy-test1.codeenigma.net.	3600	IN	A	108.128.223.23
-dummy-test2.codeenigma.net.	3600	IN	A	54.217.99.250
 dummy-vpn.codeenigma.net.	3600	IN	A	52.17.108.4
 dummy-yubi.codeenigma.net.	3600	IN	A	54.194.114.178
 eastsuffolk-deploy1.codeenigma.net.	3600	IN	A	13.43.38.255
