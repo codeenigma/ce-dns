@@ -75,7 +75,7 @@ monitor2.codeenigma.com.	300	IN	A	54.76.199.43
 ntop.codeenigma.com.	300	IN	A	192.168.140.1
 nwuklph37fh2ekyc3nhpmym62ceee535._domainkey.codeenigma.com.	300	IN	CNAME	nwuklph37fh2ekyc3nhpmym62ceee535.dkim.amazonses.com.
 packages-old.codeenigma.com.	300	IN	CNAME	monitor2.codeenigma.com.
-packages.codeenigma.com.	300	IN	CNAME	packages.codeenigma.net.
+packages.codeenigma.com.	300	IN	CNAME	monitor2.codeenigma.com.
 puppet.codeenigma.com.	300	IN	A	18.194.56.27
 puppet.int.codeenigma.com.	300	IN	A	10.3.4.1
 puppet2.codeenigma.com.	300	IN	A	34.250.90.36
