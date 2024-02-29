@@ -517,6 +517,7 @@ nycc-utility1.codeenigma.net.	3600	IN	A	52.210.106.54
 nycc-utility1.int.codeenigma.net.	3600	IN	A	10.3.4.78
 nycc-utility2.codeenigma.net.	3600	IN	A	52.210.106.54
 nycc-utility2.int.codeenigma.net.	3600	IN	A	10.3.4.78
+opensocial.codeenigma.net.	60	IN	CNAME	social.codeenigma.com.
 optscale.codeenigma.net.	300	IN	A	3.75.13.234
 ossec.codeenigma.net.	3600	IN	A	52.56.177.224
 ouiwrauaszdna6ywxwyfavkesqu4iyjg._domainkey.codeenigma.net.	300	IN	CNAME	ouiwrauaszdna6ywxwyfavkesqu4iyjg.dkim.amazonses.com.
