@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -583,6 +583,8 @@ rvsuryloura3bofalocwc6xmijktemut._domainkey.codeenigma.net.	1800	IN	CNAME	rvsury
 s4s-prod.codeenigma.net.	300	IN	CNAME	hlt-app1.codeenigma.net.
 selby-master.codeenigma.net.	3600	IN	CNAME	nycc-dev3.codeenigma.net.
 selby-prod.codeenigma.net.	3600	IN	CNAME	nycc-dev3.codeenigma.net.
+shop-stroke-dev.codeenigma.net.	300	IN	CNAME	strokeassociation-dev1.codeenigma.net.
+shop-stroke-stage.codeenigma.net.	300	IN	CNAME	strokeassociation-dev1.codeenigma.net.
 solr2.codeenigma.net.	3600	IN	A	52.56.184.10
 solr2.int.codeenigma.net.	3600	IN	A	10.3.4.98
 southhams-app1.codeenigma.net.	3600	IN	A	35.177.193.68
