@@ -584,6 +584,7 @@ s4s-prod.codeenigma.net.	300	IN	CNAME	hlt-app1.codeenigma.net.
 selby-master.codeenigma.net.	3600	IN	CNAME	nycc-dev3.codeenigma.net.
 selby-prod.codeenigma.net.	3600	IN	CNAME	nycc-dev3.codeenigma.net.
 shop-stroke-dev.codeenigma.net.	300	IN	CNAME	strokeassociation-dev1.codeenigma.net.
+shop-stroke-prod.codeenigma.net.	300	IN	CNAME	strokeassociation-app1.codeenigma.net.
 shop-stroke-stage.codeenigma.net.	300	IN	CNAME	strokeassociation-dev1.codeenigma.net.
 solr2.codeenigma.net.	3600	IN	A	52.56.184.10
 solr2.int.codeenigma.net.	3600	IN	A	10.3.4.98
