@@ -67,7 +67,7 @@ ldap-test.codeenigma.com.	300	IN	CNAME	dummy-ldap.codeenigma.net.
 ldap.codeenigma.com.	300	IN	A	35.176.106.229
 ldap.int.codeenigma.com.	300	IN	A	10.3.4.3
 ldap4.codeenigma.com.	300	IN	TXT	"v=spf1 ip4:35.176.106.229 ~all"
-mail.support.codeenigma.com.	300	IN	A	3.122.69.133
+mail.support.codeenigma.com.	300	IN	A	35.176.118.9
 mandrill._domainkey.codeenigma.com.	300	IN	TXT	"v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCrLHiExVd55zd/IQ/J/mRwSRMAocV/hMB3jXwaHH36d9NaVynQFYV8NaWi69c1veUtRzGt7yAioXqLj7Z4TeEUoOLgrKsn8YnckGs9i3B3tVFB+Ch/4mPhXWiNfNdynHWBcPcbJ8kjEQ2U8y78dHZj1YeRXXVvWob2OaKynO8/lQIDAQAB;"
 monitor1.codeenigma.com.	300	IN	A	52.56.36.187
 monitor1.codeenigma.com.	300	IN	TXT	"v=spf1 ip4:52.56.36.187 ~all"
