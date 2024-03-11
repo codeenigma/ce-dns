@@ -578,7 +578,7 @@ redmine-app1.codeenigma.net.	3600	IN	A	35.176.118.9
 redmine-dev.codeenigma.net.	300	IN	CNAME	redmine-dev1.codeenigma.net.
 redmine-dev1.codeenigma.net.	3600	IN	A	18.184.96.255
 redmine-dev1.int.codeenigma.net.	3600	IN	A	10.3.4.160
-redmine.codeenigma.net.	3600	IN	CNAME	redmine1.codeenigma.net.
+redmine.codeenigma.net.	60	IN	CNAME	redmine-app1.
 redmine1.codeenigma.net.	3600	IN	A	3.122.69.133
 redmine1.int.codeenigma.net.	3600	IN	A	10.3.4.161
 redmine3a.int.codeenigma.net.	3600	IN	A	10.3.4.92
