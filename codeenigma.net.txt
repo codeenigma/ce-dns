@@ -27,7 +27,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.ce-deploy1.codeenigma.net.	3600	IN	CNAME	ce-deploy1.codeenigma.net.
 *.chsoc-app1.codeenigma.net.	300	IN	CNAME	chsoc-app2.codeenigma.net.
 *.chsoc-stage1.codeenigma.net.	300	IN	CNAME	chsoc-stage2.codeenigma.net.
-*.codeenigma.net.	300	IN	A	3.8.109.207
+*.codeenigma.net.	300	IN	A	18.130.42.81
 *.controller.codeenigma.net.	300	IN	CNAME	controller.codeenigma.net.
 *.cumbria-deploy1.codeenigma.net.	3600	IN	CNAME	cumbria-deploy1.codeenigma.net.
 *.dev.codeenigma.net.	300	IN	CNAME	build.codeenigma.net.
@@ -136,6 +136,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.upd-deploy1.codeenigma.net.	3600	IN	CNAME	upd-deploy1.codeenigma.net.
 *.upd-dev1.codeenigma.net.	3600	IN	CNAME	upd-dev1.codeenigma.net.
 *.vpn-guest.codeenigma.net.	3600	IN	CNAME	vpn-guest.codeenigma.net.
+*.vpn-main.codeenigma.net.	3600	IN	CNAME	vpn-main.codeenigma.net.
 *.westco-app1.codeenigma.net.	300	IN	CNAME	westco-app1.codeenigma.net.
 *.wt-infra1.codeenigma.net.	300	IN	CNAME	wt-infra1.codeenigma.net.
 *.wt-stage2.codeenigma.net.	300	IN	CNAME	wt-stage2.codeenigma.net.
@@ -578,7 +579,7 @@ redmine-app1.codeenigma.net.	3600	IN	A	35.176.118.9
 redmine-dev.codeenigma.net.	300	IN	CNAME	redmine-dev1.codeenigma.net.
 redmine-dev1.codeenigma.net.	3600	IN	A	18.184.96.255
 redmine-dev1.int.codeenigma.net.	3600	IN	A	10.3.4.160
-redmine.codeenigma.net.	60	IN	CNAME	redmine-app1.
+redmine.codeenigma.net.	60	IN	CNAME	redmine-app1.codeenigma.net.
 redmine1.codeenigma.net.	3600	IN	A	3.122.69.133
 redmine1.int.codeenigma.net.	3600	IN	A	10.3.4.161
 redmine3a.int.codeenigma.net.	3600	IN	A	10.3.4.92
@@ -688,6 +689,7 @@ utility4.int.codeenigma.net.	3600	IN	A	10.3.4.192
 vpn-dev.codeenigma.net.	3600	IN	A	3.11.126.229
 vpn-dev.int.codeenigma.net.	3600	IN	A	10.3.4.188
 vpn-guest.codeenigma.net.	3600	IN	A	3.8.9.162
+vpn-main.codeenigma.net.	3600	IN	A	18.132.242.33
 vpn.codeenigma.net.	3600	IN	A	3.11.82.252
 vpn.int.codeenigma.net.	3600	IN	A	10.3.4.189
 vqcayf5q4fcrn5hj44br4cpiasyuzra5._domainkey.codeenigma.net.	1800	IN	CNAME	vqcayf5q4fcrn5hj44br4cpiasyuzra5.dkim.amazonses.com.
