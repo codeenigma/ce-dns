@@ -692,7 +692,8 @@ utility4.int.codeenigma.net.	3600	IN	A	10.3.4.192
 vpn-dev.codeenigma.net.	3600	IN	A	3.11.126.229
 vpn-dev.int.codeenigma.net.	3600	IN	A	10.3.4.188
 vpn-guest.codeenigma.net.	3600	IN	A	3.8.9.162
-vpn-main.codeenigma.net.	3600	IN	A	18.132.242.33
+vpn-main.codeenigma.net.	3600	IN	A	3.11.82.252
+vpn-old.codeenigma.net.	300	IN	A	18.132.242.33
 vpn.codeenigma.net.	3600	IN	A	3.11.82.252
 vpn.int.codeenigma.net.	3600	IN	A	10.3.4.189
 vqcayf5q4fcrn5hj44br4cpiasyuzra5._domainkey.codeenigma.net.	1800	IN	CNAME	vqcayf5q4fcrn5hj44br4cpiasyuzra5.dkim.amazonses.com.
