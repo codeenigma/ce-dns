@@ -16,8 +16,6 @@ codeenigma.net.	300	IN	TXT	"v=spf1 a mx include:_spf.google.com include:_spf2.co
 codeenigma.net.	300	IN	TXT	"google-site-verification=Qggv4EERXNbvYzuHiXZZa2Xy1IQRHppBbkjvvi55O08"
 codeenigma.net.	300	IN	TXT	"p6m2ntcb2nbzzj8sdp2s2sy325vc7s0j"
 codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
-*.2fa-dev.codeenigma.net.	300	IN	CNAME	2fa-dev.codeenigma.net.
-*.2fa-dev2.codeenigma.net.	3600	IN	CNAME	2fa-dev2.codeenigma.net.
 *.2fa.codeenigma.net.	3600	IN	CNAME	2fa.codeenigma.net.
 *.afraweb-app1.codeenigma.net.	3600	IN	CNAME	afraweb-app1.codeenigma.net.
 *.afraweb-deploy1.codeenigma.net.	3600	IN	CNAME	afraweb-deploy1.codeenigma.net.
@@ -29,7 +27,6 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.ce-deploy1.codeenigma.net.	3600	IN	CNAME	ce-deploy1.codeenigma.net.
 *.chsoc-app1.codeenigma.net.	300	IN	CNAME	chsoc-app2.codeenigma.net.
 *.chsoc-stage1.codeenigma.net.	300	IN	CNAME	chsoc-stage2.codeenigma.net.
-*.codeenigma.net.	300	IN	A	18.130.42.81
 *.controller.codeenigma.net.	300	IN	CNAME	controller.codeenigma.net.
 *.cumbria-deploy1.codeenigma.net.	3600	IN	CNAME	cumbria-deploy1.codeenigma.net.
 *.dev.codeenigma.net.	300	IN	CNAME	build.codeenigma.net.
@@ -144,9 +141,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.wt-infra1.codeenigma.net.	300	IN	CNAME	wt-infra1.codeenigma.net.
 *.wt-stage2.codeenigma.net.	300	IN	CNAME	wt-stage2.codeenigma.net.
 *.wt-stage3.codeenigma.net.	300	IN	CNAME	wt-stage3.codeenigma.net.
-2fa-dev.codeenigma.net.	3600	IN	A	3.9.247.218
 2fa-dev.int.codeenigma.net.	3600	IN	A	10.3.4.178
-2fa-dev2.codeenigma.net.	3600	IN	A	18.171.24.251
 2fa.codeenigma.net.	3600	IN	A	35.176.69.138
 2fzver5snjc6xq2ncrve32qt2jkpg2iu._domainkey.codeenigma.net.	1800	IN	CNAME	2fzver5snjc6xq2ncrve32qt2jkpg2iu.dkim.amazonses.com.
 2ufnpbpcotgllpk44c64esmz5cjy4dpv._domainkey.dummy-ips2.codeenigma.net.	300	IN	CNAME	2ufnpbpcotgllpk44c64esmz5cjy4dpv.dkim.amazonses.com.
@@ -246,7 +241,9 @@ ai-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 airmic-app2.codeenigma.net.	3600	IN	A	35.176.197.43
 airmic-app2.int.codeenigma.net.	3600	IN	A	10.3.4.68
 airmic-deploy1.codeenigma.net.	3600	IN	A	3.9.123.245
+airmic-dev.codeenigma.net.	3600	IN	CNAME	airmic-dev1.codeenigma.net.
 airmic-dev1.codeenigma.net.	3600	IN	A	18.168.31.174
+airmic-stage.codeenigma.net.	3600	IN	CNAME	airmic-dev1.codeenigma.net.
 airmic-stage2.codeenigma.net.	3600	IN	A	35.176.106.113
 airmic-stage2.int.codeenigma.net.	3600	IN	A	10.3.4.69
 airmic-utility2.codeenigma.net.	300	IN	A	18.135.123.166
@@ -458,7 +455,6 @@ mailfrom.gitlab.govwales-deploy1.codeenigma.net.	300	IN	TXT	"v=spf1 include:amaz
 metabase.codeenigma.net.	300	IN	CNAME	metabase-alb-2102566008.us-east-1.elb.amazonaws.com.
 mfa-dev1.codeenigma.net.	3600	IN	A	3.11.113.31
 mfa1.codeenigma.net.	3600	IN	A	35.176.69.138
-microserve-dev2.codeenigma.net.	3600	IN	A	188.40.139.183
 microsites-stage.codeenigma.net.	3600	IN	CNAME	d209q6ey3sbzdb.cloudfront.net.
 monitor1.codeenigma.net.	3600	IN	A	18.130.51.187
 monitor1.int.codeenigma.net.	3600	IN	A	10.3.4.6
