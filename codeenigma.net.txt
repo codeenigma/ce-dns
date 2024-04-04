@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -87,6 +87,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.myscience-dev3.codeenigma.net.	300	IN	CNAME	myscience-dev3.codeenigma.net.
 *.myscience-dev5.codeenigma.net.	300	IN	CNAME	myscience-dev5.codeenigma.net.
 *.myscience-dev6.codeenigma.net.	300	IN	CNAME	myscience-dev6.codeenigma.net.
+*.nextcloud.codeenigma.net.	3600	IN	CNAME	nextcloud.codeenigma.net.
 *.northdevon-app1.codeenigma.net.	3600	IN	CNAME	northdevon-app1.codeenigma.net.
 *.northdevon-deploy1.codeenigma.net.	3600	IN	CNAME	northdevon-deploy1.codeenigma.net.
 *.northdevon-dev1.codeenigma.net.	3600	IN	CNAME	northdevon-dev1.codeenigma.net.
@@ -441,7 +442,7 @@ lbhf-dev.codeenigma.net.	3600	IN	CNAME	lbhf-asg-dev-codeenigma-net-1596636235.eu
 lbhf-dev2.codeenigma.net.	3600	IN	A	18.168.74.212
 lbhf-prod.codeenigma.net.	3600	IN	CNAME	d3jeml6w8ro41h.cloudfront.net.
 lbhfd9-master.codeenigma.net.	300	IN	CNAME	lbhf-dev2.codeenigma.net.
-lbhfd9-prod.codeenigma.net.	3600	IN	CNAME	d13xgiwqmsw28t.cloudfront.net.
+lbhfd9-prod.codeenigma.net.	3600	IN	CNAME	lbhf-asg-prod-d9-codeenigma-net-2040881855.eu-west-2.elb.amazonaws.com.
 lbhfd9-stage.codeenigma.net.	3600	IN	CNAME	d1qa1isz0htjoe.cloudfront.net.
 ldap.codeenigma.net.	3600	IN	A	35.176.106.229
 ldap1.codeenigma.net.	3600	IN	A	3.11.235.9
@@ -497,7 +498,7 @@ mystrokeguide-asg-prod.codeenigma.net.	3600	IN	CNAME	d1jovstl7g9jtn.cloudfront.n
 mystrokeguide-asg-stage.codeenigma.net.	3600	IN	CNAME	d1j9y3pyjgkbmg.cloudfront.net.
 n5zexext3gjzmupescfiyegf6m66ttkz._domainkey.codeenigma.net.	300	IN	CNAME	n5zexext3gjzmupescfiyegf6m66ttkz.dkim.amazonses.com.
 ndp-utility1.codeenigma.net.	3600	IN	A	34.246.245.227
-nextcloud.codeenigma.net.	300	IN	A	35.177.127.44
+nextcloud.codeenigma.net.	3600	IN	A	3.9.192.195
 nextcloud.codeenigma.net.	300	IN	TXT	"v=spf1 a mx ip4:35.177.127.44 ~all"
 northdevon-app1.codeenigma.net.	3600	IN	A	18.134.102.223
 northdevon-deploy1.codeenigma.net.	3600	IN	A	18.168.185.57
