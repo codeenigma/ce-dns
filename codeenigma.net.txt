@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -498,8 +498,10 @@ mystrokeguide-asg-prod.codeenigma.net.	3600	IN	CNAME	d1jovstl7g9jtn.cloudfront.n
 mystrokeguide-asg-stage.codeenigma.net.	3600	IN	CNAME	d1j9y3pyjgkbmg.cloudfront.net.
 n5zexext3gjzmupescfiyegf6m66ttkz._domainkey.codeenigma.net.	300	IN	CNAME	n5zexext3gjzmupescfiyegf6m66ttkz.dkim.amazonses.com.
 ndp-utility1.codeenigma.net.	3600	IN	A	34.246.245.227
-nextcloud.codeenigma.net.	3600	IN	A	3.9.192.195
-nextcloud.codeenigma.net.	300	IN	TXT	"v=spf1 a mx ip4:35.177.127.44 ~all"
+nextcloud-archive.codeenigma.net.	300	IN	A	35.177.127.44
+nextcloud-archive.codeenigma.net.	300	IN	TXT	"v=spf1 a mx ip4:35.177.127.44 ~all"
+nextcloud.codeenigma.net.	300	IN	A	35.177.127.44
+nextcloud.codeenigma.net.	300	IN	TXT	"v=spf1 a mx ip4:35.177.127.44 ip4:3.9.192.195 ~all"
 northdevon-app1.codeenigma.net.	3600	IN	A	18.134.102.223
 northdevon-deploy1.codeenigma.net.	3600	IN	A	18.168.185.57
 northdevon-dev.codeenigma.net.	3600	IN	CNAME	northdevon-dev1.codeenigma.net.
