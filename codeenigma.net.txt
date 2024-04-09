@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -97,6 +97,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.nycc-dev2.codeenigma.net.	300	IN	CNAME	nycc-dev2.codeenigma.net.
 *.nycc-dev3.codeenigma.net.	3600	IN	CNAME	nycc-dev3.codeenigma.net.
 *.ons-deploy1.codeenigma.net.	3600	IN	CNAME	ons-deploy1.codeenigma.net.
+*.ons-dev1.codeenigma.net.	3600	IN	CNAME	ons-dev1.codeenigma.net.
 *.ossec.codeenigma.net.	3600	IN	CNAME	ossec.codeenigma.net.
 *.rcog-app1.codeenigma.net.	300	IN	CNAME	rcog-app1.codeenigma.net.
 *.rcog-dev1.codeenigma.net.	300	IN	CNAME	rcog-dev1.codeenigma.net.
@@ -529,6 +530,9 @@ nycc-utility1.int.codeenigma.net.	3600	IN	A	10.3.4.78
 nycc-utility2.codeenigma.net.	3600	IN	A	52.210.106.54
 nycc-utility2.int.codeenigma.net.	3600	IN	A	10.3.4.78
 ons-deploy1.codeenigma.net.	3600	IN	A	3.9.217.13
+ons-dev.codeenigma.net.	3600	IN	CNAME	ons-dev1.codeenigma.net.
+ons-dev1.codeenigma.net.	3600	IN	A	18.170.170.117
+ons-stage.codeenigma.net.	3600	IN	CNAME	ons-dev1.codeenigma.net.
 opensocial.codeenigma.net.	60	IN	CNAME	social.codeenigma.com.
 optscale.codeenigma.net.	300	IN	A	3.75.13.234
 ossec.codeenigma.net.	3600	IN	A	52.56.177.224
@@ -612,6 +616,8 @@ southhams-prod.codeenigma.net.	3600	IN	CNAME	southhams-app1.codeenigma.net.
 southhams-stage.codeenigma.net.	3600	IN	CNAME	d23v0avitqictl.cloudfront.net.
 spiderman.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1250625352.eu-west-1.elb.amazonaws.com.
 stats-dev.codeenigma.net.	3600	IN	CNAME	stats-dev.codeenigma.com.
+stats-ons-dev.codeenigma.net.	300	IN	A	18.170.170.117
+stats-ons-stage.codeenigma.net.	300	IN	A	18.170.170.117
 stats.codeenigma.net.	3600	IN	CNAME	stats.codeenigma.com.
 status.codeenigma.net.	300	IN	CNAME	uptimessl.statuscake.com.
 stem-alb.codeenigma.net.	300	IN	CNAME	alb-stem-1143501849.eu-west-1.elb.amazonaws.com.
