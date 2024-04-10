@@ -96,6 +96,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.nycc-dev1.codeenigma.net.	300	IN	CNAME	nycc-dev2.codeenigma.net.
 *.nycc-dev2.codeenigma.net.	300	IN	CNAME	nycc-dev2.codeenigma.net.
 *.nycc-dev3.codeenigma.net.	3600	IN	CNAME	nycc-dev3.codeenigma.net.
+*.ons-app1.codeenigma.net.	3600	IN	CNAME	ons-app1.codeenigma.net.
 *.ons-deploy1.codeenigma.net.	3600	IN	CNAME	ons-deploy1.codeenigma.net.
 *.ons-dev1.codeenigma.net.	3600	IN	CNAME	ons-dev1.codeenigma.net.
 *.ossec.codeenigma.net.	3600	IN	CNAME	ossec.codeenigma.net.
@@ -503,7 +504,7 @@ ndp-utility1.codeenigma.net.	3600	IN	A	34.246.245.227
 nextcloud-archive.codeenigma.net.	300	IN	A	35.177.127.44
 nextcloud-archive.codeenigma.net.	300	IN	TXT	"v=spf1 a mx ip4:35.177.127.44 ~all"
 nextcloud-new.codeenigma.net.	300	IN	A	3.9.192.195
-nextcloud.codeenigma.net.	300	IN	A	35.177.127.44
+nextcloud.codeenigma.net.	3600	IN	A	3.9.192.195
 nextcloud.codeenigma.net.	300	IN	TXT	"v=spf1 a mx ip4:35.177.127.44 ip4:3.9.192.195 ~all"
 northdevon-app1.codeenigma.net.	3600	IN	A	18.134.102.223
 northdevon-deploy1.codeenigma.net.	3600	IN	A	18.168.185.57
@@ -529,6 +530,7 @@ nycc-utility1.codeenigma.net.	3600	IN	A	52.210.106.54
 nycc-utility1.int.codeenigma.net.	3600	IN	A	10.3.4.78
 nycc-utility2.codeenigma.net.	3600	IN	A	52.210.106.54
 nycc-utility2.int.codeenigma.net.	3600	IN	A	10.3.4.78
+ons-app1.codeenigma.net.	3600	IN	A	18.135.136.84
 ons-deploy1.codeenigma.net.	3600	IN	A	3.9.217.13
 ons-dev.codeenigma.net.	3600	IN	CNAME	ons-dev1.codeenigma.net.
 ons-dev1.codeenigma.net.	3600	IN	A	18.170.170.117
@@ -702,6 +704,7 @@ utility3-ssl-test.codeenigma.net.	300	IN	A	35.176.238.60
 utility3.codeenigma.net.	3600	IN	A	35.176.238.60
 utility3.int.codeenigma.net.	60	IN	A	35.176.238.60
 utility4.int.codeenigma.net.	3600	IN	A	10.3.4.192
+virtual-garden-uat.codeenigma.net.	300	IN	CNAME	strokeassociation-dev1.codeenigma.net.
 vpn-dev.codeenigma.net.	3600	IN	A	3.11.126.229
 vpn-dev.int.codeenigma.net.	3600	IN	A	10.3.4.188
 vpn-guest.codeenigma.net.	3600	IN	A	3.8.9.162
