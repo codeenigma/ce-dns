@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -99,6 +99,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.ons-app1.codeenigma.net.	3600	IN	CNAME	ons-app1.codeenigma.net.
 *.ons-deploy1.codeenigma.net.	3600	IN	CNAME	ons-deploy1.codeenigma.net.
 *.ons-dev1.codeenigma.net.	3600	IN	CNAME	ons-dev1.codeenigma.net.
+*.ons-solr1.codeenigma.net.	3600	IN	CNAME	ons-solr1.codeenigma.net.
 *.ossec.codeenigma.net.	3600	IN	CNAME	ossec.codeenigma.net.
 *.rcog-app1.codeenigma.net.	300	IN	CNAME	rcog-app1.codeenigma.net.
 *.rcog-dev1.codeenigma.net.	300	IN	CNAME	rcog-dev1.codeenigma.net.
@@ -504,7 +505,7 @@ ndp-utility1.codeenigma.net.	3600	IN	A	34.246.245.227
 nextcloud-archive.codeenigma.net.	300	IN	A	35.177.127.44
 nextcloud-archive.codeenigma.net.	300	IN	TXT	"v=spf1 a mx ip4:35.177.127.44 ~all"
 nextcloud-new.codeenigma.net.	300	IN	A	3.9.192.195
-nextcloud.codeenigma.net.	3600	IN	A	3.9.192.195
+nextcloud.codeenigma.net.	300	IN	A	35.177.127.44
 nextcloud.codeenigma.net.	300	IN	TXT	"v=spf1 a mx ip4:35.177.127.44 ip4:3.9.192.195 ~all"
 northdevon-app1.codeenigma.net.	3600	IN	A	18.134.102.223
 northdevon-deploy1.codeenigma.net.	3600	IN	A	18.168.185.57
@@ -534,6 +535,8 @@ ons-app1.codeenigma.net.	3600	IN	A	18.135.136.84
 ons-deploy1.codeenigma.net.	3600	IN	A	3.9.217.13
 ons-dev.codeenigma.net.	3600	IN	CNAME	ons-dev1.codeenigma.net.
 ons-dev1.codeenigma.net.	3600	IN	A	18.170.170.117
+ons-prod.codeenigma.net.	3600	IN	CNAME	ons-app1.codeenigma.net.
+ons-solr1.codeenigma.net.	3600	IN	A	18.132.255.72
 ons-stage.codeenigma.net.	3600	IN	CNAME	ons-dev1.codeenigma.net.
 opensocial.codeenigma.net.	60	IN	CNAME	social.codeenigma.com.
 optscale.codeenigma.net.	300	IN	A	3.75.13.234
