@@ -505,14 +505,14 @@ ndp-utility1.codeenigma.net.	3600	IN	A	34.246.245.227
 nextcloud-archive.codeenigma.net.	300	IN	A	35.177.127.44
 nextcloud-archive.codeenigma.net.	300	IN	TXT	"v=spf1 a mx ip4:35.177.127.44 ~all"
 nextcloud-new.codeenigma.net.	300	IN	A	3.9.192.195
-nextcloud.codeenigma.net.	300	IN	A	35.177.127.44
+nextcloud.codeenigma.net.	3600	IN	A	3.9.192.195
 nextcloud.codeenigma.net.	300	IN	TXT	"v=spf1 a mx ip4:35.177.127.44 ip4:3.9.192.195 ~all"
 northdevon-app1.codeenigma.net.	3600	IN	A	18.134.102.223
 northdevon-deploy1.codeenigma.net.	3600	IN	A	18.168.185.57
-northdevon-dev.codeenigma.net.	3600	IN	CNAME	northdevon-dev1.codeenigma.net.
+northdevon-dev.codeenigma.net.	3600	IN	CNAME	d2cwjdfcwg8cs6.cloudfront.net.
 northdevon-dev1.codeenigma.net.	3600	IN	A	13.42.83.129
 northdevon-prod.codeenigma.net.	3600	IN	CNAME	northdevon-app1.codeenigma.net.
-northdevon-stage.codeenigma.net.	3600	IN	CNAME	northdevon-dev1.codeenigma.net.
+northdevon-stage.codeenigma.net.	3600	IN	CNAME	d3oivdsrf6gvfu.cloudfront.net.
 northyorks.codeenigma.net.	300	IN	CNAME	nycc-app3.codeenigma.net.
 northyorkshirecouncil.preprod.nycc-app3.codeenigma.net.	3600	IN	CNAME	d5gl780v8qadl.cloudfront.net.
 ns6gp2t6m6iftxq674twoql57shxyzm6._domainkey.dummy-deploy1.codeenigma.net.	300	IN	CNAME	ns6gp2t6m6iftxq674twoql57shxyzm6.dkim.amazonses.com.
