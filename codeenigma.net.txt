@@ -511,7 +511,7 @@ northdevon-app1.codeenigma.net.	3600	IN	A	18.134.102.223
 northdevon-deploy1.codeenigma.net.	3600	IN	A	18.168.185.57
 northdevon-dev.codeenigma.net.	3600	IN	CNAME	d2cwjdfcwg8cs6.cloudfront.net.
 northdevon-dev1.codeenigma.net.	3600	IN	A	13.42.83.129
-northdevon-prod.codeenigma.net.	3600	IN	CNAME	northdevon-app1.codeenigma.net.
+northdevon-prod.codeenigma.net.	3600	IN	CNAME	d31gwqrx9ocqme.cloudfront.net.
 northdevon-stage.codeenigma.net.	3600	IN	CNAME	d3oivdsrf6gvfu.cloudfront.net.
 northyorks.codeenigma.net.	300	IN	CNAME	nycc-app3.codeenigma.net.
 northyorkshirecouncil.preprod.nycc-app3.codeenigma.net.	3600	IN	CNAME	d5gl780v8qadl.cloudfront.net.
@@ -696,10 +696,10 @@ trustnet-stage.codeenigma.net.	3600	IN	CNAME	trustnet-d9-dev-codeenigma-net-2129
 ube6kf4j3unyifwzpxeujgcj3ymucezs._domainkey.dummy-ips2.codeenigma.net.	300	IN	CNAME	ube6kf4j3unyifwzpxeujgcj3ymucezs.dkim.amazonses.com.
 upd-app1.codeenigma.net.	3600	IN	A	18.168.113.148
 upd-deploy1.codeenigma.net.	3600	IN	A	18.132.253.177
-upd-dev.codeenigma.net.	3600	IN	CNAME	upd-dev1.codeenigma.net.
+upd-dev.codeenigma.net.	3600	IN	CNAME	d12mxpi8ioea0t.cloudfront.net.
 upd-dev1.codeenigma.net.	3600	IN	A	35.176.12.44
 upd-prod.codeenigma.net.	3600	IN	CNAME	upd-app1.codeenigma.net.
-upd-stage.codeenigma.net.	3600	IN	CNAME	upd-dev1.codeenigma.net.
+upd-stage.codeenigma.net.	3600	IN	CNAME	d1lyhk7ue47cn7.cloudfront.net.
 user-dashboard.codeenigma.net.	300	IN	CNAME	ce-www-prod-codeenigma-net-669926968.eu-west-2.elb.amazonaws.com.
 utility1.codeenigma.net.	3600	IN	A	35.176.238.60
 utility1.int.codeenigma.net.	3600	IN	A	10.3.4.91
