@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -428,6 +428,7 @@ jdi-deploy1.codeenigma.net.	3600	IN	A	34.250.3.109
 jdi-dev1.codeenigma.net.	3600	IN	A	52.18.150.68
 jdi-dev1.int.codeenigma.net.	3600	IN	A	10.3.4.57
 jdi-jenkins.codeenigma.net.	3600	IN	A	52.18.150.68
+jdi-vpn.codeenigma.net.	300	IN	A	34.250.3.109
 jenkins-stage.codeenigma.net.	3600	IN	A	35.176.131.95
 jenkins-stage2.codeenigma.net.	3600	IN	A	35.176.131.95
 jenkins.codeenigma.net.	3600	IN	A	52.56.121.203
