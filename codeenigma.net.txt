@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -151,6 +151,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 2fzver5snjc6xq2ncrve32qt2jkpg2iu._domainkey.codeenigma.net.	1800	IN	CNAME	2fzver5snjc6xq2ncrve32qt2jkpg2iu.dkim.amazonses.com.
 2ufnpbpcotgllpk44c64esmz5cjy4dpv._domainkey.dummy-ips2.codeenigma.net.	300	IN	CNAME	2ufnpbpcotgllpk44c64esmz5cjy4dpv.dkim.amazonses.com.
 5o5u6fjeawaojfyh5urbzqxl6jbqqurg._domainkey.dummy-ips2.codeenigma.net.	300	IN	CNAME	5o5u6fjeawaojfyh5urbzqxl6jbqqurg.dkim.amazonses.com.
+7ygb2aia5oegheany5lfakds3yxdnxts._domainkey.dummy-test1.codeenigma.net.	300	IN	CNAME	7ygb2aia5oegheany5lfakds3yxdnxts.dkim.amazonses.com.
 _001c642e7757abee71e2323b4322064a.dashboard.codeenigma.net.	300	IN	CNAME	_d100c12ea488564a53d589ca416d1175.nfyddsqlcy.acm-validations.aws.
 _037a72c1c3357f8dfc487416cd354103.adass-stage.codeenigma.net.	300	IN	CNAME	_6a21e27371ddd0aae875f3368dd49590.mhbtsbpdnt.acm-validations.aws.
 _0a87a9e80f94a78f38d2e095300f6408.westdevon-prod.codeenigma.net.	3600	IN	CNAME	_4accbf9ff14f43bc7056ad218a864e0e.kmjqhnbgnp.acm-validations.aws.
@@ -429,6 +430,7 @@ jdi-dev1.codeenigma.net.	3600	IN	A	52.18.150.68
 jdi-dev1.int.codeenigma.net.	3600	IN	A	10.3.4.57
 jdi-jenkins.codeenigma.net.	3600	IN	A	52.18.150.68
 jdi-vpn.codeenigma.net.	300	IN	A	34.250.3.109
+jdltercxeqvr46lu7kwvhkm6j4lmyc3a._domainkey.dummy-test1.codeenigma.net.	300	IN	CNAME	jdltercxeqvr46lu7kwvhkm6j4lmyc3a.dkim.amazonses.com.
 jenkins-stage.codeenigma.net.	3600	IN	A	35.176.131.95
 jenkins-stage2.codeenigma.net.	3600	IN	A	35.176.131.95
 jenkins.codeenigma.net.	3600	IN	A	52.56.121.203
@@ -502,6 +504,7 @@ mystrokeguide-asg-dev.codeenigma.net.	3600	IN	CNAME	d1779u69b2y0yj.cloudfront.ne
 mystrokeguide-asg-prod.codeenigma.net.	3600	IN	CNAME	d1jovstl7g9jtn.cloudfront.net.
 mystrokeguide-asg-stage.codeenigma.net.	3600	IN	CNAME	d1j9y3pyjgkbmg.cloudfront.net.
 n5zexext3gjzmupescfiyegf6m66ttkz._domainkey.codeenigma.net.	300	IN	CNAME	n5zexext3gjzmupescfiyegf6m66ttkz.dkim.amazonses.com.
+nauuinazzfieoa6lr2mvvkote6vn3agz._domainkey.dummy-test1.codeenigma.net.	300	IN	CNAME	nauuinazzfieoa6lr2mvvkote6vn3agz.dkim.amazonses.com.
 ndp-utility1.codeenigma.net.	3600	IN	A	34.246.245.227
 nextcloud-archive.codeenigma.net.	300	IN	A	35.177.127.44
 nextcloud-archive.codeenigma.net.	300	IN	TXT	"v=spf1 a mx ip4:35.177.127.44 ~all"
