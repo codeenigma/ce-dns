@@ -198,9 +198,12 @@ _9f1f99a6dab2cedc2fbfb932b8ae26d6.haymarket-www-dev.codeenigma.net.	3600	IN	CNAM
 _a1d377092299c53769bf8f8bbf6e9d1c.strokeassociation-asg-dev.codeenigma.net.	3600	IN	CNAME	_7335f8cf725330b87e23ecd9abea49ab.vtqfhvjlcp.acm-validations.aws.
 _a355e9c6842026c25c768d4c48ae5df0.ldap1.codeenigma.net.	300	IN	CNAME	_b548b49366552a1c3b7dd67bca3f48e3.gjjrqxwdmz.acm-validations.aws.
 _a41737c515d32f5d88d8ba5642de6871.trustnet-stage.codeenigma.net.	3600	IN	CNAME	_c05a92f5d564ee6c2216a5f7f7899bee.gqvycbwfkq.acm-validations.aws.
+_aa1a3acb5e426809c45417acdbe49cf2.me-casc.codeenigma.net.	3600	IN	CNAME	_2dcffc7edeb192dcaf1452bebe3d4858.mhbtsbpdnt.acm-validations.aws.
 _ae894c8a25b6c68c2e946d4aee795c51.lbhf-prod.codeenigma.net.	3600	IN	CNAME	_41e8a472092db88e1a918e9ffef13623.xrchbtpdjs.acm-validations.aws.
+_af17e29aa3c5f3fe179bddd0a8b488cf.classicandsportscar-www-dev.codeenigma.net.	3600	IN	CNAME	_907d5d7b99a3c3bce02a05b7aeae2fa7.mhbtsbpdnt.acm-validations.aws.
 _amazonses.dummy-deploy1.codeenigma.net.	300	IN	TXT	"0K78wLghjE1C+tVvpynqZGFUrAr69uJByqtf2A6vAK0="
 _b0c2fa6610143daaf8017ab8099487b5.greenwichvpntest.codeenigma.net.	300	IN	CNAME	_e93accb1907313f32186b450917d8d1e.jdyyptrhmw.acm-validations.aws.
+_b3f4b6497e8f4a53262dd4cca0554d49.moveelectric-www-dev.codeenigma.net.	3600	IN	CNAME	_da9f1d8909bb10a8202e26f1361f4643.mhbtsbpdnt.acm-validations.aws.
 _b69cc83cbea6c17e4c4b68fec702626d.dummy-cluster2.codeenigma.net.	3600	IN	CNAME	_1217d69c0ccb5fd89bc0ef4f9fb7f8f3.yyqgzzsvtj.acm-validations.aws.
 _b6e711dd1d7fc11b9813559015590cd4.mystrokeguide-asg-dev.codeenigma.net.	3600	IN	CNAME	_d3fbe83a17fd974c2c95000abfccab7d.vtqfhvjlcp.acm-validations.aws.
 _b720a2aade4070ff79576f74bccb1467.swdevon-stage.codeenigma.net.	300	IN	CNAME	_06c809a68955c2c61a325c77655b089e.sggfvksfyf.acm-validations.aws.
@@ -236,6 +239,7 @@ _oldspf.codeenigma.net.	3600	IN	TXT	"p6m2ntcb2nbzzj8sdp2s2sy325vc7s0j"
 _spf2.codeenigma.net.	300	IN	TXT	"v=spf1 ip4:162.13.63.68 ip4:162.13.63.85 ip6:2a01:7e00::f03c:91ff:feae:9e64 ip4:162.13.63.81 ip4:162.13.184.142 ip4:134.213.116.65 ip4:52.59.146.156 ip4:18.130.42.81 ip4:3.122.69.133 ip4:35.177.127.44 ip4:34.194.236.106 ip4:18.135.123.166 ~all"
 _spf3.codeenigma.net.	300	IN	TXT	"v=spf1 ip4:54.76.243.125 ip4:52.215.248.184 ip4:52.211.100.79 ip4:99.80.189.91 ip4:88.99.95.8 ip4:52.210.106.54 ip4:34.247.112.244 ip4:3.9.207.19 ip4:34.246.245.227 ip4:52.18.18.208 ip4:18.130.111.191 ip4:54.77.138.110 ip4:52.210.200.211 ~all"
 _spf4.codeenigma.net.	300	IN	TXT	"v=spf1 ip4:52.213.245.183 ip4:35.176.228.153 ~all"
+acm1-domain.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1084576473.eu-west-1.elb.amazonaws.com.
 adass-stage.codeenigma.net.	3600	IN	CNAME	das69al7yq7dk.cloudfront.net.
 adass.codeenigma.net.	3600	IN	CNAME	d2ooh014t4b4bj.cloudfront.net.
 afraweb-app1.codeenigma.net.	3600	IN	A	3.11.32.246
@@ -462,6 +466,7 @@ login-dev.codeenigma.net.	300	IN	CNAME	utility3.int.codeenigma.net.
 login.codeenigma.net.	300	IN	CNAME	enigma3.codeenigma.net.
 mailfrom.gitlab.govwales-deploy1.codeenigma.net.	300	IN	MX	10 feedback-smtp.eu-west-2.amazonses.com.
 mailfrom.gitlab.govwales-deploy1.codeenigma.net.	300	IN	TXT	"v=spf1 include:amazonses.com ~all"
+me-casc.codeenigma.net.	3600	IN	CNAME	d3m3cyy9gwx8cu.cloudfront.net.
 metabase.codeenigma.net.	300	IN	CNAME	metabase-alb-2102566008.us-east-1.elb.amazonaws.com.
 mfa-dev1.codeenigma.net.	3600	IN	A	3.11.113.31
 mfa1.codeenigma.net.	3600	IN	A	35.176.69.138
