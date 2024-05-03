@@ -254,7 +254,7 @@ airmic-app2.codeenigma.net.	3600	IN	A	35.176.197.43
 airmic-app2.int.codeenigma.net.	3600	IN	A	10.3.4.68
 airmic-deploy1.codeenigma.net.	3600	IN	A	3.9.123.245
 airmic-dev.codeenigma.net.	3600	IN	CNAME	airmic-dev1.codeenigma.net.
-airmic-dev1.codeenigma.net.	3600	IN	A	18.168.31.174
+airmic-dev1.codeenigma.net.	3600	IN	A	35.176.106.113
 airmic-stage.codeenigma.net.	3600	IN	CNAME	airmic-dev1.codeenigma.net.
 airmic-stage2.codeenigma.net.	3600	IN	A	35.176.106.113
 airmic-stage2.int.codeenigma.net.	3600	IN	A	10.3.4.69
