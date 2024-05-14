@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -181,6 +181,7 @@ _5e52d7b1e1e1cd9da485b09ec04e516e.microsites-stage.codeenigma.net.	3600	IN	CNAME
 _66d69bbfbe31f0550856b012f0688e11.westdevon-dev.codeenigma.net.	300	IN	CNAME	_a684b9ee87e328cc074fae5cfc298b09.sggfvksfyf.acm-validations.aws.
 _680535e38da8f617dabc7d613df1130d.hf-safeguardingadults.codeenigma.net.	3600	IN	CNAME	_7d1a73eee19f5a4a8c4ad912140ef5b9.mhbtsbpdnt.acm-validations.aws.
 _6f77bbc8bbc8ae8913b75f0dc27ab5d2.southhams-dev.codeenigma.net.	3600	IN	CNAME	_9d80ed071a6f5e1f412d86f2a04b36f1.wmqxbylrnj.acm-validations.aws.
+_6f7a63145967a0da68ff73d4557514e6.autocar-dev.codeenigma.net.	3600	IN	CNAME	_45dbbeb4449e811ce870e62f365d077a.sdgjtdhdhz.acm-validations.aws.
 _74dfe32114cf0d3407e77216ff3cc963.trustnet-d9-dev.codeenigma.net.	3600	IN	CNAME	_9a721ce92df2d97dadb43057d55ad9e5.yzdtlljtvc.acm-validations.aws.
 _754d377f3bbae26b8de42fe49e531c46.cumbria-stage.codeenigma.net.	3600	IN	CNAME	_4424c7a251ec92c98b0f1b400e53f13e.rdvkfhcmrm.acm-validations.aws.
 _7d22ec9ace79994949f4bf4c71943aeb.trustnet-dev.codeenigma.net.	300	IN	CNAME	_cab57dafbad0c18547a72f137e13c011.hqkbcmchgw.acm-validations.aws.
@@ -265,6 +266,7 @@ asgtest.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	dummy-asgenc-dev-codeenigm
 aspire-dev.codeenigma.net.	300	IN	CNAME	hlt-dev2.codeenigma.net.
 aspire-prod.codeenigma.net.	300	IN	CNAME	hlt-app1.codeenigma.net.
 aspire-stage.codeenigma.net.	300	IN	CNAME	hlt-dev2.codeenigma.net.
+autocar-dev.codeenigma.net.	3600	IN	CNAME	d1noz56nbuatxj.cloudfront.net.
 backbone.codeenigma.net.	300	IN	CNAME	puppet3.codeenigma.net.
 bastion1.codeenigma.net.	3600	IN	A	159.100.242.248
 bastion2.codeenigma.net.	3600	IN	A	159.100.242.248
