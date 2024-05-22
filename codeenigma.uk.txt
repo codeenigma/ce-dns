@@ -13,9 +13,12 @@ codeenigma.uk.	172800	IN	NS	ns-722.awsdns-26.net.
 codeenigma.uk.	300	IN	TXT	"google-site-verification=9HW3spTFJOADdVW2tfJue3iviCZ9uOj6EfocidunLIA"
 codeenigma.uk.	300	IN	TXT	"v=spf1 include:amazonses.com -all"
 2e7aumsjmq5bsot4s65u3ukl2iexxj24._domainkey.codeenigma.uk.	300	IN	CNAME	2e7aumsjmq5bsot4s65u3ukl2iexxj24.dkim.amazonses.com.
+2oabc2p55iiwvdi5akouobl46eglx64j._domainkey.codeenigma.uk.	300	IN	CNAME	2oabc2p55iiwvdi5akouobl46eglx64j.dkim.amazonses.com.
 bqfmz53ht7u4de7frq4jnzhvq7v5bbma._domainkey.codeenigma.uk.	300	IN	CNAME	bqfmz53ht7u4de7frq4jnzhvq7v5bbma.dkim.amazonses.com.
+csf57t4m7wvrrr63nuairdlolwno23yc._domainkey.codeenigma.uk.	300	IN	CNAME	csf57t4m7wvrrr63nuairdlolwno23yc.dkim.amazonses.com.
 gvqivwdkkgncf3xs6hmh74iw3uvypzxd._domainkey.codeenigma.uk.	1800	IN	CNAME	gvqivwdkkgncf3xs6hmh74iw3uvypzxd.dkim.amazonses.com.
 iraiw6lgjduehuebfmh7mqj2vlxrtzwe._domainkey.codeenigma.uk.	300	IN	CNAME	iraiw6lgjduehuebfmh7mqj2vlxrtzwe.dkim.amazonses.com.
+n7uequbq7z45kysf3s3b77vi6pa2zz2q._domainkey.codeenigma.uk.	300	IN	CNAME	n7uequbq7z45kysf3s3b77vi6pa2zz2q.dkim.amazonses.com.
 ohv37g5iujjvhrsmxxwdr7gnaobj4sd2._domainkey.codeenigma.uk.	300	IN	CNAME	ohv37g5iujjvhrsmxxwdr7gnaobj4sd2.dkim.amazonses.com.
 pts3nlyshis6tfcrpcwzul32te7enili._domainkey.codeenigma.uk.	1800	IN	CNAME	pts3nlyshis6tfcrpcwzul32te7enili.dkim.amazonses.com.
 qtwr5r7ykbhwetikhkz6u2jkuvhc6ipc._domainkey.codeenigma.uk.	1800	IN	CNAME	qtwr5r7ykbhwetikhkz6u2jkuvhc6ipc.dkim.amazonses.com.
