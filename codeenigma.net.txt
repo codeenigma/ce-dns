@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -384,6 +384,7 @@ fci-app3.codeenigma.net.	3600	IN	A	52.56.172.10
 fci-app3.int.codeenigma.net.	3600	IN	A	10.3.4.148
 fci-app4.codeenigma.net.	3600	IN	A	18.168.231.35
 fci-deploy1.codeenigma.net.	3600	IN	A	18.135.55.189
+fci-deploy1.codeenigma.net.	300	IN	TXT	"v=spf1 ip4:18.135.55.189 -all"
 fci-dev1.codeenigma.net.	3600	IN	A	35.176.178.103
 fci-dev2.codeenigma.net.	3600	IN	A	35.176.178.103
 fci-dev2.int.codeenigma.net.	3600	IN	A	10.3.4.76
