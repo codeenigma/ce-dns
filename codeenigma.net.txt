@@ -27,7 +27,6 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.ce-deploy1.codeenigma.net.	3600	IN	CNAME	ce-deploy1.codeenigma.net.
 *.chsoc-app1.codeenigma.net.	300	IN	CNAME	chsoc-app2.codeenigma.net.
 *.chsoc-stage1.codeenigma.net.	300	IN	CNAME	chsoc-stage2.codeenigma.net.
-*.controller.codeenigma.net.	300	IN	CNAME	controller.codeenigma.net.
 *.cumbria-deploy1.codeenigma.net.	3600	IN	CNAME	cumbria-deploy1.codeenigma.net.
 *.dev.codeenigma.net.	300	IN	CNAME	build.codeenigma.net.
 *.dummy-deploy1.codeenigma.net.	3600	IN	CNAME	dummy-deploy1.codeenigma.net.
@@ -311,7 +310,6 @@ community-practitioner-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeeni
 conference-dev.codeenigma.net.	300	IN	CNAME	airmic-stage2.codeenigma.net.
 content-dev.codeenigma.net.	300	IN	CNAME	stats-dev.codeenigma.com.
 content.codeenigma.net.	300	IN	CNAME	stats.codeenigma.com.
-controller.codeenigma.net.	3600	IN	A	35.179.18.103
 corporate-prod.codeenigma.net.	300	IN	CNAME	hlt-app1.codeenigma.net.
 cricknet-dev.codeenigma.net.	3600	IN	CNAME	fci-dev3.codeenigma.net.
 cricknet-develop.codeenigma.net.	300	IN	CNAME	fci-dev1.codeenigma.net.
