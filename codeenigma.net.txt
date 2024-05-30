@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -393,6 +393,7 @@ fz2mbzdapznbhkzjazeeirliafrbc6e4._domainkey.gitlab.govwales-deploy1.codeenigma.n
 gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz._domainkey.dummy-deploy1.codeenigma.net.	300	IN	CNAME	gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz.dkim.amazonses.com.
 git.codeenigma.net.	3600	IN	A	35.176.193.97
 git2.codeenigma.net.	3600	IN	A	35.176.193.97
+gitlab.haymarket-infra1.codeenigma.net.	300	IN	CNAME	haymarket-infra1.codeenigma.net.
 govwales-app-tribs-dr.codeenigma.net.	3600	IN	A	52.208.43.173
 govwales-app-tribs.codeenigma.net.	3600	IN	A	18.170.17.80
 govwales-app7-dr.codeenigma.net.	3600	IN	A	18.203.15.98
@@ -410,6 +411,7 @@ govwales-solr6.codeenigma.net.	3600	IN	A	35.176.66.213
 gw-search.cy.feature-gw8883-global-search.codeenigma.net.	300	IN	CNAME	govwales-dev3.codeenigma.net.
 gw-search.feature-gw8883-global-search.codeenigma.net.	300	IN	CNAME	govwales-dev3.codeenigma.net.
 haymarket-deploy1.codeenigma.net.	3600	IN	A	18.135.188.153
+haymarket-infra1.codeenigma.net.	300	IN	A	54.170.111.196
 haymarket-www-dev.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
 hf-safeguardingadults.codeenigma.net.	3600	IN	CNAME	d25t7mld60cjwz.cloudfront.net.
 hfsafeguardingadults-stage.codeenigma.net.	3600	IN	CNAME	dxot3ygaz40yp.cloudfront.net.
