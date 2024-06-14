@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -178,6 +178,7 @@ _4eae2bac661840ddffdd3dec274c8989.strokeassociation-asg-stage.codeenigma.net.	30
 _5c9d9799e58cc8a71e608658dc1cccb5.lbhf-demo2-stage.codeenigma.net.	300	IN	CNAME	_a66403e6a2d8c2a63377ee343863de4e.mhbtsbpdnt.acm-validations.aws.
 _5dc690f79567bc7611d36f19767b1c3b.northyorkshirecouncil.preprod.nycc-app3.codeenigma.net.	3600	IN	CNAME	_874f0dec00f3e7934a9fda8a2d3164f3.ghcgkbmxjw.acm-validations.aws.
 _5e52d7b1e1e1cd9da485b09ec04e516e.microsites-stage.codeenigma.net.	3600	IN	CNAME	_e1e4fe7a3349e9d30fedeca03c0807d7.nxzthgqctm.acm-validations.aws.
+_61e95bb72dde0b6ecf3d047a0fa3927f.lbhf-demo2.codeenigma.net.	3600	IN	CNAME	_ca1124659d5e4122969dc1ae56e5e4bd.sdgjtdhdhz.acm-validations.aws.
 _66d69bbfbe31f0550856b012f0688e11.westdevon-dev.codeenigma.net.	300	IN	CNAME	_a684b9ee87e328cc074fae5cfc298b09.sggfvksfyf.acm-validations.aws.
 _680535e38da8f617dabc7d613df1130d.hf-safeguardingadults.codeenigma.net.	3600	IN	CNAME	_7d1a73eee19f5a4a8c4ad912140ef5b9.mhbtsbpdnt.acm-validations.aws.
 _6f77bbc8bbc8ae8913b75f0dc27ab5d2.southhams-dev.codeenigma.net.	3600	IN	CNAME	_9d80ed071a6f5e1f412d86f2a04b36f1.wmqxbylrnj.acm-validations.aws.
@@ -207,9 +208,11 @@ _amazonses.dummy-deploy1.codeenigma.net.	300	IN	TXT	"0K78wLghjE1C+tVvpynqZGFUrAr
 _b0c2fa6610143daaf8017ab8099487b5.greenwichvpntest.codeenigma.net.	300	IN	CNAME	_e93accb1907313f32186b450917d8d1e.jdyyptrhmw.acm-validations.aws.
 _b3f4b6497e8f4a53262dd4cca0554d49.moveelectric-www-dev.codeenigma.net.	3600	IN	CNAME	_da9f1d8909bb10a8202e26f1361f4643.mhbtsbpdnt.acm-validations.aws.
 _b67c2f02f7a8da1eb40e9047ff2f399f.autocar-www-dev.codeenigma.net.	3600	IN	CNAME	_a47213c9478e26ac07865f12f987d144.sdgjtdhdhz.acm-validations.aws.
+_b699fdea6628f423bcd1c9dd7de67cb8.lbhf-demo1.codeenigma.net.	3600	IN	CNAME	_e0bf88ed795dd83ae8e1f3462ebbd46b.sdgjtdhdhz.acm-validations.aws.
 _b69cc83cbea6c17e4c4b68fec702626d.dummy-cluster2.codeenigma.net.	3600	IN	CNAME	_1217d69c0ccb5fd89bc0ef4f9fb7f8f3.yyqgzzsvtj.acm-validations.aws.
 _b6e711dd1d7fc11b9813559015590cd4.mystrokeguide-asg-dev.codeenigma.net.	3600	IN	CNAME	_d3fbe83a17fd974c2c95000abfccab7d.vtqfhvjlcp.acm-validations.aws.
 _b720a2aade4070ff79576f74bccb1467.swdevon-stage.codeenigma.net.	300	IN	CNAME	_06c809a68955c2c61a325c77655b089e.sggfvksfyf.acm-validations.aws.
+_b76d6d820e349556aa858259655647cf.lbhf-demo3.codeenigma.net.	3600	IN	CNAME	_42cfc21d346ac50048665b0bbf9983fe.sdgjtdhdhz.acm-validations.aws.
 _b98c72f17dd897c92b6ae1c7e0dd38c3.upd-dev.codeenigma.net.	3600	IN	CNAME	_ef89be6e0b65e46f82903977957600d6.tftwdmzmwn.acm-validations.aws.
 _ba59e538139bb926f51d6152ea319a43.www-stage-fr.codeenigma.net.	3600	IN	CNAME	_afd87aec653c55fb3b016d4f863ec26c.wrpxpmnjfs.acm-validations.aws.
 _bcf19fd1efc6755444f24ca70692f2f0.mystrokeguide-asg-stage.codeenigma.net.	3600	IN	CNAME	_de2b8970de2792a7232ab3ad2d89a106.vtqfhvjlcp.acm-validations.aws.
@@ -458,8 +461,11 @@ ksm.codeenigma.net.	3600	IN	A	3.11.35.212
 lbci-live-24.croydon.codeenigma.net.	300	IN	A	98.71.9.184
 lbci-stage-24.croydon.codeenigma.net.	300	IN	A	68.219.240.85
 lbhf-demo1-stage.codeenigma.net.	3600	IN	CNAME	d2izzk9owugi6x.cloudfront.net.
+lbhf-demo1.codeenigma.net.	3600	IN	CNAME	d3iaovpkh11u8z.cloudfront.net.
 lbhf-demo2-stage.codeenigma.net.	3600	IN	CNAME	d1vlyzl91mdfa5.cloudfront.net.
+lbhf-demo2.codeenigma.net.	3600	IN	CNAME	dllmojtx46kax.cloudfront.net.
 lbhf-demo3-stage.codeenigma.net.	3600	IN	CNAME	d25l4rg4nctsvu.cloudfront.net.
+lbhf-demo3.codeenigma.net.	3600	IN	CNAME	dpzcjctomwrlz.cloudfront.net.
 lbhf-deploy1.codeenigma.net.	3600	IN	A	52.56.82.99
 lbhf-dev.codeenigma.net.	3600	IN	CNAME	lbhf-asg-dev-codeenigma-net-1596636235.eu-west-2.elb.amazonaws.com.
 lbhf-dev2.codeenigma.net.	3600	IN	A	18.168.74.212
