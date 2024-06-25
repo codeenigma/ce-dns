@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -25,6 +25,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.canterbury-deploy1.codeenigma.net.	3600	IN	CNAME	canterbury-deploy1.codeenigma.net.
 *.canterbury-dev1.codeenigma.net.	3600	IN	CNAME	canterbury-dev1.codeenigma.net.
 *.ce-deploy1.codeenigma.net.	3600	IN	CNAME	ce-deploy1.codeenigma.net.
+*.chat.codeenigma.net.	3600	IN	CNAME	chat.codeenigma.net.
 *.chsoc-app1.codeenigma.net.	300	IN	CNAME	chsoc-app2.codeenigma.net.
 *.chsoc-stage1.codeenigma.net.	300	IN	CNAME	chsoc-stage2.codeenigma.net.
 *.cumbria-deploy1.codeenigma.net.	3600	IN	CNAME	cumbria-deploy1.codeenigma.net.
@@ -294,6 +295,7 @@ canterbury-stage.codeenigma.net.	3600	IN	CNAME	d2pdyklxxtemsd.cloudfront.net.
 ce-deploy1.codeenigma.net.	3600	IN	A	3.10.183.111
 ce-www-dev.codeenigma.net.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
 ce-www-prod.codeenigma.net.	3600	IN	CNAME	ce-www-prod-codeenigma-net-669926968.eu-west-2.elb.amazonaws.com.
+chat.codeenigma.net.	3600	IN	A	18.171.91.208
 chat.git.codeenigma.net.	3600	IN	CNAME	git.codeenigma.net.
 check1.codeenigma.net.	3600	IN	A	46.101.48.134
 check2.codeenigma.net.	3600	IN	A	213.138.111.187
