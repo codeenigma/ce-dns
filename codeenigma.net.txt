@@ -75,6 +75,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.iaea-deploy1.codeenigma.net.	3600	IN	CNAME	iaea-deploy1.codeenigma.net.
 *.iaea-utilities.codeenigma.net.	300	IN	CNAME	iaea-utilities.codeenigma.net.
 *.infra1.codeenigma.net.	3600	IN	CNAME	infra1.codeenigma.net.
+*.insite-dev.codeenigma.net.	3600	IN	CNAME	insite-dev.codeenigma.net.
 *.jdi-app1.codeenigma.net.	3600	IN	CNAME	jdi-app1.codeenigma.net.
 *.jdi-deploy1.codeenigma.net.	3600	IN	CNAME	jdi-deploy1.codeenigma.net.
 *.ksm.codeenigma.net.	3600	IN	CNAME	ksm.codeenigma.net.
@@ -232,6 +233,7 @@ _e18f3bb93d8d4042fce99232cb7c6a1a.westdevon-dev.codeenigma.net.	3600	IN	CNAME	_a
 _e3dd5c15263f70422963dd833ffdb497.dashboard-stage.codeenigma.net.	300	IN	CNAME	_822890e960b28b19a00571fbbd436d66.xyscsmcmgv.acm-validations.aws.
 _e89422b11f8024f29c63a46d8b5d1c0c.southhams-dev.codeenigma.net.	3600	IN	CNAME	_dc1c692b9381f5089a48f40c283e2803.btsqtkxpyp.acm-validations.aws.
 _ec9b683b75c29e72c87a1162f4bcf2a4.dashboard-dev.codeenigma.net.	300	IN	CNAME	_037752693ed37c541609180851475ff4.xyscsmcmgv.acm-validations.aws.
+_ee701ebc1bb28c63466295fd4a37e436.fci-asg-prod.codeenigma.net.	3600	IN	CNAME	_c835c3c4d13a87c2594adc8830c4c9fe.sdgjtdhdhz.acm-validations.aws.
 _f0c6e6bc02fbc9b999bfe0db6a3b2a6a.canterbury-dev.codeenigma.net.	3600	IN	CNAME	_10f6dd1601f0af19764853f50a15ce74.pmgvbzmzyk.acm-validations.aws.
 _f0cb4593e0f45c0a5837c0caca3f929e.northdevon-prod.codeenigma.net.	3600	IN	CNAME	_bf4ea4946f494ae37926f7cce2b211c7.fcgjwsnkyp.acm-validations.aws.
 _f15871a4ca7d3a7159cf9c76efc10c85.lbhf-hotfixes.codeenigma.net.	300	IN	CNAME	_790301cfee01607a241559834fe50d0d.jddtvkljgg.acm-validations.aws.
@@ -439,6 +441,7 @@ iaea-utilities.codeenigma.net.	3600	IN	A	52.211.100.79
 iaea-utilities2.codeenigma.net.	3600	IN	A	52.211.100.79
 iaea-utilities2.int.codeenigma.net.	3600	IN	A	10.3.4.39
 infra1.codeenigma.net.	3600	IN	A	3.8.109.207
+insite-dev.codeenigma.net.	3600	IN	A	52.48.107.93
 jdi-app1.codeenigma.net.	3600	IN	A	54.77.219.219
 jdi-app2.codeenigma.net.	3600	IN	A	10.3.4.10
 jdi-app2.int.codeenigma.net.	3600	IN	A	10.3.4.10
