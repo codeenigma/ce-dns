@@ -390,6 +390,7 @@ fci-app2.int.codeenigma.net.	3600	IN	A	10.3.4.75
 fci-app3.codeenigma.net.	3600	IN	A	52.56.172.10
 fci-app3.int.codeenigma.net.	3600	IN	A	10.3.4.148
 fci-app4.codeenigma.net.	3600	IN	A	18.168.231.35
+fci-asg-prod.codeenigma.net.	3600	IN	CNAME	fci-asg-prod-codeenigma-net-557384103.eu-west-2.elb.amazonaws.com.
 fci-deploy1.codeenigma.net.	3600	IN	A	18.135.55.189
 fci-deploy1.codeenigma.net.	300	IN	TXT	"v=spf1 ip4:18.135.55.189 -all"
 fci-dev1.codeenigma.net.	3600	IN	A	35.176.178.103
