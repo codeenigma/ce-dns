@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.com.
-codeenigma.com.	86400	AWS	ALIAS	A ce-www-prod-codeenigma-net-669926968.eu-west-2.elb.amazonaws.com. ZHURV8PSTC4K8 false
 codeenigma.com.	900	IN	SOA	ns-513.awsdns-00.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.com.	86400	AWS	ALIAS	A ce-www-prod-codeenigma-net-669926968.eu-west-2.elb.amazonaws.com. ZHURV8PSTC4K8 false
 codeenigma.com.	300	IN	MX	10 aspmx.l.google.com.
 codeenigma.com.	300	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.com.	300	IN	MX	20 alt2.aspmx.l.google.com.
@@ -72,6 +72,8 @@ mandrill._domainkey.codeenigma.com.	300	IN	TXT	"v=DKIM1; k=rsa; p=MIGfMA0GCSqGSI
 monitor1.codeenigma.com.	300	IN	A	52.56.36.187
 monitor1.codeenigma.com.	300	IN	TXT	"v=spf1 ip4:52.56.36.187 ~all"
 monitor2.codeenigma.com.	300	IN	A	54.76.199.43
+mte1._domainkey.codeenigma.com.	300	IN	CNAME	dkim1.mandrillapp.com.
+mte2._domainkey.codeenigma.com.	300	IN	CNAME	dkim2.mandrillapp.com.
 ntop.codeenigma.com.	300	IN	A	192.168.140.1
 nwuklph37fh2ekyc3nhpmym62ceee535._domainkey.codeenigma.com.	300	IN	CNAME	nwuklph37fh2ekyc3nhpmym62ceee535.dkim.amazonses.com.
 packages-old.codeenigma.com.	300	IN	CNAME	monitor2.codeenigma.com.
