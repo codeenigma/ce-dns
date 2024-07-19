@@ -105,6 +105,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.rcog-app1.codeenigma.net.	300	IN	CNAME	rcog-app1.codeenigma.net.
 *.rcog-dev1.codeenigma.net.	300	IN	CNAME	rcog-dev1.codeenigma.net.
 *.rcpch-aml1.codeenigma.net.	3600	IN	CNAME	rcpch-aml1.codeenigma.net.
+*.rcpch-deploy1.codeenigma.net.	3600	IN	CNAME	rcpch-deploy1.codeenigma.net.
 *.rcpch-wp1.codeenigma.net.	3600	IN	CNAME	rcpch-wp1.codeenigma.net.
 *.rcpch-wp2.codeenigma.net.	3600	IN	CNAME	rcpch-wp2.codeenigma.net.
 *.redactive-app1.codeenigma.net.	300	IN	CNAME	redactive-app3.codeenigma.net.
@@ -421,7 +422,7 @@ govwales-solr6.codeenigma.net.	3600	IN	A	35.176.66.213
 gw-search.cy.feature-gw8883-global-search.codeenigma.net.	300	IN	CNAME	govwales-dev3.codeenigma.net.
 gw-search.feature-gw8883-global-search.codeenigma.net.	300	IN	CNAME	govwales-dev3.codeenigma.net.
 haymarket-deploy1.codeenigma.net.	3600	IN	A	18.135.188.153
-haymarket-infra1.codeenigma.net.	300	IN	A	54.170.111.196
+haymarket-infra1.codeenigma.net.	300	IN	A	18.200.199.86
 haymarket-www-dev.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
 hf-safeguardingadults.codeenigma.net.	3600	IN	CNAME	d25t7mld60cjwz.cloudfront.net.
 hfsafeguardingadults-stage.codeenigma.net.	3600	IN	CNAME	dxot3ygaz40yp.cloudfront.net.
@@ -602,6 +603,9 @@ rcog-dev1.int.codeenigma.net.	3600	IN	A	10.3.4.168
 rcog-utility1.codeenigma.net.	3600	IN	A	34.246.245.227
 rcog-utility1.int.codeenigma.net.	3600	IN	A	10.3.4.169
 rcpch-aml1.codeenigma.net.	3600	IN	A	54.155.77.210
+rcpch-deploy1.codeenigma.net.	3600	IN	A	54.73.37.10
+rcpch-dev.codeenigma.net.	3600	IN	CNAME	rcpch-dev1.codeenigma.net.
+rcpch-dev1.codeenigma.net.	3600	IN	A	54.77.157.178
 rcpch-dev2.codeenigma.net.	3600	IN	A	34.247.112.244
 rcpch-dev2.int.codeenigma.net.	3600	IN	A	10.3.4.115
 rcpch-dotmailer-master.codeenigma.net.	300	IN	CNAME	rcpch-dev2.codeenigma.net.
