@@ -37,7 +37,7 @@ airmic-master.codeenigma.com.	300	IN	CNAME	airmic-stage1.codeenigma.com.
 airmic-stage.codeenigma.com.	300	IN	CNAME	airmic-stage1.codeenigma.com.
 cewww-dev-en.codeenigma.com.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
 cewww-dev-fr.codeenigma.com.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
-chat.codeenigma.com.	3600	IN	CNAME	git.codeenigma.com.
+chat.codeenigma.com.	60	IN	CNAME	git.codeenigma.com.
 chsoc-app1.codeenigma.com.	300	IN	A	34.240.220.109
 chsoc-stage1.codeenigma.com.	300	IN	A	34.240.136.246
 codeenigma-new-master-prototype.codeenigma.com.	300	IN	CNAME	nonssl.us-eu.fastly.net.
