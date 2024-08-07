@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -614,6 +614,7 @@ rcpch-qa.codeenigma.net.	300	IN	CNAME	rcpch-dev2.codeenigma.net.
 rcpch-solr1.codeenigma.net.	3600	IN	A	52.19.216.94
 rcpch-solr2.codeenigma.net.	3600	IN	A	52.19.216.94
 rcpch-uat.codeenigma.net.	300	IN	CNAME	rcpch-dev2.codeenigma.net.
+rcpch-website-master.codeenigma.net.	3600	IN	CNAME	rcpch-dev1.codeenigma.net.
 rcpch-website.master.rcpch-dev1.codeenigma.net.	300	IN	CNAME	rcpch-dev2.codeenigma.net.
 rcpch-wp1.codeenigma.net.	3600	IN	A	52.208.151.85
 rcpch-wp2.codeenigma.net.	3600	IN	A	34.253.63.42
