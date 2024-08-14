@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -106,6 +106,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.rcog-dev1.codeenigma.net.	300	IN	CNAME	rcog-dev1.codeenigma.net.
 *.rcpch-aml1.codeenigma.net.	3600	IN	CNAME	rcpch-aml1.codeenigma.net.
 *.rcpch-deploy1.codeenigma.net.	3600	IN	CNAME	rcpch-deploy1.codeenigma.net.
+*.rcpch-solr.codeenigma.net.	3600	IN	CNAME	rcpch-solr.codeenigma.net.
 *.rcpch-wp1.codeenigma.net.	3600	IN	CNAME	rcpch-wp1.codeenigma.net.
 *.rcpch-wp2.codeenigma.net.	3600	IN	CNAME	rcpch-wp2.codeenigma.net.
 *.redactive-app1.codeenigma.net.	300	IN	CNAME	redactive-app3.codeenigma.net.
@@ -611,6 +612,7 @@ rcpch-dev2.int.codeenigma.net.	3600	IN	A	10.3.4.115
 rcpch-dotmailer-master.codeenigma.net.	300	IN	CNAME	rcpch-dev2.codeenigma.net.
 rcpch-preprod.codeenigma.net.	300	IN	CNAME	rcpch-drupal8-prod-elb-1608668239.eu-west-1.elb.amazonaws.com.
 rcpch-qa.codeenigma.net.	300	IN	CNAME	rcpch-dev2.codeenigma.net.
+rcpch-solr.codeenigma.net.	3600	IN	A	52.211.161.68
 rcpch-solr1.codeenigma.net.	3600	IN	A	52.19.216.94
 rcpch-solr2.codeenigma.net.	3600	IN	A	52.19.216.94
 rcpch-uat.codeenigma.net.	300	IN	CNAME	rcpch-dev2.codeenigma.net.
