@@ -381,6 +381,7 @@ envmentalist-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 envmentalist-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 ep4zigl6yqnzwgra7dfsqwqihsufbve7._domainkey.gitlab.govwales-deploy1.codeenigma.net.	300	IN	CNAME	ep4zigl6yqnzwgra7dfsqwqihsufbve7.dkim.amazonses.com.
 epiqo-app18.int.codeenigma.net.	3600	IN	A	10.3.4.126
+example.com.codeenigma.net.	300	IN	A	108.128.103.112
 explorify-app1.codeenigma.net.	3600	IN	A	18.133.41.209
 explorify-deploy1.codeenigma.net.	3600	IN	A	35.176.15.249
 explorify-dev.codeenigma.net.	3600	IN	CNAME	explorify-dev1.codeenigma.net.
