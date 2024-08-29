@@ -808,6 +808,7 @@ wt-upd-master.codeenigma.net.	300	IN	CNAME	wt-stage2.codeenigma.net.
 www-stage-en.codeenigma.net.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
 www-stage-fr.codeenigma.net.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
 www.codeenigma.net.	300	IN	CNAME	codeenigma.net.
+www.example.com.dummy-template.codeenigma.net.	300	IN	A	108.128.103.112
 www.explorify-dev.codeenigma.net.	3600	IN	CNAME	explorify-dev1.codeenigma.net.
 www.explorify-stage.codeenigma.net.	3600	IN	CNAME	explorify-dev1.codeenigma.net.
 www.joh.codeenigma.net.	3600	IN	A	131.111.130.253
