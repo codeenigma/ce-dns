@@ -38,7 +38,6 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.dummy-ldap.codeenigma.net.	3600	IN	CNAME	dummy-ldap.codeenigma.net.
 *.dummy-mfa1.codeenigma.net.	3600	IN	CNAME	dummy-mfa1.codeenigma.net.
 *.dummy-monitor1.codeenigma.net.	3600	IN	CNAME	dummy-monitor1.codeenigma.net.
-*.dummy-template.codeenigma.net.	3600	IN	CNAME	dummy-template.codeenigma.net.
 *.dummy-test.codeenigma.net.	3600	IN	CNAME	dummy-test.codeenigma.net.
 *.dummy-test1.codeenigma.net.	3600	IN	CNAME	dummy-test1.codeenigma.net.
 *.dummy-vpn.codeenigma.net.	3600	IN	CNAME	dummy-vpn.codeenigma.net.
@@ -169,6 +168,7 @@ _12f366f374ce5c3d97a00f5d5c90bc10.cumbria-prod.codeenigma.net.	300	IN	CNAME	_ba8
 _135a544d2c4bd13023a2a72e96d80d10.ce-www-prod.codeenigma.net.	300	IN	CNAME	_d6a6756f8506904c4c7e1b38ff20780b.mhbtsbpdnt.acm-validations.aws.
 _25169fbeb97ebb884b0621b6d5d1f772.southhams-prod.codeenigma.net.	3600	IN	CNAME	_043705608bed01b59ee349579de77b5c.btsqtkxpyp.acm-validations.aws.
 _25a4097de56f9dcd0123ce8b32d4f313.iaea-dev.codeenigma.net.	3600	IN	CNAME	_a93907728d145fc982d35246572575eb.mhbtsbpdnt.acm-validations.aws.
+_2622c7311c25a7bf36e0311068042c2e.example.com.dummy-template.codeenigma.net.	3600	IN	CNAME	_c46b9a1090ab5a2fd60be34e6d22c482.djqtsrsxkq.acm-validations.aws.
 _27ff49797cf1b285539d310b2c3b18d1.trustnet-d7-dev.codeenigma.net.	3600	IN	CNAME	_e57d49a8117ea19ea27b78a77e02ca16.zrvsvrxrgs.acm-validations.aws.
 _2a29cc3df90753f04deb7d58d8bb8066.codeenigma.net.	300	IN	CNAME	_7b5b371912d0e6a5f4231b876da2a319.mhbtsbpdnt.acm-validations.aws.
 _318a05661623e1cc3aede53a56fba58b.northdevon-dev.codeenigma.net.	3600	IN	CNAME	_0261decec9ac05a3c4e078cfe26eb08b.fcgjwsnkyp.acm-validations.aws.
@@ -198,6 +198,7 @@ _8341e4f2ab5a0801e0f3472f07e1cead.northdevon-stage.codeenigma.net.	3600	IN	CNAME
 _85a72e3750b8d59fb9fd07fd217c1d4c.strokeassociation-asg-prod.codeenigma.net.	300	IN	CNAME	_14406627c655c30ae7fc9871fff4d8dd.vtqfhvjlcp.acm-validations.aws.
 _8e11f49507b2ac99c1283f9cf806bd66.localgovdrupal-dev.codeenigma.net.	300	IN	CNAME	_e9c64377375e482cee3dbe55c8e321d2.bdvkfdzfbg.acm-validations.aws.
 _93b474420c7597b509d49009391be292.southhams-stage.codeenigma.net.	3600	IN	CNAME	_346da0f8629cbbfa70a7bb0c093cda2f.btsqtkxpyp.acm-validations.aws.
+_954e4bfdc2febf4f6eeb922bcf5804a5.moveelectric-www-stage.codeenigma.net.	3600	IN	CNAME	_2a09bac5930032f2b2f8b4b321565b91.djqtsrsxkq.acm-validations.aws.
 _96c62a76b9e0f1c69a09abf84a32ba95.ce-www-dev.codeenigma.net.	3600	IN	CNAME	_0ee745635c4610312b612a3689037040.wrpxpmnjfs.acm-validations.aws.
 _98cd0205de9134957e6799c89f56c8c0.mystrokeguide-asg-prod.codeenigma.net.	3600	IN	CNAME	_1d461c71ef73746c3795b5657767b10d.vtqfhvjlcp.acm-validations.aws.
 _9d649cbc6cd3a8a347430c369e1a4c7a.localgovdrupal.codeenigma.net.	3600	IN	CNAME	_ef825714ebb65955e130876f43c96acb.jhztdrwbnw.acm-validations.aws.
@@ -220,6 +221,7 @@ _b720a2aade4070ff79576f74bccb1467.swdevon-stage.codeenigma.net.	300	IN	CNAME	_06
 _b76d6d820e349556aa858259655647cf.lbhf-demo3.codeenigma.net.	3600	IN	CNAME	_42cfc21d346ac50048665b0bbf9983fe.sdgjtdhdhz.acm-validations.aws.
 _b98c72f17dd897c92b6ae1c7e0dd38c3.upd-dev.codeenigma.net.	3600	IN	CNAME	_ef89be6e0b65e46f82903977957600d6.tftwdmzmwn.acm-validations.aws.
 _ba59e538139bb926f51d6152ea319a43.www-stage-fr.codeenigma.net.	3600	IN	CNAME	_afd87aec653c55fb3b016d4f863ec26c.wrpxpmnjfs.acm-validations.aws.
+_ba7ef26cbc21d5a6913154544de5141a.whatcar-www-stage.codeenigma.net.	3600	IN	CNAME	_589c7b1ea56978ed096b500454e1474f.djqtsrsxkq.acm-validations.aws.
 _bcf19fd1efc6755444f24ca70692f2f0.mystrokeguide-asg-stage.codeenigma.net.	3600	IN	CNAME	_de2b8970de2792a7232ab3ad2d89a106.vtqfhvjlcp.acm-validations.aws.
 _be087e910a8a058768a714b0cbf84398.adass.codeenigma.net.	3600	IN	CNAME	_696bb50dff4afcbc1ae62f7e11d44fed.mhbtsbpdnt.acm-validations.aws.
 _bfd9b7483dfbb6b94b4b67afbb8089c2.lbhfd9-prod.codeenigma.net.	300	IN	CNAME	_dedefdfa032091b4de783a75e7a4c3d6.rvctyfnwhz.acm-validations.aws.
@@ -243,6 +245,7 @@ _f15871a4ca7d3a7159cf9c76efc10c85.lbhf-hotfixes.codeenigma.net.	300	IN	CNAME	_79
 _f4283202dcc802f352e572be4e99980c.vpn-dummy.codeenigma.net.	3600	IN	CNAME	_097d10477268b0b96bcf1aeed56a37e3.gjjrqxwdmz.acm-validations.aws.
 _f5d78673da248ca058c5046df7bcc423.canterbury-dev1.codeenigma.net.	3600	IN	CNAME	_cedb0a6a5b8d6a470c9f6f6f8effc9f8.pmgvbzmzyk.acm-validations.aws.
 _f711550eba959bde0223320aa160e9d1.canterbury-stage.codeenigma.net.	3600	IN	CNAME	_e696f22b93be2a30c38043a39cfb09bd.pmgvbzmzyk.acm-validations.aws.
+_f7805891b254212a1b64fe06070ea0fd.classicandsportscar-www-stage.codeenigma.net.	3600	IN	CNAME	_ed0989843b63d8544582e3b6ae6a1edd.djqtsrsxkq.acm-validations.aws.
 _f7825e30a9b549072f9ca0aba77bc332.www-stage-en.codeenigma.net.	3600	IN	CNAME	_790ff614d76295dee03bdfd78e28047c.wrpxpmnjfs.acm-validations.aws.
 _fa7c9c161dad4da5c14e4b6674a959ae.acm1-domain.codeenigma.net.	3600	IN	CNAME	_4a582efe8a59985c5002fddb1bd8e148.mhbtsbpdnt.acm-validations.aws.
 _ff03dd9a26cf2a4a08a9e8f9d666e5e4.lbhf-demo3-stage.codeenigma.net.	300	IN	CNAME	_b58dad016e8d98ef707aa98c423ccd29.mhbtsbpdnt.acm-validations.aws.
@@ -317,6 +320,7 @@ civiccampus-stage.codeenigma.net.	3600	IN	CNAME	d1pg7glqu9pthe.cloudfront.net.
 cl3.codeenigma.net.	3600	IN	A	35.177.127.44
 cl3.int.codeenigma.net.	3600	IN	A	10.3.4.127
 classicandsportscar-www-dev.codeenigma.net.	3600	IN	CNAME	d20fnr8syj4biv.cloudfront.net.
+classicandsportscar-www-stage.codeenigma.net.	3600	IN	CNAME	d20fnr8syj4biv.cloudfront.net.
 community-practitioner-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 community-practitioner-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 conference-dev.codeenigma.net.	300	IN	CNAME	airmic-stage2.codeenigma.net.
@@ -381,7 +385,7 @@ envmentalist-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 envmentalist-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 ep4zigl6yqnzwgra7dfsqwqihsufbve7._domainkey.gitlab.govwales-deploy1.codeenigma.net.	300	IN	CNAME	ep4zigl6yqnzwgra7dfsqwqihsufbve7.dkim.amazonses.com.
 epiqo-app18.int.codeenigma.net.	3600	IN	A	10.3.4.126
-example.com.codeenigma.net.	300	IN	A	108.128.103.112
+example.com.dummy-template.codeenigma.net.	86400	AWS	ALIAS	A d3a2gfoob3i3bt.cloudfront.net. Z2FDTNDATAQYW2 false
 explorify-app1.codeenigma.net.	3600	IN	A	18.133.41.209
 explorify-deploy1.codeenigma.net.	3600	IN	A	35.176.15.249
 explorify-dev.codeenigma.net.	3600	IN	CNAME	explorify-dev1.codeenigma.net.
@@ -504,6 +508,7 @@ monitor2.int.codeenigma.net.	3600	IN	A	10.3.4.7
 monitor3.codeenigma.net.	3600	IN	A	52.56.36.187
 monitor3.int.codeenigma.net.	3600	IN	A	10.3.4.6
 moveelectric-www-dev.codeenigma.net.	3600	IN	CNAME	d20fnr8syj4biv.cloudfront.net.
+moveelectric-www-stage.codeenigma.net.	3600	IN	CNAME	d20fnr8syj4biv.cloudfront.net.
 mxrqxlcxgx5f7odh5kngvbtupstebi3r._domainkey.codeenigma.net.	1800	IN	CNAME	mxrqxlcxgx5f7odh5kngvbtupstebi3r.dkim.amazonses.com.
 myscience-app3.codeenigma.net.	3600	IN	A	52.209.72.165
 myscience-app3.int.codeenigma.net.	3600	IN	A	10.3.4.71
@@ -768,6 +773,7 @@ westdevon-dev.codeenigma.net.	3600	IN	CNAME	d13bn2zar4ec6k.cloudfront.net.
 westdevon-prod.codeenigma.net.	3600	IN	CNAME	southhams-app1.codeenigma.net.
 westdevon-stage.codeenigma.net.	3600	IN	CNAME	d23v0avitqictl.cloudfront.net.
 whatcar-www-dev.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
+whatcar-www-stage.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
 where-culture-connects.codeenigma.net.	300	IN	CNAME	d1kuullursz12i.cloudfront.net.
 wherecultureconnects-stage.codeenigma.net.	3600	IN	CNAME	d1x6cu0espermn.cloudfront.net.
 wt-app3.codeenigma.net.	3600	IN	A	34.253.176.65
@@ -808,7 +814,7 @@ wt-upd-master.codeenigma.net.	300	IN	CNAME	wt-stage2.codeenigma.net.
 www-stage-en.codeenigma.net.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
 www-stage-fr.codeenigma.net.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
 www.codeenigma.net.	300	IN	CNAME	codeenigma.net.
-www.example.com.dummy-template.codeenigma.net.	300	IN	A	108.128.103.112
+www.example.com.dummy-template.codeenigma.net.	86400	AWS	ALIAS	A d3a2gfoob3i3bt.cloudfront.net. Z2FDTNDATAQYW2 false
 www.explorify-dev.codeenigma.net.	3600	IN	CNAME	explorify-dev1.codeenigma.net.
 www.explorify-stage.codeenigma.net.	3600	IN	CNAME	explorify-dev1.codeenigma.net.
 www.joh.codeenigma.net.	3600	IN	A	131.111.130.253
