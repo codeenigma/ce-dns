@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -235,6 +235,7 @@ _d869d73abb7d036c77cb30f576da1a86.lbhfd9-master.codeenigma.net.	300	IN	CNAME	_d0
 _d8822afb0a16c9d097e8c8ca3b6c0590.codeenigma.net.	300	IN	CNAME	_66924c9675df3f105ba68cce29c8d194.acm-validations.aws.
 _db5c2bcc9626a6eed8935969525192be.fosteringsharedservices-stage.codeenigma.net.	3600	IN	CNAME	_162f4ce95c257bc8a9f93deaa7bfc3f1.ghdbznfpqd.acm-validations.aws.
 _ddc7fef6e5773d78aa279096c72d1b59.canterbury-prod.codeenigma.net.	3600	IN	CNAME	_bbfa48f6df7998498a0977c11d430654.pmgvbzmzyk.acm-validations.aws.
+_e06dff23fada65189e69a93f8c4842d1.haymarket-www-stage.codeenigma.net.	3600	IN	CNAME	_e03c61b73825a5114a80c36599230378.djqtsrsxkq.acm-validations.aws.
 _e18f3bb93d8d4042fce99232cb7c6a1a.westdevon-dev.codeenigma.net.	3600	IN	CNAME	_a7c431ce9825710e149682c3f3cec28d.wmqxbylrnj.acm-validations.aws.
 _e3dd5c15263f70422963dd833ffdb497.dashboard-stage.codeenigma.net.	300	IN	CNAME	_822890e960b28b19a00571fbbd436d66.xyscsmcmgv.acm-validations.aws.
 _e89422b11f8024f29c63a46d8b5d1c0c.southhams-dev.codeenigma.net.	3600	IN	CNAME	_dc1c692b9381f5089a48f40c283e2803.btsqtkxpyp.acm-validations.aws.
@@ -249,6 +250,7 @@ _f711550eba959bde0223320aa160e9d1.canterbury-stage.codeenigma.net.	3600	IN	CNAME
 _f7805891b254212a1b64fe06070ea0fd.classicandsportscar-www-stage.codeenigma.net.	3600	IN	CNAME	_ed0989843b63d8544582e3b6ae6a1edd.djqtsrsxkq.acm-validations.aws.
 _f7825e30a9b549072f9ca0aba77bc332.www-stage-en.codeenigma.net.	3600	IN	CNAME	_790ff614d76295dee03bdfd78e28047c.wrpxpmnjfs.acm-validations.aws.
 _fa7c9c161dad4da5c14e4b6674a959ae.acm1-domain.codeenigma.net.	3600	IN	CNAME	_4a582efe8a59985c5002fddb1bd8e148.mhbtsbpdnt.acm-validations.aws.
+_fab7c0eca6ec69a8e456db8b02598870.cardata-www-dev.codeenigma.net.	3600	IN	CNAME	_bd3de0fc8a5172d08d93bf9fcce687b0.djqtsrsxkq.acm-validations.aws.
 _ff03dd9a26cf2a4a08a9e8f9d666e5e4.lbhf-demo3-stage.codeenigma.net.	300	IN	CNAME	_b58dad016e8d98ef707aa98c423ccd29.mhbtsbpdnt.acm-validations.aws.
 _oldspf.codeenigma.net.	3600	IN	TXT	"v=spf1 a mx include:_spf.google.com ip4:162.13.63.68 ip4:162.13.63.85 ip6:2a01:7e00::f03c:91ff:feae:9e64 ip4:162.13.63.81 ip4:162.13.184.142 ip4:134.213.116.65 ip4:52.59.146.156 ip4:18.130.42.81 ip4:3.122.69.133 ip4:35.177.127.44 ip4:34.194.236.106 ~all"
 _oldspf.codeenigma.net.	3600	IN	TXT	"google-site-verification=Qggv4EERXNbvYzuHiXZZa2Xy1IQRHppBbkjvvi55O08"
@@ -302,6 +304,7 @@ canterbury-dev.codeenigma.net.	3600	IN	CNAME	d2grvjp63v8s38.cloudfront.net.
 canterbury-dev1.codeenigma.net.	3600	IN	A	35.177.214.9
 canterbury-prod.codeenigma.net.	3600	IN	CNAME	d2d00e8qjvjenb.cloudfront.net.
 canterbury-stage.codeenigma.net.	3600	IN	CNAME	d2pdyklxxtemsd.cloudfront.net.
+cardata-www-dev.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
 ce-deploy1.codeenigma.net.	3600	IN	A	3.10.183.111
 ce-www-dev.codeenigma.net.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
 ce-www-prod.codeenigma.net.	3600	IN	CNAME	ce-www-prod-codeenigma-net-669926968.eu-west-2.elb.amazonaws.com.
@@ -433,6 +436,7 @@ gw-search.feature-gw8883-global-search.codeenigma.net.	300	IN	CNAME	govwales-dev
 haymarket-deploy1.codeenigma.net.	3600	IN	A	18.135.188.153
 haymarket-infra1.codeenigma.net.	300	IN	A	18.200.199.86
 haymarket-www-dev.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
+haymarket-www-stage.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
 hf-safeguardingadults.codeenigma.net.	3600	IN	CNAME	d25t7mld60cjwz.cloudfront.net.
 hfsafeguardingadults-stage.codeenigma.net.	3600	IN	CNAME	dxot3ygaz40yp.cloudfront.net.
 hlt-app1.codeenigma.net.	3600	IN	A	34.252.75.139
