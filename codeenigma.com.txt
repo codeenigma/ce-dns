@@ -19,6 +19,7 @@ codeenigma.com.	300	IN	TXT	"google-site-verification=gvPJRjuMn1tEnIJ4EKRviMzqk6i
 codeenigma.com.	300	IN	TXT	"2rwxgmwklmqx7htzlnjy6gvh1mrqqy99"
 *.airmic-app1.codeenigma.com.	300	IN	CNAME	airmic-app1.codeenigma.com.
 *.airmic-stage1.codeenigma.com.	300	IN	CNAME	airmic-stage1.codeenigma.com.
+*.chat.codeenigma.com.	300	IN	CNAME	chat.codeenigma.net.
 *.chsoc-stage1.codeenigma.com.	300	IN	CNAME	chsoc-stage2.codeenigma.net.
 *.redactive-app3.codeenigma.com.	300	IN	CNAME	redactive-app3.codeenigma.net.
 *.redactive-dev1.codeenigma.com.	300	IN	CNAME	redactive-dev2.codeenigma.net.
@@ -37,7 +38,7 @@ airmic-master.codeenigma.com.	300	IN	CNAME	airmic-stage1.codeenigma.com.
 airmic-stage.codeenigma.com.	300	IN	CNAME	airmic-stage1.codeenigma.com.
 cewww-dev-en.codeenigma.com.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
 cewww-dev-fr.codeenigma.com.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
-chat.codeenigma.com.	60	IN	CNAME	git.codeenigma.com.
+chat.codeenigma.com.	60	IN	CNAME	chat.codeenigma.net.
 chsoc-app1.codeenigma.com.	300	IN	A	34.240.220.109
 chsoc-stage1.codeenigma.com.	300	IN	A	34.240.136.246
 codeenigma-new-master-prototype.codeenigma.com.	300	IN	CNAME	nonssl.us-eu.fastly.net.
@@ -76,6 +77,7 @@ mte1._domainkey.codeenigma.com.	300	IN	CNAME	dkim1.mandrillapp.com.
 mte2._domainkey.codeenigma.com.	300	IN	CNAME	dkim2.mandrillapp.com.
 ntop.codeenigma.com.	300	IN	A	192.168.140.1
 nwuklph37fh2ekyc3nhpmym62ceee535._domainkey.codeenigma.com.	300	IN	CNAME	nwuklph37fh2ekyc3nhpmym62ceee535.dkim.amazonses.com.
+old-chat.codeenigma.com.	300	IN	CNAME	git.codeenigma.net.
 packages-old.codeenigma.com.	300	IN	CNAME	monitor2.codeenigma.com.
 packages.codeenigma.com.	300	IN	CNAME	monitor2.codeenigma.com.
 puppet.codeenigma.com.	300	IN	A	18.194.56.27
