@@ -643,6 +643,7 @@ redactive-app2.codeenigma.net.	3600	IN	A	35.176.100.141
 redactive-app2.int.codeenigma.net.	3600	IN	A	10.3.4.66
 redactive-app3.codeenigma.net.	3600	IN	A	35.176.100.141
 redactive-app3.int.codeenigma.net.	3600	IN	A	10.3.4.66
+redactive-db1.codeenigma.net.	3600	IN	A	18.175.110.40
 redactive-dev1.codeenigma.net.	3600	IN	A	35.176.251.89
 redactive-dev1.int.codeenigma.net.	3600	IN	A	10.3.4.65
 redactive-dev2.codeenigma.net.	3600	IN	A	35.176.251.89
