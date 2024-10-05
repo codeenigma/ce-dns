@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.uk.
-codeenigma.uk.	900	IN	SOA	ns-1503.awsdns-59.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.uk.	300	IN	A	18.130.42.81
+codeenigma.uk.	900	IN	SOA	ns-1503.awsdns-59.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.uk.	300	IN	MX	10 aspmx.l.google.com.
 codeenigma.uk.	300	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.uk.	300	IN	MX	20 alt2.aspmx.l.google.com.
@@ -21,6 +21,7 @@ codeenigma.uk.	300	IN	TXT	"v=spf1 include:amazonses.com -all"
 6in2akaafotewh5xf5uohnislp3kp2ep._domainkey.codeenigma.uk.	300	IN	CNAME	6in2akaafotewh5xf5uohnislp3kp2ep.dkim.amazonses.com.
 6lelprnca43eaajrmoaqz5cryijxce6o._domainkey.dummy.codeenigma.uk.	300	IN	CNAME	6lelprnca43eaajrmoaqz5cryijxce6o.dkim.amazonses.com.
 7dcvfislxwlaw7wl7ugmzouofc6svb64._domainkey.dummy.codeenigma.uk.	300	IN	CNAME	7dcvfislxwlaw7wl7ugmzouofc6svb64.dkim.amazonses.com.
+_dmarc.codeenigma.uk.	300	IN	TXT	"v=DMARC1;p=quarantine;rua=mailto:my_dmarc_report@codeenigma.uk"
 bqfmz53ht7u4de7frq4jnzhvq7v5bbma._domainkey.codeenigma.uk.	300	IN	CNAME	bqfmz53ht7u4de7frq4jnzhvq7v5bbma.dkim.amazonses.com.
 csf57t4m7wvrrr63nuairdlolwno23yc._domainkey.codeenigma.uk.	300	IN	CNAME	csf57t4m7wvrrr63nuairdlolwno23yc.dkim.amazonses.com.
 dzd2r3ef2tybghdahvzm7podmx3re4rq._domainkey.codeenigma.uk.	300	IN	CNAME	dzd2r3ef2tybghdahvzm7podmx3re4rq.dkim.amazonses.com.
