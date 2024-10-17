@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -163,6 +163,7 @@ _0daefafbe5e341d97d331d4281b912e3.swdevon-dev.codeenigma.net.	300	IN	CNAME	_3e4e
 _0eb165511eb12b3a135158e54c23dab6.user-dashboard.codeenigma.net.	300	IN	CNAME	_eab4258152dc68035b4fe8acc450ffaf.nfyddsqlcy.acm-validations.aws.
 _0f8bf1f9c6e28d15fd9eb0de6fc1a53e.wherecultureconnects-stage.codeenigma.net.	3600	IN	CNAME	_834f185aa9a7a96bc5876254f256edbf.mhbtsbpdnt.acm-validations.aws.
 _107e782ecf38ba837c1c221ba2e23901.www.where-culture-connects.codeenigma.net.	300	IN	CNAME	_74e967cfb37b8cc8bedd3b2b9f3ea9b0.mhbtsbpdnt.acm-validations.aws.
+_115ab45799ed8788a4ca2da7d4c0cfa2.dredmine-dev.codeenigma.net.	300	IN	CNAME	_695b9da9b40f054ed2ddda7f0cefe2d6.djqtsrsxkq.acm-validations.aws.
 _1183ef9e96022fce828ff9980ea178c6.upd-stage.codeenigma.net.	3600	IN	CNAME	_7a98c81cd2722b30a7eb15a34079ae7c.tftwdmzmwn.acm-validations.aws.
 _122ccd0f182fdfadbbb9479bd600aae2.lbhfd9-stage.codeenigma.net.	3600	IN	CNAME	_03473092b092b3c58f581f18f1024e57.fsdcfjjflr.acm-validations.aws.
 _12f366f374ce5c3d97a00f5d5c90bc10.cumbria-prod.codeenigma.net.	300	IN	CNAME	_ba8427bad1071be975de92a5e1db0b1e.cvfdyspdbk.acm-validations.aws.
