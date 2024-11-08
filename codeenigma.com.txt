@@ -49,10 +49,8 @@ content.codeenigma.com.	300	IN	CNAME	stats.codeenigma.com.
 dev.codeenigma.com.	300	IN	A	192.168.56.2
 dnscheck.codeenigma.com.	300	IN	A	8.8.8.8
 enigma00.codeenigma.com.	300	IN	A	35.178.0.226
-enigma00.int.codeenigma.com.	300	IN	A	10.3.4.9
 git.codeenigma.com.	300	IN	A	35.176.193.97
 git.codeenigma.com.	300	IN	TXT	"v=spf1 a mx ip4:35.176.193.97 ~all"
-git.int.codeenigma.com.	300	IN	A	10.3.4.99
 gitlab-iaea.codeenigma.com.	300	IN	CNAME	iaea-utilities.codeenigma.com.
 gitlab.iaea-utilities.codeenigma.com.	300	IN	CNAME	iaea-utilities.codeenigma.com.
 googleffffffffb3ea143a.codeenigma.com.	300	IN	CNAME	google.com.
@@ -65,9 +63,6 @@ jdm4t5guyyyqybkytoll7fdjq4ainhcd._domainkey.codeenigma.com.	1800	IN	CNAME	jdm4t5
 jenkins.codeenigma.com.	300	IN	A	52.56.121.203
 k1._domainkey.codeenigma.com.	300	IN	CNAME	dkim.mcsv.net.
 ldap-test.codeenigma.com.	300	IN	CNAME	dummy-ldap.codeenigma.net.
-ldap.codeenigma.com.	300	IN	A	35.176.106.229
-ldap.int.codeenigma.com.	300	IN	A	10.3.4.3
-ldap4.codeenigma.com.	300	IN	TXT	"v=spf1 ip4:35.176.106.229 ~all"
 mail.support.codeenigma.com.	300	IN	A	35.176.118.9
 mandrill._domainkey.codeenigma.com.	300	IN	TXT	"v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCrLHiExVd55zd/IQ/J/mRwSRMAocV/hMB3jXwaHH36d9NaVynQFYV8NaWi69c1veUtRzGt7yAioXqLj7Z4TeEUoOLgrKsn8YnckGs9i3B3tVFB+Ch/4mPhXWiNfNdynHWBcPcbJ8kjEQ2U8y78dHZj1YeRXXVvWob2OaKynO8/lQIDAQAB;"
 monitor1.codeenigma.com.	300	IN	A	52.56.36.187
@@ -81,7 +76,6 @@ old-chat.codeenigma.com.	300	IN	CNAME	git.codeenigma.net.
 packages-old.codeenigma.com.	300	IN	CNAME	monitor2.codeenigma.com.
 packages.codeenigma.com.	300	IN	CNAME	monitor2.codeenigma.com.
 puppet.codeenigma.com.	300	IN	A	18.194.56.27
-puppet.int.codeenigma.com.	300	IN	A	10.3.4.1
 puppet2.codeenigma.com.	300	IN	A	34.250.90.36
 redactive-app1.codeenigma.com.	300	IN	A	35.176.100.141
 redactive-dev1.codeenigma.com.	300	IN	A	35.176.251.89
@@ -93,10 +87,8 @@ stats.codeenigma.com.	300	IN	TXT	"google-site-verification=gvPJRjuMn1tEnIJ4EKRvi
 support.codeenigma.com.	300	IN	MX	10 mail.support.codeenigma.com.
 toots.codeenigma.com.	300	IN	CNAME	social.codeenigma.com.
 utility1.codeenigma.com.	300	IN	A	35.176.238.60
-utility1.int.codeenigma.com.	300	IN	A	10.3.4.91
 utility2.codeenigma.com.	300	IN	A	173.255.206.98
 vpn.codeenigma.com.	300	IN	CNAME	monitor1.codeenigma.com.
-webalizer.codeenigma.com.	300	IN	A	10.3.4.6
 wog5o7oxbxmotacp2omknzj3ervy2s7j._domainkey.codeenigma.com.	1800	IN	CNAME	wog5o7oxbxmotacp2omknzj3ervy2s7j.dkim.amazonses.com.
 www.airmic-stage.codeenigma.com.	300	IN	CNAME	airmic-stage1.codeenigma.com.
 www.codeenigma.com.	3600	IN	CNAME	ce-www-prod-codeenigma-net-669926968.eu-west-2.elb.amazonaws.com.
