@@ -175,7 +175,7 @@ _27ff49797cf1b285539d310b2c3b18d1.trustnet-d7-dev.codeenigma.net.	3600	IN	CNAME	
 _2a29cc3df90753f04deb7d58d8bb8066.codeenigma.net.	300	IN	CNAME	_7b5b371912d0e6a5f4231b876da2a319.mhbtsbpdnt.acm-validations.aws.
 _318a05661623e1cc3aede53a56fba58b.northdevon-dev.codeenigma.net.	3600	IN	CNAME	_0261decec9ac05a3c4e078cfe26eb08b.fcgjwsnkyp.acm-validations.aws.
 _33b3e59209d64c05ec4a4922430c3c56.cumbria-dev.codeenigma.net.	3600	IN	CNAME	_c139799f99a2be21f4b64bd0216243fc.yssrbzrnkq.acm-validations.aws.
-_37542d64d56f98483c59d407e806500b.rbg-demo-asg.codeenigma.net.	300	IN	CNAME	_aec6374a000ae42a3a392d45aed40df6.djqtsrsxkq.acm-validations.aws.
+_37542d64d56f98483c59d407e806500b.rbg-demo-asg.codeenigma.net.	3600	IN	CNAME	_aec6374a000ae42a3a392d45aed40df6.djqtsrsxkq.acm-validations.aws.
 _3a5d3f285423014fe0f2f34c3172e9bf.civiccampus-stage.codeenigma.net.	300	IN	CNAME	_7b841ceb1f2c2635711f1a40d5b17eaf.mhbtsbpdnt.acm-validations.aws.
 _3b64c55a6c445fb1f7adcc7383dadefa.where-culture-connects.codeenigma.net.	300	IN	CNAME	_abe27e6c7a3713fdebb893262a0c65a6.mhbtsbpdnt.acm-validations.aws.
 _417eb071b9ae9adf1db834701ba1eae9.hfsafeguardingadults-stage.codeenigma.net.	300	IN	CNAME	_619902ff94d236bc041a5cff71ebfc10.mhbtsbpdnt.acm-validations.aws.
@@ -227,6 +227,7 @@ _b76d6d820e349556aa858259655647cf.lbhf-demo3.codeenigma.net.	3600	IN	CNAME	_42cf
 _b98c72f17dd897c92b6ae1c7e0dd38c3.upd-dev.codeenigma.net.	3600	IN	CNAME	_ef89be6e0b65e46f82903977957600d6.tftwdmzmwn.acm-validations.aws.
 _ba59e538139bb926f51d6152ea319a43.www-stage-fr.codeenigma.net.	3600	IN	CNAME	_afd87aec653c55fb3b016d4f863ec26c.wrpxpmnjfs.acm-validations.aws.
 _ba7ef26cbc21d5a6913154544de5141a.whatcar-www-stage.codeenigma.net.	3600	IN	CNAME	_589c7b1ea56978ed096b500454e1474f.djqtsrsxkq.acm-validations.aws.
+_bc90c35db2f4ac973d9c27e9f86caa56.dummy-test-asg-lb.codeenigma.net.	3600	IN	CNAME	_1db66484788ae6bc0ff2186d2a1c1881.mhbtsbpdnt.acm-validations.aws.
 _bcf19fd1efc6755444f24ca70692f2f0.mystrokeguide-asg-stage.codeenigma.net.	3600	IN	CNAME	_de2b8970de2792a7232ab3ad2d89a106.vtqfhvjlcp.acm-validations.aws.
 _be087e910a8a058768a714b0cbf84398.adass.codeenigma.net.	3600	IN	CNAME	_696bb50dff4afcbc1ae62f7e11d44fed.mhbtsbpdnt.acm-validations.aws.
 _bfd9b7483dfbb6b94b4b67afbb8089c2.lbhfd9-prod.codeenigma.net.	300	IN	CNAME	_dedefdfa032091b4de783a75e7a4c3d6.rvctyfnwhz.acm-validations.aws.
