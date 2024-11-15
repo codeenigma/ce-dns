@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -185,6 +185,7 @@ _4ae4020895845b9acf4689e2b3d3656c.westdevon-stage.codeenigma.net.	300	IN	CNAME	_
 _4eae2bac661840ddffdd3dec274c8989.strokeassociation-asg-stage.codeenigma.net.	300	IN	CNAME	_0f4898246b6168bc7fa558046304bf8e.vtqfhvjlcp.acm-validations.aws.
 _586e4f51039720e5a403440df75b7ed3.rbg-demo-develop.codeenigma.net.	300	IN	CNAME	_20f2d16bc3c189d2ee1cd42ed509b25f.djqtsrsxkq.acm-validations.aws.
 _5c9d9799e58cc8a71e608658dc1cccb5.lbhf-demo2-stage.codeenigma.net.	300	IN	CNAME	_a66403e6a2d8c2a63377ee343863de4e.mhbtsbpdnt.acm-validations.aws.
+_5cfd8dbfd63600a10ef91f3a7a5c1288.rcpch-live.codeenigma.net.	3600	IN	CNAME	_fc532e0fa5c51de4755aef57e76422a1.djqtsrsxkq.acm-validations.aws.
 _5dc690f79567bc7611d36f19767b1c3b.northyorkshirecouncil.preprod.nycc-app3.codeenigma.net.	3600	IN	CNAME	_874f0dec00f3e7934a9fda8a2d3164f3.ghcgkbmxjw.acm-validations.aws.
 _5e52d7b1e1e1cd9da485b09ec04e516e.microsites-stage.codeenigma.net.	3600	IN	CNAME	_e1e4fe7a3349e9d30fedeca03c0807d7.nxzthgqctm.acm-validations.aws.
 _61e95bb72dde0b6ecf3d047a0fa3927f.lbhf-demo2.codeenigma.net.	3600	IN	CNAME	_ca1124659d5e4122969dc1ae56e5e4bd.sdgjtdhdhz.acm-validations.aws.
@@ -635,6 +636,7 @@ rcpch-dev1.codeenigma.net.	3600	IN	A	54.77.157.178
 rcpch-dev2.codeenigma.net.	3600	IN	A	34.247.112.244
 rcpch-dev2.int.codeenigma.net.	3600	IN	A	10.3.4.115
 rcpch-dotmailer-master.codeenigma.net.	300	IN	CNAME	rcpch-dev2.codeenigma.net.
+rcpch-live.codeenigma.net.	3600	IN	CNAME	rcpch-asg-prod-codeenigma-net-742460285.eu-west-1.elb.amazonaws.com.
 rcpch-preprod.codeenigma.net.	300	IN	CNAME	rcpch-drupal8-prod-elb-1608668239.eu-west-1.elb.amazonaws.com.
 rcpch-qa.codeenigma.net.	300	IN	CNAME	rcpch-dev2.codeenigma.net.
 rcpch-solr.codeenigma.net.	3600	IN	A	52.211.161.68
