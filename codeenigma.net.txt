@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -19,6 +19,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.2fa.codeenigma.net.	3600	IN	CNAME	2fa.codeenigma.net.
 *.afraweb-app1.codeenigma.net.	3600	IN	CNAME	afraweb-app1.codeenigma.net.
 *.afraweb-deploy1.codeenigma.net.	3600	IN	CNAME	afraweb-deploy1.codeenigma.net.
+*.airmic-app1.codeenigma.net.	3600	IN	CNAME	airmic-app1.codeenigma.net.
 *.airmic-deploy1.codeenigma.net.	3600	IN	CNAME	airmic-deploy1.codeenigma.net.
 *.airmic-dev1.codeenigma.net.	3600	IN	CNAME	airmic-dev1.codeenigma.net.
 *.canterbury-app1.codeenigma.net.	3600	IN	CNAME	canterbury-app1.codeenigma.net.
@@ -275,11 +276,13 @@ afraweb-stage.codeenigma.net.	3600	IN	CNAME	afraweb-app1.codeenigma.net.
 ai-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 ai-redesign.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 ai-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
+airmic-app1.codeenigma.net.	3600	IN	A	3.9.208.111
 airmic-app2.codeenigma.net.	3600	IN	A	35.176.197.43
 airmic-app2.int.codeenigma.net.	3600	IN	A	10.3.4.68
 airmic-deploy1.codeenigma.net.	3600	IN	A	3.9.123.245
 airmic-dev.codeenigma.net.	3600	IN	CNAME	airmic-dev1.codeenigma.net.
 airmic-dev1.codeenigma.net.	3600	IN	A	35.176.106.113
+airmic-prod.codeenigma.net.	3600	IN	CNAME	airmic-app1.codeenigma.net.
 airmic-stage.codeenigma.net.	3600	IN	CNAME	airmic-dev1.codeenigma.net.
 airmic-stage2.codeenigma.net.	3600	IN	A	35.176.106.113
 airmic-stage2.int.codeenigma.net.	3600	IN	A	10.3.4.69
