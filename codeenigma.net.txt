@@ -203,6 +203,7 @@ _818dbea36688a7b572f540abe82a5a83.whatcar-www-dev.codeenigma.net.	3600	IN	CNAME	
 _8341e4f2ab5a0801e0f3472f07e1cead.northdevon-stage.codeenigma.net.	3600	IN	CNAME	_9635fc857b04380069ef8172fcc0b3f9.fcgjwsnkyp.acm-validations.aws.
 _85a72e3750b8d59fb9fd07fd217c1d4c.strokeassociation-asg-prod.codeenigma.net.	300	IN	CNAME	_14406627c655c30ae7fc9871fff4d8dd.vtqfhvjlcp.acm-validations.aws.
 _8e11f49507b2ac99c1283f9cf806bd66.localgovdrupal-dev.codeenigma.net.	300	IN	CNAME	_e9c64377375e482cee3dbe55c8e321d2.bdvkfdzfbg.acm-validations.aws.
+_913b8e2d7ccddbc97b486c01934ce816.cardata-www-stage.codeenigma.net.	3600	IN	CNAME	_a41d6fc4fc70bf704ceb910ae441c09e.djqtsrsxkq.acm-validations.aws.
 _93b474420c7597b509d49009391be292.southhams-stage.codeenigma.net.	3600	IN	CNAME	_346da0f8629cbbfa70a7bb0c093cda2f.btsqtkxpyp.acm-validations.aws.
 _954e4bfdc2febf4f6eeb922bcf5804a5.moveelectric-www-stage.codeenigma.net.	3600	IN	CNAME	_2a09bac5930032f2b2f8b4b321565b91.djqtsrsxkq.acm-validations.aws.
 _96c62a76b9e0f1c69a09abf84a32ba95.ce-www-dev.codeenigma.net.	3600	IN	CNAME	_0ee745635c4610312b612a3689037040.wrpxpmnjfs.acm-validations.aws.
@@ -314,6 +315,7 @@ canterbury-dev1.codeenigma.net.	3600	IN	A	35.177.214.9
 canterbury-prod.codeenigma.net.	3600	IN	CNAME	d2d00e8qjvjenb.cloudfront.net.
 canterbury-stage.codeenigma.net.	3600	IN	CNAME	d2pdyklxxtemsd.cloudfront.net.
 cardata-www-dev.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
+cardata-www-stage.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
 ce-deploy1.codeenigma.net.	3600	IN	A	3.10.183.111
 ce-www-dev.codeenigma.net.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
 ce-www-prod.codeenigma.net.	3600	IN	CNAME	ce-www-prod-codeenigma-net-669926968.eu-west-2.elb.amazonaws.com.
