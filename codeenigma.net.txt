@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -179,9 +179,11 @@ _33b3e59209d64c05ec4a4922430c3c56.cumbria-dev.codeenigma.net.	3600	IN	CNAME	_c13
 _37542d64d56f98483c59d407e806500b.rbg-demo-asg.codeenigma.net.	3600	IN	CNAME	_aec6374a000ae42a3a392d45aed40df6.djqtsrsxkq.acm-validations.aws.
 _3a5d3f285423014fe0f2f34c3172e9bf.civiccampus-stage.codeenigma.net.	300	IN	CNAME	_7b841ceb1f2c2635711f1a40d5b17eaf.mhbtsbpdnt.acm-validations.aws.
 _3b64c55a6c445fb1f7adcc7383dadefa.where-culture-connects.codeenigma.net.	300	IN	CNAME	_abe27e6c7a3713fdebb893262a0c65a6.mhbtsbpdnt.acm-validations.aws.
+_40c42a5b3a38f6e28217ccb3ffd0f91d.valuations.testcar.codeenigma.net.	3600	IN	CNAME	_f84a964e387d771ee671201d3f9516b8.zfyfvmchrl.acm-validations.aws.
 _417eb071b9ae9adf1db834701ba1eae9.hfsafeguardingadults-stage.codeenigma.net.	300	IN	CNAME	_619902ff94d236bc041a5cff71ebfc10.mhbtsbpdnt.acm-validations.aws.
 _420baf34baf06ef8c118bfae1b1a2786.metabase.codeenigma.net.	60	IN	CNAME	_fa507571bedf9d14f2c11f55abbb326e.mhbtsbpdnt.acm-validations.aws.
 _45d2c5d60a749e8eee686135777bc145.dummy-master.codeenigma.net.	3600	IN	CNAME	_cbb70b746ada943e0c9a3a51d8650067.mhbtsbpdnt.acm-validations.aws.
+_47edb2b29299e948a0c57bdf6dfcbbdc.testcar.codeenigma.net.	3600	IN	CNAME	_7c56df7b204275c09c9df04f99e48d67.zfyfvmchrl.acm-validations.aws.
 _4ae4020895845b9acf4689e2b3d3656c.westdevon-stage.codeenigma.net.	300	IN	CNAME	_6246c386e60380d3948fd3a5e3e620f1.sggfvksfyf.acm-validations.aws.
 _4eae2bac661840ddffdd3dec274c8989.strokeassociation-asg-stage.codeenigma.net.	300	IN	CNAME	_0f4898246b6168bc7fa558046304bf8e.vtqfhvjlcp.acm-validations.aws.
 _586e4f51039720e5a403440df75b7ed3.rbg-demo-develop.codeenigma.net.	300	IN	CNAME	_20f2d16bc3c189d2ee1cd42ed509b25f.djqtsrsxkq.acm-validations.aws.
@@ -221,6 +223,8 @@ _af17e29aa3c5f3fe179bddd0a8b488cf.classicandsportscar-www-dev.codeenigma.net.	36
 _amazonses.dummy-deploy1.codeenigma.net.	300	IN	TXT	"0K78wLghjE1C+tVvpynqZGFUrAr69uJByqtf2A6vAK0="
 _b0c2fa6610143daaf8017ab8099487b5.greenwichvpntest.codeenigma.net.	300	IN	CNAME	_e93accb1907313f32186b450917d8d1e.jdyyptrhmw.acm-validations.aws.
 _b3f4b6497e8f4a53262dd4cca0554d49.moveelectric-www-dev.codeenigma.net.	3600	IN	CNAME	_da9f1d8909bb10a8202e26f1361f4643.mhbtsbpdnt.acm-validations.aws.
+_b587879c223f32ed1191ce2378957d2e.external-test-one.codeenigma.net.	3600	IN	CNAME	_d79157aecd7993bb06bfb23d4b99f4e7.zfyfvmchrl.acm-validations.aws.
+_b58f4269fd1a902411b14fde27eb36e6.www.testcar.codeenigma.net.	3600	IN	CNAME	_606ac471e0410bdca212414630a2a85b.zfyfvmchrl.acm-validations.aws.
 _b67c2f02f7a8da1eb40e9047ff2f399f.autocar-www-dev.codeenigma.net.	3600	IN	CNAME	_a47213c9478e26ac07865f12f987d144.sdgjtdhdhz.acm-validations.aws.
 _b699fdea6628f423bcd1c9dd7de67cb8.lbhf-demo1.codeenigma.net.	3600	IN	CNAME	_e0bf88ed795dd83ae8e1f3462ebbd46b.sdgjtdhdhz.acm-validations.aws.
 _b69cc83cbea6c17e4c4b68fec702626d.dummy-cluster2.codeenigma.net.	3600	IN	CNAME	_1217d69c0ccb5fd89bc0ef4f9fb7f8f3.yyqgzzsvtj.acm-validations.aws.
@@ -233,6 +237,7 @@ _ba7ef26cbc21d5a6913154544de5141a.whatcar-www-stage.codeenigma.net.	3600	IN	CNAM
 _bc90c35db2f4ac973d9c27e9f86caa56.dummy-test-asg-lb.codeenigma.net.	3600	IN	CNAME	_1db66484788ae6bc0ff2186d2a1c1881.mhbtsbpdnt.acm-validations.aws.
 _bcf19fd1efc6755444f24ca70692f2f0.mystrokeguide-asg-stage.codeenigma.net.	3600	IN	CNAME	_de2b8970de2792a7232ab3ad2d89a106.vtqfhvjlcp.acm-validations.aws.
 _be087e910a8a058768a714b0cbf84398.adass.codeenigma.net.	3600	IN	CNAME	_696bb50dff4afcbc1ae62f7e11d44fed.mhbtsbpdnt.acm-validations.aws.
+_bebf18efd8f27ea7cb958d381922e4fc.external-test-two.codeenigma.net.	3600	IN	CNAME	_b9f4624ed89023bbce9a4d18a4c569d1.zfyfvmchrl.acm-validations.aws.
 _bfd9b7483dfbb6b94b4b67afbb8089c2.lbhfd9-prod.codeenigma.net.	300	IN	CNAME	_dedefdfa032091b4de783a75e7a4c3d6.rvctyfnwhz.acm-validations.aws.
 _c1de809a58fd85b5fcf311874057a908.trustnet-prod.codeenigma.net.	300	IN	CNAME	_b0b8a91147f1c263e440e27751bb0bc5.xgxxrgwpcb.acm-validations.aws.
 _c2035cbf40b93e91bb9c143a6b7d54a0.upd-prod.codeenigma.net.	3600	IN	CNAME	_1e8399cae4fa16ba3e956775501f83aa.tftwdmzmwn.acm-validations.aws.
@@ -412,6 +417,9 @@ explorify-dev.codeenigma.net.	3600	IN	CNAME	explorify-dev1.codeenigma.net.
 explorify-dev1.codeenigma.net.	3600	IN	A	3.9.85.42
 explorify-prod.codeenigma.net.	3600	IN	CNAME	explorify-app1.codeenigma.net.
 explorify-stage.codeenigma.net.	3600	IN	CNAME	explorify-dev1.codeenigma.net.
+external-test-one.codeenigma.net.	300	IN	CNAME	test-for-haymarket-1112290590.eu-west-1.elb.amazonaws.com.
+external-test-three.codeenigma.net.	300	IN	CNAME	test-for-haymarket-1112290590.eu-west-1.elb.amazonaws.com.
+external-test-two.codeenigma.net.	300	IN	CNAME	test-for-haymarket-1112290590.eu-west-1.elb.amazonaws.com.
 fci-app1.codeenigma.net.	3600	IN	A	35.176.247.226
 fci-app2.codeenigma.net.	3600	IN	A	35.176.247.226
 fci-app2.int.codeenigma.net.	3600	IN	A	10.3.4.75
@@ -748,6 +756,7 @@ surefootportal-stage.codeenigma.net.	3600	IN	CNAME	surefoot-dev1.codeenigma.net.
 swdevon-dev.codeenigma.net.	3600	IN	CNAME	d13bn2zar4ec6k.cloudfront.net.
 swdevon-stage.codeenigma.net.	300	IN	CNAME	d23v0avitqictl.cloudfront.net.
 test12.dummy-deploy1.codeenigma.net.	300	IN	A	54.220.7.154
+testcar.codeenigma.net.	300	IN	CNAME	d3duhxjh1ocljf.cloudfront.net.
 theplanner-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 theplanner-stage-new-auth.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 theplanner-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
@@ -782,6 +791,7 @@ utility3-ssl-test.codeenigma.net.	300	IN	A	35.176.238.60
 utility3.codeenigma.net.	3600	IN	A	35.176.238.60
 utility3.int.codeenigma.net.	60	IN	A	35.176.238.60
 utility4.int.codeenigma.net.	3600	IN	A	10.3.4.192
+valuations.testcar.codeenigma.net.	300	IN	CNAME	test-for-haymarket-1112290590.eu-west-1.elb.amazonaws.com.
 virtual-garden-uat.codeenigma.net.	300	IN	CNAME	strokeassociation-dev1.codeenigma.net.
 vpn-dev.codeenigma.net.	3600	IN	A	3.11.126.229
 vpn-dev.int.codeenigma.net.	3600	IN	A	10.3.4.188
@@ -844,6 +854,7 @@ www.explorify-dev.codeenigma.net.	3600	IN	CNAME	explorify-dev1.codeenigma.net.
 www.explorify-stage.codeenigma.net.	3600	IN	CNAME	explorify-dev1.codeenigma.net.
 www.joh.codeenigma.net.	3600	IN	A	131.111.130.253
 www.nginx.codeenigma.net.	300	IN	CNAME	dummy-template.codeenigma.net.
+www.testcar.codeenigma.net.	300	IN	CNAME	d3duhxjh1ocljf.cloudfront.net.
 www.where-culture-connects.codeenigma.net.	300	IN	CNAME	d1kuullursz12i.cloudfront.net.
 wzji2bwoa3ib4sjzw74aigd5ylonash6._domainkey.codeenigma.net.	1800	IN	CNAME	wzji2bwoa3ib4sjzw74aigd5ylonash6.dkim.amazonses.com.
 xwwlbkzdipsj5pkg2uyu65v7k75sdk24._domainkey.codeenigma.net.	300	IN	CNAME	xwwlbkzdipsj5pkg2uyu65v7k75sdk24.dkim.amazonses.com.
