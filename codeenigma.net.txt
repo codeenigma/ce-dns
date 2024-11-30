@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -417,9 +417,8 @@ explorify-dev.codeenigma.net.	3600	IN	CNAME	explorify-dev1.codeenigma.net.
 explorify-dev1.codeenigma.net.	3600	IN	A	3.9.85.42
 explorify-prod.codeenigma.net.	3600	IN	CNAME	explorify-app1.codeenigma.net.
 explorify-stage.codeenigma.net.	3600	IN	CNAME	explorify-dev1.codeenigma.net.
-external-test-one.codeenigma.net.	300	IN	CNAME	test-for-haymarket-1112290590.eu-west-1.elb.amazonaws.com.
-external-test-three.codeenigma.net.	300	IN	CNAME	test-for-haymarket-1112290590.eu-west-1.elb.amazonaws.com.
-external-test-two.codeenigma.net.	300	IN	CNAME	test-for-haymarket-1112290590.eu-west-1.elb.amazonaws.com.
+external-test-one.codeenigma.net.	3600	IN	CNAME	dummy-test.codeenigma.net.
+external-test-two.codeenigma.net.	3600	IN	CNAME	dummy-test.codeenigma.net.
 fci-app1.codeenigma.net.	3600	IN	A	35.176.247.226
 fci-app2.codeenigma.net.	3600	IN	A	35.176.247.226
 fci-app2.int.codeenigma.net.	3600	IN	A	10.3.4.75
