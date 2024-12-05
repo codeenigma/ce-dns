@@ -17,6 +17,7 @@ codeenigma.com.	300	IN	TXT	"freeagent-domain-verification=KR5lQCOmmlv7C0-2ap0f"
 codeenigma.com.	300	IN	TXT	"v=spf1 a mx include:_spf.google.com include:spf.mandrillapp.com include:servers.mcsv.net ip4:18.130.42.81 ip4:3.122.69.133 ip4:35.177.127.44 ip4:35.176.193.97 ~all"
 codeenigma.com.	300	IN	TXT	"google-site-verification=gvPJRjuMn1tEnIJ4EKRviMzqk6iXom-_sSenqQMbmYk"
 codeenigma.com.	300	IN	TXT	"2rwxgmwklmqx7htzlnjy6gvh1mrqqy99"
+codeenigma.com.	300	IN	TXT	"google-site-verification=DDvz-T5xuQYARnEO1EHkPaYX0Z4AqoBul8I2h5ykFsw"
 *.airmic-app1.codeenigma.com.	300	IN	CNAME	airmic-app1.codeenigma.com.
 *.airmic-stage1.codeenigma.com.	300	IN	CNAME	airmic-stage1.codeenigma.com.
 *.chat.codeenigma.com.	300	IN	CNAME	chat.codeenigma.net.
