@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.uk.
-codeenigma.uk.	300	IN	A	18.130.42.81
 codeenigma.uk.	900	IN	SOA	ns-1503.awsdns-59.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.uk.	300	IN	A	18.130.42.81
 codeenigma.uk.	300	IN	MX	10 aspmx.l.google.com.
 codeenigma.uk.	300	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.uk.	300	IN	MX	20 alt2.aspmx.l.google.com.
@@ -20,26 +20,35 @@ codeenigma.uk.	300	IN	TXT	"v=spf1 include:amazonses.com -all"
 5h7nq3ak7ahdua3vrgsw2vf6uowrpdsg._domainkey.codeenigma.uk.	300	IN	CNAME	5h7nq3ak7ahdua3vrgsw2vf6uowrpdsg.dkim.amazonses.com.
 6in2akaafotewh5xf5uohnislp3kp2ep._domainkey.codeenigma.uk.	300	IN	CNAME	6in2akaafotewh5xf5uohnislp3kp2ep.dkim.amazonses.com.
 6lelprnca43eaajrmoaqz5cryijxce6o._domainkey.dummy.codeenigma.uk.	300	IN	CNAME	6lelprnca43eaajrmoaqz5cryijxce6o.dkim.amazonses.com.
+6vfzluz27ladclpnbop22px5t77ye3io._domainkey.codeenigma.uk.	300	IN	CNAME	6vfzluz27ladclpnbop22px5t77ye3io.dkim.amazonses.com.
 7dcvfislxwlaw7wl7ugmzouofc6svb64._domainkey.dummy.codeenigma.uk.	300	IN	CNAME	7dcvfislxwlaw7wl7ugmzouofc6svb64.dkim.amazonses.com.
 _17d9a83a83b54d47683849c893a36c06.testcar.codeenigma.uk.	3600	IN	CNAME	_3e7f07290b36b641ddecbb2fc4dcb42e.zfyfvmchrl.acm-validations.aws.
 _dmarc.codeenigma.uk.	300	IN	TXT	"v=DMARC1;p=quarantine;rua=mailto:my_dmarc_report@codeenigma.uk"
 bqfmz53ht7u4de7frq4jnzhvq7v5bbma._domainkey.codeenigma.uk.	300	IN	CNAME	bqfmz53ht7u4de7frq4jnzhvq7v5bbma.dkim.amazonses.com.
 csf57t4m7wvrrr63nuairdlolwno23yc._domainkey.codeenigma.uk.	300	IN	CNAME	csf57t4m7wvrrr63nuairdlolwno23yc.dkim.amazonses.com.
 dzd2r3ef2tybghdahvzm7podmx3re4rq._domainkey.codeenigma.uk.	300	IN	CNAME	dzd2r3ef2tybghdahvzm7podmx3re4rq.dkim.amazonses.com.
+fczcycutww2tw3gkf77vk4w7vspicps5._domainkey.codeenigma.uk.	300	IN	CNAME	fczcycutww2tw3gkf77vk4w7vspicps5.dkim.amazonses.com.
 gvqivwdkkgncf3xs6hmh74iw3uvypzxd._domainkey.codeenigma.uk.	1800	IN	CNAME	gvqivwdkkgncf3xs6hmh74iw3uvypzxd.dkim.amazonses.com.
+h5hypzq7sydiaycewbaeh7wcmz4c4ecn._domainkey.codeenigma.uk.	300	IN	CNAME	h5hypzq7sydiaycewbaeh7wcmz4c4ecn.dkim.amazonses.com.
 iraiw6lgjduehuebfmh7mqj2vlxrtzwe._domainkey.codeenigma.uk.	300	IN	CNAME	iraiw6lgjduehuebfmh7mqj2vlxrtzwe.dkim.amazonses.com.
 k7o5qwkwqll57j232qjopfa7spro5xkk._domainkey.dummy.codeenigma.uk.	300	IN	CNAME	k7o5qwkwqll57j232qjopfa7spro5xkk.dkim.amazonses.com.
+mejqyn6dgshgu7xd6te3q6qweeenu6bs._domainkey.codeenigma.uk.	300	IN	CNAME	mejqyn6dgshgu7xd6te3q6qweeenu6bs.dkim.amazonses.com.
+mvnuas45rirpqdfrwq4zyr73ksh6ky65._domainkey.codeenigma.uk.	300	IN	CNAME	mvnuas45rirpqdfrwq4zyr73ksh6ky65.dkim.amazonses.com.
 n7uequbq7z45kysf3s3b77vi6pa2zz2q._domainkey.codeenigma.uk.	300	IN	CNAME	n7uequbq7z45kysf3s3b77vi6pa2zz2q.dkim.amazonses.com.
 nc4whgqrboe6yars437l574qhdyqbii4._domainkey.codeenigma.uk.	300	IN	CNAME	nc4whgqrboe6yars437l574qhdyqbii4.dkim.amazonses.com.
 ohv37g5iujjvhrsmxxwdr7gnaobj4sd2._domainkey.codeenigma.uk.	300	IN	CNAME	ohv37g5iujjvhrsmxxwdr7gnaobj4sd2.dkim.amazonses.com.
+oloslysmqbvd2fxxbziegez6naeqp35w._domainkey.codeenigma.uk.	300	IN	CNAME	oloslysmqbvd2fxxbziegez6naeqp35w.dkim.amazonses.com.
+pmnlf6gvkssbokezfc32emekom7dalgf._domainkey.codeenigma.uk.	300	IN	CNAME	pmnlf6gvkssbokezfc32emekom7dalgf.dkim.amazonses.com.
 prkglyg7ctk7ttlifs5vnpmyrrwqlwne._domainkey.codeenigma.uk.	300	IN	CNAME	prkglyg7ctk7ttlifs5vnpmyrrwqlwne.dkim.amazonses.com.
 pts3nlyshis6tfcrpcwzul32te7enili._domainkey.codeenigma.uk.	1800	IN	CNAME	pts3nlyshis6tfcrpcwzul32te7enili.dkim.amazonses.com.
 qtwr5r7ykbhwetikhkz6u2jkuvhc6ipc._domainkey.codeenigma.uk.	1800	IN	CNAME	qtwr5r7ykbhwetikhkz6u2jkuvhc6ipc.dkim.amazonses.com.
 r2zfd6vrbudvmaqseuxdpsieaaeughzi._domainkey.codeenigma.uk.	300	IN	CNAME	r2zfd6vrbudvmaqseuxdpsieaaeughzi.dkim.amazonses.com.
 s5ugwu56npxovuasqqi7uyd723imomte._domainkey.codeenigma.uk.	300	IN	CNAME	s5ugwu56npxovuasqqi7uyd723imomte.dkim.amazonses.com.
 sbjpwazbqtm6s2zct3dewkziyfwxbfye._domainkey.codeenigma.uk.	300	IN	CNAME	sbjpwazbqtm6s2zct3dewkziyfwxbfye.dkim.amazonses.com.
+sfxg54z3i5janp6vuo6n7qk5c23ps7ua._domainkey.codeenigma.uk.	300	IN	CNAME	sfxg54z3i5janp6vuo6n7qk5c23ps7ua.dkim.amazonses.com.
 sw6azmb32e2wc5rl3tntfof2mdpfbwhr._domainkey.codeenigma.uk.	300	IN	CNAME	sw6azmb32e2wc5rl3tntfof2mdpfbwhr.dkim.amazonses.com.
 testcar.codeenigma.uk.	300	IN	CNAME	test-for-haymarket-1112290590.eu-west-1.elb.amazonaws.com.
+vkwr4hibe7y456ifvyahnbnx46gxkaiw._domainkey.codeenigma.uk.	300	IN	CNAME	vkwr4hibe7y456ifvyahnbnx46gxkaiw.dkim.amazonses.com.
 wsgyeccfcbwcge32fulycgrapr525p3j._domainkey.codeenigma.uk.	1800	IN	CNAME	wsgyeccfcbwcge32fulycgrapr525p3j.dkim.amazonses.com.
 wt3wlqcxbdgxmbb62mifmcsfpcowezxm._domainkey.codeenigma.uk.	1800	IN	CNAME	wt3wlqcxbdgxmbb62mifmcsfpcowezxm.dkim.amazonses.com.
 www.codeenigma.uk.	300	IN	CNAME	codeenigma.uk.
