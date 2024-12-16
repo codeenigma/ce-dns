@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -261,6 +261,7 @@ _f15871a4ca7d3a7159cf9c76efc10c85.lbhf-hotfixes.codeenigma.net.	300	IN	CNAME	_79
 _f4283202dcc802f352e572be4e99980c.vpn-dummy.codeenigma.net.	3600	IN	CNAME	_097d10477268b0b96bcf1aeed56a37e3.gjjrqxwdmz.acm-validations.aws.
 _f5d78673da248ca058c5046df7bcc423.canterbury-dev1.codeenigma.net.	3600	IN	CNAME	_cedb0a6a5b8d6a470c9f6f6f8effc9f8.pmgvbzmzyk.acm-validations.aws.
 _f711550eba959bde0223320aa160e9d1.canterbury-stage.codeenigma.net.	3600	IN	CNAME	_e696f22b93be2a30c38043a39cfb09bd.pmgvbzmzyk.acm-validations.aws.
+_f76ff1cdf7ca37938b18c72d56565574.fosterwithwestlondon-stage.codeenigma.net.	300	IN	CNAME	_ff03e30ffde829eb9233caa6a47ccb27.zfyfvmchrl.acm-validations.aws.
 _f7805891b254212a1b64fe06070ea0fd.classicandsportscar-www-stage.codeenigma.net.	3600	IN	CNAME	_ed0989843b63d8544582e3b6ae6a1edd.djqtsrsxkq.acm-validations.aws.
 _f7825e30a9b549072f9ca0aba77bc332.www-stage-en.codeenigma.net.	3600	IN	CNAME	_790ff614d76295dee03bdfd78e28047c.wrpxpmnjfs.acm-validations.aws.
 _fa7c9c161dad4da5c14e4b6674a959ae.acm1-domain.codeenigma.net.	3600	IN	CNAME	_4a582efe8a59985c5002fddb1bd8e148.mhbtsbpdnt.acm-validations.aws.
@@ -437,6 +438,7 @@ fci-dev2.int.codeenigma.net.	3600	IN	A	10.3.4.76
 fci-dev3.codeenigma.net.	3600	IN	A	18.133.114.94
 flarum.codeenigma.net.	60	IN	CNAME	stats-dev.codeenigma.net.
 fosteringsharedservices-stage.codeenigma.net.	3600	IN	CNAME	d2qu1vhwtpt5b5.cloudfront.net.
+fosterwithwestlondon-stage.codeenigma.net.	300	IN	CNAME	d26nt6gmy9oivm.cloudfront.net.
 fz2mbzdapznbhkzjazeeirliafrbc6e4._domainkey.gitlab.govwales-deploy1.codeenigma.net.	300	IN	CNAME	fz2mbzdapznbhkzjazeeirliafrbc6e4.dkim.amazonses.com.
 gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz._domainkey.dummy-deploy1.codeenigma.net.	300	IN	CNAME	gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz.dkim.amazonses.com.
 git.codeenigma.net.	3600	IN	A	35.176.193.97
