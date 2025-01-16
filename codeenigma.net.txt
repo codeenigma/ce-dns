@@ -572,7 +572,7 @@ qicentral.codeenigma.net.	300	IN	CNAME	rcpch-dev2.codeenigma.net.
 r6driaew676oybws36emjfcqytdjzi57._domainkey.codeenigma.net.	1800	IN	CNAME	r6driaew676oybws36emjfcqytdjzi57.dkim.amazonses.com.
 rbg-demo-asg.codeenigma.net.	3600	IN	CNAME	dummy-test-asg-lb-1900773098.eu-west-1.elb.amazonaws.com.
 rbg-demo-develop.codeenigma.net.	3600	IN	CNAME	rbg-demo-develop-858474516.eu-west-1.elb.amazonaws.com.
-rbg-infra1.codeenigma.net.	300	IN	A	18.171.251.146
+rbg-infra1.codeenigma.net.	300	IN	A	18.169.169.235
 rcog-app1.int.codeenigma.net.	3600	IN	A	10.3.4.170
 rcog-dev1.int.codeenigma.net.	3600	IN	A	10.3.4.168
 rcog-utility1.int.codeenigma.net.	3600	IN	A	10.3.4.169
