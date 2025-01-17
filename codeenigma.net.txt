@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -93,6 +93,8 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.ons-deploy1.codeenigma.net.	3600	IN	CNAME	ons-deploy1.codeenigma.net.
 *.ons-dev1.codeenigma.net.	3600	IN	CNAME	ons-dev1.codeenigma.net.
 *.ons-solr1.codeenigma.net.	3600	IN	CNAME	ons-solr1.codeenigma.net.
+*.rbg-deploy1.codeenigma.net.	3600	IN	CNAME	rbg-deploy1.codeenigma.net.
+*.rbg-dev-solr1.codeenigma.net.	3600	IN	CNAME	rbg-dev-solr1.codeenigma.net.
 *.rcpch-aml1.codeenigma.net.	3600	IN	CNAME	rcpch-aml1.codeenigma.net.
 *.rcpch-deploy1.codeenigma.net.	3600	IN	CNAME	rcpch-deploy1.codeenigma.net.
 *.rcpch-solr.codeenigma.net.	3600	IN	CNAME	rcpch-solr.codeenigma.net.
@@ -131,6 +133,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 2fa.codeenigma.net.	3600	IN	A	35.176.69.138
 2fzver5snjc6xq2ncrve32qt2jkpg2iu._domainkey.codeenigma.net.	1800	IN	CNAME	2fzver5snjc6xq2ncrve32qt2jkpg2iu.dkim.amazonses.com.
 2ufnpbpcotgllpk44c64esmz5cjy4dpv._domainkey.dummy-ips2.codeenigma.net.	300	IN	CNAME	2ufnpbpcotgllpk44c64esmz5cjy4dpv.dkim.amazonses.com.
+3z57o42lxjb2hgwy7kh47vczydfwagbt._domainkey.ons-stage.codeenigma.net.	300	IN	CNAME	3z57o42lxjb2hgwy7kh47vczydfwagbt.dkim.amazonses.com.
 5o5u6fjeawaojfyh5urbzqxl6jbqqurg._domainkey.dummy-ips2.codeenigma.net.	300	IN	CNAME	5o5u6fjeawaojfyh5urbzqxl6jbqqurg.dkim.amazonses.com.
 7ygb2aia5oegheany5lfakds3yxdnxts._domainkey.dummy-test1.codeenigma.net.	300	IN	CNAME	7ygb2aia5oegheany5lfakds3yxdnxts.dkim.amazonses.com.
 _001c642e7757abee71e2323b4322064a.dashboard.codeenigma.net.	300	IN	CNAME	_d100c12ea488564a53d589ca416d1175.nfyddsqlcy.acm-validations.aws.
@@ -393,7 +396,8 @@ gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz._domainkey.dummy-deploy1.codeenigma.net.	300	IN
 git.codeenigma.net.	3600	IN	A	35.176.193.97
 git2.codeenigma.net.	3600	IN	A	35.176.193.97
 gitlab.haymarket-infra1.codeenigma.net.	300	IN	CNAME	haymarket-infra1.codeenigma.net.
-gitlab.rbg-infra1.codeenigma.net.	300	IN	CNAME	rbg-infra1.codeenigma.net.
+gitlab.rbg-deploy1.codeenigma.net.	3600	IN	CNAME	rbg-deploy1.codeenigma.net.
+gitlab.rbg-infra1.codeenigma.net.	3600	IN	CNAME	rbg-infra1.codeenigma.net.
 govwales-app-tribs-dr.codeenigma.net.	3600	IN	A	52.208.43.173
 govwales-app-tribs.codeenigma.net.	3600	IN	A	18.170.17.80
 govwales-app7-dr.codeenigma.net.	3600	IN	A	18.203.15.98
@@ -568,10 +572,13 @@ puppet3.codeenigma.net.	60	IN	A	18.194.56.27
 puppet3.int.codeenigma.net.	3600	IN	A	10.3.4.1
 puppet4.int.codeenigma.net.	3600	IN	A	10.3.4.164
 q5umqgeguwllhiffqorperxcdx2igsvh._domainkey.dummy-deploy1.codeenigma.net.	300	IN	CNAME	q5umqgeguwllhiffqorperxcdx2igsvh.dkim.amazonses.com.
+qcryuxb66buwx45tanfuq73jk3tl7xkv._domainkey.ons-stage.codeenigma.net.	300	IN	CNAME	qcryuxb66buwx45tanfuq73jk3tl7xkv.dkim.amazonses.com.
 qicentral.codeenigma.net.	300	IN	CNAME	rcpch-dev2.codeenigma.net.
 r6driaew676oybws36emjfcqytdjzi57._domainkey.codeenigma.net.	1800	IN	CNAME	r6driaew676oybws36emjfcqytdjzi57.dkim.amazonses.com.
 rbg-demo-asg.codeenigma.net.	3600	IN	CNAME	dummy-test-asg-lb-1900773098.eu-west-1.elb.amazonaws.com.
 rbg-demo-develop.codeenigma.net.	3600	IN	CNAME	rbg-demo-develop-858474516.eu-west-1.elb.amazonaws.com.
+rbg-deploy1.codeenigma.net.	3600	IN	A	52.56.51.224
+rbg-dev-solr1.codeenigma.net.	3600	IN	A	18.170.90.22
 rbg-infra1.codeenigma.net.	300	IN	A	18.169.169.235
 rcog-app1.int.codeenigma.net.	3600	IN	A	10.3.4.170
 rcog-dev1.int.codeenigma.net.	3600	IN	A	10.3.4.168
@@ -713,6 +720,7 @@ vpn-main.int.codeenigma.net.	300	IN	A	192.168.140.1
 vpn.codeenigma.net.	3600	IN	A	3.11.82.252
 vpn.int.codeenigma.net.	3600	IN	A	10.3.4.189
 vqcayf5q4fcrn5hj44br4cpiasyuzra5._domainkey.codeenigma.net.	1800	IN	CNAME	vqcayf5q4fcrn5hj44br4cpiasyuzra5.dkim.amazonses.com.
+wemlcqzfbkdyhfkrvcuwhwktq4hyg4tq._domainkey.ons-stage.codeenigma.net.	300	IN	CNAME	wemlcqzfbkdyhfkrvcuwhwktq4hyg4tq.dkim.amazonses.com.
 westco-app1.codeenigma.net.	3600	IN	A	52.16.103.221
 westco-app1.int.codeenigma.net.	3600	IN	A	10.3.4.154
 westdevon-dev.codeenigma.net.	3600	IN	CNAME	d13bn2zar4ec6k.cloudfront.net.
