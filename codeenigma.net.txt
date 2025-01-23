@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -497,7 +497,9 @@ northdevon-dev1.codeenigma.net.	3600	IN	A	13.42.83.129
 northdevon-prod.codeenigma.net.	3600	IN	CNAME	northdevon-app1.codeenigma.net.
 northdevon-stage.codeenigma.net.	3600	IN	CNAME	northdevon-dev1.codeenigma.net.
 northyorks.codeenigma.net.	300	IN	CNAME	nycc-app3.codeenigma.net.
+northyorkshirecouncil.master.codeenigma.net.	300	IN	CNAME	nycc-dev2.codeenigma.net.
 northyorkshirecouncil.preprod.nycc-app3.codeenigma.net.	3600	IN	CNAME	d5gl780v8qadl.cloudfront.net.
+northyorkshirecouncil.stage.codeenigma.net.	300	IN	CNAME	nycc-dev2.codeenigma.net.
 ns6gp2t6m6iftxq674twoql57shxyzm6._domainkey.dummy-deploy1.codeenigma.net.	300	IN	CNAME	ns6gp2t6m6iftxq674twoql57shxyzm6.dkim.amazonses.com.
 nycc-app1.codeenigma.net.	3600	IN	A	52.211.28.234
 nycc-app2.codeenigma.net.	3600	IN	A	52.211.28.234
