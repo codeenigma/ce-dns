@@ -623,7 +623,7 @@ strokeassociation-app1.codeenigma.net.	3600	IN	A	52.56.126.62
 strokeassociation-deploy1.codeenigma.net.	3600	IN	A	18.130.111.191
 strokeassociation-dev1.codeenigma.net.	3600	IN	A	35.178.13.123
 strokeassociation-solr1.codeenigma.net.	3600	IN	A	3.8.75.154
-support.codeenigma.net.	3600	IN	MX	10 mail.support.codeenigma.com.
+support.codeenigma.net.	3600	IN	CNAME	ce-www-prod-codeenigma-net-669926968.eu-west-2.elb.amazonaws.com.
 surefoot-deploy1.codeenigma.net.	3600	IN	A	18.132.54.192
 surefoot-dev1.codeenigma.net.	3600	IN	A	13.40.249.26
 surefootportal-dev.codeenigma.net.	3600	IN	CNAME	surefoot-dev1.codeenigma.net.
