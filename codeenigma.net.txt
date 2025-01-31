@@ -38,6 +38,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.dummy-mfa1.codeenigma.net.	3600	IN	CNAME	dummy-mfa1.codeenigma.net.
 *.dummy-monitor1.codeenigma.net.	3600	IN	CNAME	dummy-monitor1.codeenigma.net.
 *.dummy-template.codeenigma.net.	3600	IN	CNAME	dummy-template.codeenigma.net.
+*.dummy-test-controller.codeenigma.net.	300	IN	CNAME	dummy-test-controller.codeenigma.net.
 *.dummy-test.codeenigma.net.	3600	IN	CNAME	dummy-test.codeenigma.net.
 *.dummy-test1.codeenigma.net.	3600	IN	CNAME	dummy-test1.codeenigma.net.
 *.dummy-vpn.codeenigma.net.	3600	IN	CNAME	dummy-vpn.codeenigma.net.
@@ -156,12 +157,14 @@ _2622c7311c25a7bf36e0311068042c2e.example.com.dummy-template.codeenigma.net.	360
 _2a29cc3df90753f04deb7d58d8bb8066.codeenigma.net.	300	IN	CNAME	_7b5b371912d0e6a5f4231b876da2a319.mhbtsbpdnt.acm-validations.aws.
 _318a05661623e1cc3aede53a56fba58b.northdevon-dev.codeenigma.net.	3600	IN	CNAME	_0261decec9ac05a3c4e078cfe26eb08b.fcgjwsnkyp.acm-validations.aws.
 _33b3e59209d64c05ec4a4922430c3c56.cumbria-dev.codeenigma.net.	3600	IN	CNAME	_c139799f99a2be21f4b64bd0216243fc.yssrbzrnkq.acm-validations.aws.
+_358a1d2fd0798b52b41be986bd9badd6.rbg-dev.codeenigma.net.	3600	IN	CNAME	_f1d9469c490524d018067cd2506d45fe.zfyfvmchrl.acm-validations.aws.
 _37542d64d56f98483c59d407e806500b.rbg-demo-asg.codeenigma.net.	3600	IN	CNAME	_aec6374a000ae42a3a392d45aed40df6.djqtsrsxkq.acm-validations.aws.
 _3a5d3f285423014fe0f2f34c3172e9bf.civiccampus-stage.codeenigma.net.	300	IN	CNAME	_7b841ceb1f2c2635711f1a40d5b17eaf.mhbtsbpdnt.acm-validations.aws.
 _3b64c55a6c445fb1f7adcc7383dadefa.where-culture-connects.codeenigma.net.	300	IN	CNAME	_abe27e6c7a3713fdebb893262a0c65a6.mhbtsbpdnt.acm-validations.aws.
 _40c42a5b3a38f6e28217ccb3ffd0f91d.valuations.testcar.codeenigma.net.	3600	IN	CNAME	_f84a964e387d771ee671201d3f9516b8.zfyfvmchrl.acm-validations.aws.
 _417eb071b9ae9adf1db834701ba1eae9.hfsafeguardingadults-stage.codeenigma.net.	300	IN	CNAME	_619902ff94d236bc041a5cff71ebfc10.mhbtsbpdnt.acm-validations.aws.
 _420baf34baf06ef8c118bfae1b1a2786.metabase.codeenigma.net.	60	IN	CNAME	_fa507571bedf9d14f2c11f55abbb326e.mhbtsbpdnt.acm-validations.aws.
+_4226668beda6f5d3a0eb33155eb263bf.support.codeenigma.net.	300	IN	CNAME	_abe0adfe86ef29b80406cca2de41feae.zfyfvmchrl.acm-validations.aws.
 _45d2c5d60a749e8eee686135777bc145.dummy-master.codeenigma.net.	3600	IN	CNAME	_cbb70b746ada943e0c9a3a51d8650067.mhbtsbpdnt.acm-validations.aws.
 _47edb2b29299e948a0c57bdf6dfcbbdc.testcar.codeenigma.net.	3600	IN	CNAME	_7c56df7b204275c09c9df04f99e48d67.zfyfvmchrl.acm-validations.aws.
 _4ae4020895845b9acf4689e2b3d3656c.westdevon-stage.codeenigma.net.	300	IN	CNAME	_6246c386e60380d3948fd3a5e3e620f1.sggfvksfyf.acm-validations.aws.
@@ -335,6 +338,7 @@ dummy-mfa1.codeenigma.net.	3600	IN	A	34.255.76.13
 dummy-monitor1.codeenigma.net.	3600	IN	A	52.212.96.139
 dummy-template.codeenigma.net.	3600	IN	A	108.128.103.112
 dummy-test-asg-lb.codeenigma.net.	3600	IN	CNAME	dummy-test-asg-lb-1900773098.eu-west-1.elb.amazonaws.com.
+dummy-test-controller.codeenigma.net.	300	IN	A	54.195.86.188
 dummy-test.codeenigma.net.	3600	IN	A	108.128.54.165
 dummy-test1.codeenigma.net.	3600	IN	A	108.128.223.23
 dummy-test2.codeenigma.net.	300	IN	A	108.128.223.23
