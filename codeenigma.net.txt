@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -182,6 +182,7 @@ _6f7a63145967a0da68ff73d4557514e6.autocar-dev.codeenigma.net.	3600	IN	CNAME	_45d
 _71ef5101641d449bbb4c77c63b85c6e7.autocar-prod.codeenigma.net.	3600	IN	CNAME	_ba2c27cd315f08bf4082f57c2c1d5468.sdgjtdhdhz.acm-validations.aws.
 _754d377f3bbae26b8de42fe49e531c46.cumbria-stage.codeenigma.net.	3600	IN	CNAME	_4424c7a251ec92c98b0f1b400e53f13e.rdvkfhcmrm.acm-validations.aws.
 _78704011f0bca0a9f8797a6367c1e7c3.fosterwithwestlondon.codeenigma.net.	300	IN	CNAME	_11ff1df130cc005265c20ef9403e8e1f.zfyfvmchrl.acm-validations.aws.
+_7d7c9375e732ca019d41419d73238190.rbg-stage.codeenigma.net.	3600	IN	CNAME	_4b66019aaa8229736d456fb091c2bfe6.zfyfvmchrl.acm-validations.aws.
 _8007ea75b9f5ac67173d1915c20384ec.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	_b5a12879f4695c48eb7852dbeabc85b4.pczglchxlc.acm-validations.aws.
 _818dbea36688a7b572f540abe82a5a83.whatcar-www-dev.codeenigma.net.	3600	IN	CNAME	_5e254ddf838c644e2243b41287f4e6a2.mhbtsbpdnt.acm-validations.aws.
 _8341e4f2ab5a0801e0f3472f07e1cead.northdevon-stage.codeenigma.net.	3600	IN	CNAME	_9635fc857b04380069ef8172fcc0b3f9.fcgjwsnkyp.acm-validations.aws.
@@ -338,7 +339,7 @@ dummy-mfa1.codeenigma.net.	3600	IN	A	34.255.76.13
 dummy-monitor1.codeenigma.net.	3600	IN	A	52.212.96.139
 dummy-template.codeenigma.net.	3600	IN	A	108.128.103.112
 dummy-test-asg-lb.codeenigma.net.	3600	IN	CNAME	dummy-test-asg-lb-1900773098.eu-west-1.elb.amazonaws.com.
-dummy-test-controller.codeenigma.net.	300	IN	A	54.195.86.188
+dummy-test-controller.codeenigma.net.	300	IN	A	54.194.150.27
 dummy-test.codeenigma.net.	3600	IN	A	108.128.54.165
 dummy-test1.codeenigma.net.	3600	IN	A	108.128.223.23
 dummy-test2.codeenigma.net.	300	IN	A	108.128.223.23
@@ -542,6 +543,7 @@ rbg-demo-asg.codeenigma.net.	3600	IN	CNAME	dummy-test-asg-lb-1900773098.eu-west-
 rbg-demo-develop.codeenigma.net.	3600	IN	CNAME	rbg-demo-develop-858474516.eu-west-1.elb.amazonaws.com.
 rbg-deploy1.codeenigma.net.	3600	IN	A	52.56.51.224
 rbg-dev-solr1.codeenigma.net.	3600	IN	A	18.170.90.22
+rbg-dev.codeenigma.net.	3600	IN	CNAME	rbg-asg-dev-codeenigma-net-1679371626.eu-west-2.elb.amazonaws.com.
 rbg-infra1.codeenigma.net.	300	IN	A	18.169.169.235
 rbg-solr1.codeenigma.net.	3600	IN	A	35.177.224.75
 rcpch-aml1.codeenigma.net.	3600	IN	A	54.155.77.210
