@@ -28,6 +28,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.chsoc-app1.codeenigma.net.	300	IN	CNAME	chsoc-app2.codeenigma.net.
 *.chsoc-stage1.codeenigma.net.	300	IN	CNAME	chsoc-stage2.codeenigma.net.
 *.cumbria-deploy1.codeenigma.net.	3600	IN	CNAME	cumbria-deploy1.codeenigma.net.
+*.demo-controller.codeenigma.net.	300	IN	CNAME	demo-controller.codeenigma.net.
 *.dev.codeenigma.net.	300	IN	CNAME	build.codeenigma.net.
 *.dummy-deploy1.codeenigma.net.	3600	IN	CNAME	dummy-deploy1.codeenigma.net.
 *.dummy-infra1.codeenigma.net.	3600	IN	CNAME	dummy-infra1.codeenigma.net.
@@ -38,7 +39,6 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.dummy-mfa1.codeenigma.net.	3600	IN	CNAME	dummy-mfa1.codeenigma.net.
 *.dummy-monitor1.codeenigma.net.	3600	IN	CNAME	dummy-monitor1.codeenigma.net.
 *.dummy-template.codeenigma.net.	3600	IN	CNAME	dummy-template.codeenigma.net.
-*.dummy-test-controller.codeenigma.net.	300	IN	CNAME	dummy-test-controller.codeenigma.net.
 *.dummy-test.codeenigma.net.	3600	IN	CNAME	dummy-test.codeenigma.net.
 *.dummy-test1.codeenigma.net.	3600	IN	CNAME	dummy-test1.codeenigma.net.
 *.dummy-vpn.codeenigma.net.	3600	IN	CNAME	dummy-vpn.codeenigma.net.
@@ -320,6 +320,7 @@ dashboard-legacy-stage.codeenigma.net.	300	IN	CNAME	utility3.int.codeenigma.net.
 dashboard-legacy.codeenigma.net.	300	IN	CNAME	enigma3.codeenigma.net.
 dashboard-stage.codeenigma.net.	300	IN	CNAME	utility3.int.codeenigma.net.
 dashboard.codeenigma.net.	60	IN	CNAME	ce-www-prod-codeenigma-net-669926968.eu-west-2.elb.amazonaws.com.
+demo-controller.codeenigma.net.	300	IN	A	15.188.20.28
 docapi-master.codeenigma.net.	300	IN	CNAME	electricimp-stage1.codeenigma.net.
 docapi-prod.codeenigma.net.	300	IN	CNAME	electricimp-app1.codeenigma.net.
 docapi-stage.codeenigma.net.	300	IN	CNAME	electricimp-stage1.codeenigma.net.
@@ -339,7 +340,6 @@ dummy-mfa1.codeenigma.net.	3600	IN	A	34.255.76.13
 dummy-monitor1.codeenigma.net.	3600	IN	A	52.212.96.139
 dummy-template.codeenigma.net.	3600	IN	A	108.128.103.112
 dummy-test-asg-lb.codeenigma.net.	3600	IN	CNAME	dummy-test-asg-lb-1900773098.eu-west-1.elb.amazonaws.com.
-dummy-test-controller.codeenigma.net.	300	IN	A	54.194.150.27
 dummy-test.codeenigma.net.	3600	IN	A	108.128.54.165
 dummy-test1.codeenigma.net.	3600	IN	A	108.128.223.23
 dummy-test2.codeenigma.net.	300	IN	A	108.128.223.23
