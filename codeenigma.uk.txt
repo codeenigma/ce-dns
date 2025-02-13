@@ -12,6 +12,7 @@ codeenigma.uk.	172800	IN	NS	ns-2019.awsdns-60.co.uk.
 codeenigma.uk.	172800	IN	NS	ns-722.awsdns-26.net.
 codeenigma.uk.	300	IN	TXT	"google-site-verification=9HW3spTFJOADdVW2tfJue3iviCZ9uOj6EfocidunLIA"
 codeenigma.uk.	300	IN	TXT	"v=spf1 include:amazonses.com -all"
+273uosx4mbfzghu7utyxmlhwlbr64ky5._domainkey.codeenigma.uk.	300	IN	CNAME	273uosx4mbfzghu7utyxmlhwlbr64ky5.dkim.amazonses.com.
 2e7aumsjmq5bsot4s65u3ukl2iexxj24._domainkey.codeenigma.uk.	300	IN	CNAME	2e7aumsjmq5bsot4s65u3ukl2iexxj24.dkim.amazonses.com.
 2gemobmxv2k4hfbbbq3u2wwrk7ihmdib._domainkey.codeenigma.uk.	300	IN	CNAME	2gemobmxv2k4hfbbbq3u2wwrk7ihmdib.dkim.amazonses.com.
 2oabc2p55iiwvdi5akouobl46eglx64j._domainkey.codeenigma.uk.	300	IN	CNAME	2oabc2p55iiwvdi5akouobl46eglx64j.dkim.amazonses.com.
@@ -42,6 +43,7 @@ f5nszvme47firp2dx4n4gqhnqn3o7wwe._domainkey.codeenigma.uk.	300	IN	CNAME	f5nszvme
 fcdo5n23lq663wljvuychapnvj7elyz4._domainkey.codeenigma.uk.	300	IN	CNAME	fcdo5n23lq663wljvuychapnvj7elyz4.dkim.amazonses.com.
 fczcycutww2tw3gkf77vk4w7vspicps5._domainkey.codeenigma.uk.	300	IN	CNAME	fczcycutww2tw3gkf77vk4w7vspicps5.dkim.amazonses.com.
 fv2gwwy2widr2brtnczzl5r3warscxra._domainkey.codeenigma.uk.	300	IN	CNAME	fv2gwwy2widr2brtnczzl5r3warscxra.dkim.amazonses.com.
+fxfzln42tux5f6vv42iapfefslslseq6._domainkey.codeenigma.uk.	300	IN	CNAME	fxfzln42tux5f6vv42iapfefslslseq6.dkim.amazonses.com.
 g2bxozrx5anj2wv4lpe57vdq6d2ml7ly._domainkey.codeenigma.uk.	300	IN	CNAME	g2bxozrx5anj2wv4lpe57vdq6d2ml7ly.dkim.amazonses.com.
 gvqivwdkkgncf3xs6hmh74iw3uvypzxd._domainkey.codeenigma.uk.	1800	IN	CNAME	gvqivwdkkgncf3xs6hmh74iw3uvypzxd.dkim.amazonses.com.
 gwr5adyfwlrhuc5t7llummjupjha64hk._domainkey.codeenigma.uk.	300	IN	CNAME	gwr5adyfwlrhuc5t7llummjupjha64hk.dkim.amazonses.com.
@@ -71,6 +73,7 @@ pmnlf6gvkssbokezfc32emekom7dalgf._domainkey.codeenigma.uk.	300	IN	CNAME	pmnlf6gv
 prkglyg7ctk7ttlifs5vnpmyrrwqlwne._domainkey.codeenigma.uk.	300	IN	CNAME	prkglyg7ctk7ttlifs5vnpmyrrwqlwne.dkim.amazonses.com.
 pts3nlyshis6tfcrpcwzul32te7enili._domainkey.codeenigma.uk.	1800	IN	CNAME	pts3nlyshis6tfcrpcwzul32te7enili.dkim.amazonses.com.
 q7hpwsujpkztekucp6qakvyhjeij3whb._domainkey.codeenigma.uk.	300	IN	CNAME	q7hpwsujpkztekucp6qakvyhjeij3whb.dkim.amazonses.com.
+qj6ah4gnh7osbnvkcod4uyfrk4s5mymi._domainkey.codeenigma.uk.	300	IN	CNAME	qj6ah4gnh7osbnvkcod4uyfrk4s5mymi.dkim.amazonses.com.
 qtwr5r7ykbhwetikhkz6u2jkuvhc6ipc._domainkey.codeenigma.uk.	1800	IN	CNAME	qtwr5r7ykbhwetikhkz6u2jkuvhc6ipc.dkim.amazonses.com.
 r2zfd6vrbudvmaqseuxdpsieaaeughzi._domainkey.codeenigma.uk.	300	IN	CNAME	r2zfd6vrbudvmaqseuxdpsieaaeughzi.dkim.amazonses.com.
 s5ugwu56npxovuasqqi7uyd723imomte._domainkey.codeenigma.uk.	300	IN	CNAME	s5ugwu56npxovuasqqi7uyd723imomte.dkim.amazonses.com.
