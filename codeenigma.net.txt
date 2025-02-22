@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -141,6 +141,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 _001c642e7757abee71e2323b4322064a.dashboard.codeenigma.net.	300	IN	CNAME	_d100c12ea488564a53d589ca416d1175.nfyddsqlcy.acm-validations.aws.
 _00824e78994552c23172d47b6cd5851e.lgd-stage.codeenigma.net.	3600	IN	CNAME	_40e391f9850663bed20cf258bca7f8da.zfyfvmchrl.acm-validations.aws.
 _037a72c1c3357f8dfc487416cd354103.adass-stage.codeenigma.net.	300	IN	CNAME	_6a21e27371ddd0aae875f3368dd49590.mhbtsbpdnt.acm-validations.aws.
+_07237e5c3f2b211c8c8fed8cc5e55f80.gcd-stage.codeenigma.net.	3600	IN	CNAME	_311cb3544258714ea9deddf50b63b31f.zfyfvmchrl.acm-validations.aws.
 _0a87a9e80f94a78f38d2e095300f6408.westdevon-prod.codeenigma.net.	3600	IN	CNAME	_4accbf9ff14f43bc7056ad218a864e0e.kmjqhnbgnp.acm-validations.aws.
 _0bc354990a99bd016929744e31d34f51.rcpch-asg-prod.codeenigma.net.	3600	IN	CNAME	_cc4e7823e03dce75c11463390f052fb1.djqtsrsxkq.acm-validations.aws.
 _0daefafbe5e341d97d331d4281b912e3.swdevon-dev.codeenigma.net.	300	IN	CNAME	_3e4ede9b795824190925aebc8419f6d6.sggfvksfyf.acm-validations.aws.
@@ -383,6 +384,8 @@ fosterwithwestlondon-stage.codeenigma.net.	300	IN	CNAME	d26nt6gmy9oivm.cloudfron
 fosterwithwestlondon.codeenigma.net.	300	IN	CNAME	d1zp8v27e0bbb.cloudfront.net.
 fz2mbzdapznbhkzjazeeirliafrbc6e4._domainkey.gitlab.govwales-deploy1.codeenigma.net.	300	IN	CNAME	fz2mbzdapznbhkzjazeeirliafrbc6e4.dkim.amazonses.com.
 gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz._domainkey.dummy-deploy1.codeenigma.net.	300	IN	CNAME	gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz.dkim.amazonses.com.
+gcd-dev.codeenigma.net.	3600	IN	CNAME	gcd-asg-dev-codeenigma-net-844408189.eu-west-2.elb.amazonaws.com.
+gcd-stage.codeenigma.net.	3600	IN	CNAME	gcd-asg-stage-codeenigma-net-907443939.eu-west-2.elb.amazonaws.com.
 git.codeenigma.net.	3600	IN	A	35.176.193.97
 git2.codeenigma.net.	3600	IN	A	35.176.193.97
 gitlab.haymarket-infra1.codeenigma.net.	300	IN	CNAME	haymarket-infra1.codeenigma.net.
@@ -448,6 +451,8 @@ lbhfd9-master.codeenigma.net.	300	IN	CNAME	lbhf-dev2.codeenigma.net.
 lbhfd9-prod.codeenigma.net.	3600	IN	CNAME	lbhf-asg-prod-d9-codeenigma-net-2040881855.eu-west-2.elb.amazonaws.com.
 lbhfd9-stage.codeenigma.net.	3600	IN	CNAME	d1qa1isz0htjoe.cloudfront.net.
 ldap1.codeenigma.net.	3600	IN	A	3.11.235.9
+lgd-dev.codeenigma.net.	3600	IN	CNAME	lgd-asg-dev-codeenigma-net-1325085915.eu-west-2.elb.amazonaws.com.
+lgd-stage.codeenigma.net.	3600	IN	CNAME	lgd-asg-stage-codeenigma-net-1842977678.eu-west-2.elb.amazonaws.com.
 localgovdrupal-dev.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1084576473.eu-west-1.elb.amazonaws.com.
 login-dev.codeenigma.net.	300	IN	CNAME	utility3.int.codeenigma.net.
 login.codeenigma.net.	300	IN	CNAME	enigma3.codeenigma.net.
@@ -542,11 +547,8 @@ q5umqgeguwllhiffqorperxcdx2igsvh._domainkey.dummy-deploy1.codeenigma.net.	300	IN
 qcryuxb66buwx45tanfuq73jk3tl7xkv._domainkey.ons-stage.codeenigma.net.	300	IN	CNAME	qcryuxb66buwx45tanfuq73jk3tl7xkv.dkim.amazonses.com.
 qicentral.codeenigma.net.	300	IN	CNAME	rcpch-dev2.codeenigma.net.
 r6driaew676oybws36emjfcqytdjzi57._domainkey.codeenigma.net.	1800	IN	CNAME	r6driaew676oybws36emjfcqytdjzi57.dkim.amazonses.com.
-rbg-demo-asg.codeenigma.net.	3600	IN	CNAME	dummy-test-asg-lb-1900773098.eu-west-1.elb.amazonaws.com.
-rbg-demo-develop.codeenigma.net.	3600	IN	CNAME	rbg-demo-develop-858474516.eu-west-1.elb.amazonaws.com.
 rbg-deploy1.codeenigma.net.	3600	IN	A	52.56.51.224
 rbg-dev-solr1.codeenigma.net.	3600	IN	A	18.170.90.22
-rbg-dev.codeenigma.net.	3600	IN	CNAME	rbg-asg-dev-codeenigma-net-1679371626.eu-west-2.elb.amazonaws.com.
 rbg-infra1.codeenigma.net.	300	IN	A	18.169.169.235
 rbg-solr1.codeenigma.net.	3600	IN	A	35.177.224.75
 rcpch-aml1.codeenigma.net.	3600	IN	A	54.155.77.210
