@@ -406,7 +406,7 @@ govwales-solr6.codeenigma.net.	3600	IN	A	35.176.66.213
 gw-search.cy.feature-gw8883-global-search.codeenigma.net.	300	IN	CNAME	govwales-dev3.codeenigma.net.
 gw-search.feature-gw8883-global-search.codeenigma.net.	300	IN	CNAME	govwales-dev3.codeenigma.net.
 haymarket-deploy1.codeenigma.net.	3600	IN	A	18.135.188.153
-haymarket-infra1.codeenigma.net.	300	IN	A	18.200.199.86
+haymarket-infra1.codeenigma.net.	300	IN	A	18.168.187.53
 haymarket-www-dev.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
 haymarket-www-stage.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
 hf-safeguardingadults.codeenigma.net.	3600	IN	CNAME	d25t7mld60cjwz.cloudfront.net.
