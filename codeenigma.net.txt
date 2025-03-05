@@ -183,6 +183,7 @@ _6f77bbc8bbc8ae8913b75f0dc27ab5d2.southhams-dev.codeenigma.net.	3600	IN	CNAME	_9
 _6f7a63145967a0da68ff73d4557514e6.autocar-dev.codeenigma.net.	3600	IN	CNAME	_45dbbeb4449e811ce870e62f365d077a.sdgjtdhdhz.acm-validations.aws.
 _71ef5101641d449bbb4c77c63b85c6e7.autocar-prod.codeenigma.net.	3600	IN	CNAME	_ba2c27cd315f08bf4082f57c2c1d5468.sdgjtdhdhz.acm-validations.aws.
 _7319f849227aed4dd41819728f508889.lgd-dev.codeenigma.net.	3600	IN	CNAME	_b64a35e4833b77f3acf47485d0a02732.zfyfvmchrl.acm-validations.aws.
+_749911e57bc4856757cfebd85a5f589d.asgtest.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	_2acd4585c78acbbaad655efa9d1dfa52.xlfgrmvvlj.acm-validations.aws.
 _754d377f3bbae26b8de42fe49e531c46.cumbria-stage.codeenigma.net.	3600	IN	CNAME	_4424c7a251ec92c98b0f1b400e53f13e.rdvkfhcmrm.acm-validations.aws.
 _78704011f0bca0a9f8797a6367c1e7c3.fosterwithwestlondon.codeenigma.net.	300	IN	CNAME	_11ff1df130cc005265c20ef9403e8e1f.zfyfvmchrl.acm-validations.aws.
 _7d7c9375e732ca019d41419d73238190.rbg-stage.codeenigma.net.	3600	IN	CNAME	_4b66019aaa8229736d456fb091c2bfe6.zfyfvmchrl.acm-validations.aws.
@@ -269,7 +270,7 @@ airmic-stage.codeenigma.net.	3600	IN	CNAME	airmic-dev1.codeenigma.net.
 airmic-stage2.codeenigma.net.	3600	IN	A	35.176.106.113
 airmic-utility2.codeenigma.net.	300	IN	A	18.135.123.166
 asg10.dummy-asgenc-prod.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-prod-codeenigma-net-333930559.eu-west-1.elb.amazonaws.com.
-asgtest.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1250625352.eu-west-1.elb.amazonaws.com.
+asgtest.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1084576473.eu-west-1.elb.amazonaws.com.
 aspire-dev.codeenigma.net.	300	IN	CNAME	hlt-dev2.codeenigma.net.
 aspire-prod.codeenigma.net.	300	IN	CNAME	hlt-app1.codeenigma.net.
 aspire-stage.codeenigma.net.	300	IN	CNAME	hlt-dev2.codeenigma.net.
