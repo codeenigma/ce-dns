@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -552,6 +552,7 @@ rbg-deploy1.codeenigma.net.	3600	IN	A	52.56.51.224
 rbg-dev-solr1.codeenigma.net.	3600	IN	A	18.170.90.22
 rbg-infra1.codeenigma.net.	300	IN	A	18.169.169.235
 rbg-solr1.codeenigma.net.	3600	IN	A	35.177.224.75
+rbg-vpn.codeenigma.net.	3600	IN	A	52.56.51.224
 rcpch-aml1.codeenigma.net.	3600	IN	A	54.155.77.210
 rcpch-asg-prod.codeenigma.net.	3600	IN	CNAME	rcpch-asg-prod-codeenigma-net-742460285.eu-west-1.elb.amazonaws.com.
 rcpch-deploy1.codeenigma.net.	3600	IN	A	54.73.37.10
@@ -678,6 +679,7 @@ wt-jenkins2.codeenigma.net.	3600	IN	A	52.210.200.211
 wt-lb.codeenigma.net.	3600	IN	A	34.248.51.63
 wt-lb3.codeenigma.net.	3600	IN	A	3.254.83.100
 wt-lb4.codeenigma.net.	3600	IN	A	34.254.113.234
+wt-stage3.codeenigma.net.	300	IN	A	34.251.252.182
 www-stage-en.codeenigma.net.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
 www-stage-fr.codeenigma.net.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
 www.codeenigma.net.	300	IN	CNAME	codeenigma.net.
