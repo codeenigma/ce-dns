@@ -387,8 +387,7 @@ fosterwithwestlondon-stage.codeenigma.net.	300	IN	CNAME	d26nt6gmy9oivm.cloudfron
 fosterwithwestlondon.codeenigma.net.	300	IN	CNAME	d1zp8v27e0bbb.cloudfront.net.
 fz2mbzdapznbhkzjazeeirliafrbc6e4._domainkey.gitlab.govwales-deploy1.codeenigma.net.	300	IN	CNAME	fz2mbzdapznbhkzjazeeirliafrbc6e4.dkim.amazonses.com.
 gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz._domainkey.dummy-deploy1.codeenigma.net.	300	IN	CNAME	gbcimiiu6hk2srjtbg3h6vb7hs3fqkkz.dkim.amazonses.com.
-gcd-dev.codeenigma.net.	3600	IN	CNAME	gcd-asg-dev-codeenigma-net-844408189.eu-west-2.elb.amazonaws.com.
-gcd-stage.codeenigma.net.	3600	IN	CNAME	gcd-asg-stage-codeenigma-net-907443939.eu-west-2.elb.amazonaws.com.
+gcd-dev.codeenigma.net.	3600	IN	CNAME	delwnowd30951.cloudfront.net.
 git.codeenigma.net.	3600	IN	A	35.176.193.97
 git2.codeenigma.net.	3600	IN	A	35.176.193.97
 gitlab.haymarket-infra1.codeenigma.net.	300	IN	CNAME	haymarket-infra1.codeenigma.net.
@@ -454,8 +453,7 @@ lbhfd9-master.codeenigma.net.	300	IN	CNAME	lbhf-dev2.codeenigma.net.
 lbhfd9-prod.codeenigma.net.	3600	IN	CNAME	lbhf-asg-prod-d9-codeenigma-net-2040881855.eu-west-2.elb.amazonaws.com.
 lbhfd9-stage.codeenigma.net.	3600	IN	CNAME	d1qa1isz0htjoe.cloudfront.net.
 ldap1.codeenigma.net.	3600	IN	A	3.11.235.9
-lgd-dev.codeenigma.net.	3600	IN	CNAME	lgd-asg-dev-codeenigma-net-1325085915.eu-west-2.elb.amazonaws.com.
-lgd-stage.codeenigma.net.	3600	IN	CNAME	lgd-asg-stage-codeenigma-net-1842977678.eu-west-2.elb.amazonaws.com.
+lgd-dev.codeenigma.net.	3600	IN	CNAME	delwnowd30951.cloudfront.net.
 localgovdrupal-dev.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1084576473.eu-west-1.elb.amazonaws.com.
 login-dev.codeenigma.net.	300	IN	CNAME	utility3.int.codeenigma.net.
 login.codeenigma.net.	300	IN	CNAME	enigma3.codeenigma.net.
