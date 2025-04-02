@@ -564,11 +564,11 @@ rcpch-dev2.codeenigma.net.	3600	IN	A	34.247.112.244
 rcpch-dotmailer-master.codeenigma.net.	300	IN	CNAME	rcpch-dev2.codeenigma.net.
 rcpch-live.codeenigma.net.	3600	IN	CNAME	rcpch-asg-prod-codeenigma-net-742460285.eu-west-1.elb.amazonaws.com.
 rcpch-preprod.codeenigma.net.	300	IN	CNAME	rcpch-drupal8-prod-elb-1608668239.eu-west-1.elb.amazonaws.com.
-rcpch-qa.codeenigma.net.	300	IN	CNAME	rcpch-dev2.codeenigma.net.
+rcpch-qa.codeenigma.net.	3600	IN	CNAME	rcpch-dev1.codeenigma.net.
 rcpch-solr.codeenigma.net.	3600	IN	A	52.211.161.68
 rcpch-solr1.codeenigma.net.	3600	IN	A	52.19.216.94
 rcpch-solr2.codeenigma.net.	3600	IN	A	52.19.216.94
-rcpch-uat.codeenigma.net.	300	IN	CNAME	rcpch-dev2.codeenigma.net.
+rcpch-uat.codeenigma.net.	3600	IN	CNAME	rcpch-dev1.codeenigma.net.
 rcpch-website-master.codeenigma.net.	3600	IN	CNAME	rcpch-dev1.codeenigma.net.
 rcpch-website.master.rcpch-dev1.codeenigma.net.	300	IN	CNAME	rcpch-dev2.codeenigma.net.
 rcpch-wp1.codeenigma.net.	3600	IN	A	52.208.151.85
