@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -189,6 +189,7 @@ _7319f849227aed4dd41819728f508889.lgd-dev.codeenigma.net.	3600	IN	CNAME	_b64a35e
 _749911e57bc4856757cfebd85a5f589d.asgtest.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	_2acd4585c78acbbaad655efa9d1dfa52.xlfgrmvvlj.acm-validations.aws.
 _754d377f3bbae26b8de42fe49e531c46.cumbria-stage.codeenigma.net.	3600	IN	CNAME	_4424c7a251ec92c98b0f1b400e53f13e.rdvkfhcmrm.acm-validations.aws.
 _78704011f0bca0a9f8797a6367c1e7c3.fosterwithwestlondon.codeenigma.net.	300	IN	CNAME	_11ff1df130cc005265c20ef9403e8e1f.zfyfvmchrl.acm-validations.aws.
+_7acc8e9b0570c605fefa0ce71eb7e0bb.wormwoodscrubstrust-stage.codeenigma.net.	300	IN	CNAME	_0b9a97b7899afaccf56b83c72c38e973.xlfgrmvvlj.acm-validations.aws.
 _7d7c9375e732ca019d41419d73238190.rbg-stage.codeenigma.net.	3600	IN	CNAME	_4b66019aaa8229736d456fb091c2bfe6.zfyfvmchrl.acm-validations.aws.
 _8007ea75b9f5ac67173d1915c20384ec.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	_b5a12879f4695c48eb7852dbeabc85b4.pczglchxlc.acm-validations.aws.
 _818dbea36688a7b572f540abe82a5a83.whatcar-www-dev.codeenigma.net.	3600	IN	CNAME	_5e254ddf838c644e2243b41287f4e6a2.mhbtsbpdnt.acm-validations.aws.
