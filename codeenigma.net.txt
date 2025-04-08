@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -677,6 +677,7 @@ whatcar-www-dev.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
 whatcar-www-stage.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
 where-culture-connects.codeenigma.net.	300	IN	CNAME	d1kuullursz12i.cloudfront.net.
 wherecultureconnects-stage.codeenigma.net.	3600	IN	CNAME	d1x6cu0espermn.cloudfront.net.
+wormwoodscrubstrust-stage.codeenigma.net.	300	IN	A	18.168.74.212
 wt-bastion.codeenigma.net.	3600	IN	A	34.252.144.125
 wt-jenkins2.codeenigma.net.	3600	IN	A	52.210.200.211
 wt-lb.codeenigma.net.	3600	IN	A	34.248.51.63
