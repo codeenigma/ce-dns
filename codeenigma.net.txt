@@ -172,7 +172,7 @@ _45d2c5d60a749e8eee686135777bc145.dummy-master.codeenigma.net.	3600	IN	CNAME	_cb
 _47edb2b29299e948a0c57bdf6dfcbbdc.testcar.codeenigma.net.	3600	IN	CNAME	_7c56df7b204275c09c9df04f99e48d67.zfyfvmchrl.acm-validations.aws.
 _4ae4020895845b9acf4689e2b3d3656c.westdevon-stage.codeenigma.net.	300	IN	CNAME	_6246c386e60380d3948fd3a5e3e620f1.sggfvksfyf.acm-validations.aws.
 _586e4f51039720e5a403440df75b7ed3.rbg-demo-develop.codeenigma.net.	300	IN	CNAME	_20f2d16bc3c189d2ee1cd42ed509b25f.djqtsrsxkq.acm-validations.aws.
-_58b801eeb12c0603f809b0cb364bdca4.iaea-staging.codeenigma.net.	300	IN	CNAME	_7c8a96ae4dee1049dfae064cdaefb9bb.mhbtsbpdnt.acm-validations.aws.
+_58b801eeb12c0603f809b0cb364bdca4.iaea-staging.codeenigma.net.	3600	IN	CNAME	_7c8a96ae4dee1049dfae064cdaefb9bb.mhbtsbpdnt.acm-validations.aws.
 _5c9d9799e58cc8a71e608658dc1cccb5.lbhf-demo2-stage.codeenigma.net.	300	IN	CNAME	_a66403e6a2d8c2a63377ee343863de4e.mhbtsbpdnt.acm-validations.aws.
 _5cfd8dbfd63600a10ef91f3a7a5c1288.rcpch-live.codeenigma.net.	3600	IN	CNAME	_fc532e0fa5c51de4755aef57e76422a1.djqtsrsxkq.acm-validations.aws.
 _5dc690f79567bc7611d36f19767b1c3b.northyorkshirecouncil.preprod.nycc-app3.codeenigma.net.	3600	IN	CNAME	_874f0dec00f3e7934a9fda8a2d3164f3.ghcgkbmxjw.acm-validations.aws.
@@ -425,7 +425,7 @@ iaea-deploy1.codeenigma.net.	3600	IN	A	54.154.240.73
 iaea-dev.codeenigma.net.	3600	IN	CNAME	iaea-dev-codeenigma-net-571561212.eu-west-1.elb.amazonaws.com.
 iaea-develop.codeenigma.net.	300	IN	CNAME	iaea-dev-elb-167055625.eu-west-1.elb.amazonaws.com.
 iaea-qa.codeenigma.net.	300	IN	CNAME	iaea-dev-elb-167055625.eu-west-1.elb.amazonaws.com.
-iaea-staging.codeenigma.net.	300	IN	CNAME	iaea-dev-elb-167055625.eu-west-1.elb.amazonaws.com.
+iaea-staging.codeenigma.net.	3600	IN	CNAME	iaea-dev-codeenigma-net-571561212.eu-west-1.elb.amazonaws.com.
 iaea-utilities.codeenigma.net.	3600	IN	A	52.211.100.79
 iaea-utilities2.codeenigma.net.	3600	IN	A	52.211.100.79
 infra1.codeenigma.net.	3600	IN	A	3.8.109.207
