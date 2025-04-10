@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -83,6 +83,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.myscience-dev3.codeenigma.net.	300	IN	CNAME	myscience-dev3.codeenigma.net.
 *.myscience-dev5.codeenigma.net.	300	IN	CNAME	myscience-dev5.codeenigma.net.
 *.myscience-dev6.codeenigma.net.	300	IN	CNAME	myscience-dev6.codeenigma.net.
+*.nationalnumeracy-deploy1.codeenigma.net.	3600	IN	CNAME	nationalnumeracy-deploy1.codeenigma.net.
 *.nextcloud.codeenigma.net.	3600	IN	CNAME	nextcloud.codeenigma.net.
 *.northdevon-app1.codeenigma.net.	3600	IN	CNAME	northdevon-app1.codeenigma.net.
 *.northdevon-deploy1.codeenigma.net.	3600	IN	CNAME	northdevon-deploy1.codeenigma.net.
@@ -153,6 +154,7 @@ _1183ef9e96022fce828ff9980ea178c6.upd-stage.codeenigma.net.	3600	IN	CNAME	_7a98c
 _122ccd0f182fdfadbbb9479bd600aae2.lbhfd9-stage.codeenigma.net.	3600	IN	CNAME	_03473092b092b3c58f581f18f1024e57.fsdcfjjflr.acm-validations.aws.
 _12f366f374ce5c3d97a00f5d5c90bc10.cumbria-prod.codeenigma.net.	300	IN	CNAME	_ba8427bad1071be975de92a5e1db0b1e.cvfdyspdbk.acm-validations.aws.
 _135a544d2c4bd13023a2a72e96d80d10.ce-www-prod.codeenigma.net.	300	IN	CNAME	_d6a6756f8506904c4c7e1b38ff20780b.mhbtsbpdnt.acm-validations.aws.
+_1c4bd0a021f3aa2c68ee9ec6e4003108.iaea-stage.codeenigma.net.	3600	IN	CNAME	_64925c1efe64961b08d3c48e8652d3ae.xlfgrmvvlj.acm-validations.aws.
 _25169fbeb97ebb884b0621b6d5d1f772.southhams-prod.codeenigma.net.	3600	IN	CNAME	_043705608bed01b59ee349579de77b5c.btsqtkxpyp.acm-validations.aws.
 _25a4097de56f9dcd0123ce8b32d4f313.iaea-dev.codeenigma.net.	3600	IN	CNAME	_a93907728d145fc982d35246572575eb.mhbtsbpdnt.acm-validations.aws.
 _2622c7311c25a7bf36e0311068042c2e.example.com.dummy-template.codeenigma.net.	3600	IN	CNAME	_c46b9a1090ab5a2fd60be34e6d22c482.djqtsrsxkq.acm-validations.aws.
@@ -425,7 +427,8 @@ iaea-deploy1.codeenigma.net.	3600	IN	A	54.154.240.73
 iaea-dev.codeenigma.net.	3600	IN	CNAME	iaea-dev-codeenigma-net-571561212.eu-west-1.elb.amazonaws.com.
 iaea-develop.codeenigma.net.	300	IN	CNAME	iaea-dev-elb-167055625.eu-west-1.elb.amazonaws.com.
 iaea-qa.codeenigma.net.	300	IN	CNAME	iaea-dev-elb-167055625.eu-west-1.elb.amazonaws.com.
-iaea-staging.codeenigma.net.	3600	IN	CNAME	iaea-dev-codeenigma-net-571561212.eu-west-1.elb.amazonaws.com.
+iaea-stage.codeenigma.net.	3600	IN	CNAME	iaea-dev-codeenigma-net-571561212.eu-west-1.elb.amazonaws.com.
+iaea-staging.codeenigma.net.	3600	IN	CNAME	iaea-dev-elb-167055625.eu-west-1.elb.amazonaws.com.
 iaea-utilities.codeenigma.net.	3600	IN	A	52.211.100.79
 iaea-utilities2.codeenigma.net.	3600	IN	A	52.211.100.79
 infra1.codeenigma.net.	3600	IN	A	3.8.109.207
@@ -503,6 +506,7 @@ mystrokeguide-asg-dev.codeenigma.net.	3600	IN	CNAME	d1779u69b2y0yj.cloudfront.ne
 mystrokeguide-asg-prod.codeenigma.net.	3600	IN	CNAME	d1jovstl7g9jtn.cloudfront.net.
 mystrokeguide-asg-stage.codeenigma.net.	3600	IN	CNAME	d1j9y3pyjgkbmg.cloudfront.net.
 n5zexext3gjzmupescfiyegf6m66ttkz._domainkey.codeenigma.net.	300	IN	CNAME	n5zexext3gjzmupescfiyegf6m66ttkz.dkim.amazonses.com.
+nationalnumeracy-deploy1.codeenigma.net.	3600	IN	A	35.178.80.164
 nauuinazzfieoa6lr2mvvkote6vn3agz._domainkey.dummy-test1.codeenigma.net.	300	IN	CNAME	nauuinazzfieoa6lr2mvvkote6vn3agz.dkim.amazonses.com.
 nextcloud.codeenigma.net.	3600	IN	A	3.9.192.195
 nextcloud.codeenigma.net.	300	IN	TXT	"v=spf1 a mx ip4:35.177.127.44 ip4:3.9.192.195 ~all"
