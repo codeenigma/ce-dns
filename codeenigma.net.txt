@@ -535,7 +535,7 @@ ons-dev.codeenigma.net.	3600	IN	CNAME	ons-dev1.codeenigma.net.
 ons-dev1.codeenigma.net.	3600	IN	CNAME	d1cvngbxmnl5o4.cloudfront.net.
 ons-prod.codeenigma.net.	3600	IN	CNAME	ons-app1.codeenigma.net.
 ons-solr1.codeenigma.net.	3600	IN	A	18.132.255.72
-ons-stage.codeenigma.net.	3600	IN	CNAME	ons-dev1.codeenigma.net.
+ons-stage.codeenigma.net.	3600	IN	A	18.170.170.117
 opensocial.codeenigma.net.	60	IN	CNAME	social.codeenigma.com.
 optscale.codeenigma.net.	300	IN	A	3.75.13.234
 ouiwrauaszdna6ywxwyfavkesqu4iyjg._domainkey.codeenigma.net.	300	IN	CNAME	ouiwrauaszdna6ywxwyfavkesqu4iyjg.dkim.amazonses.com.
