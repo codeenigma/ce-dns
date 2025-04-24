@@ -339,6 +339,7 @@ dashboard-legacy.codeenigma.net.	300	IN	CNAME	enigma3.codeenigma.net.
 dashboard-stage.codeenigma.net.	300	IN	CNAME	utility3.int.codeenigma.net.
 dashboard.codeenigma.net.	60	IN	CNAME	ce-www-prod-codeenigma-net-669926968.eu-west-2.elb.amazonaws.com.
 demo-controller.codeenigma.net.	300	IN	A	15.188.20.28
+design-system-dev.codeenigma.net.	3600	IN	CNAME	delwnowd30951.cloudfront.net.
 docapi-master.codeenigma.net.	300	IN	CNAME	electricimp-stage1.codeenigma.net.
 docapi-prod.codeenigma.net.	300	IN	CNAME	electricimp-app1.codeenigma.net.
 docapi-stage.codeenigma.net.	300	IN	CNAME	electricimp-stage1.codeenigma.net.
@@ -410,6 +411,7 @@ govwales-app7-dr.codeenigma.net.	3600	IN	A	18.203.15.98
 govwales-app7.codeenigma.net.	3600	IN	A	18.134.183.188
 govwales-deploy1.codeenigma.net.	3600	IN	A	3.11.223.96
 govwales-dev3.codeenigma.net.	3600	IN	A	18.169.38.98
+govwales-dev3.codeenigma.net.	300	IN	TXT	"v=spf1 ip4:18.169.38.98 include:_spf.google.com ~all"
 govwales-ldn-dev2.codeenigma.net.	300	IN	A	35.178.238.218
 govwales-ldn-utility2.codeenigma.net.	300	IN	A	35.176.228.153
 govwales-openvpn2.codeenigma.net.	3600	IN	A	35.177.58.25
