@@ -418,6 +418,8 @@ govwales-openvpn2.codeenigma.net.	3600	IN	A	35.177.58.25
 govwales-solr5-dr.codeenigma.net.	3600	IN	A	54.246.212.16
 govwales-solr5.codeenigma.net.	3600	IN	A	18.133.85.86
 govwales-solr6.codeenigma.net.	3600	IN	A	35.176.66.213
+groups-stroke-dev.codeenigma.net.	300	IN	A	35.178.13.123
+groups-stroke-stage.codeenigma.net.	300	IN	A	35.178.13.123
 gw-search.cy.feature-gw8883-global-search.codeenigma.net.	300	IN	CNAME	govwales-dev3.codeenigma.net.
 gw-search.feature-gw8883-global-search.codeenigma.net.	300	IN	CNAME	govwales-dev3.codeenigma.net.
 haymarket-deploy1.codeenigma.net.	3600	IN	A	18.135.188.153
