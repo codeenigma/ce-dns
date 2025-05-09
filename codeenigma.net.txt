@@ -133,6 +133,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.upd-app1.codeenigma.net.	3600	IN	CNAME	upd-app1.codeenigma.net.
 *.upd-deploy1.codeenigma.net.	3600	IN	CNAME	upd-deploy1.codeenigma.net.
 *.upd-dev1.codeenigma.net.	3600	IN	CNAME	upd-dev1.codeenigma.net.
+*.vpn-role-test.codeenigma.net.	3600	IN	CNAME	vpn-role-test.codeenigma.net.
 *.westco-app1.codeenigma.net.	300	IN	CNAME	westco-app1.codeenigma.net.
 2fa.codeenigma.net.	3600	IN	A	35.176.69.138
 2fzver5snjc6xq2ncrve32qt2jkpg2iu._domainkey.codeenigma.net.	1800	IN	CNAME	2fzver5snjc6xq2ncrve32qt2jkpg2iu.dkim.amazonses.com.
@@ -429,6 +430,7 @@ gw-search.feature-gw8883-global-search.codeenigma.net.	300	IN	CNAME	govwales-dev
 haymarket-deploy1.codeenigma.net.	3600	IN	A	18.135.188.153
 haymarket-infra1.codeenigma.net.	300	IN	A	18.168.187.53
 haymarket-www-dev.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
+haymarket-www-prod.codeenigma.net.	3600	IN	CNAME	d239i22qe0ileb.cloudfront.net.
 haymarket-www-stage.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
 hf-safeguardingadults.codeenigma.net.	3600	IN	CNAME	d25t7mld60cjwz.cloudfront.net.
 hfsafeguardingadults-stage.codeenigma.net.	3600	IN	CNAME	dxot3ygaz40yp.cloudfront.net.
@@ -688,6 +690,7 @@ utility3.int.codeenigma.net.	60	IN	A	35.176.238.60
 valuations.testcar.codeenigma.net.	300	IN	CNAME	test-for-haymarket-1112290590.eu-west-1.elb.amazonaws.com.
 virtual-garden-uat.codeenigma.net.	300	IN	CNAME	strokeassociation-dev1.codeenigma.net.
 vpn-dev.codeenigma.net.	3600	IN	A	3.11.126.229
+vpn-role-test.codeenigma.net.	3600	IN	A	54.228.3.43
 vpn.codeenigma.net.	3600	IN	A	3.11.82.252
 vqcayf5q4fcrn5hj44br4cpiasyuzra5._domainkey.codeenigma.net.	1800	IN	CNAME	vqcayf5q4fcrn5hj44br4cpiasyuzra5.dkim.amazonses.com.
 wemlcqzfbkdyhfkrvcuwhwktq4hyg4tq._domainkey.ons-stage.codeenigma.net.	300	IN	CNAME	wemlcqzfbkdyhfkrvcuwhwktq4hyg4tq.dkim.amazonses.com.
@@ -696,6 +699,7 @@ westdevon-dev.codeenigma.net.	3600	IN	CNAME	d13bn2zar4ec6k.cloudfront.net.
 westdevon-prod.codeenigma.net.	3600	IN	CNAME	southhams-app1.codeenigma.net.
 westdevon-stage.codeenigma.net.	3600	IN	CNAME	d23v0avitqictl.cloudfront.net.
 whatcar-www-dev.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
+whatcar-www-prod.codeenigma.net.	3600	IN	CNAME	d239i22qe0ileb.cloudfront.net.
 whatcar-www-stage.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
 where-culture-connects.codeenigma.net.	300	IN	CNAME	d1kuullursz12i.cloudfront.net.
 wherecultureconnects-stage.codeenigma.net.	3600	IN	CNAME	d1x6cu0espermn.cloudfront.net.
