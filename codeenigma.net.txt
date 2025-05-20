@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -214,6 +214,7 @@ _96c62a76b9e0f1c69a09abf84a32ba95.ce-www-dev.codeenigma.net.	3600	IN	CNAME	_0ee7
 _98cd0205de9134957e6799c89f56c8c0.mystrokeguide-asg-prod.codeenigma.net.	3600	IN	CNAME	_1d461c71ef73746c3795b5657767b10d.vtqfhvjlcp.acm-validations.aws.
 _9e03c8f19029da3e829f6c5b2a5452f5.autocar-stage.codeenigma.net.	300	IN	CNAME	_8ea76e849ff77e9c5837bb2e50f30545.djqtsrsxkq.acm-validations.aws.
 _9e7682f566a34c230ef9be18dca7572c.lbhf-sandbox.codeenigma.net.	300	IN	CNAME	_ad77e9c10ce478fb6a5436c07e918c76.jddtvkljgg.acm-validations.aws.
+_9efc4d498fc1560bfb173262033082c7.gitlab.rbg-infra1.codeenigma.net.	3600	IN	CNAME	_4c9303801c103b814a17e083e7af009e.xlfgrmvvlj.acm-validations.aws.
 _9f1f99a6dab2cedc2fbfb932b8ae26d6.haymarket-www-dev.codeenigma.net.	3600	IN	CNAME	_0542a81ea47ac3de7258dce2eee6ccc1.mhbtsbpdnt.acm-validations.aws.
 _aa1a3acb5e426809c45417acdbe49cf2.me-casc.codeenigma.net.	3600	IN	CNAME	_2dcffc7edeb192dcaf1452bebe3d4858.mhbtsbpdnt.acm-validations.aws.
 _ae894c8a25b6c68c2e946d4aee795c51.lbhf-prod.codeenigma.net.	3600	IN	CNAME	_41e8a472092db88e1a918e9ffef13623.xrchbtpdjs.acm-validations.aws.
@@ -410,7 +411,7 @@ git.codeenigma.net.	3600	IN	A	35.176.193.97
 git2.codeenigma.net.	3600	IN	A	35.176.193.97
 gitlab.haymarket-infra1.codeenigma.net.	300	IN	CNAME	haymarket-infra1.codeenigma.net.
 gitlab.rbg-deploy1.codeenigma.net.	3600	IN	CNAME	rbg-deploy1-codeenigma-net-2093687036.eu-west-2.elb.amazonaws.com.
-gitlab.rbg-infra1.codeenigma.net.	3600	IN	CNAME	rbg-infra1.codeenigma.net.
+gitlab.rbg-infra1.codeenigma.net.	3600	IN	CNAME	rbg-infra1-codeenigma-net-764740415.eu-west-2.elb.amazonaws.com.
 govwales-app-tribs-dr.codeenigma.net.	3600	IN	A	52.208.43.173
 govwales-app-tribs.codeenigma.net.	3600	IN	A	18.170.17.80
 govwales-app7-dr.codeenigma.net.	3600	IN	A	18.203.15.98
