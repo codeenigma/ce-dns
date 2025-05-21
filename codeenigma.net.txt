@@ -265,6 +265,7 @@ _f76ff1cdf7ca37938b18c72d56565574.fosterwithwestlondon-stage.codeenigma.net.	300
 _f7805891b254212a1b64fe06070ea0fd.classicandsportscar-www-stage.codeenigma.net.	3600	IN	CNAME	_ed0989843b63d8544582e3b6ae6a1edd.djqtsrsxkq.acm-validations.aws.
 _f7825e30a9b549072f9ca0aba77bc332.www-stage-en.codeenigma.net.	3600	IN	CNAME	_790ff614d76295dee03bdfd78e28047c.wrpxpmnjfs.acm-validations.aws.
 _f8c14ec04ee0197033c4f3d12413fae7.nationalnumeracy-prod.codeenigma.net.	3600	IN	CNAME	_bb61eb48412573bdb7b66fe206de10ca.xlfgrmvvlj.acm-validations.aws.
+_fa51a7d0408729af87fe3ac0fecae5b7.rbg-infra1.codeenigma.net.	300	IN	CNAME	_610ee2045e3cdd7bf9d16643f0e0246e.xlfgrmvvlj.acm-validations.aws.
 _fa7c9c161dad4da5c14e4b6674a959ae.acm1-domain.codeenigma.net.	3600	IN	CNAME	_4a582efe8a59985c5002fddb1bd8e148.mhbtsbpdnt.acm-validations.aws.
 _fab7c0eca6ec69a8e456db8b02598870.cardata-www-dev.codeenigma.net.	3600	IN	CNAME	_bd3de0fc8a5172d08d93bf9fcce687b0.djqtsrsxkq.acm-validations.aws.
 _ff03dd9a26cf2a4a08a9e8f9d666e5e4.lbhf-demo3-stage.codeenigma.net.	300	IN	CNAME	_b58dad016e8d98ef707aa98c423ccd29.mhbtsbpdnt.acm-validations.aws.
@@ -426,6 +427,7 @@ govwales-solr5-dr.codeenigma.net.	3600	IN	A	54.246.212.16
 govwales-solr5.codeenigma.net.	3600	IN	A	18.133.85.86
 govwales-solr6.codeenigma.net.	3600	IN	A	35.176.66.213
 groups-stroke-dev.codeenigma.net.	300	IN	A	35.178.13.123
+groups-stroke-prod.codeenigma.net.	300	IN	A	52.56.126.62
 groups-stroke-stage.codeenigma.net.	300	IN	A	35.178.13.123
 gw-search.cy.feature-gw8883-global-search.codeenigma.net.	300	IN	CNAME	govwales-dev3.codeenigma.net.
 gw-search.feature-gw8883-global-search.codeenigma.net.	300	IN	CNAME	govwales-dev3.codeenigma.net.
