@@ -258,6 +258,7 @@ _f052c50a62048f72f0024e5120b05fb1.whatcar-www-prod.codeenigma.net.	3600	IN	CNAME
 _f0c6e6bc02fbc9b999bfe0db6a3b2a6a.canterbury-dev.codeenigma.net.	3600	IN	CNAME	_10f6dd1601f0af19764853f50a15ce74.pmgvbzmzyk.acm-validations.aws.
 _f0cb4593e0f45c0a5837c0caca3f929e.northdevon-prod.codeenigma.net.	3600	IN	CNAME	_bf4ea4946f494ae37926f7cce2b211c7.fcgjwsnkyp.acm-validations.aws.
 _f15871a4ca7d3a7159cf9c76efc10c85.lbhf-hotfixes.codeenigma.net.	300	IN	CNAME	_790301cfee01607a241559834fe50d0d.jddtvkljgg.acm-validations.aws.
+_f2ef3d707c525d6aed7ef77160c92a65.design-system-stage.codeenigma.net.	3600	IN	CNAME	_fd05bd62bfce813598e354a6a42cdb0f.xlfgrmvvlj.acm-validations.aws.
 _f4283202dcc802f352e572be4e99980c.vpn-dummy.codeenigma.net.	3600	IN	CNAME	_097d10477268b0b96bcf1aeed56a37e3.gjjrqxwdmz.acm-validations.aws.
 _f5d78673da248ca058c5046df7bcc423.canterbury-dev1.codeenigma.net.	3600	IN	CNAME	_cedb0a6a5b8d6a470c9f6f6f8effc9f8.pmgvbzmzyk.acm-validations.aws.
 _f711550eba959bde0223320aa160e9d1.canterbury-stage.codeenigma.net.	3600	IN	CNAME	_e696f22b93be2a30c38043a39cfb09bd.pmgvbzmzyk.acm-validations.aws.
