@@ -125,6 +125,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.stjohns-app1.codeenigma.net.	300	IN	CNAME	stjohns-app1.codeenigma.net.
 *.stjohns-dev1.codeenigma.net.	300	IN	CNAME	stjohns-dev1.codeenigma.net.
 *.strokeassociation-app1.codeenigma.net.	3600	IN	CNAME	strokeassociation-app1.codeenigma.net.
+*.strokeassociation-app2.codeenigma.net.	3600	IN	CNAME	strokeassociation-app2.codeenigma.net.
 *.strokeassociation-deploy1.codeenigma.net.	3600	IN	CNAME	strokeassociation-deploy1.codeenigma.net.
 *.strokeassociation-dev1.codeenigma.net.	3600	IN	CNAME	strokeassociation-dev1.codeenigma.net.
 *.strokeassociation-solr1.codeenigma.net.	3600	IN	CNAME	strokeassociation-solr1.codeenigma.net.
@@ -165,6 +166,7 @@ _2622c7311c25a7bf36e0311068042c2e.example.com.dummy-template.codeenigma.net.	360
 _2a29cc3df90753f04deb7d58d8bb8066.codeenigma.net.	300	IN	CNAME	_7b5b371912d0e6a5f4231b876da2a319.mhbtsbpdnt.acm-validations.aws.
 _318a05661623e1cc3aede53a56fba58b.northdevon-dev.codeenigma.net.	3600	IN	CNAME	_0261decec9ac05a3c4e078cfe26eb08b.fcgjwsnkyp.acm-validations.aws.
 _33b3e59209d64c05ec4a4922430c3c56.cumbria-dev.codeenigma.net.	3600	IN	CNAME	_c139799f99a2be21f4b64bd0216243fc.yssrbzrnkq.acm-validations.aws.
+_341a739d190b1b089321d0e82bd7042b.haymarket-redirect-test.codeenigma.net.	300	IN	CNAME	_1ef0ccaefa7eecd96c1dc07a774ae8d9.xlfgrmvvlj.acm-validations.aws.
 _358a1d2fd0798b52b41be986bd9badd6.rbg-dev.codeenigma.net.	3600	IN	CNAME	_f1d9469c490524d018067cd2506d45fe.zfyfvmchrl.acm-validations.aws.
 _37542d64d56f98483c59d407e806500b.rbg-demo-asg.codeenigma.net.	3600	IN	CNAME	_aec6374a000ae42a3a392d45aed40df6.djqtsrsxkq.acm-validations.aws.
 _3a5d3f285423014fe0f2f34c3172e9bf.civiccampus-stage.codeenigma.net.	300	IN	CNAME	_7b841ceb1f2c2635711f1a40d5b17eaf.mhbtsbpdnt.acm-validations.aws.
@@ -243,6 +245,7 @@ _bff7fe0e0da7cb7a2dec9c52a62febf1.gcd-dev.codeenigma.net.	3600	IN	CNAME	_53ebbfc
 _c2035cbf40b93e91bb9c143a6b7d54a0.upd-prod.codeenigma.net.	3600	IN	CNAME	_1e8399cae4fa16ba3e956775501f83aa.tftwdmzmwn.acm-validations.aws.
 _c84dd2250f2ae4ba34658c12e6849f88.autocar-www-stage.codeenigma.net.	3600	IN	CNAME	_2e87e03f90f4f1df1b739a6fceadbdac.sdgjtdhdhz.acm-validations.aws.
 _cb4cc883dab66fbbec846a826f8d5c8e.dummy-cluster.codeenigma.net.	3600	IN	CNAME	_d52659bd0c482181a651b1fb708732b2.yyqgzzsvtj.acm-validations.aws.
+_d32d8c3672fa2d64bfbc46c6c86653c4.dev-shop-stroke.codeenigma.net.	3600	IN	CNAME	_f54d6aa96009bb7066b69632460a384b.xlfgrmvvlj.acm-validations.aws.
 _d58db6f17c53f14075bfaafae10083be.lbhf-demo1-stage.codeenigma.net.	300	IN	CNAME	_99bbabaa9e9b808db8da04ecd9b4d3b1.mhbtsbpdnt.acm-validations.aws.
 _d869d73abb7d036c77cb30f576da1a86.lbhfd9-master.codeenigma.net.	300	IN	CNAME	_d0403e9978924d843e42f76a48e3251b.fsdcfjjflr.acm-validations.aws.
 _d8822afb0a16c9d097e8c8ca3b6c0590.codeenigma.net.	300	IN	CNAME	_66924c9675df3f105ba68cce29c8d194.acm-validations.aws.
@@ -351,6 +354,7 @@ dashboard.codeenigma.net.	60	IN	CNAME	ce-www-prod-codeenigma-net-669926968.eu-we
 demo-controller.codeenigma.net.	300	IN	A	15.188.20.28
 design-system-dev.codeenigma.net.	3600	IN	CNAME	delwnowd30951.cloudfront.net.
 design-system-stage.codeenigma.net.	3600	IN	CNAME	d9tixjy82ie7t.cloudfront.net.
+dev-shop-stroke.codeenigma.net.	300	IN	CNAME	strokeassociation-app2.codeenigma.net.
 docapi-master.codeenigma.net.	300	IN	CNAME	electricimp-stage1.codeenigma.net.
 docapi-prod.codeenigma.net.	300	IN	CNAME	electricimp-app1.codeenigma.net.
 docapi-stage.codeenigma.net.	300	IN	CNAME	electricimp-stage1.codeenigma.net.
@@ -570,6 +574,7 @@ opensocial.codeenigma.net.	60	IN	CNAME	social.codeenigma.com.
 optscale.codeenigma.net.	300	IN	A	3.75.13.234
 ouiwrauaszdna6ywxwyfavkesqu4iyjg._domainkey.codeenigma.net.	300	IN	CNAME	ouiwrauaszdna6ywxwyfavkesqu4iyjg.dkim.amazonses.com.
 packages.codeenigma.net.	3600	IN	A	3.8.107.17
+prod-shop-stroke.codeenigma.net.	300	IN	CNAME	strokeassociation-app2.codeenigma.net.
 public-dev.codeenigma.net.	300	IN	CNAME	fci-dev3.codeenigma.net.
 public-staging.codeenigma.net.	300	IN	CNAME	fci-dev3.codeenigma.net.
 public-test.codeenigma.net.	300	IN	CNAME	fci-dev3.codeenigma.net.
@@ -636,6 +641,7 @@ southhams-dev1.codeenigma.net.	3600	IN	A	13.42.100.46
 southhams-prod.codeenigma.net.	3600	IN	CNAME	southhams-app1.codeenigma.net.
 southhams-stage.codeenigma.net.	3600	IN	CNAME	d23v0avitqictl.cloudfront.net.
 spiderman.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1250625352.eu-west-1.elb.amazonaws.com.
+stage-shop-stroke.codeenigma.net.	300	IN	CNAME	strokeassociation-app2.codeenigma.net.
 stats-dev.codeenigma.net.	3600	IN	CNAME	stats-dev.codeenigma.com.
 stats-ons-dev.codeenigma.net.	300	IN	CNAME	d1cvngbxmnl5o4.cloudfront.net.
 stats-ons-stage.codeenigma.net.	300	IN	CNAME	d1cvngbxmnl5o4.cloudfront.net.
@@ -671,6 +677,7 @@ stjohnsd8.stage.stage1.codeenigma.net.	300	IN	CNAME	stjohns-dev1.codeenigma.net.
 stroke-org-develop.codeenigma.net.	3600	IN	CNAME	strokeassociation-dev1.codeenigma.net.
 stroke-org-stage.codeenigma.net.	3600	IN	CNAME	strokeassociation-dev1.codeenigma.net.
 strokeassociation-app1.codeenigma.net.	3600	IN	A	52.56.126.62
+strokeassociation-app2.codeenigma.net.	3600	IN	A	18.168.172.158
 strokeassociation-deploy1.codeenigma.net.	3600	IN	A	18.130.111.191
 strokeassociation-dev1.codeenigma.net.	3600	IN	A	35.178.13.123
 strokeassociation-solr1.codeenigma.net.	3600	IN	A	3.8.75.154
