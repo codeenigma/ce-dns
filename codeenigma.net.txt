@@ -359,6 +359,7 @@ dashboard-stage.codeenigma.net.	300	IN	CNAME	utility3.int.codeenigma.net.
 dashboard.codeenigma.net.	60	IN	CNAME	ce-www-prod-codeenigma-net-669926968.eu-west-2.elb.amazonaws.com.
 demo-controller.codeenigma.net.	300	IN	A	15.188.20.28
 design-system-dev.codeenigma.net.	3600	IN	CNAME	delwnowd30951.cloudfront.net.
+design-system-prod.codeenigma.net.	3600	IN	CNAME	d33s3i3pfrx31h.cloudfront.net.
 design-system-stage.codeenigma.net.	3600	IN	CNAME	d9tixjy82ie7t.cloudfront.net.
 dev-shop-stroke.codeenigma.net.	3600	IN	CNAME	d3a8wjj8e3d8el.cloudfront.net.
 docapi-master.codeenigma.net.	300	IN	CNAME	electricimp-stage1.codeenigma.net.
@@ -497,6 +498,7 @@ lbhfd9-prod.codeenigma.net.	3600	IN	CNAME	lbhf-asg-prod-d9-codeenigma-net-204088
 lbhfd9-stage.codeenigma.net.	3600	IN	CNAME	d1qa1isz0htjoe.cloudfront.net.
 ldap1.codeenigma.net.	3600	IN	A	3.11.235.9
 lgd-dev.codeenigma.net.	3600	IN	CNAME	delwnowd30951.cloudfront.net.
+lgd-prod.codeenigma.net.	3600	IN	CNAME	d33s3i3pfrx31h.cloudfront.net.
 lgd-stage.codeenigma.net.	3600	IN	CNAME	d9tixjy82ie7t.cloudfront.net.
 localgovdrupal-dev.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1084576473.eu-west-1.elb.amazonaws.com.
 login-dev.codeenigma.net.	300	IN	CNAME	utility3.int.codeenigma.net.
@@ -601,6 +603,7 @@ rbg-deploy1.codeenigma.net.	3600	IN	A	52.56.51.224
 rbg-dev-solr1.codeenigma.net.	3600	IN	A	18.170.90.22
 rbg-dev.codeenigma.net.	3600	IN	CNAME	delwnowd30951.cloudfront.net.
 rbg-infra1.codeenigma.net.	300	IN	A	18.169.169.235
+rbg-prod.codeenigma.net.	3600	IN	CNAME	d33s3i3pfrx31h.cloudfront.net.
 rbg-solr1.codeenigma.net.	3600	IN	A	35.177.224.75
 rbg-stage.codeenigma.net.	3600	IN	CNAME	d9tixjy82ie7t.cloudfront.net.
 rbg-vpn.codeenigma.net.	3600	IN	A	52.56.51.224
