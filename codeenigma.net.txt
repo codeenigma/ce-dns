@@ -176,7 +176,7 @@ _3a5d3f285423014fe0f2f34c3172e9bf.civiccampus-stage.codeenigma.net.	300	IN	CNAME
 _3b64c55a6c445fb1f7adcc7383dadefa.where-culture-connects.codeenigma.net.	300	IN	CNAME	_abe27e6c7a3713fdebb893262a0c65a6.mhbtsbpdnt.acm-validations.aws.
 _40c42a5b3a38f6e28217ccb3ffd0f91d.valuations.testcar.codeenigma.net.	3600	IN	CNAME	_f84a964e387d771ee671201d3f9516b8.zfyfvmchrl.acm-validations.aws.
 _417eb071b9ae9adf1db834701ba1eae9.hfsafeguardingadults-stage.codeenigma.net.	300	IN	CNAME	_619902ff94d236bc041a5cff71ebfc10.mhbtsbpdnt.acm-validations.aws.
-_420baf34baf06ef8c118bfae1b1a2786.metabase.codeenigma.net.	60	IN	CNAME	_fa507571bedf9d14f2c11f55abbb326e.mhbtsbpdnt.acm-validations.aws.
+_420baf34baf06ef8c118bfae1b1a2786.metabase.codeenigma.net.	3600	IN	CNAME	_fa507571bedf9d14f2c11f55abbb326e.mhbtsbpdnt.acm-validations.aws.
 _4226668beda6f5d3a0eb33155eb263bf.support.codeenigma.net.	300	IN	CNAME	_abe0adfe86ef29b80406cca2de41feae.zfyfvmchrl.acm-validations.aws.
 _439b71fbdeaeabc4d010b82aa484d0c4.ons-dev1.codeenigma.net.	3600	IN	CNAME	_fc58c4401f51cb97ffbcdb8388be8e5c.xlfgrmvvlj.acm-validations.aws.
 _45d2c5d60a749e8eee686135777bc145.dummy-master.codeenigma.net.	3600	IN	CNAME	_cbb70b746ada943e0c9a3a51d8650067.mhbtsbpdnt.acm-validations.aws.
@@ -506,7 +506,7 @@ login.codeenigma.net.	300	IN	CNAME	enigma3.codeenigma.net.
 mailfrom.gitlab.govwales-deploy1.codeenigma.net.	300	IN	MX	10 feedback-smtp.eu-west-2.amazonses.com.
 mailfrom.gitlab.govwales-deploy1.codeenigma.net.	300	IN	TXT	"v=spf1 include:amazonses.com ~all"
 me-casc.codeenigma.net.	3600	IN	CNAME	d20fnr8syj4biv.cloudfront.net.
-metabase.codeenigma.net.	300	IN	CNAME	metabase-alb-2102566008.us-east-1.elb.amazonaws.com.
+metabase.codeenigma.net.	3600	IN	CNAME	metabase-prod-8936082.eu-west-2.elb.amazonaws.com.
 mfa-dev1.codeenigma.net.	3600	IN	A	3.11.113.31
 mfa1.codeenigma.net.	3600	IN	A	35.176.69.138
 microsites-stage.codeenigma.net.	3600	IN	CNAME	d209q6ey3sbzdb.cloudfront.net.
@@ -572,13 +572,13 @@ nycc-dev2.codeenigma.net.	3600	IN	A	34.251.108.217
 nycc-pentest.codeenigma.net.	300	IN	CNAME	nycc-app3.codeenigma.net.
 nycc-utility1.codeenigma.net.	3600	IN	A	52.210.106.54
 nycc-utility2.codeenigma.net.	3600	IN	A	52.210.106.54
-ons-app1.codeenigma.net.	3600	IN	CNAME	dowbkomf8ttmb.cloudfront.net.
+ons-app1.codeenigma.net.	3600	IN	A	18.135.136.84
 ons-deploy1.codeenigma.net.	3600	IN	A	3.9.217.13
-ons-dev.codeenigma.net.	3600	IN	CNAME	d1cvngbxmnl5o4.cloudfront.net.
+ons-dev.codeenigma.net.	3600	IN	CNAME	ons-dev1.codeenigma.net.
 ons-dev1.codeenigma.net.	3600	IN	A	18.170.170.117
 ons-prod.codeenigma.net.	3600	IN	CNAME	ons-app1.codeenigma.net.
 ons-solr1.codeenigma.net.	3600	IN	A	18.132.255.72
-ons-stage.codeenigma.net.	3600	IN	CNAME	d1cvngbxmnl5o4.cloudfront.net.
+ons-stage.codeenigma.net.	3600	IN	CNAME	ons-dev1.codeenigma.net.
 opensocial.codeenigma.net.	60	IN	CNAME	social.codeenigma.com.
 optscale.codeenigma.net.	300	IN	A	3.75.13.234
 ouiwrauaszdna6ywxwyfavkesqu4iyjg._domainkey.codeenigma.net.	300	IN	CNAME	ouiwrauaszdna6ywxwyfavkesqu4iyjg.dkim.amazonses.com.
