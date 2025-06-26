@@ -441,6 +441,7 @@ govwales-openvpn2.codeenigma.net.	3600	IN	A	35.177.58.25
 govwales-solr5-dr.codeenigma.net.	3600	IN	A	54.246.212.16
 govwales-solr5.codeenigma.net.	3600	IN	A	18.133.85.86
 govwales-solr6.codeenigma.net.	3600	IN	A	35.176.66.213
+govwales-stage-asg.codeenigma.net.	300	IN	CNAME	govwales-main-dev-codeenigma-net-709013409.eu-west-2.elb.amazonaws.com.
 groups-stroke-dev.codeenigma.net.	300	IN	A	35.178.13.123
 groups-stroke-prod.codeenigma.net.	300	IN	A	52.56.126.62
 groups-stroke-stage.codeenigma.net.	300	IN	A	35.178.13.123
