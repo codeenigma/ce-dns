@@ -744,6 +744,10 @@ www.example.com.dummy-template.codeenigma.net.	86400	AWS	ALIAS	A d3a2gfoob3i3bt.
 www.explorify-dev.codeenigma.net.	3600	IN	CNAME	explorify-dev1.codeenigma.net.
 www.explorify-stage.codeenigma.net.	3600	IN	CNAME	explorify-dev1.codeenigma.net.
 www.nginx.codeenigma.net.	300	IN	CNAME	dummy-template.codeenigma.net.
+www.nn-dev.codeenigma.net.	3600	IN	CNAME	nationalnumeracy-dev1.codeenigma.net.
+www.nn-stage.codeenigma.net.	3600	IN	CNAME	nationalnumeracy-dev1.codeenigma.net.
+www.nnchallenge-dev.codeenigma.net.	3600	IN	CNAME	nationalnumeracy-dev1.codeenigma.net.
+www.nnchallenge-stage.codeenigma.net.	3600	IN	CNAME	nationalnumeracy-dev1.codeenigma.net.
 www.testcar.codeenigma.net.	300	IN	CNAME	d3duhxjh1ocljf.cloudfront.net.
 www.where-culture-connects.codeenigma.net.	300	IN	CNAME	d1kuullursz12i.cloudfront.net.
 wzji2bwoa3ib4sjzw74aigd5ylonash6._domainkey.codeenigma.net.	1800	IN	CNAME	wzji2bwoa3ib4sjzw74aigd5ylonash6.dkim.amazonses.com.
