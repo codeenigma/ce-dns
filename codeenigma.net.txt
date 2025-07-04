@@ -554,6 +554,10 @@ nauuinazzfieoa6lr2mvvkote6vn3agz._domainkey.dummy-test1.codeenigma.net.	300	IN	C
 nextcloud.codeenigma.net.	3600	IN	A	3.9.192.195
 nextcloud.codeenigma.net.	300	IN	TXT	"v=spf1 a mx ip4:35.177.127.44 ip4:3.9.192.195 ~all"
 nginx.codeenigma.net.	300	IN	CNAME	dummy-template.codeenigma.net.
+nnassessment-dev.codeenigma.net.	3600	IN	CNAME	nationalnumeracy-dev1.codeenigma.net.
+nnassessment-stage.codeenigma.net.	3600	IN	CNAME	nationalnumeracy-dev1.codeenigma.net.
+nnresources-dev.codeenigma.net.	3600	IN	CNAME	nationalnumeracy-dev1.codeenigma.net.
+nnresources-stage.codeenigma.net.	3600	IN	CNAME	nationalnumeracy-dev1.codeenigma.net.
 northdevon-app1.codeenigma.net.	3600	IN	A	18.134.102.223
 northdevon-deploy1.codeenigma.net.	3600	IN	A	18.168.185.57
 northdevon-dev.codeenigma.net.	3600	IN	CNAME	northdevon-dev1.codeenigma.net.
