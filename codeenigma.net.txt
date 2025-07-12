@@ -30,6 +30,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.cumbria-deploy1.codeenigma.net.	3600	IN	CNAME	cumbria-deploy1.codeenigma.net.
 *.demo-controller.codeenigma.net.	300	IN	CNAME	demo-controller.codeenigma.net.
 *.dev.codeenigma.net.	300	IN	CNAME	build.codeenigma.net.
+*.dummy-chat.codeenigma.net.	3600	IN	CNAME	dummy-chat.codeenigma.net.
 *.dummy-deploy1.codeenigma.net.	3600	IN	CNAME	dummy-deploy1.codeenigma.net.
 *.dummy-infra1.codeenigma.net.	3600	IN	CNAME	dummy-infra1.codeenigma.net.
 *.dummy-ips.codeenigma.net.	3600	IN	CNAME	dummy-ips.codeenigma.net.
@@ -366,6 +367,7 @@ docapi-stage.codeenigma.net.	300	IN	CNAME	electricimp-stage1.codeenigma.net.
 dredmine-dev.codeenigma.net.	300	IN	CNAME	ce-www-dev-codeenigma-net-699003124.eu-west-2.elb.amazonaws.com.
 drstrange.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1250625352.eu-west-1.elb.amazonaws.com.
 dummy-asgenc-dev.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1084576473.eu-west-1.elb.amazonaws.com.
+dummy-chat.codeenigma.net.	3600	IN	A	52.212.209.93
 dummy-cluster.codeenigma.net.	3600	IN	CNAME	d26nvypu1ymewj.cloudfront.net.
 dummy-cluster2.codeenigma.net.	3600	IN	CNAME	d26nvypu1ymewj.cloudfront.net.
 dummy-deploy1.codeenigma.net.	3600	IN	A	54.220.7.154
