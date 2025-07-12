@@ -79,7 +79,7 @@ ntop.codeenigma.com.	300	IN	A	192.168.140.1
 nwuklph37fh2ekyc3nhpmym62ceee535._domainkey.codeenigma.com.	300	IN	CNAME	nwuklph37fh2ekyc3nhpmym62ceee535.dkim.amazonses.com.
 old-chat.codeenigma.com.	300	IN	CNAME	git.codeenigma.net.
 packages-old.codeenigma.com.	300	IN	CNAME	monitor2.codeenigma.com.
-packages.codeenigma.com.	300	IN	CNAME	monitor2.codeenigma.com.
+packages.codeenigma.com.	300	IN	CNAME	packages.codeenigma.net.
 puppet.codeenigma.com.	300	IN	A	18.194.56.27
 puppet2.codeenigma.com.	300	IN	A	34.250.90.36
 redactive-app1.codeenigma.com.	300	IN	A	35.176.100.141
