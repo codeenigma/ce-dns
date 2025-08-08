@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+codeenigma.net.	3600	IN	A	18.130.42.81
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -208,6 +208,7 @@ _77d9617afa8a270845bbf5e98173f8f7.iaea-prod.codeenigma.net.	3600	IN	CNAME	_a018c
 _78704011f0bca0a9f8797a6367c1e7c3.fosterwithwestlondon.codeenigma.net.	300	IN	CNAME	_11ff1df130cc005265c20ef9403e8e1f.zfyfvmchrl.acm-validations.aws.
 _789950a60b94f013d7f8a94fac50e38d.ons-dev.codeenigma.net.	300	IN	CNAME	_de2b8abbfbf0e0f3c750425b64d0f2f5.xlfgrmvvlj.acm-validations.aws.
 _7acc8e9b0570c605fefa0ce71eb7e0bb.wormwoodscrubstrust-stage.codeenigma.net.	300	IN	CNAME	_0b9a97b7899afaccf56b83c72c38e973.xlfgrmvvlj.acm-validations.aws.
+_7ca8fcbfb02378dd5138767c76016255.classicandsportscar-www-dev-upgrade.codeenigma.net.	3600	IN	CNAME	_8c08dc580816104edcaef844e06ba327.xlfgrmvvlj.acm-validations.aws.
 _7d7c9375e732ca019d41419d73238190.rbg-stage.codeenigma.net.	3600	IN	CNAME	_4b66019aaa8229736d456fb091c2bfe6.zfyfvmchrl.acm-validations.aws.
 _7fe7eb29e8bf7ae8e850d351d020e2cb.haymarket-www-prod.codeenigma.net.	3600	IN	CNAME	_f4cba723882fd2b47ba8392815d94abb.xlfgrmvvlj.acm-validations.aws.
 _8007ea75b9f5ac67173d1915c20384ec.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	_b5a12879f4695c48eb7852dbeabc85b4.pczglchxlc.acm-validations.aws.
@@ -335,6 +336,7 @@ chsoc-app2.codeenigma.net.	3600	IN	A	34.240.220.109
 chsoc-stage1.codeenigma.net.	3600	IN	A	34.240.136.246
 chsoc-stage2.codeenigma.net.	3600	IN	A	34.240.136.246
 civiccampus-stage.codeenigma.net.	3600	IN	CNAME	d1pg7glqu9pthe.cloudfront.net.
+classicandsportscar-www-dev-upgrade.codeenigma.net.	3600	IN	CNAME	d20fnr8syj4biv.cloudfront.net.
 classicandsportscar-www-dev.codeenigma.net.	3600	IN	CNAME	d20fnr8syj4biv.cloudfront.net.
 classicandsportscar-www-stage.codeenigma.net.	3600	IN	CNAME	d20fnr8syj4biv.cloudfront.net.
 community-practitioner-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
