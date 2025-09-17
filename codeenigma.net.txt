@@ -510,7 +510,7 @@ lbhf-deploy1.codeenigma.net.	3600	IN	A	52.56.82.99
 lbhf-dev2.codeenigma.net.	3600	IN	A	18.168.74.212
 lbhf-prod.codeenigma.net.	3600	IN	CNAME	d3jeml6w8ro41h.cloudfront.net.
 lbhfd9-master.codeenigma.net.	300	IN	CNAME	lbhf-dev2.codeenigma.net.
-lbhfd9-prod.codeenigma.net.	3600	IN	CNAME	lbhf-asg-prod-d9-codeenigma-net-2040881855.eu-west-2.elb.amazonaws.com.
+lbhfd9-prod.codeenigma.net.	3600	IN	CNAME	d13xgiwqmsw28t.cloudfront.net.
 lbhfd9-stage.codeenigma.net.	3600	IN	CNAME	d1qa1isz0htjoe.cloudfront.net.
 ldap1.codeenigma.net.	3600	IN	A	3.11.235.9
 lgd-dev.codeenigma.net.	3600	IN	CNAME	delwnowd30951.cloudfront.net.
