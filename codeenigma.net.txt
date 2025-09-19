@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -265,6 +265,7 @@ _db5c2bcc9626a6eed8935969525192be.fosteringsharedservices-stage.codeenigma.net.	
 _dd08edba88948feee11b52d891f466de.rbg-deploy1.codeenigma.net.	3600	IN	CNAME	_80659a7f97c8c36d2665b21fe9e11de2.xlfgrmvvlj.acm-validations.aws.
 _ddc7fef6e5773d78aa279096c72d1b59.canterbury-prod.codeenigma.net.	3600	IN	CNAME	_bbfa48f6df7998498a0977c11d430654.pmgvbzmzyk.acm-validations.aws.
 _e06dff23fada65189e69a93f8c4842d1.haymarket-www-stage.codeenigma.net.	3600	IN	CNAME	_e03c61b73825a5114a80c36599230378.djqtsrsxkq.acm-validations.aws.
+_e1279533cac07f4d2009afd68159451d.iaea-d7-prod.codeenigma.net.	3600	IN	CNAME	_fd20d9c18d5df5a6d5bb9c329f9f0877.xlfgrmvvlj.acm-validations.aws.
 _e18f3bb93d8d4042fce99232cb7c6a1a.westdevon-dev.codeenigma.net.	3600	IN	CNAME	_a7c431ce9825710e149682c3f3cec28d.wmqxbylrnj.acm-validations.aws.
 _e3dd5c15263f70422963dd833ffdb497.dashboard-stage.codeenigma.net.	300	IN	CNAME	_822890e960b28b19a00571fbbd436d66.xyscsmcmgv.acm-validations.aws.
 _e89422b11f8024f29c63a46d8b5d1c0c.southhams-dev.codeenigma.net.	3600	IN	CNAME	_dc1c692b9381f5089a48f40c283e2803.btsqtkxpyp.acm-validations.aws.
@@ -476,7 +477,7 @@ hlt-db1.codeenigma.net.	3600	IN	A	52.212.112.5
 hlt-dev-login.codeenigma.net.	300	IN	CNAME	hlt-dev2.codeenigma.net.
 hlt-dev1.codeenigma.net.	3600	IN	A	34.250.4.133
 hlt-dev2.codeenigma.net.	3600	IN	A	34.250.4.133
-iaea-d7-prod.codeenigma.net.	300	IN	CNAME	iaea-prod-elb-1477772846.eu-west-1.elb.amazonaws.com.
+iaea-d7-prod.codeenigma.net.	300	IN	CNAME	d180gl60m9s8zy.cloudfront.net.
 iaea-deploy1.codeenigma.net.	3600	IN	A	54.154.240.73
 iaea-dev.codeenigma.net.	3600	IN	CNAME	iaea-dev-codeenigma-net-571561212.eu-west-1.elb.amazonaws.com.
 iaea-develop.codeenigma.net.	300	IN	CNAME	iaea-dev-elb-167055625.eu-west-1.elb.amazonaws.com.
