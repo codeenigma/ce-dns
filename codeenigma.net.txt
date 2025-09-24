@@ -407,6 +407,7 @@ eastsuffolk-app1.codeenigma.net.	3600	IN	A	13.134.43.75
 eastsuffolk-deploy1.codeenigma.net.	3600	IN	A	13.43.38.255
 eastsuffolk-dev.codeenigma.net.	3600	IN	CNAME	eastsuffolk-dev1.codeenigma.net.
 eastsuffolk-dev1.codeenigma.net.	3600	IN	A	3.9.87.183
+eastsuffolk-preprod.codeenigma.net.	300	IN	A	13.134.43.75
 eastsuffolk-stage.codeenigma.net.	3600	IN	CNAME	eastsuffolk-dev1.codeenigma.net.
 electricimp-app1.codeenigma.net.	3600	IN	A	34.233.198.35
 electricimp-stage1.codeenigma.net.	3600	IN	A	34.227.216.32
