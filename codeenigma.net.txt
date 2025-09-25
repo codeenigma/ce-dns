@@ -480,7 +480,7 @@ hlt-db1.codeenigma.net.	3600	IN	A	52.212.112.5
 hlt-dev-login.codeenigma.net.	300	IN	CNAME	hlt-dev2.codeenigma.net.
 hlt-dev1.codeenigma.net.	3600	IN	A	34.250.4.133
 hlt-dev2.codeenigma.net.	3600	IN	A	34.250.4.133
-iaea-d7-prod.codeenigma.net.	300	IN	CNAME	d180gl60m9s8zy.cloudfront.net.
+iaea-d7-prod.codeenigma.net.	300	IN	CNAME	iaea-prod-elb-1477772846.eu-west-1.elb.amazonaws.com.
 iaea-deploy1.codeenigma.net.	3600	IN	A	54.154.240.73
 iaea-dev.codeenigma.net.	3600	IN	CNAME	iaea-dev-codeenigma-net-571561212.eu-west-1.elb.amazonaws.com.
 iaea-develop.codeenigma.net.	300	IN	CNAME	iaea-dev-elb-167055625.eu-west-1.elb.amazonaws.com.
