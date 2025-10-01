@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -231,6 +231,7 @@ _9e7682f566a34c230ef9be18dca7572c.lbhf-sandbox.codeenigma.net.	300	IN	CNAME	_ad7
 _9efc4d498fc1560bfb173262033082c7.gitlab.rbg-infra1.codeenigma.net.	3600	IN	CNAME	_4c9303801c103b814a17e083e7af009e.xlfgrmvvlj.acm-validations.aws.
 _9f1f99a6dab2cedc2fbfb932b8ae26d6.haymarket-www-dev.codeenigma.net.	3600	IN	CNAME	_0542a81ea47ac3de7258dce2eee6ccc1.mhbtsbpdnt.acm-validations.aws.
 _a2c97b628e09a8e63ca5d27a7f191059.classicandsportscar-upgrade-dev.codeenigma.net.	3600	IN	CNAME	_ec9b8e33558cf16a11507bc2f722fadc.xlfgrmvvlj.acm-validations.aws.
+_a5bfb0acfb56cba293aa738149a0c02d.eastsuffolk-preprod.codeenigma.net.	3600	IN	CNAME	_66259f48b173e48f79da8ba0562eb6b5.xlfgrmvvlj.acm-validations.aws.
 _aa1a3acb5e426809c45417acdbe49cf2.me-casc.codeenigma.net.	3600	IN	CNAME	_2dcffc7edeb192dcaf1452bebe3d4858.mhbtsbpdnt.acm-validations.aws.
 _ae894c8a25b6c68c2e946d4aee795c51.lbhf-prod.codeenigma.net.	3600	IN	CNAME	_41e8a472092db88e1a918e9ffef13623.xrchbtpdjs.acm-validations.aws.
 _af17e29aa3c5f3fe179bddd0a8b488cf.classicandsportscar-www-dev.codeenigma.net.	3600	IN	CNAME	_907d5d7b99a3c3bce02a05b7aeae2fa7.mhbtsbpdnt.acm-validations.aws.
