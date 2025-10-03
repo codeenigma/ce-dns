@@ -173,6 +173,7 @@ _2a29cc3df90753f04deb7d58d8bb8066.codeenigma.net.	300	IN	CNAME	_7b5b371912d0e6a5
 _2d66faa1b1de32eaeb7a778ddf669905.prod-shop-stroke.codeenigma.net.	3600	IN	CNAME	_9b346450e8c1ad706da402313bbdb132.xlfgrmvvlj.acm-validations.aws.
 _2dc22b4c827365eb07391423dcd8c8f4.classicandsportscar-upgrade-stage.codeenigma.net.	3600	IN	CNAME	_cc9c4a92dec430e33e117d474b6cffed.xlfgrmvvlj.acm-validations.aws.
 _2f23351ee06f854085ae3af5040fb9ff.rbg-prod.codeenigma.net.	3600	IN	CNAME	_996ad8a305d08cdf1cc18f29a74163d9.xlfgrmvvlj.acm-validations.aws.
+_30b65d88022d249fe946c1fbf2f5a720.whatcar-stage-asg.codeenigma.net.	3600	IN	CNAME	_d4cc38c58c9f8aa2ea23bb6c82653e0f.xlfgrmvvlj.acm-validations.aws.
 _318a05661623e1cc3aede53a56fba58b.northdevon-dev.codeenigma.net.	3600	IN	CNAME	_0261decec9ac05a3c4e078cfe26eb08b.fcgjwsnkyp.acm-validations.aws.
 _33b3e59209d64c05ec4a4922430c3c56.cumbria-dev.codeenigma.net.	3600	IN	CNAME	_c139799f99a2be21f4b64bd0216243fc.yssrbzrnkq.acm-validations.aws.
 _341a739d190b1b089321d0e82bd7042b.haymarket-redirect-test.codeenigma.net.	300	IN	CNAME	_1ef0ccaefa7eecd96c1dc07a774ae8d9.xlfgrmvvlj.acm-validations.aws.
