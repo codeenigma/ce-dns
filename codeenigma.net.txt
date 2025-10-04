@@ -239,6 +239,7 @@ _ae894c8a25b6c68c2e946d4aee795c51.lbhf-prod.codeenigma.net.	3600	IN	CNAME	_41e8a
 _af17e29aa3c5f3fe179bddd0a8b488cf.classicandsportscar-www-dev.codeenigma.net.	3600	IN	CNAME	_907d5d7b99a3c3bce02a05b7aeae2fa7.mhbtsbpdnt.acm-validations.aws.
 _amazonses.dummy-deploy1.codeenigma.net.	300	IN	TXT	"0K78wLghjE1C+tVvpynqZGFUrAr69uJByqtf2A6vAK0="
 _b0c2fa6610143daaf8017ab8099487b5.greenwichvpntest.codeenigma.net.	300	IN	CNAME	_e93accb1907313f32186b450917d8d1e.jdyyptrhmw.acm-validations.aws.
+_b2f0cf5c0c3c11a0d39b228eab31ad21.whatcar-preprod-asg.codeenigma.net.	3600	IN	CNAME	_c7bbcb677117b06ab340592fa35c66bc.xlfgrmvvlj.acm-validations.aws.
 _b3f4b6497e8f4a53262dd4cca0554d49.moveelectric-www-dev.codeenigma.net.	3600	IN	CNAME	_da9f1d8909bb10a8202e26f1361f4643.mhbtsbpdnt.acm-validations.aws.
 _b587879c223f32ed1191ce2378957d2e.external-test-one.codeenigma.net.	3600	IN	CNAME	_d79157aecd7993bb06bfb23d4b99f4e7.zfyfvmchrl.acm-validations.aws.
 _b58f4269fd1a902411b14fde27eb36e6.www.testcar.codeenigma.net.	3600	IN	CNAME	_606ac471e0410bdca212414630a2a85b.zfyfvmchrl.acm-validations.aws.
@@ -757,6 +758,7 @@ westco-app1.codeenigma.net.	3600	IN	A	52.16.103.221
 westdevon-dev.codeenigma.net.	3600	IN	CNAME	d13bn2zar4ec6k.cloudfront.net.
 westdevon-prod.codeenigma.net.	3600	IN	CNAME	southhams-app1.codeenigma.net.
 westdevon-stage.codeenigma.net.	3600	IN	CNAME	d23v0avitqictl.cloudfront.net.
+whatcar-stage-asg.codeenigma.net.	3600	IN	CNAME	d2d9f384jye9o9.cloudfront.net.
 whatcar-www-dev.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
 whatcar-www-preprod.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
 whatcar-www-prod.codeenigma.net.	3600	IN	CNAME	d239i22qe0ileb.cloudfront.net.
