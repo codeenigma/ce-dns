@@ -758,6 +758,7 @@ westco-app1.codeenigma.net.	3600	IN	A	52.16.103.221
 westdevon-dev.codeenigma.net.	3600	IN	CNAME	d13bn2zar4ec6k.cloudfront.net.
 westdevon-prod.codeenigma.net.	3600	IN	CNAME	southhams-app1.codeenigma.net.
 westdevon-stage.codeenigma.net.	3600	IN	CNAME	d23v0avitqictl.cloudfront.net.
+whatcar-preprod-asg.codeenigma.net.	3600	IN	CNAME	d2bym2nul6i9k3.cloudfront.net.
 whatcar-stage-asg.codeenigma.net.	3600	IN	CNAME	d2d9f384jye9o9.cloudfront.net.
 whatcar-www-dev.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
 whatcar-www-preprod.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
