@@ -28,6 +28,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.chsoc-app1.codeenigma.net.	300	IN	CNAME	chsoc-app2.codeenigma.net.
 *.chsoc-stage1.codeenigma.net.	300	IN	CNAME	chsoc-stage2.codeenigma.net.
 *.colchester-deploy1.codeenigma.net.	3600	IN	CNAME	colchester-deploy1.codeenigma.net.
+*.colchester-dev1.codeenigma.net.	3600	IN	CNAME	colchester-dev1.codeenigma.net.
 *.cumbria-deploy1.codeenigma.net.	3600	IN	CNAME	cumbria-deploy1.codeenigma.net.
 *.demo-controller.codeenigma.net.	300	IN	CNAME	demo-controller.codeenigma.net.
 *.dev.codeenigma.net.	300	IN	CNAME	build.codeenigma.net.
@@ -355,6 +356,7 @@ classicandsportscar-www-dev-upgrade.codeenigma.net.	3600	IN	CNAME	d20fnr8syj4biv
 classicandsportscar-www-dev.codeenigma.net.	3600	IN	CNAME	d20fnr8syj4biv.cloudfront.net.
 classicandsportscar-www-stage.codeenigma.net.	3600	IN	CNAME	d20fnr8syj4biv.cloudfront.net.
 colchester-deploy1.codeenigma.net.	3600	IN	A	18.132.147.117
+colchester-dev1.codeenigma.net.	3600	IN	A	35.178.219.222
 community-practitioner-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 community-practitioner-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 conference-dev.codeenigma.net.	300	IN	CNAME	airmic-stage2.codeenigma.net.
