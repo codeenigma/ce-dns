@@ -23,6 +23,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.canterbury-app1.codeenigma.net.	3600	IN	CNAME	canterbury-app1.codeenigma.net.
 *.canterbury-deploy1.codeenigma.net.	3600	IN	CNAME	canterbury-deploy1.codeenigma.net.
 *.canterbury-dev1.codeenigma.net.	3600	IN	CNAME	canterbury-dev1.codeenigma.net.
+*.ce-ai.codeenigma.net.	300	IN	A	51.159.182.100
 *.ce-deploy1.codeenigma.net.	3600	IN	CNAME	ce-deploy1.codeenigma.net.
 *.chat.codeenigma.net.	3600	IN	CNAME	chat.codeenigma.net.
 *.chsoc-app1.codeenigma.net.	300	IN	CNAME	chsoc-app2.codeenigma.net.
@@ -340,6 +341,7 @@ canterbury-prod.codeenigma.net.	3600	IN	CNAME	d2d00e8qjvjenb.cloudfront.net.
 canterbury-stage.codeenigma.net.	3600	IN	CNAME	d2pdyklxxtemsd.cloudfront.net.
 cardata-www-dev.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
 cardata-www-stage.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
+ce-ai.codeenigma.net.	300	IN	A	51.159.182.100
 ce-deploy1.codeenigma.net.	3600	IN	A	3.10.183.111
 ce-www-dev.codeenigma.net.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
 ce-www-prod.codeenigma.net.	3600	IN	CNAME	ce-www-prod-codeenigma-net-669926968.eu-west-2.elb.amazonaws.com.
@@ -357,6 +359,7 @@ classicandsportscar-www-dev.codeenigma.net.	3600	IN	CNAME	d20fnr8syj4biv.cloudfr
 classicandsportscar-www-stage.codeenigma.net.	3600	IN	CNAME	d20fnr8syj4biv.cloudfront.net.
 colchester-deploy1.codeenigma.net.	3600	IN	A	18.132.147.117
 colchester-dev1.codeenigma.net.	3600	IN	A	35.178.219.222
+colchester-stage.codeenigma.net.	3600	IN	CNAME	colchester-dev1.codeenigma.net.
 community-practitioner-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 community-practitioner-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 conference-dev.codeenigma.net.	300	IN	CNAME	airmic-stage2.codeenigma.net.
