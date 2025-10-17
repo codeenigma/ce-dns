@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -28,6 +28,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.chat.codeenigma.net.	3600	IN	CNAME	chat.codeenigma.net.
 *.chsoc-app1.codeenigma.net.	300	IN	CNAME	chsoc-app2.codeenigma.net.
 *.chsoc-stage1.codeenigma.net.	300	IN	CNAME	chsoc-stage2.codeenigma.net.
+*.colchester-app1.codeenigma.net.	3600	IN	CNAME	colchester-app1.codeenigma.net.
 *.colchester-deploy1.codeenigma.net.	3600	IN	CNAME	colchester-deploy1.codeenigma.net.
 *.colchester-dev1.codeenigma.net.	3600	IN	CNAME	colchester-dev1.codeenigma.net.
 *.cumbria-deploy1.codeenigma.net.	3600	IN	CNAME	cumbria-deploy1.codeenigma.net.
@@ -42,6 +43,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.dummy-ldap.codeenigma.net.	3600	IN	CNAME	dummy-ldap.codeenigma.net.
 *.dummy-mfa1.codeenigma.net.	3600	IN	CNAME	dummy-mfa1.codeenigma.net.
 *.dummy-monitor1.codeenigma.net.	3600	IN	CNAME	dummy-monitor1.codeenigma.net.
+*.dummy-n8n.codeenigma.net.	3600	IN	CNAME	dummy-n8n.codeenigma.net.
 *.dummy-template.codeenigma.net.	3600	IN	CNAME	dummy-template.codeenigma.net.
 *.dummy-test-greg.codeenigma.net.	3600	IN	CNAME	dummy-test-greg.codeenigma.net.
 *.dummy-test-zz.codeenigma.net.	3600	IN	CNAME	dummy-test-zz.codeenigma.net.
@@ -357,6 +359,8 @@ classicandsportscar-upgrade-stage.codeenigma.net.	3600	IN	CNAME	d14idqtf81cmwn.c
 classicandsportscar-www-dev-upgrade.codeenigma.net.	3600	IN	CNAME	d20fnr8syj4biv.cloudfront.net.
 classicandsportscar-www-dev.codeenigma.net.	3600	IN	CNAME	d20fnr8syj4biv.cloudfront.net.
 classicandsportscar-www-stage.codeenigma.net.	3600	IN	CNAME	d20fnr8syj4biv.cloudfront.net.
+climaterepair-dev.codeenigma.net.	300	IN	A	18.130.42.81
+colchester-app1.codeenigma.net.	3600	IN	A	18.134.55.136
 colchester-deploy1.codeenigma.net.	3600	IN	A	18.132.147.117
 colchester-dev1.codeenigma.net.	3600	IN	A	35.178.219.222
 colchester-stage.codeenigma.net.	3600	IN	CNAME	colchester-dev1.codeenigma.net.
@@ -403,6 +407,7 @@ dummy-ldap.codeenigma.net.	3600	IN	A	54.155.93.113
 dummy-master.codeenigma.net.	3600	IN	CNAME	d12lj0d8wvcgub.cloudfront.net.
 dummy-mfa1.codeenigma.net.	3600	IN	A	34.255.76.13
 dummy-monitor1.codeenigma.net.	3600	IN	A	52.212.96.139
+dummy-n8n.codeenigma.net.	3600	IN	A	54.217.116.46
 dummy-template.codeenigma.net.	3600	IN	A	108.128.103.112
 dummy-test-asg-lb.codeenigma.net.	3600	IN	CNAME	dummy-test-asg-lb-1900773098.eu-west-1.elb.amazonaws.com.
 dummy-test-greg.codeenigma.net.	3600	IN	A	34.251.220.40
