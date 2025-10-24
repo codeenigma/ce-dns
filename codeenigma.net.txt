@@ -414,7 +414,7 @@ dummy-test-greg.codeenigma.net.	3600	IN	A	34.251.220.40
 dummy-test-zz.codeenigma.net.	3600	IN	A	34.250.60.176
 dummy-test.codeenigma.net.	3600	IN	A	108.128.54.165
 dummy-test1.codeenigma.net.	3600	IN	A	108.128.223.23
-dummy-test2.codeenigma.net.	300	IN	A	108.128.223.23
+dummy-test2.codeenigma.net.	300	IN	A	108.128.54.165
 dummy-test3.codeenigma.net.	300	IN	A	108.128.223.23
 dummy-vpn.codeenigma.net.	3600	IN	A	52.17.108.4
 dummy-yubi.codeenigma.net.	3600	IN	A	54.194.114.178
@@ -449,6 +449,7 @@ fci-asg-prod.codeenigma.net.	3600	IN	CNAME	fci-asg-prod-codeenigma-net-557384103
 fci-deploy1.codeenigma.net.	3600	IN	A	18.135.55.189
 fci-deploy1.codeenigma.net.	300	IN	TXT	"v=spf1 ip4:18.135.55.189 -all"
 fci-dev3.codeenigma.net.	3600	IN	A	18.133.114.94
+foobar.dummy-test.codeenigma.net.	300	IN	A	108.128.54.165
 fosteringsharedservices-stage.codeenigma.net.	3600	IN	CNAME	d2qu1vhwtpt5b5.cloudfront.net.
 fosterwithwestlondon-stage.codeenigma.net.	300	IN	CNAME	d26nt6gmy9oivm.cloudfront.net.
 fosterwithwestlondon.codeenigma.net.	300	IN	CNAME	d1zp8v27e0bbb.cloudfront.net.
