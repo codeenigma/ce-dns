@@ -179,6 +179,7 @@ _33b3e59209d64c05ec4a4922430c3c56.cumbria-dev.codeenigma.net.	3600	IN	CNAME	_c13
 _341a739d190b1b089321d0e82bd7042b.haymarket-redirect-test.codeenigma.net.	300	IN	CNAME	_1ef0ccaefa7eecd96c1dc07a774ae8d9.xlfgrmvvlj.acm-validations.aws.
 _358a1d2fd0798b52b41be986bd9badd6.rbg-dev.codeenigma.net.	3600	IN	CNAME	_f1d9469c490524d018067cd2506d45fe.zfyfvmchrl.acm-validations.aws.
 _37542d64d56f98483c59d407e806500b.rbg-demo-asg.codeenigma.net.	3600	IN	CNAME	_aec6374a000ae42a3a392d45aed40df6.djqtsrsxkq.acm-validations.aws.
+_386b38b7de5a32d4080a993f0834cb33.localgovdrupal-dev.codeenigma.net.	60	IN	CNAME	_6ef708fc84c142f1bf103d6b57f4649f.jkddzztszm.acm-validations.aws.
 _3a5d3f285423014fe0f2f34c3172e9bf.civiccampus-stage.codeenigma.net.	300	IN	CNAME	_7b841ceb1f2c2635711f1a40d5b17eaf.mhbtsbpdnt.acm-validations.aws.
 _3b64c55a6c445fb1f7adcc7383dadefa.where-culture-connects.codeenigma.net.	300	IN	CNAME	_abe27e6c7a3713fdebb893262a0c65a6.mhbtsbpdnt.acm-validations.aws.
 _40c42a5b3a38f6e28217ccb3ffd0f91d.valuations.testcar.codeenigma.net.	3600	IN	CNAME	_f84a964e387d771ee671201d3f9516b8.zfyfvmchrl.acm-validations.aws.
@@ -336,8 +337,8 @@ canterbury-dev.codeenigma.net.	3600	IN	CNAME	d2grvjp63v8s38.cloudfront.net.
 canterbury-dev1.codeenigma.net.	3600	IN	A	35.177.214.9
 canterbury-prod.codeenigma.net.	3600	IN	CNAME	d2d00e8qjvjenb.cloudfront.net.
 canterbury-stage.codeenigma.net.	3600	IN	CNAME	d2pdyklxxtemsd.cloudfront.net.
-cardata-www-dev.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
-cardata-www-stage.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
+cardata-www-dev.codeenigma.net.	3600	IN	CNAME	d325v1wdqtc9v5.cloudfront.net.
+cardata-www-stage.codeenigma.net.	3600	IN	CNAME	d325v1wdqtc9v5.cloudfront.net.
 ce-ai.codeenigma.net.	300	IN	A	51.159.182.100
 ce-deploy1.codeenigma.net.	3600	IN	A	3.10.183.111
 ce-www-dev.codeenigma.net.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
@@ -470,10 +471,10 @@ gw-search.feature-gw8883-global-search.codeenigma.net.	300	IN	CNAME	govwales-dev
 haymarket-deploy1.codeenigma.net.	3600	IN	A	18.135.188.153
 haymarket-infra1.codeenigma.net.	300	IN	A	18.168.187.53
 haymarket-redirect-test.codeenigma.net.	300	IN	CNAME	dtc2028url69y.cloudfront.net.
-haymarket-www-dev.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
-haymarket-www-preprod.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
+haymarket-www-dev.codeenigma.net.	3600	IN	CNAME	d325v1wdqtc9v5.cloudfront.net.
+haymarket-www-preprod.codeenigma.net.	3600	IN	CNAME	d325v1wdqtc9v5.cloudfront.net.
 haymarket-www-prod.codeenigma.net.	3600	IN	CNAME	d239i22qe0ileb.cloudfront.net.
-haymarket-www-stage.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
+haymarket-www-stage.codeenigma.net.	3600	IN	CNAME	d325v1wdqtc9v5.cloudfront.net.
 hf-safeguardingadults.codeenigma.net.	3600	IN	CNAME	d25t7mld60cjwz.cloudfront.net.
 hfsafeguardingadults-stage.codeenigma.net.	3600	IN	CNAME	dxot3ygaz40yp.cloudfront.net.
 hlt-app1.codeenigma.net.	3600	IN	A	34.252.75.139
@@ -522,7 +523,7 @@ ldap1.codeenigma.net.	3600	IN	A	3.11.235.9
 lgd-dev.codeenigma.net.	3600	IN	CNAME	delwnowd30951.cloudfront.net.
 lgd-prod.codeenigma.net.	3600	IN	CNAME	d33s3i3pfrx31h.cloudfront.net.
 lgd-stage.codeenigma.net.	3600	IN	CNAME	d9tixjy82ie7t.cloudfront.net.
-localgovdrupal-dev.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1084576473.eu-west-1.elb.amazonaws.com.
+localgovdrupal-dev.codeenigma.net.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
 localgovdrupal-fr.codeenigma.net.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
 login-dev.codeenigma.net.	300	IN	CNAME	utility3.int.codeenigma.net.
 login.codeenigma.net.	300	IN	CNAME	enigma3.codeenigma.net.
@@ -755,8 +756,8 @@ westdevon-prod.codeenigma.net.	3600	IN	CNAME	southhams-app1.codeenigma.net.
 westdevon-stage.codeenigma.net.	3600	IN	CNAME	d23v0avitqictl.cloudfront.net.
 whatcar-preprod-asg.codeenigma.net.	3600	IN	CNAME	d2bym2nul6i9k3.cloudfront.net.
 whatcar-stage-asg.codeenigma.net.	3600	IN	CNAME	d2d9f384jye9o9.cloudfront.net.
-whatcar-www-dev.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
-whatcar-www-preprod.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
+whatcar-www-dev.codeenigma.net.	3600	IN	CNAME	d325v1wdqtc9v5.cloudfront.net.
+whatcar-www-preprod.codeenigma.net.	3600	IN	CNAME	d325v1wdqtc9v5.cloudfront.net.
 whatcar-www-prod.codeenigma.net.	3600	IN	CNAME	d239i22qe0ileb.cloudfront.net.
 whatcar-www-stage.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
 where-culture-connects.codeenigma.net.	300	IN	CNAME	d1kuullursz12i.cloudfront.net.
