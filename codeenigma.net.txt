@@ -757,7 +757,7 @@ westdevon-stage.codeenigma.net.	3600	IN	CNAME	d23v0avitqictl.cloudfront.net.
 whatcar-preprod-asg.codeenigma.net.	3600	IN	CNAME	d2bym2nul6i9k3.cloudfront.net.
 whatcar-stage-asg.codeenigma.net.	3600	IN	CNAME	d2d9f384jye9o9.cloudfront.net.
 whatcar-www-dev.codeenigma.net.	3600	IN	CNAME	d325v1wdqtc9v5.cloudfront.net.
-whatcar-www-preprod.codeenigma.net.	3600	IN	CNAME	d325v1wdqtc9v5.cloudfront.net.
+whatcar-www-preprod.codeenigma.net.	3600	IN	CNAME	d124aryep16mkh.cloudfront.net.
 whatcar-www-prod.codeenigma.net.	3600	IN	CNAME	d239i22qe0ileb.cloudfront.net.
 whatcar-www-stage.codeenigma.net.	3600	IN	CNAME	d3jpg2avzyfyzy.cloudfront.net.
 where-culture-connects.codeenigma.net.	300	IN	CNAME	d1kuullursz12i.cloudfront.net.
