@@ -352,6 +352,7 @@ classicandsportscar-www-dev-upgrade.codeenigma.net.	3600	IN	CNAME	d20fnr8syj4biv
 classicandsportscar-www-dev.codeenigma.net.	3600	IN	CNAME	d20fnr8syj4biv.cloudfront.net.
 classicandsportscar-www-stage.codeenigma.net.	3600	IN	CNAME	d20fnr8syj4biv.cloudfront.net.
 climaterepair-dev.codeenigma.net.	300	IN	A	18.130.42.81
+climaterepair-prod.codeenigma.net.	300	IN	A	18.130.42.81
 climaterepair-stage.codeenigma.net.	300	IN	A	18.130.42.81
 colchester-app1.codeenigma.net.	3600	IN	A	18.134.55.136
 colchester-deploy1.codeenigma.net.	3600	IN	A	18.132.147.117
