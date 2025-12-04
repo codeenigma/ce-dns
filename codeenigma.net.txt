@@ -477,6 +477,7 @@ groups-stroke-stage.codeenigma.net.	300	IN	A	35.178.13.123
 gw-search.cy.feature-gw8883-global-search.codeenigma.net.	300	IN	CNAME	govwales-dev3.codeenigma.net.
 gw-search.feature-gw8883-global-search.codeenigma.net.	300	IN	CNAME	govwales-dev3.codeenigma.net.
 haymarket-deploy1.codeenigma.net.	3600	IN	A	18.135.188.153
+haymarket-dev1.codeenigma.net.	300	IN	A	3.9.20.225
 haymarket-infra1.codeenigma.net.	300	IN	A	18.168.187.53
 haymarket-redirect-test.codeenigma.net.	300	IN	CNAME	dtc2028url69y.cloudfront.net.
 haymarket-www-dev.codeenigma.net.	3600	IN	CNAME	d325v1wdqtc9v5.cloudfront.net.
@@ -742,6 +743,7 @@ theplanner-master.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 theplanner-stage-new-auth.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 theplanner-stage.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
 theplanner-staged_new_authentication.codeenigma.net.	300	IN	CNAME	redactive-dev2.codeenigma.net.
+thorogood-prod.codeenigma.net.	60	IN	CNAME	enigma3.codeenigma.net.
 ube6kf4j3unyifwzpxeujgcj3ymucezs._domainkey.dummy-ips2.codeenigma.net.	300	IN	CNAME	ube6kf4j3unyifwzpxeujgcj3ymucezs.dkim.amazonses.com.
 upd-app1.codeenigma.net.	3600	IN	A	18.168.113.148
 upd-deploy1.codeenigma.net.	3600	IN	A	18.132.253.177
