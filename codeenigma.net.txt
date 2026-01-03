@@ -238,6 +238,7 @@ _a2c97b628e09a8e63ca5d27a7f191059.classicandsportscar-upgrade-dev.codeenigma.net
 _a5bfb0acfb56cba293aa738149a0c02d.eastsuffolk-preprod.codeenigma.net.	3600	IN	CNAME	_66259f48b173e48f79da8ba0562eb6b5.xlfgrmvvlj.acm-validations.aws.
 _a8e1c9c3c6742cafcca3016fb02c207a.moveelectric-stage.codeenigma.net.	3600	IN	CNAME	_6557e7102878c2bb8e57f605cfb03fdc.jkddzztszm.acm-validations.aws.
 _aa1a3acb5e426809c45417acdbe49cf2.me-casc.codeenigma.net.	3600	IN	CNAME	_2dcffc7edeb192dcaf1452bebe3d4858.mhbtsbpdnt.acm-validations.aws.
+_ac4795836d8f2412fcac5fb6c5f85446.api-dummy.codeenigma.net.	300	IN	CNAME	_dec7ff0646754c6e4263cacf1fa8db06.jkddzztszm.acm-validations.aws.
 _ae894c8a25b6c68c2e946d4aee795c51.lbhf-prod.codeenigma.net.	3600	IN	CNAME	_41e8a472092db88e1a918e9ffef13623.xrchbtpdjs.acm-validations.aws.
 _af17e29aa3c5f3fe179bddd0a8b488cf.classicandsportscar-www-dev.codeenigma.net.	3600	IN	CNAME	_907d5d7b99a3c3bce02a05b7aeae2fa7.mhbtsbpdnt.acm-validations.aws.
 _amazonses.dummy-deploy1.codeenigma.net.	300	IN	TXT	"0K78wLghjE1C+tVvpynqZGFUrAr69uJByqtf2A6vAK0="
@@ -319,6 +320,7 @@ airmic-stage.codeenigma.net.	3600	IN	CNAME	airmic-dev1.codeenigma.net.
 airmic-stage2.codeenigma.net.	3600	IN	A	35.176.106.113
 airmic-utility2.codeenigma.net.	300	IN	A	18.135.123.166
 alertmanager.rbg-deploy1.codeenigma.net.	300	IN	CNAME	rbg-deploy1-codeenigma-net-2093687036.eu-west-2.elb.amazonaws.com.
+api-dummy.codeenigma.net.	300	IN	CNAME	d-qodzb3oxbe.execute-api.eu-west-1.amazonaws.com.
 asg10.dummy-asgenc-prod.codeenigma.net.	3600	IN	CNAME	dummy-asgenc-prod-codeenigma-net-333930559.eu-west-1.elb.amazonaws.com.
 asgtest.dummy-asgenc-dev.codeenigma.net.	300	IN	CNAME	dummy-asgenc-dev-codeenigma-net-1084576473.eu-west-1.elb.amazonaws.com.
 aspire-dev.codeenigma.net.	300	IN	CNAME	hlt-dev2.codeenigma.net.
