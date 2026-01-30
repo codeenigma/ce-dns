@@ -388,10 +388,13 @@ govwales-app-tribs-dr.codeenigma.net.	3600	IN	A	52.208.43.173
 govwales-app-tribs.codeenigma.net.	3600	IN	A	18.170.17.80
 govwales-app7-dr.codeenigma.net.	3600	IN	A	18.203.15.98
 govwales-app7.codeenigma.net.	3600	IN	A	18.134.183.188
+govwales-cssiw-stage-asg-cy.codeenigma.net.	300	IN	CNAME	govwales-main-dev-codeenigma-net-709013409.eu-west-2.elb.amazonaws.com.
 govwales-cssiw-stage-asg.codeenigma.net.	300	IN	CNAME	govwales-main-dev-codeenigma-net-709013409.eu-west-2.elb.amazonaws.com.
 govwales-deploy1.codeenigma.net.	3600	IN	A	3.11.223.96
 govwales-dev3.codeenigma.net.	3600	IN	A	18.169.38.98
 govwales-dev3.codeenigma.net.	300	IN	TXT	"v=spf1 ip4:18.169.38.98 include:_spf.google.com ~all"
+govwales-hiw-stage-asg-cy.codeenigma.net.	300	IN	CNAME	govwales-main-dev-codeenigma-net-709013409.eu-west-2.elb.amazonaws.com.
+govwales-hiw-stage-asg.codeenigma.net.	300	IN	CNAME	govwales-main-dev-codeenigma-net-709013409.eu-west-2.elb.amazonaws.com.
 govwales-ldn-dev2.codeenigma.net.	300	IN	A	35.178.238.218
 govwales-ldn-utility2.codeenigma.net.	300	IN	A	35.176.228.153
 govwales-main-dev.codeenigma.net.	3600	IN	CNAME	govwales-main-dev-codeenigma-net-709013409.eu-west-2.elb.amazonaws.com.
@@ -453,6 +456,7 @@ ldap1.codeenigma.net.	3600	IN	A	3.11.235.9
 lgd-dev.codeenigma.net.	3600	IN	CNAME	rbg-asg-dev-codeenigma-net-2064371622.eu-west-2.elb.amazonaws.com.
 lgd-prod.codeenigma.net.	3600	IN	CNAME	rbg-asg-prod-codeenigma-net-620587908.eu-west-2.elb.amazonaws.com.
 lgd-stage.codeenigma.net.	3600	IN	CNAME	rbg-asg-stage-codeenigma-net-1526096850.eu-west-2.elb.amazonaws.com.
+llywcymru-stage-asg.codeenigma.net.	300	IN	CNAME	govwales-main-dev-codeenigma-net-709013409.eu-west-2.elb.amazonaws.com.
 localgovdrupal-dev.codeenigma.net.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
 localgovdrupal-fr.codeenigma.net.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
 login-dev.codeenigma.net.	300	IN	CNAME	utility3.int.codeenigma.net.
