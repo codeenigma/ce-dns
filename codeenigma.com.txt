@@ -19,6 +19,7 @@ codeenigma.com.	300	IN	TXT	"google-site-verification=gvPJRjuMn1tEnIJ4EKRviMzqk6i
 codeenigma.com.	300	IN	TXT	"2rwxgmwklmqx7htzlnjy6gvh1mrqqy99"
 codeenigma.com.	300	IN	TXT	"google-site-verification=DDvz-T5xuQYARnEO1EHkPaYX0Z4AqoBul8I2h5ykFsw"
 codeenigma.com.	300	IN	TXT	"google-site-verification=oKL4me0qVKKzDrILg_WgnxWyPurh09mIh0oDaMsxK9U"
+codeenigma.com.	300	IN	TXT	"google-site-verification=tkHNCkpsoXiD9EBGE8iCHAjHbHvvwa3rkTNyAk48Vos"
 *.chat.codeenigma.com.	300	IN	CNAME	chat.codeenigma.net.
 *.redactive-app3.codeenigma.com.	300	IN	CNAME	redactive-app3.codeenigma.net.
 *.redactive-dev1.codeenigma.com.	300	IN	CNAME	redactive-dev2.codeenigma.net.
