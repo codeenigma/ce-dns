@@ -173,6 +173,7 @@ _5dc690f79567bc7611d36f19767b1c3b.northyorkshirecouncil.preprod.nycc-app3.codeen
 _5e52d7b1e1e1cd9da485b09ec04e516e.microsites-stage.codeenigma.net.	3600	IN	CNAME	_e1e4fe7a3349e9d30fedeca03c0807d7.nxzthgqctm.acm-validations.aws.
 _5f7fecc1fbb9ee25b94e3de5ed4b3013.ons-app1.codeenigma.net.	3600	IN	CNAME	_fb76594bfec8792f9a7e95420adc8177.xlfgrmvvlj.acm-validations.aws.
 _61e95bb72dde0b6ecf3d047a0fa3927f.lbhf-demo2.codeenigma.net.	3600	IN	CNAME	_ca1124659d5e4122969dc1ae56e5e4bd.sdgjtdhdhz.acm-validations.aws.
+_663712d7a09edce21a605c64dd6363ab.localgovdrupal-flaux.codeenigma.net.	3600	IN	CNAME	_d63e7f39a3386cf38e32f8f3f55f3106.jkddzztszm.acm-validations.aws.
 _66d69bbfbe31f0550856b012f0688e11.westdevon-dev.codeenigma.net.	300	IN	CNAME	_a684b9ee87e328cc074fae5cfc298b09.sggfvksfyf.acm-validations.aws.
 _680535e38da8f617dabc7d613df1130d.hf-safeguardingadults.codeenigma.net.	3600	IN	CNAME	_7d1a73eee19f5a4a8c4ad912140ef5b9.mhbtsbpdnt.acm-validations.aws.
 _6ca7a8fed86162b9f4213483bffb062a.gitlab.rbg-deploy1.codeenigma.net.	3600	IN	CNAME	_942bfda2dcfc8320a0917906e7f93f72.xlfgrmvvlj.acm-validations.aws.
@@ -459,6 +460,7 @@ lgd-prod.codeenigma.net.	3600	IN	CNAME	rbg-asg-prod-codeenigma-net-620587908.eu-
 lgd-stage.codeenigma.net.	3600	IN	CNAME	rbg-asg-stage-codeenigma-net-1526096850.eu-west-2.elb.amazonaws.com.
 llywcymru-stage-asg.codeenigma.net.	300	IN	CNAME	govwales-main-dev-codeenigma-net-709013409.eu-west-2.elb.amazonaws.com.
 localgovdrupal-dev.codeenigma.net.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
+localgovdrupal-flaux.codeenigma.net.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
 localgovdrupal-fr.codeenigma.net.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
 localgovdrupalplus-multilanguage.codeenigma.net.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
 login-dev.codeenigma.net.	300	IN	CNAME	utility3.int.codeenigma.net.
