@@ -43,6 +43,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.dummy-monitor1.codeenigma.net.	3600	IN	CNAME	dummy-monitor1.codeenigma.net.
 *.dummy-template.codeenigma.net.	3600	IN	CNAME	dummy-template.codeenigma.net.
 *.dummy-test-greg.codeenigma.net.	3600	IN	CNAME	dummy-test-greg.codeenigma.net.
+*.dummy-test-matej.codeenigma.net.	3600	IN	CNAME	dummy-test-matej.codeenigma.net.
 *.dummy-test.codeenigma.net.	3600	IN	CNAME	dummy-test.codeenigma.net.
 *.dummy-test1.codeenigma.net.	3600	IN	CNAME	dummy-test1.codeenigma.net.
 *.dummy-vpn.codeenigma.net.	3600	IN	CNAME	dummy-vpn.codeenigma.net.
@@ -352,6 +353,7 @@ dummy-monitor1.codeenigma.net.	3600	IN	A	52.212.96.139
 dummy-template.codeenigma.net.	3600	IN	A	108.128.103.112
 dummy-test-asg-lb.codeenigma.net.	3600	IN	CNAME	dummy-test-asg-lb-1900773098.eu-west-1.elb.amazonaws.com.
 dummy-test-greg.codeenigma.net.	3600	IN	A	34.251.220.40
+dummy-test-matej.codeenigma.net.	3600	IN	A	54.247.113.234
 dummy-test.codeenigma.net.	3600	IN	A	108.128.54.165
 dummy-test1.codeenigma.net.	3600	IN	A	108.128.223.23
 dummy-test2.codeenigma.net.	300	IN	A	108.128.54.165
