@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -56,6 +56,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.govwales-app-tribs.codeenigma.net.	3600	IN	CNAME	govwales-app-tribs.codeenigma.net.
 *.govwales-app7-dr.codeenigma.net.	3600	IN	CNAME	govwales-app7-dr.codeenigma.net.
 *.govwales-app7.codeenigma.net.	3600	IN	CNAME	govwales-app7.codeenigma.net.
+*.govwales-appcheck1.codeenigma.net.	3600	IN	CNAME	govwales-appcheck1.codeenigma.net.
 *.govwales-deploy1.codeenigma.net.	3600	IN	CNAME	govwales-deploy1.codeenigma.net.
 *.govwales-dev3.codeenigma.net.	3600	IN	CNAME	govwales-dev3.codeenigma.net.
 *.govwales-ldn-dev2.codeenigma.net.	300	IN	CNAME	govwales-ldn-dev2.codeenigma.net.
@@ -353,7 +354,7 @@ dummy-monitor1.codeenigma.net.	3600	IN	A	52.212.96.139
 dummy-template.codeenigma.net.	3600	IN	A	108.128.103.112
 dummy-test-asg-lb.codeenigma.net.	3600	IN	CNAME	dummy-test-asg-lb-1900773098.eu-west-1.elb.amazonaws.com.
 dummy-test-greg.codeenigma.net.	3600	IN	A	34.251.220.40
-dummy-test-matej.codeenigma.net.	3600	IN	A	54.247.113.234
+dummy-test-matej.codeenigma.net.	3600	IN	A	34.252.211.147
 dummy-test.codeenigma.net.	3600	IN	A	108.128.54.165
 dummy-test1.codeenigma.net.	3600	IN	A	108.128.223.23
 dummy-test2.codeenigma.net.	300	IN	A	108.128.54.165
@@ -392,6 +393,7 @@ govwales-app-tribs-dr.codeenigma.net.	3600	IN	A	52.208.43.173
 govwales-app-tribs.codeenigma.net.	3600	IN	A	18.170.17.80
 govwales-app7-dr.codeenigma.net.	3600	IN	A	18.203.15.98
 govwales-app7.codeenigma.net.	3600	IN	A	18.134.183.188
+govwales-appcheck1.codeenigma.net.	3600	IN	A	3.10.30.200
 govwales-cssiw-stage-asg-cy.codeenigma.net.	300	IN	CNAME	govwales-main-dev-codeenigma-net-709013409.eu-west-2.elb.amazonaws.com.
 govwales-cssiw-stage-asg.codeenigma.net.	300	IN	CNAME	govwales-main-dev-codeenigma-net-709013409.eu-west-2.elb.amazonaws.com.
 govwales-deploy1.codeenigma.net.	3600	IN	A	3.11.223.96
