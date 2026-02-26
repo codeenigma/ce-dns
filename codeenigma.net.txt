@@ -462,7 +462,7 @@ lbhfd9-stage.codeenigma.net.	3600	IN	CNAME	d1qa1isz0htjoe.cloudfront.net.
 ldap1.codeenigma.net.	3600	IN	A	3.11.235.9
 lgd-dev.codeenigma.net.	3600	IN	CNAME	rbg-asg-dev-codeenigma-net-2064371622.eu-west-2.elb.amazonaws.com.
 lgd-prod.codeenigma.net.	3600	IN	CNAME	rbg-asg-prod-codeenigma-net-620587908.eu-west-2.elb.amazonaws.com.
-lgd-stage.codeenigma.net.	3600	IN	CNAME	rbg-asg-stage-codeenigma-net-1526096850.eu-west-2.elb.amazonaws.com.
+lgd-stage.codeenigma.net.	3600	IN	CNAME	d9tixjy82ie7t.cloudfront.net.
 llywcymru-stage-asg.codeenigma.net.	300	IN	CNAME	govwales-main-dev-codeenigma-net-709013409.eu-west-2.elb.amazonaws.com.
 localgovdrupal-dev.codeenigma.net.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
 localgovdrupal-flaux.codeenigma.net.	3600	IN	CNAME	d1pw01zbwfehgz.cloudfront.net.
