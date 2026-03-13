@@ -1,6 +1,6 @@
 $ORIGIN codeenigma.net.
-codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	A	18.130.42.81
+codeenigma.net.	900	IN	SOA	ns-172.awsdns-21.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
 codeenigma.net.	3600	IN	MX	10 aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt1.aspmx.l.google.com.
 codeenigma.net.	3600	IN	MX	20 alt2.aspmx.l.google.com.
@@ -125,6 +125,7 @@ codeenigma.net.	300	IN	TXT	"snz7przkbl71pgtr75tsmrt95w99s0x4"
 *.upd-app1.codeenigma.net.	3600	IN	CNAME	upd-app1.codeenigma.net.
 *.upd-deploy1.codeenigma.net.	3600	IN	CNAME	upd-deploy1.codeenigma.net.
 *.upd-dev1.codeenigma.net.	3600	IN	CNAME	upd-dev1.codeenigma.net.
+*.vpn.codeenigma.net.	3600	IN	CNAME	vpn.codeenigma.net.
 *.westco-app1.codeenigma.net.	300	IN	CNAME	westco-app1.codeenigma.net.
 2fa.codeenigma.net.	3600	IN	A	35.176.69.138
 2fzver5snjc6xq2ncrve32qt2jkpg2iu._domainkey.codeenigma.net.	1800	IN	CNAME	2fzver5snjc6xq2ncrve32qt2jkpg2iu.dkim.amazonses.com.
